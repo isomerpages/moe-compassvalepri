@@ -2,4 +2,5 @@ collections:
   the-cvps-way:
     output: true
     order:
+      - Our TLC Experience/.keep
       - Department/.keep
