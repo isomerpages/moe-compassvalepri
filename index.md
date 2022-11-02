@@ -19,7 +19,7 @@ sections:
           url: /highlights/
         - title: Contact
           description: ""
-          url: /contact/location/
+          url: /contact/
   - infobar:
       title: PSG Activities
       subtitle: Compassvale Primary School
