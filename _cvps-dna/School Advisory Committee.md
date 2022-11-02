@@ -32,10 +32,7 @@ description: ""
 |:---:|:---:|
 | Mr Eugene Koh<br> **Member** | Ms Elizabeth Ng<br> **Member** |
 
-<img src="/images/sac7.png" style="width:28%;margin-left:85px;" align = "left">
 
-<br clear="left">
-
-|  |
-|:---|
+| <img src="/images/sac7.png" style="width:28%"> |
+|:---:|
 | Mr Lee Kang Hwa<br>**Member** |
