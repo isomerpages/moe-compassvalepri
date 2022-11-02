@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Compassvale Primary School
-      background: /images/hero-banner.png
+      background: /images/hero banner.gif
       url: /contact-us/
       key_highlights:
         - title: Announcements
