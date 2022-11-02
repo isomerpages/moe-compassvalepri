@@ -2,6 +2,7 @@ collections:
   contact:
     output: true
     order:
+      - School Vendors/School Uniform.md
       - School Vendors/School Transport.md
       - School Vendors/School Dental Service.md
       - School Vendors/.keep
