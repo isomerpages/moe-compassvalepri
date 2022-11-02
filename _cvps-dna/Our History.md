@@ -17,10 +17,10 @@ In 2019, the school will be celebrating its 20th anniversary as it continues to
 | Year | Key Events |
 |:---:|:---:|
 | 1999 | Founding of School |
-| 2000 | Relocation of School <br> |
-| 2001 | Official Opening of School <br> |
-| 2006 | Hosted MOE EXCEL FEST <br> |
-| 2007 | Centre of Excellence for English <br> |
-|2008 | 10th Year of Founding <br> |
-|2019 | 20th Anniversary Celebration <br> |
+| 2000 | Relocation of School <br> <img src="/images/history1.jpg" style="width:85%"> |
+| 2001 | Official Opening of School <br> <img src="/images/history2.jpg" style="width:85%"> |
+| 2006 | Hosted MOE EXCEL FEST <br> <img src="/images/history3.jpg" style="width:85%"> |
+| 2007 | Centre of Excellence for English <br> <img src="/images/history3.jpg" style="width:85%"> |
+|2008 | 10th Year of Founding <br> <img src="/images/history4.jpg" style="width:85%"> |
+|2019 | 20th Anniversary Celebration <br> <img src="/images/history5.jpg" style="width:85%"> |
 |
