@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our TLC Experience/.keep
+      - Department/Mathematics.md
       - Department/Science.md
       - Department/Chinese Language.md
       - Department/Malay Language.md
