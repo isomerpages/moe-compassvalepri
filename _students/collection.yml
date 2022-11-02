@@ -2,5 +2,5 @@ collections:
   students:
     output: true
     order:
-      - School Library.md
       - Students.md
+      - School Library.md
