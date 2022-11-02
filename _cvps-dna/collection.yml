@@ -2,4 +2,5 @@ collections:
   cvps-dna:
     output: true
     order:
+      - School Rules & Regulations.md
       - School Advisory Committee.md
