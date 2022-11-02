@@ -21,9 +21,10 @@ sections:
           description: ""
           url: /contact/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: PSG Activities
+      subtitle: Compassvale Primary School
+      description: Parents who have the students’ interest at heart and passionate
+        about service can consider joining PSGs.
+      button: click here
+      url: /parents-network/psg-activities/
 ---
