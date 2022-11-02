@@ -2,5 +2,6 @@ collections:
   parents-network:
     output: true
     order:
+      - Join Us as PV.md
       - Meet Our Parents.md
       - PSG Activities.md
