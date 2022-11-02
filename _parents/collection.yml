@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - School Notifications.md
       - Sexuality Education Programme.md
