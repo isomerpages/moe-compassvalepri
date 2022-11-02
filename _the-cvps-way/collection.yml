@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Our TLC Experience/.keep
+      - Department/Aesthetics.md
       - Department/.keep
