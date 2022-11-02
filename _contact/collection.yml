@@ -2,5 +2,6 @@ collections:
   contact:
     output: true
     order:
+      - School Vendors/School Dental Service.md
       - School Vendors/.keep
       - Location.md
