@@ -1,4 +1,5 @@
 collections:
   cvps-dna:
     output: true
-    order: []
+    order:
+      - School Advisory Committee.md
