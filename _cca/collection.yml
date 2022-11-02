@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Performing Arts/.keep
+      - Sports & Games/Track and Field.md
       - Sports & Games/Basketball.md
       - Sports & Games/Football.md
       - Sports & Games/Golf.md
