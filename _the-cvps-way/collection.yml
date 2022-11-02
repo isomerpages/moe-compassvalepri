@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our TLC Experience/.keep
+      - Department/National Education & Social Studies.md
       - Department/Physical & Health Education.md
       - Department/Aesthetics.md
       - Department/.keep
