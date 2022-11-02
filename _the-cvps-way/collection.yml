@@ -1,4 +1,5 @@
 collections:
   the-cvps-way:
     output: true
-    order: []
+    order:
+      - Department/.keep
