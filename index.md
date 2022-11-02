@@ -27,4 +27,12 @@ sections:
         about service can consider joining PSGs.
       button: click here
       url: /parents-network/psg-activities/
+  - infopic:
+      title: Parent Volunteer
+      subtitle: Compassvale Primary School
+      description: Join Us as Parent Volunteer
+      button: click here
+      url: https://docs.google.com/forms/d/e/1FAIpQLSetdFFNxyCwmdiyYhfcOVjL3mdon0ZGyDBb7IbnEJcZ_R3pzQ/viewform?c=0&w=1
+      image: /images/pvqr.jpeg
+      alt: Image alt text
 ---
