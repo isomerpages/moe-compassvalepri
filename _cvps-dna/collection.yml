@@ -1,0 +1,4 @@
+collections:
+  cvps-dna:
+    output: true
+    order: []
