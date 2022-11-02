@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCA.md
       - Performing Arts/Brass Band.md
       - Performing Arts/Chinese Dance.md
       - Performing Arts/Harmonica Ensemble.md
