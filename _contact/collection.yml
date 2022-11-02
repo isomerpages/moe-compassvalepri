@@ -2,4 +2,5 @@ collections:
   contact:
     output: true
     order:
+      - School Vendors/.keep
       - Location.md
