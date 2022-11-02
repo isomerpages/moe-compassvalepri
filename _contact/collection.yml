@@ -2,6 +2,7 @@ collections:
   contact:
     output: true
     order:
+      - School Vendors/School Bookshop.md
       - School Vendors/Student Care Centre.md
       - School Vendors/School Uniform.md
       - School Vendors/School Transport.md
