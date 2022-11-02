@@ -19,3 +19,12 @@ As the band members progress through the years, band members learn the value of 
 
 Band members get the chance to develop a greater sense of emotional awareness through playing music, particularly during collaboration amongst students. We believe that music is invaluable in developing successful students. Music shapes the way our students understand themselves and the world around them. It nurtures assets and skills that are critical to future success.
 
+<img src="/images/band1.jpg" style="width:49%" align=left>  
+<img src="/images/band2.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+<img src="/images/band3.jpg" style="width:49%" align=left>  
+<img src="/images/band4.jpg" style="width:49%" align=right>
+
+<br clear="left">
