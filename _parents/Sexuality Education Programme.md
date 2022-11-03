@@ -57,5 +57,21 @@ c. Character and Citizenship Education (CCE)
 <figure>
 <figcaption><strong> Primary 6
 	</strong></figcaption>  
-</figure>	
+</figure>
 
+| UNIT | LESSONS/DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
+|:---:|:---:|---|:---:|
+|  Are We More Than Friends? | Who Are My Friends?<br>(30 min) | - identify the qualities of a healthy friendship<br>- recognise the importance of making wise choices in friendship | Term 4 <br>Week 4 |
+|  | Am I A Good Friend?<br>(30 min) | - identify the qualities that they have as a friend<br>- recognise the importance of developing in oneself the qualities of a good friend |  |
+|  | What is Love?<br>(30 min) | - identify the characteristics of love and infatuation<br>- distinguish between the characteristics of love versus infatuation<br>- identify strong feelings arising from infatuation | Term 4 <br>Week 4 |
+|  | Am I Falling In Love?<br>(30 min) | - manage strong feelings arising from infatuation<br>- identify ways to manage and cope with teasing from peers |  |
+|  | Main Task<br>(30 min) | Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing. |  |
+| Friends or Foes? | Are You Really My Friend?<br>(30 min) | - identify the pros and cons of forming relationships through social networking websites<br>- know ways to keep themselves safe when using social networking websites | Term 4  <br>Week 5          |
+|  | Is It All Safe?<br>(30 min) | - know that some information (like pornography) received through the Internet may be harmful<br>- know ways to keep themselves safe when using social networking websites or the Internet |  |
+|  | Main Task<br>(30 min) | Description of the Main Task:<br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility. | Term 4<br>Week 5  |
+|
+
+#### **Information for Parents**
+8\. Parents can contact the school at 63882819 or through email at [cvps@moe.edu.sg](mailto:cvps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
+
+9\. Parents who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.  
