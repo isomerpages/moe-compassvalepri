@@ -52,7 +52,7 @@ During the first week of school, the P6 students are ‘buddies’ to the Primar
 We believe that every student has the potential to become a student leader. Aligning to the school’s vision ‘Thinkers, Leaders, Champions’, we seek to develop our students to become effective leaders and guide them to bring out the best in themselves. Students with consistent performance will be nominated for school-wide leadership roles such as Prefects, NE Champions, Sports Champions  and Cyber Wellness Champions to Lead Peers.  In their respective roles, student leaders are given multiple platforms and ample opportunities to lead and serve.The Student Council consists of the prefects, CCA Leaders and Sports Champions who are shortlisted based on their exemplary character and strengths to plan, organise and lead in school activities. The Student Council leads the whole student body by organizing, managing and carrying out school programmes, initiating activities to improve the school community and representing the school for external activities. They will be tasked to carry out meaningful projects to serve and Lead School.
 
 <img src="/images/cce14.jpg" style="width:20%;margin-right:15px;" align = "left"> 
-<img src="/images/cce15.png" style="width:27%;margin-right:15px;" align = "left">  
+<img src="/images/cce15.png" style="width:27%;margin-right:15px;" align = "left">
 <img src="/images/cce16.jpg" style="width:20%;margin-right:15px;" align = "left">
 <img src="/images/cce17.jpg" style="width:20%;margin-right:15px;" align = "left">
 
