@@ -9,8 +9,8 @@ third_nav_title: School Vendors
 
 |  |  |
 |---|---|
-| Email | [enquiry@sfxtransport.com.sg](mailto:enquiry@sfxtransport.com.sg)|
-| Tel/Fax | 6282 0262 / 6382 0262 |
+| **Email** | [enquiry@sfxtransport.com.sg](mailto:enquiry@sfxtransport.com.sg)|
+| **Tel/Fax** | 6282 0262 / 6382 0262 |
 |
 
 Submit request via the following link [cvps.sfxtransport.com.sg](http://cvps.sfxtransport.com.sg/)<br>
