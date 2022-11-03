@@ -48,3 +48,25 @@ At Primary 4 level, your child may also have an opportunity to participate in *
 <img src="/images/math9.jpeg" style="width:28%;margin-right:15px;" align = "left">
 
 <br clear="left">
+
+#### **Specialty Programme**
+##### **Mathematics Olympiad**
+Are you game enough for more? Then we have the **Mathematics Olympiad** Training and Competition for you! The Mathematics Olympiad programme in CVPS aims to stretch students who are more mathematically inclined and are progressive in content coverage from Primary 4 to Primary 6.
+
+Selected Primary 4 students will also represent the school to take part in the Mathematics Olympiad Competitions at the national level.
+
+##### **Excellence 2000 (E2K) Mathematics**
+Who knew getting the wrong answers could bring tears of joy? Compassvalites are taking a step further in their Mathematics competency in the E2K programme. 
+
+The E2K Mathematics Programme aims to develop cognitive abilities of independent learning, higher order thinking and creativity in students who are advanced in the learning of the subject.
+
+<img src="/images/math10.jpg" style="width:56%" align=left>
+<img src="/images/math11.jpeg" style="width:42%" align=right>
+
+<br clear="left">
+
+##### **Primary 5 and 6**
+As student transits to the upper primary level, they will face with more advanced challenges and hence, more rigour will be added to their routines. They are trained to be more independent and take ownership of their learning in their mathematics journey. The use of **SSM** is still largely emphasized. They will work in groups and present their work or worked solutions more frequently. They will also be given opportunities to articulate their mathematical reasoning to their peers.
+
+For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
+
