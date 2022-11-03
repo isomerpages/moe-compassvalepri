@@ -11,7 +11,7 @@ description: ""
 #### **Parent Engagement Resources**
 MOE Guidance Branch is pleased to share these posters which provide tips for parents to support their child in the following areas:
 
-* [Building social and emotional skills to build resilience and confidence in their child]
+* [Building social and emotional skills to build resilience and confidence in their child](/files/parentengagement1.pdf)
 * [Providing a supportive and caring home environment in supporting their child through transitions]
 * [Nurturing parent-child communication]
 * [Raising confident children and setting meaningful goals]
