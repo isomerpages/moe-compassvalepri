@@ -38,7 +38,7 @@ VIA are learning experiences that support students' development as socially resp
 During the first week of school, the P6 students are ‘buddies’ to the Primary 1 students during recess to help the younger ones familiarize with the school setting so that they can adjust to a new environment. This exercise also helps to instil  the value of care in the P6 students.
 
 <img src="/images/cce9.jpg" style="width:30%;margin-right:15px;" align = "left"> 
-<img src="/images/cce10.jpg" style="width:30%;margin-right:15px;" align = "left">  
+<img src="/images/cce10.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/cce11.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
