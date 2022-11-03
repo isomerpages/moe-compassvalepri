@@ -19,8 +19,8 @@ Moving the students forward to be critical thinkers and develop the future skill
 
 The out-of-the-classroom learning enables students to solving real-life problems, discover and deepen their learning of Science. Hands-on activities and projects are designed to encourage our students to  overcome challenges, to innovate and embark on a journey of knowledge construction.
 
-<img src="/images/science1.jpeg" style="width:32%;margin-right:15px;" align = "left">  
-<img src="/images/science2.jpeg" style="width:20%;margin-right:15px;" align = "left">  
+<img src="/images/science1.jpeg" style="width:32%;margin-right:15px;" align = "left">
+<img src="/images/science2.jpeg" style="width:20%;margin-right:15px;" align = "left">
 <img src="/images/science3.jpeg" style="width:32%;margin-right:15px;" align = "left">
 
 <br clear="left">
