@@ -21,3 +21,30 @@ Learning does not end in the classroom. Your child gets to participate in the *
 <img src="/images/math1.jpeg" style="width:35.5%;margin-left:55px;" align = "left">
 
 <br clear="left">
+
+#### **Specialty Programme**
+##### **Mathematics Big Book Reading Programme**
+Mathematics Big Book Reading Programme helps our younger students to develop interest and motivation in learning Mathematics using Math stories and role plays. Through these interactive activities, they have fun with Mathematics and deepen their understanding of Mathematical concepts. Hands-on activities are also designed to accompany the Big Book stories in the P1 and P2 classrooms.
+
+##### **Learning Support for Mathematics (LSM)**
+LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
+
+<img src="/images/math3.jpeg" style="width:26%;margin-right:15px;" align = "left">
+<img src="/images/math4.jpeg" style="width:15%;margin-right:15px;" align = "left">
+<img src="/images/math5.jpeg" style="width:27%;margin-right:15px;" align = "left">
+<img src="/images/math6.jpeg" style="width:19%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
+##### **Primary 3 and 4**
+As each student progresses to the intermediate stage in their Mathematics journey, he/she is exposed to a more abstract concept. The use of **SSM** is integral in the acquisition of concepts as they help to provide a concrete and visual platform for their learning, while keeping them engaged. Group-based activity becomes more frequent as the children support each other in collaborative learning.
+
+Each student will now be exposed to more complex strategies in the **HATS** package. These strategies become increasingly relevant as they are exposed to more abstract concepts in solving word problems. Occasionally, they will be presented with real-life problems that can be solved using Mathematical concepts.
+
+At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
+
+<img src="/images/math7.jpeg" style="width:28%;margin-right:15px;" align = "left">
+<img src="/images/math8.jpeg" style="width:37%;margin-right:15px;" align = "left">
+<img src="/images/math9.jpeg" style="width:28%;margin-right:15px;" align = "left">
+
+<br clear="left">
