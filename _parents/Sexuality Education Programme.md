@@ -74,4 +74,4 @@ c. Character and Citizenship Education (CCE)
 #### **Information for Parents**
 8\. Parents can contact the school at 63882819 or through email at [cvps@moe.edu.sg](mailto:cvps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
 
-9\. Parents who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.  
+9\. Parents who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
