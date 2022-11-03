@@ -42,3 +42,34 @@ Our Fun with Science programme designed for P1 and P2 students allows them to ha
 <img src="/images/science7.jpg" style="width:49%" align=right>
 
 <br clear="left">
+
+##### **E2K Science Programme**
+The E2K Science programme provides students with an opportunity to extend their science learning by practicing Science. Through the E2K Science programme, students demonstrate the school core values while developing effective scientific communication skills and attitudes.
+
+<img src="/images/science8.jpeg" style="width:37%" align=left>
+<img src="/images/science9.jpeg" style="width:61%" align=right>
+
+<br clear="left">
+
+##### **Creative Science Toy Making**
+Students engage in toy-making to apply what they have learnt in the science classroom with the right scientific attitudes.  
+
+To allow students to unleash their creativity and bring their ideas to life, students go through many phases in the designing of their toys. By doing so, students engage in Design Thinking where productive failure leads to desirable outcomes.
+
+<img src="/images/science10.jpg" style="width:85%">
+
+#### **Champion Scientific Causes**
+The school's environmental education programme allows our students to explore environmental related issues, engage in decision-making, and take actions to conserve and protect the environment. The Primary 3 to 6 students champion the green habits under the guidance of the teachers and the programme includes green habit practices, assembly sharing and recess activities. The values of resilience and care are inculcated in the students as we develop in them a deeper understanding of environmental issues and equip them with the skills to make informed and responsible decisions.
+
+##### **Championing 4Rs – Reduce, Reuse, Recycle, Refuse**
+Our Science Leaders from Primary 3 to 6 champion the school’s recycling efforts and encourage the habit of recycling of daily common items that students would unknowingly throw away. From used paper to drink cartons, our Science Leaders are the subject-matter experts when it comes to which items to recycle and not recycle, and which items to reuse instead of recycling. They influence and impart that knowledge to their peers.
+
+<img src="/images/science11.jpeg" style="width:35.5%" align=left>
+<img src="/images/science12.jpeg" style="width:62.5%" align=right>
+
+<br clear="left">
+
+##### **Championing Water Conservation**
+In 2020, the school procured and built a rainwater harvester near the canteen with the intent of conserving the use of potable drinking water for cleaning and landscaping purposes such as watering the plants and the school field. The rainwater harvester collects rainwater that falls on our roof and diverts much of that water into a tank that stores that rainwater for use later. In addition, this system models our school’s vision of thinking, leading and championing innovative solutions that care for the environment. Students are able to witness the application of science and other disciplines to form innovative solutions.
+
+<img src="/images/science13.jpg" style="width:85%">
