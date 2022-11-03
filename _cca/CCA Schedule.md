@@ -10,7 +10,7 @@ description: ""
 | CCA | Tuesdays | Fridays | Teachers In Charge |
 |:---:|:---:|:---:|:---:|
 |   Brass Band |  Main Band<br>2.30p.m - 4.30p.m |  Main Band / New Recruits<br>2.30p.m - 4.30p.m  | Mr Matthew Siew**Mdm Teo Lee Loo*  |
-|  Chinese Dance | Junior Team (P3 & P4)<br>2.30p.m - 4.30p.m  | Senior Team (P5 & P6)<br><br>2.30p.m - 4.30p.m | Mrs Janet Tey**<br><br>Mrs Pearlyn Koh* |
+|  Chinese Dance | Junior Team (P3 & P4)<br>2.30p.m - 4.30p.m  | Senior Team (P5 & P6)<br><br>2.30p.m - 4.30p.m | Mrs Janet Tey**<br>Mrs Pearlyn Koh* |
 | Harmonica Ensemble  | Senior Team  (P4 - P6)<br>2.30p.m - 4.30p.m <br>Junior Team (P3)<br>2.30p.m - 4.00p.m  | <br> Nil  | Mdm Lim Shuh Huey**<br>Mrs Rachel Hue*  |
 | Indian Dance  |   CCA Team<br>2.30p.m - 4.30p.m | Nil  |  Mrs Jega**<br>Mdm Mogana* |
 |  Malay Dance | <br> CCA Team<br>2.30p.m - 4.30p.m | Nil  | Mdm Sharifah**<br>Mdm Widawati*  |
