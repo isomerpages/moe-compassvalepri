@@ -28,8 +28,8 @@ In recognition of students’ effort, teachers will be on the lookout for studen
 #### **Values In Action (VIA)**
 VIA are learning experiences that support students' development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills. We believe through taking action, our students will gain valuable insights, and that “Values in Action” will help each and every student grow as a person and as a leader.
 
-<img src="/images/cce6.jpg" style="width:29.7%;margin-right:15px;" align = "left">  
-<img src="/images/cce7.jpg" style="width:30%;margin-right:15px;" align = "left"> 
+<img src="/images/cce6.jpg" style="width:29.7%;margin-right:15px;" align = "left">
+<img src="/images/cce7.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/cce8.jpg" style="width:30.2%;margin-right:15px;" align = "left">
 
 <br clear="left">
