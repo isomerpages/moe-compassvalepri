@@ -16,3 +16,30 @@ Our team of CL teachers constantly explores a repertoire of pedagogies to bring 
 <img src="/images/chinese2.png" style="width:85%">
 
 <img src="/images/chinese3.png" style="width:88%">
+
+<figure>
+<figcaption><strong>  CL Reading Programme
+	</strong></figcaption>  
+</figure>	
+
+<img src="/images/chinese4.jpg" style="width:55%">
+
+<img src="/images/chinese5.png" style="width:51.5%" align=left>
+<img src="/images/chinese6.jpg" style="width:46%" align=right>
+
+<br clear="left">
+
+<figure>
+<figcaption><strong>  Mother Tongue Language Fortnight
+	</strong></figcaption>  
+</figure>	
+
+<img src="/images/chinese7.jpg" style="width:42%" align=left>
+<img src="/images/chinese8.jpg" style="width:56%" align=right>
+
+<br clear="left">
+
+<figure>
+<figcaption><strong>  P4 Cultural Camp
+	</strong></figcaption>  
+</figure>	
