@@ -53,14 +53,14 @@ Note: Major rules are in **bold.**
 
 ##### **School Uniform (Boys and Girls)**
 
-<img src="/images/attire1.jpg" style="width:48%" align=left>  
+<img src="/images/attire1.jpg" style="width:48%" align=left>
 <img src="/images/attire2.jpg" style="width:50%" align=right>
 
 <br clear="left">
 
 ##### **P.E. Attire (Boys and Girls)**
 
-<img src="/images/attire3.jpg" style="width:47%" align=left>  
+<img src="/images/attire3.jpg" style="width:47%" align=left>
 <img src="/images/attire4.jpg" style="width:51%" align=right>
 
 <br clear="left">
