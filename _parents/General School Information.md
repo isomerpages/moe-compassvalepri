@@ -57,6 +57,28 @@ Please note our Recess/Lunch schedule below.
 |
 
 #### **7  School Bags**
+a.  The Health Promotion Board (HPB) has advised that primary school students should only carry between 10% and 15% of their body weight. Hence, the school would like to seek your assistance to ensure that your child carries a school bag of a suitable weight. We will also implement measures, such as providing lockers and inculcating in our Compassvalites the good habit of being organised.
+
+b.    You can help your lower primary children pack their school bags according to the daily timetable and the day’s needs. This helps to ensure that your child does not carry heavy and unnecessary accessories. You are also advised to buy school bags made of lightweight material with few compartments. The straps should be adjustable and cushioned for the comfort. Please refrain from the use of roller/trolley bags as they may be difficult for children to carry when climbing stairs. They also encourage overloading of the bags. Our Form Teachers will conduct periodic checks as part of our efforts towards lightening our Compassvalites’ school bags. 
+
 #### **8  Communications and Coordination**
+a.    We believe that regular and open communication between school and parents/guardian is important in helping us achieve our common aim of providing an excellent education for our Compassvalites. We will keep you informed of important matters through our school website [www.compassvalepri.moe.edu.sg](https://staging.d2mqouuee1j5o.amplifyapp.com/), Parents Gateway announcements and letters. You may also email our administration at our generic email address: **cvps@moe.edu.sg.**
+
+b.    The Student Handbook is another means for you to communicate with our teachers. You may write short notes in the Handbook and address it to the teacher concerned. Please remind your child/ward to show the teacher the note that you have written. 
+
+c.    The operation hours for our General Office are from 0745hrs to 1700hrs from Monday to Friday. We are closed on Saturday, Sunday and Public Holidays. If you wish to call our General Office, our telephone numbers are: 6388 2819 & 6384 5619.  
+
+d.    We actively manage the school calendar on our webpage so that you can plan ahead to coordinate with our schedule of activities.
+
+You may wish to bookmark [https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&ctz=Asia/Singapore](https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&ctz=Asia/Singapore) in your browser.
+
+If you are an ical calendar user, you may wish to add [https://calendar.google.com/calendar/ical/cvpspublic%40gmail.com/public/basic.ics](https://calendar.google.com/calendar/ical/cvpspublic%40gmail.com/public/basic.ics)
+
 #### **9  Financial Assistance Scheme (FAS)**
+
+a.  Please approach our clerical staff at the General Office if you would like to apply for financial assistance for the purchase school books, uniforms or for the payment of miscellaneous fees. The school will assist to process your application and offer support where possible. 
+
+b.    The School Meals Programme provides $2.00 per day for breakfast/recess and an additional subsidy of 2 meals at $2.00 per meal per student per school week to cater for their after-school needs. 
+
 #### **10  Student Protection Plan**
+The school has purchased a Student Protection Plan from NTUC Income Insurance Co-operative Limited for all its students. The plan provides worldwide accident coverage for students during school activities. The full cost of the Student Protection Plan will be borne by the school.
