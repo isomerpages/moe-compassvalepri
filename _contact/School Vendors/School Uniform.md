@@ -9,10 +9,10 @@ third_nav_title: School Vendors
 
 |  |  |
 |---|---|
-| Telephone | 63522741 |
-| Fax | 68422741 |
-| Email | [contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com) |
-| Website | [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) |
+| **Telephone** | 63522741 |
+| **Fax** | 68422741 |
+| **Email** | [contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com) |
+| **Website** | [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/) |
 |
 
 Sizing chart can be found on the vendor’s website.<br>
@@ -37,5 +37,3 @@ Website: [https://shanghai-uniforms.com/](https://shanghai-uniforms.com/%C2%A0)
 \- Only 1 accompanying parent/guardian to a child is allowed.<br>
 \- Trying of uniform sample is not permitted for hygiene reasons.<br>
 \- Retail Outlet will be closed from 22/12/21 to 31/12/21
-
-
