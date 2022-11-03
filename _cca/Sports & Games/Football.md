@@ -13,6 +13,7 @@ Students who show potential are selected to represent the school at the annual z
 
 <img src="/images/football1.jpg" style="width:85%">
 
-<img src="/images/football2.jpg" style="width:85%">
+<img src="/images/football2.jpg" style="width:46%" align=left>
+<img src="/images/football3.jpg" style="width:51.5%" align=right>
 
-<img src="/images/football3.jpg" style="width:85%">
+<br clear="left">
