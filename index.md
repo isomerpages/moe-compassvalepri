@@ -19,7 +19,7 @@ sections:
           url: /highlights/
         - title: Calendar
           description: ""
-          url: /calendar
+          url: /calendar/
         - title: Contact
           description: ""
           url: /contact/school-vendors/school-bookshop/
