@@ -17,6 +17,9 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights/
+        - title: Calendar
+          description: ""
+          url: /calendar
         - title: Contact
           description: ""
           url: /contact/school-vendors/school-bookshop/
