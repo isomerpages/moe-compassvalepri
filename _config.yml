@@ -2,11 +2,11 @@ title: Compassvale Primary School
 url: https://compassvalepri.sg
 favicon: /images/logo.jpg
 colors:
-  primary-color: "#9c1645"
-  secondary-color: "#31305a"
+  primary-color: "#732e4a"
+  secondary-color: "#1b365d"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#ffc72c"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
