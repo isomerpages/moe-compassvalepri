@@ -15,6 +15,6 @@ description: ""
 * **[P5 4S + HMTL Booklist 2023](/files/CVPS%20P5%204SHMT.pdf)**
 * **[P6 4F Booklist 2023](/files/CVPS%20P6%204F%20Booklist%202023.pdf)**
 * **[P6 4S Booklist 2023](/files/CVPS%20P6%204S%20Booklist%202023.pdf)**
-* **[P6 2S + 2F Booklist 2022](/files/2022booklist10.pdf)**
+* **[P6 2S + 2F Booklist 2023](/files/CVPS%20P6%202S2F%20Booklist%202023.pdf)**
 * **[P6 3S + 1F (Maths) Booklist 2023](/files/CVPS%20P6%203S1F-MA%20Booklist%202023.pdf)**
 * **[P6 4S + HMTL Booklist 2023](/files/CVPS%20P6%204SHMT.pdf)**
