@@ -10,7 +10,7 @@ third_nav_title: School Vendors
 
 
 **Opening Hours: 9.00am to 4.00pm**<br>
-**Lunch Hours: Monday/Wednesday/Thursday - 12.00pm to 1.00pm**<br>
+**Lunch Hours: Monday/Wednesday/Thursday - 12.00pm to 1.00pm**<br> **&nbsp;** **&nbsp;** **&nbsp;** **&nbsp;**
                                **Tuesday/Friday - 1.30pm to 2.30pm**
 												
 ##### **During School Holidays**
