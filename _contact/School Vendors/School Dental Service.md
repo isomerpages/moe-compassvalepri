@@ -12,7 +12,7 @@ If your child/ward has any emergencies such as dental trauma, facial /gum swelli
 
 |  |  |
 |---|---|
-| **In-Charge** | Ms Adilah |
+| **In-Charge** | Ms Jeanne Sincioco |
 | **Telephone** | 8518 7423 (During clinic operating hours) |
 |
 
