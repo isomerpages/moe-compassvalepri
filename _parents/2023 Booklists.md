@@ -3,8 +3,7 @@ title: 2023 Booklists
 permalink: /parents/2023-booklists/
 description: ""
 ---
-
-### **2022 Booklists**
+### **2023 Booklists**
 * **[P1 Booklist 2022](/files/2022booklist1.pdf)**
 * **[P2 Booklist 2022](/files/2022booklist2.pdf)**
 * **[P3 Booklist 2022](/files/2022booklist3.pdf)**
