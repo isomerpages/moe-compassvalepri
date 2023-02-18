@@ -15,7 +15,7 @@ third_nav_title: School Vendors
 												
 ##### **During School Holidays**
 **Pacific Bookstores Pte Ltd**<br>
-Tel: 6929 8012 / 6559 2269 (Mon to Fri, 9am to 5pm<br>
+Tel: 6929 8012 / 6559 2269 (Mon to Fri, 9am to 5pm)<br>
 Email: [sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)<br>
 Website: [www.pacificbookstores.com](http://www.pacificbookstores.com/)
 
@@ -31,7 +31,7 @@ Strictly **ONLINE ORDER**<br>
 
 2. _Self-Collection at School Bookshop_<br>
 \- Strictly based on booking of appointment through vendor website. <br>
-\- **NO** walk-in purchase without appointment. <br>
+\- **NO**  walk-in purchase without appointment. <br>
 \- Collection dates: 29/11/2022, 02/12/2022, 06/12/2022, 09/12/2022, 27/12/2022, 28/12/2022, 29/12/2022<br>
 \- Collection hours: 9.00am to 12.00pm & 1.00pm to 3.00pm
 
