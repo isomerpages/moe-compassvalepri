@@ -48,7 +48,7 @@ c. Character and Citizenship Education (CCE)
 |  | Did You Know?<br>(Part 1)<br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’. <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |  |
 |  | Keeping Myself Safe<br>(60 min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br> | Term 2 Week 2 |
 
-
+<br>
 <figure>
 <figcaption><strong> Primary 6
 	</strong></figcaption>  
