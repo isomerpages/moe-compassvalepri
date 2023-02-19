@@ -42,7 +42,7 @@ c. Character and Citizenship Education (CCE)
 	</strong></figcaption>  
 </figure>	
 
-| UNIT |  LESSONS/DURATION  | Lesson Objectives<br>At the end of the lesson, pupils will be able to: |  TIME  PERIOD  |
+| UNIT |  LESSONS/DURATION  | LESSON OVERVIEW<br> |  TIME  PERIOD  |
 |:---:|:---:|---|:---:|
 | Growing Years | The Changes in Me<br>(60 min) |  This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 1 Week 10 |
 |  | Did You Know?<br>(Part 1)<br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’. <br><br> This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |  |
@@ -55,7 +55,7 @@ c. Character and Citizenship Education (CCE)
 	</strong></figcaption>  
 </figure>
 
-| UNIT | LESSONS/DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD |
+| UNIT | LESSONS/DURATION | LESSON OVERVIEW<br> | TIME PERIOD |
 |:---:|:---:|---|:---:|
 |  Growing Years | Are We More Than Friends?<br>Lesson 1<br>(60 min) | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.<br> | Term 4 Week 2 |
 |  | Are We More Than Friends?<br>Lesson 2<br>(60 min) | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.<br> | Term 4 Week 3 |
