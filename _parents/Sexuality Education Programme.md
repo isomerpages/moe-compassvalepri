@@ -22,7 +22,7 @@ You may click [[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
 #### **Overview of Compassvale Primary School's Sexuality Education Programme For 2022**
 
-4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools) **broken link** for more information on the scope of Sexuality Education in the school curriculum.
+4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)] for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. The subjects that incorporate topics on sexuality include:<br>
 a. Science<br>
@@ -35,7 +35,7 @@ c. Character and Citizenship Education (CCE)
 
 7\. The Primary 5 & 6 Growing Years (GY) package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
 
-##### **At Compassvale Primary School, the following lessons from the Growing Years Programme will be taught in 2022:**
+##### **At Compassvale Primary School, the following lessons from the Growing Years Programme will be taught in 2023:**
 
 <figure>
 <figcaption><strong> Primary 5
@@ -44,8 +44,8 @@ c. Character and Citizenship Education (CCE)
 
 | UNIT |  LESSONS/DURATION  | Lesson Objectives<br>At the end of the lesson, pupils will be able to: |  TIME  PERIOD  |
 |:---:|:---:|---|:---:|
-| Gosh! I Am Changing | What is Happening To Me?<br>(30 min) | - know what puberty is<br>- identify the physical changes during puberty | Term 1 Week 10 |
-|  | What Can I Do ?<br>(Part 1)<br>(30 min) | - identify the stresses caused by physical changes during puberty<br>- describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty |  |
+| Growing Years | The Changes in Me<br>(60 min) | - This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>- This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 1 Week 10 |
+|  | Did You Know?<br>(Part 1)<br>(60 min) | - This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’. <br> - This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |  |
 |  | What Can I Do ?<br>(Part2)<br>(30 min) | - identify the stresses caused by physical and emotional changes during puberty<br>- describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>- describe the emotions caused by physical changes during puberty<br>- recognise that one’s identity does not change even when one’s body is experiencing change due to puberty | Term 1 Week 10 |
 |  | Main Task<br>(30 min) | Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through. |  |
 | Where I Belong | What Are Families?<br>(30 min) | - know that there are different types of family structures<br>- know that every family is unique<br>- state that the three basic functions of families are to provide love, protection and guidance<br>- identify the right sources of help to turn to when in need | <br>Term 2 Week 9 |
