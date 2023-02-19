@@ -58,10 +58,13 @@ c. Character and Citizenship Education (CCE)
 |:---:|:---:|---|:---:|
 |  Growing Years | Are We More Than Friends?<br>Lesson 1<br>(60 min) | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.<br> | Term 4 Week 2 |
 |  | Are We More Than Friends?<br>Lesson 2<br>(60 min) | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.<br> | Term 4 Week 3 |
-|  | Did You Know?<br>(30 min) | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br> | Term 3 Week 6  |
+|  | Did You Know?<br>(30 min) | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br> | Term 4 Week 6  |
 
 
 #### **Information for Parents**
-8\. Parents can contact the school at 63882819 or through email at [cvps@moe.edu.sg](mailto:cvps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
+8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9\. Parents who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please insert link to form Annex A below). The completed opt-out form is to be submitted by 17 Feb 2023.
+
+
+10\.Parents can contact the school at 63882819 or through email at [cvps@moe.edu.sg](mailto:cvps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.  
