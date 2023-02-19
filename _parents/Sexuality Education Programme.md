@@ -49,7 +49,6 @@ c. Character and Citizenship Education (CCE)
 |  | Keeping Myself Safe<br>(60 min) | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br> | Term 2 Week 2 |
 
 
-<br>
 <figure>
 <figcaption><strong> Primary 6
 	</strong></figcaption>  
