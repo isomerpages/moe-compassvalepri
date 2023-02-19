@@ -78,7 +78,7 @@ If you are an ical calendar user, you may wish to add [https://calendar.google.
 
 a.  Please approach our clerical staff at the General Office if you would like to apply for financial assistance for the purchase school books, uniforms or for the payment of miscellaneous fees. The school will assist to process your application and offer support where possible. 
 
-b.    The School Meals Programme provides $2.00 per day for breakfast/recess and an additional subsidy of 2 meals at $2.00 per meal per student per school week to cater for their after-school needs. 
+b.    The School Meals Programme provides $2.60 per day for breakfast/recess and an additional subsidy of 2 meals at $2.60 per meal per student per school week to cater for their after-school needs. 
 
 #### **10  Student Protection Plan**
 The school has purchased a Student Protection Plan from NTUC Income Insurance Co-operative Limited for all its students. The plan provides worldwide accident coverage for students during school activities. The full cost of the Student Protection Plan will be borne by the school.
