@@ -9,7 +9,7 @@ Details of the online application for APVs Scheme for Singapore Citizen (SC) and
 The closing date for the submission of this application for parents whose child is due for registration in <u>**2024**</u> is on <u>**21 April 2023**</u>.  Digital copies of the parents’ NRIC, the child’s birth certificate and Re-entry permit (for children who are Singapore PR) **MUST** be submitted together with the FormSG application.
 
 
-**Please note that late registrations will not be entertained. **
+**Please note that late registrations will not be entertained**. 
 
 
 Refer to the following infographic for more information on our APV Application and Selection Process. 
