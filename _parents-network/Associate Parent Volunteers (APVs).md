@@ -15,4 +15,4 @@ The closing date for the submission of this application for parents whose child 
 Refer to the following infographic for more information on our APV Application and Selection Process. 
 
 
-insert picture
+![](/images/APVs%20Timeline.png)
