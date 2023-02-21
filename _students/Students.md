@@ -14,12 +14,12 @@ Students can choose their own pace and timing to complete their offline assignm
 #### **[Student Learning Space](https://vle.learning.moe.edu.sg/login)**
 
 ![](/images/SLS%20Login.jpg)
-Forgot password, please click **[here](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/student-forgot-password.html)**.<br>
+<br>
 For instructions on how to **[Set Password Reset Email Address](/files/userguide.pdf)**.
 
 #### **SLS Support for Home-Based Learning**
 **School Operating Hours**<br>
-During school operating hours, students should contact the **School-Based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+During school operating hours, students should contact the <u>**School-Based Helpline**</u> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 **School-Based Helpline:** **6388** **2819**<br>
 **Mondays - Fridays: 8:00 am - 4:00 pm**
@@ -27,7 +27,7 @@ During school operating hours, students should contact the **School-Based Helpl
 For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of the school and form class.
 
 **Non-School Operating Hours**<br>
-Students can only contact the **SLS Helpdesk** outside the school operating hours.
+Students can only contact the <u>**SLS Helpdesk**</u> outside the school operating hours.
 
 SLS Helpdesk: 6702 6513
 
