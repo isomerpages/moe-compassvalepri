@@ -9,10 +9,11 @@ Our HBL curriculum structure is designed to last about four hours in total on s
   
 Students can choose their own pace and timing to complete their offline assignments. For students who require more structure, they can follow the schedule provided.
 
-##### **[Resource Kit for Home-Based Learning](/files/hbl.pdf)**<br>**[Student Learning Space](https://vle.learning.moe.edu.sg/login)**
+###### **[Resource Kit for Home-Based Learning](/files/hbl.pdf)**<br><br>
 
-<img src="/images/sls.jpg" style="width:85%">
+#### **[Student Learning Space](https://vle.learning.moe.edu.sg/login)**
 
+![](/images/SLS%20Login.jpg)
 Forgot password, please click **[here](https://static.learning.moe.edu.sg/UserGuide/login-troubleshooting/student-forgot-password.html)**.<br>
 For instructions on how to **[Set Password Reset Email Address](/files/userguide.pdf)**.
 
