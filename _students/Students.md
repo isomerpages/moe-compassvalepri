@@ -19,7 +19,7 @@ For instructions on how to **[Set Password Reset Email Address](/files/userguid
 
 #### **SLS Support for Home-Based Learning**
 **School Operating Hours**<br>
-During school operating hours, students should contact the <u>**School-Based Helpline**</u> for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+During school operating hours, students should contact the **<u>School-Based Helpline</u>** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 **School-Based Helpline:** **6388** **2819**<br>
 **Mondays - Fridays: 8:00 am - 4:00 pm**
