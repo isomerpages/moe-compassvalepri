@@ -27,7 +27,7 @@ During school operating hours, students should contact the <u>**School-Based He
 For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of the school and form class.
 
 **Non-School Operating Hours**<br>
-Students can only contact the <u>**SLS Helpdesk**</u> outside the school operating hours.
+Students can only contact the **<u>SLS Helpdesk</u>** outside the school operating hours.
 
 SLS Helpdesk: 6702 6513
 
