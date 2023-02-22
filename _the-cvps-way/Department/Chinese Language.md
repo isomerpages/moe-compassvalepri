@@ -17,7 +17,7 @@ Our team of CL teachers constantly explores a repertoire of pedagogies to bring 
 </figure>	
 <img src="/images/chinese1.jpg" style="width:85%">
 
-<img src="/images/chinese2.png" style="width:85%">
+<img src="/images/Chinese2R.jpg" style="width:85%">
 
 <img src="/images/chinese3.png" style="width:88%">
 <br>
@@ -40,4 +40,3 @@ Our team of CL teachers constantly explores a repertoire of pedagogies to bring 
 <img src="/images/chinese8.jpg" style="width:56%" align=right>
 
 <br clear="left">
-
