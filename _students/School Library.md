@@ -38,7 +38,7 @@ b.     Alternatively, scan the QR code indicated below to access the App Store/ 
 c.     Upon installing the mobile application, select your school library and log in with your OPAC borrower ID and password.<br>
 
 <br>
-
+<br>
 
 
 
