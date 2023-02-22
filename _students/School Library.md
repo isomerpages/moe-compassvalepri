@@ -21,14 +21,11 @@ Find out the new arrivals, what’s popular, leave a review, and more by visitin
 ###### LOGIN DETAILS
 
 
-| User ID: Birth Certificate Number<br>****&emsp;**** ****&emsp;**** ****&emsp;** **&nbsp;****(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>****&emsp;**** ****&emsp;**** ****&emsp;** **&nbsp;****  &nbsp; &nbsp;(Case sensitive and DDMMYYYY refers to the digits of your birthdate.)  | ![](/images/Library%20QR%20Code.png) | 
+| User ID: Birth Certificate Number<br>(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>(Case sensitive and DDMMYYYY refers to the digits of your birthdate.)  | ![](/images/Library%20QR%20Code.png) | 
 | -------- | -------- | 
-| Text     | Text     | 
+|      |      | 
 
-<br>
-
-#### “MySchoolLibrary” Mobile App
-
+##### “MySchoolLibrary” Mobile App
 ###### Functions available on the mobile app:
 ###### 
 a.     Search for books & e-books and check item availability;<br>
@@ -50,6 +47,7 @@ c.     Upon installing the mobile application, select your school library and lo
 | -------- | -------- | -------- |
 | ![](/images/library%20apple%20id.png)     | ![](/images/library%20android%20users.png)     |   |
 <br><br>
+
 ##### Other Useful Information
 ##### 
 ###### Book Loan
