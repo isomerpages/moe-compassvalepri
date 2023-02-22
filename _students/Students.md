@@ -41,7 +41,8 @@ Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com
 There are three ways that you can reset your password:
 *   Reset via email. Please remember the email address used during your first setup. If you cannot see the email in your inbox, it may be in the spam or junk email folder.
 *   Reset via answering security questions
-*   Call SLS Helpdesk at 67026513<br>
+*   Call SLS Helpdesk at 67026513
+
 **Q2. I have forgotten my username. What should I do?** 
 <br>
 The format of your Username is a combination of the first 5 characters of your Name, the last 4 digits and the letter of your NRIC/FIN/BC.<br>
