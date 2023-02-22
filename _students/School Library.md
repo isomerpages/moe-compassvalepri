@@ -5,12 +5,12 @@ description: ""
 ---
 ### **School Library**
 #### **OPAC (Online Public Access Catalogue)**
-Students can log in to OPAC (Online Public Access Catalogue) to find out the new arrivals, what’s popular, leave a review, reserve a book and more. **[Click](/files/opac.pdf)** to find out more!
+Students can log in to OPAC (Online Public Access Catalogue) to find out the new arrivals, what’s popular, leave a review, reserve a book and more. <br>**[Click](/files/opac.pdf)** to find out more!
 
 <img src="/images/opac.jpg" style="width:85%">
 <br>
 
-#### What's in CVPS School Library?
+##### What's in CVPS School Library?
 ###### Log in to OPAC (Online Public Access Catalogue)
 ![](/images/cvps%20opac.png)
 <br>
@@ -62,4 +62,4 @@ c.     Upon installing the mobile application, select your school library and lo
 ##### 
 * Students cannot borrow more books if they have overdue books for more than a month.
 Lost or Damaged Books
-* Students have to replace lost or damaged books with books of similar value. 
+* Students have to replace lost or damaged books with books of similar value.
