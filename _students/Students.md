@@ -37,7 +37,7 @@ Saturdays: 9:00 am - 9:00 pm<br>
 
 Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of the school and form class.<br>
 #### Frequently Asked Questions<br>
-**Q1. I have forgotten my password. What should I do?** <br>
+**Q1. I have forgotten my password. What should I do?** 
 There are three ways that you can reset your password:
 *   Reset via email. Please remember the email address used during your first setup. If you cannot see the email in your inbox, it may be in the spam or junk email folder.
 *   Reset via answering security questions
