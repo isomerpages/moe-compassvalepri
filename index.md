@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/
+          url: /announcements1/
         - title: Highlights
           description: ""
           url: /highlights/
