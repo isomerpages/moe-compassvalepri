@@ -26,8 +26,7 @@ Find out the new arrivals, what’s popular, leave a review, and more by visitin
 |      |      | 
 
 ##### “MySchoolLibrary” Mobile App
-###### Functions available on the mobile app:
-###### 
+###### Functions available on the mobile app: 
 a.     Search for books & e-books and check item availability;<br>
 b.     View loans;<br>
 d.     Save a list of favorite titles; and<br>
@@ -47,17 +46,13 @@ c.     Upon installing the mobile application, select your school library and lo
 | -------- | -------- | -------- |
 | ![](/images/library%20apple%20id.png)     | ![](/images/library%20android%20users.png)     |   |
 <br><br>
-
 ##### Other Useful Information
-##### 
 ###### Book Loan
 * Every student can borrow up to 4 books (2 English and 2 Mother Tongue) for 2 weeks.
 * Students may use an EZ-Link Card or a photocopied version to borrow books.
 ###### Book Renewal
-###### 
 * Students may renew each book once for another 2 weeks.     
 ###### Overdue Books
-##### 
 * Students cannot borrow more books if they have overdue books for more than a month.
 Lost or Damaged Books
 * Students have to replace lost or damaged books with books of similar value.
