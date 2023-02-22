@@ -23,6 +23,7 @@ sections:
         - title: Contact
           description: ""
           url: /contact/school-vendors/school-bookshop/
+      subtitle: THINKERS • LEADERS • CHAMPIONS
   - infobar:
       title: PSG Activities
       subtitle: Compassvale Primary School
