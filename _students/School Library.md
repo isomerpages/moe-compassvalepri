@@ -8,3 +8,58 @@ description: ""
 Students can log in to OPAC (Online Public Access Catalogue) to find out the new arrivals, what’s popular, leave a review, reserve a book and more. **[Click](/files/opac.pdf)** to find out more!
 
 <img src="/images/opac.jpg" style="width:85%">
+<br>
+
+#### What's in CVPS School Library?
+###### Log in to OPAC (Online Public Access Catalogue)
+![](/images/cvps%20opac.png)
+<br>
+Find out the new arrivals, what’s popular, leave a review, and more by visiting the webpage below. You will be able to view the books without logging in.
+<br>
+[Click here for the link](https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME )
+<br>
+###### LOGIN DETAILS
+
+
+| User ID: Birth Certificate Number<br>****&emsp;**** ****&emsp;**** ****&emsp;** **&nbsp;****(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>****&emsp;**** ****&emsp;**** ****&emsp;** **&nbsp;****  &nbsp; &nbsp;(Case sensitive and DDMMYYYY refers to the digits of your birthdate.)  | ![](/images/Library%20QR%20Code.png) | 
+| -------- | -------- | 
+| Text     | Text     | 
+
+<br>
+
+#### “MySchoolLibrary” Mobile App
+
+###### Functions available on the mobile app:
+###### 
+a.     Search for books & e-books and check item availability;<br>
+b.     View loans;<br>
+d.     Save a list of favorite titles; and<br>
+e.     “Discover” book recommendations, featured items, new arrivals, and books others have read.<br>
+
+###### Here are the instructions for downloading and installing the Mobile Application.
+a.     Search for ‘MySchoolLibrary’ in the App Store/Play Store.<br>
+b.     Alternatively, scan the QR code indicated below to access the App Store/ Play Store and install the ‘MySchoolLibrary’ application.<br>
+c.     Upon installing the mobile application, select your school library and log in with your OPAC borrower ID and password.<br>
+
+<br>
+
+
+
+
+| For Apple users, please scan the QR code below to access the App Store | For Android users, please scan the  QR code below to access the Play Store |  |
+| -------- | -------- | -------- |
+| ![](/images/library%20apple%20id.png)     | ![](/images/library%20android%20users.png)     |   |
+<br><br>
+##### Other Useful Information
+##### 
+###### Book Loan
+* Every student can borrow up to 4 books (2 English and 2 Mother Tongue) for 2 weeks.
+* Students may use an EZ-Link Card or a photocopied version to borrow books.
+###### Book Renewal
+###### 
+* Students may renew each book once for another 2 weeks.     
+###### Overdue Books
+##### 
+* Students cannot borrow more books if they have overdue books for more than a month.
+Lost or Damaged Books
+* Students have to replace lost or damaged books with books of similar value. 
