@@ -10,7 +10,7 @@ The Chinese Language (CL) Department aims to build a strong foundation in our st
 Our CL Reading Programme aims to develop in our students a passion for reading. They will be taught to select books that cater to their age and interest levels. Fun reading activities have also been planned to build a reading culture that develops our students into proficient readers.  
 
 Our team of CL teachers constantly explores a repertoire of pedagogies to bring about joyful and meaningful learning experiences for our students. Lessons conducted are designed to develop in our students the 21st Century Competencies and nurture in them the love for learning Chinese Language so that the spirit of learning stays with them beyond school.
-<br>
+<br><br>
 <figure>
 <figcaption><strong>  CL Reading Programme
 	</strong></figcaption>  
