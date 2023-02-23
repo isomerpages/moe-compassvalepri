@@ -15,7 +15,7 @@ Click **[here](/files/parentsgateway2.pdf)** for the step-by-step guide to en
 
 Click **[here](/files/parentsgateway3.pdf)** for **PTM Parents Booking Guide**.
 
-If you have any questions, please contact<br>
+If you have any questions, please contact:<br>
 Mr Tay Wei Jun<br>
 Teacher-in-charge, Compassvale Primary School<br>
 Email: tay_wei_jun@moe.edu.sg<br>
