@@ -3,10 +3,9 @@ title: School Library
 permalink: /students/school-library/
 description: ""
 ---
-### **School Library**
+### School Library
 ##### **OPAC (Online Public Access Catalogue)**
-Students can log in to OPAC (Online Public Access Catalogue) to find out the new arrivals, what’s popular, leave a review, reserve a book and more. <br>**[Click](/files/opac.pdf)** to find out more!
-
+<br>
 <img src="/images/opac.jpg" style="width:85%">
 <br>
 
@@ -42,9 +41,11 @@ c.     Upon installing the mobile application, select your school library and lo
 
 
 
-| For Apple users, please scan the QR code below to access the App Store | For Android users, please scan the  QR code below to access the Play Store |  |
-| -------- | -------- | -------- |
-| ![](/images/library%20apple%20id.png)     | ![](/images/library%20android%20users.png)     |   |
+| For Apple users, please scan the QR code below to access the App Store | For Android users, please scan the  QR code below to access the Play Store | 
+| -------- | -------- | 
+| ![](/images/library%20apple%20id.png)     | ![](/images/library%20android%20users.png)     | 
+
+
 <br><br>
 ##### Other Useful Information
 ###### Book Loan
