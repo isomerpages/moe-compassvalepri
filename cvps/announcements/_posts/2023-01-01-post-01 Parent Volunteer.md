@@ -6,5 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-
-For more information, please click link (to insert url)
+For more information, please click [**here**](https://staging.d2mqouuee1j5o.amplifyapp.com/parents-network/apvs/)
