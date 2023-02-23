@@ -25,6 +25,6 @@ We may take photographs and/or videos during school activities or events (both w
 We will take appropriate measures to keep your personal data accurate, complete and updated. We will also take reasonable efforts to take appropriate precautions and preventive measures to ensure that your personal data is adequately protected and secured. We undertake that we shall only keep the data collected as long as is necessary to serve the purpose that the data was collected for as well as for any other legal purposes.
 
 ###### **Right of Access and Correction**
-You may request to access and/or correct the personal data you have provided that is currently in our possession or under our control at any time by submitting your request through the following methods:
+You may request to access and/or correct the personal data you have provided that is currently in our possession or under our control at any time by submitting your request through the following methods:<br>
 a. Email: [cvps@moe.edu.sg](cvps@moe.edu.sg)
 b. Office Address: 21 Compassvale Street, Singapore 545091
