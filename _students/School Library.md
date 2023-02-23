@@ -43,7 +43,8 @@ c.     Upon installing the mobile application, select your school library and lo
 
 | For Apple users, please scan the QR code below to access the App Store | For Android users, please scan the  QR code below to access the Play Store | 
 | -------- | -------- | 
-| ![](/images/library%20apple%20id.png)     | ![](/images/library%20android%20users.png)     | 
+| <img src="/images/library%20apple%20id.png" style="width:85%">     | <img src="/images/library%20android%20users.png" style="width:85%">     | 
+
 
 
 <br><br>
