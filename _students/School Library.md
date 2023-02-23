@@ -42,13 +42,13 @@ c.     Upon installing the mobile application, select your school library and lo
 | <img src="/images/library%20apple%20id.png" style="width:80%">     | <img src="/images/library%20android%20users.png" style="width:80%">     | 
 
 
-##### **Other Useful Information**
-######  &emsp; &ensp; **Book Loan**
+#### **Other Useful Information**
+#####  &emsp; &ensp; **Book Loan**
 * Every student can borrow up to 4 books (2 English and 2 Mother Tongue) for 2 weeks.
-* Students may use an EZ-Link Card or a photocopied version to borrow books.
-###### **Book Renewal**
-* Students may renew each book once for another 2 weeks.    
-###### **Overdue Books**
-* Students cannot borrow more books if they have overdue books for more than a month.
-######** Lost or Damaged Books**
+* Students may use an EZ-Link Card or a photocopied version to borrow books.<br>
+##### **Book Renewal**
+* Students may renew each book once for another 2 weeks.<br>    
+##### **Overdue Books**
+* Students cannot borrow more books if they have overdue books for more than a month.<br>
+##### **Lost or Damaged Books**
 * Students have to replace lost or damaged books with books of similar value.
