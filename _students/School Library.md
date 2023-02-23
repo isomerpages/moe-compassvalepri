@@ -9,15 +9,14 @@ description: ""
 
 ##### What's in CVPS School Library?
 ##### **Log in to OPAC (Online Public Access Catalogue)**
-![](/images/cvps%20opac.png)
+<img src="/images/cvps%20opac.png" style="width:85%">
 <br>
-Find out the new arrivals, what’s popular, leave a review, and more by visiting the webpage below. You will be able to view the books without logging in.
-<br>
-[**Click here for the link**](https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME )
-<br>
+Find out the new arrivals, what’s popular, leave a review, and more by visiting the webpage below. You will be able to view the books without logging in. <br>
+[Click Here For The Link](https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
+
+
 ###### LOGIN DETAILS
-
-
 | User ID: Birth Certificate Number<br>(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>(Case sensitive and DDMMYYYY refers to the digits of your birthdate.)  | ![](/images/Library%20QR%20Code.png) | 
 | -------- | -------- | 
 |      |      | 
@@ -38,7 +37,7 @@ c.     Upon installing the mobile application, select your school library and lo
 | For Apple users, please scan the QR code below to access the App Store | For Android users, please scan the  QR code below to access the Play Store | 
 | -------- | -------- | 
 | <img src="/images/library%20apple%20id.png" style="width:85%">     | <img src="/images/library%20android%20users.png" style="width:85%">     | 
-<br>
+
 
 ##### Other Useful Information
 **Book Loan**
