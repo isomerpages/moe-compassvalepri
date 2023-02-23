@@ -13,7 +13,7 @@ Click **[here](/files/parentsgateway1.pdf)** for the step-by-step guide.
   
 Click **[here](/files/parentsgateway2.pdf)** for the step-by-step guide to enable Parents Gateway Notifications.
 
-Click [here](/files/parentsgateway3.pdf) for **PTM Parents Booking Guide**.
+Click **[here](/files/parentsgateway3.pdf)** for **PTM Parents Booking Guide**.
 
 If you have any questions, please contact<br>
 Mr Tay Wei Jun<br>
