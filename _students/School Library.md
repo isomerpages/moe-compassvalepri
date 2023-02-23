@@ -19,7 +19,7 @@ Find out the new arrivals, what’s popular, leave a review, and more by visitin
 ###### LOGIN DETAILS
 | User ID: Birth Certificate Number<br>(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>(Case sensitive and DDMMYYYY refers to the digits of your birthdate.)  |<img src="/images/Library%20QR%20Code.png" style="width:85%">  | 
 | -------- | -------- | 
-|      |      | 
+|               |               | 
 
 #### “MySchoolLibrary” Mobile App
 **Functions available on the mobile app:** <br>
