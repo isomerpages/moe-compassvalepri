@@ -21,14 +21,14 @@ Find out the new arrivals, what’s popular, leave a review, and more by visitin
 | -------- | -------- | 
 |      |      | 
 
-##### “MySchoolLibrary” Mobile App
-###### Functions available on the mobile app: 
+#### “MySchoolLibrary” Mobile App
+**Functions available on the mobile app:** <br>
 a.     Search for books & e-books and check item availability;<br>
 b.     View loans;<br>
 c.     Save a list of favorite titles; and<br>
 d.     “Discover” book recommendations, featured items, new arrivals, and books others have read.<br>
 
-###### Here are the instructions for downloading and installing the Mobile Application.
+**Here are the instructions for downloading and installing the Mobile Application.**<br>
 a.     Search for ‘MySchoolLibrary’ in the App Store/Play Store.<br>
 b.     Alternatively, scan the QR code indicated below to access the App Store/ Play Store and install the ‘MySchoolLibrary’ application.<br>
 c.     Upon installing the mobile application, select your school library and log in with your OPAC borrower ID and password.<br>
