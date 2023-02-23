@@ -17,7 +17,7 @@ may apply for MOE Financial Assistance Scheme.
 a. Online at the following link: [**https://go.gov.sg/moe-efas**](https://go.gov.sg/moe-efas) ; or <br>
 b. Hardcopy application form submitted to General Office.
 
-Parents who wish want to know more about MOE FAS can visit MOE website at [**https://www.moe.gov.sg/financial-matters/financial-assistance**] for further queries.
+Parents who wish want to know more about MOE FAS can visit MOE website at [**https://www.moe.gov.sg/financial-matters/financial-assistance**](https://www.moe.gov.sg/financial-matters/financial-assistance) for further queries.
 
 
 
