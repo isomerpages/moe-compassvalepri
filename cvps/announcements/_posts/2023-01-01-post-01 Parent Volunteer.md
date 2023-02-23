@@ -6,5 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-
-
+For more information, please click link (to insert url)
