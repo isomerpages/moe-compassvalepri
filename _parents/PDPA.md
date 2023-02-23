@@ -26,5 +26,5 @@ We will take appropriate measures to keep your personal data accurate, complete 
 
 ###### **Right of Access and Correction**
 You may request to access and/or correct the personal data you have provided that is currently in our possession or under our control at any time by submitting your request through the following methods:<br>
-a. Email: [cvps@moe.edu.sg](cvps@moe.edu.sg)
+a. Email: [cvps@moe.edu.sg](cvps@moe.edu.sg)<br>
 b. Office Address: 21 Compassvale Street, Singapore 545091
