@@ -18,7 +18,7 @@ Find out the new arrivals, what’s popular, leave a review, and more by visitin
 
 ###### LOGIN DETAILS<br><br>
 
-| User ID: Birth Certificate Number<br>(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>(Case sensitive and DDMMYYYY refers to the digits of your birthdate.) | <img src="/images/Library%20QR%20Code.png" style="width:60%"> | 
+| User ID: Birth Certificate Number<br>(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>(Case sensitive and DDMMYYYY refers to the digits of your birthdate.) | <img src="/images/Library%20QR%20Code.png" style="width:80%"> | 
 | -------- | -------- | 
 |      |      | 
 
