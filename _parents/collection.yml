@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - PDPA.md
       - General School Information.md
       - Parents Gateway Mobile App.md
       - 2023 Booklists.md
