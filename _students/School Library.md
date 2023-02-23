@@ -43,7 +43,7 @@ c.     Upon installing the mobile application, select your school library and lo
 
 
 ###### **Other Useful Information**
-&nbsp;  &nbsp; &ensp; **Book Loan**
+&nbsp;  &nbsp;  **Book Loan**
 * Every student can borrow up to 4 books (2 English and 2 Mother Tongue) for 2 weeks.
 * Students may use an EZ-Link Card or a photocopied version to borrow books.
 
