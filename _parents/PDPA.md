@@ -3,7 +3,7 @@ title: PDPA
 permalink: /parents/pdpa/
 description: ""
 ---
-### Personal Data Protection Privacy Policy
+### **Personal Data Protection Privacy Policy**
 At Compassvale Primary School, we take our responsibilities under the Personal Data Protection Act 2012 seriously. We recognize the importance of the personal data you have entrusted to us and believe that it is our responsibility to properly manage, protect and process your personal data.
 
 ###### **Parental Consent Clause**
