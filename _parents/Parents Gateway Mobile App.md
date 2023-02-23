@@ -13,11 +13,11 @@ Click **[here](/files/parentsgateway1.pdf)** for the step-by-step guide.
   
 Click **[here](/files/parentsgateway2.pdf)** for the step-by-step guide to enable Parents Gateway Notifications.
 
-Click **[here](/files/parentsgateway3.pdf)** for PTM Parents Booking Guide.
+Click [here](/files/parentsgateway3.pdf) for **PTM Parents Booking Guide**.
 
 If you have any questions, please contact<br>
-Mr Peck Cheng Wee<br>
+Mr Tay Wei Jun<br>
 Teacher-in-charge, Compassvale Primary School<br>
-Email: peck_cheng_wee@moe.edu.sg<br>
+Email: tay_wei_jun@moe.edu.sg<br>
 Tel: 6388 2819 (General Office)<br>
 Time: 9 am - 4 pm, Mondays to Fridays. (Except weekends and public holidays)
