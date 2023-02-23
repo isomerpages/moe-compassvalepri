@@ -3,11 +3,10 @@ title: School Library
 permalink: /students/school-library/
 description: ""
 ---
-### School Library
+## School Library
 ##### OPAC (Online Public Access Catalogue)
-<br>
+#### 
 <img src="/images/opac.jpg" style="width:85%">
-<br>
 
 ##### What's in CVPS School Library?
 ##### **Log in to OPAC (Online Public Access Catalogue)**
