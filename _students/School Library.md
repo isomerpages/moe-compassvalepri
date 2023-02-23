@@ -17,7 +17,7 @@ Find out the new arrivals, what’s popular, leave a review, and more by visitin
 
 
 ###### LOGIN DETAILS
-| User ID: Birth Certificate Number<br>(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>(Case sensitive and DDMMYYYY refers to the digits of your birthdate.)  | ![](/images/Library%20QR%20Code.png) | 
+| User ID: Birth Certificate Number<br>(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>(Case sensitive and DDMMYYYY refers to the digits of your birthdate.)  |<img src="/images/Library%20QR%20Code.png" style="width:85%">  | 
 | -------- | -------- | 
 |      |      | 
 
@@ -25,8 +25,8 @@ Find out the new arrivals, what’s popular, leave a review, and more by visitin
 ###### Functions available on the mobile app: 
 a.     Search for books & e-books and check item availability;<br>
 b.     View loans;<br>
-d.     Save a list of favorite titles; and<br>
-e.     “Discover” book recommendations, featured items, new arrivals, and books others have read.<br>
+c.     Save a list of favorite titles; and<br>
+d.     “Discover” book recommendations, featured items, new arrivals, and books others have read.<br>
 
 ###### Here are the instructions for downloading and installing the Mobile Application.
 a.     Search for ‘MySchoolLibrary’ in the App Store/Play Store.<br>
@@ -36,7 +36,7 @@ c.     Upon installing the mobile application, select your school library and lo
 
 | For Apple users, please scan the QR code below to access the App Store | For Android users, please scan the  QR code below to access the Play Store | 
 | -------- | -------- | 
-| <img src="/images/library%20apple%20id.png" style="width:85%">     | <img src="/images/library%20android%20users.png" style="width:85%">     | 
+| <img src="/images/library%20apple%20id.png" style="width:80%">     | <img src="/images/library%20android%20users.png" style="width:80%">     | 
 
 
 ##### Other Useful Information
