@@ -9,7 +9,8 @@ description: ""
 **Students who:**
 * Are Singapore Citizens.
 * Attend government or government-aided schools.
-* Have a gross monthly household income of $3,000 or less, or a monthly per capita income of $750 or less.<br>
+* Have a gross monthly household income of $3,000 or less, or a monthly per capita income of $750 or less.
+
 may apply for MOE Financial Assistance Scheme.
 
 **Application mode:**<br>
