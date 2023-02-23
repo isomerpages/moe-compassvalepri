@@ -4,4 +4,5 @@ permalink: /announcements/
 description: ""
 ---
 ### **Announcements**
-**[School Library OPAC](https://staging.d2mqouuee1j5o.amplifyapp.com/students/school-library/)**<br>
+
+For more information on our Associate Parent Volunteers (APVs), please click [**here**](https://staging.d2mqouuee1j5o.amplifyapp.com/parents-network/apvs/)
