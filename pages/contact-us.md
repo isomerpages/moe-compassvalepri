@@ -2,12 +2,12 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ""
+agency_name: Compassvale Primary School
 locations:
   - address:
-      - "21"
-      - Compassvale Street
+      - 21 Compassvale Street
       - Singapore 545091
+      - ""
     operating_hours:
       - days: Mon - Fri
         time: 7.45am - 5.00pm
