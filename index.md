@@ -25,6 +25,6 @@ sections:
           url: /contact/school-vendors/school-bookshop/
       subtitle: THINKERS • LEADERS • CHAMPIONS
   - resources:
-      title: Announcements
-      button: Click for more announcements
+      title: Highlights
+      button: Click for more highlights
 ---
