@@ -9,7 +9,7 @@ third_nav_title: School Vendors
 
 |  |  |
 |---|---|
-| **Email** | [enquiry@sfxtransport.com.sg](mailto:enquiry@sfxtransport.com.sg)|
+| **Email** | [school@sfxtransport.com.sg](school@sfxtransport.com.sg)|
 | **Tel** | 8800 0262 &nbsp; (mobile number)<br>6282 0262 &nbsp; (office number)|
 |
 
