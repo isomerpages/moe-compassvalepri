@@ -24,4 +24,10 @@ sections:
   - resources:
       title: Highlights
       button: Click for more highlights
+  - infopic:
+      title: CVPS Google Calendar
+      subtitle: To add our
+      button: Click here
+      url: /calendar
+      image: /images/cvps google calendar.jpg
 ---
