@@ -14,9 +14,6 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Highlights
-          description: ""
-          url: /highlights/
         - title: Calendar
           description: ""
           url: /calendar/
