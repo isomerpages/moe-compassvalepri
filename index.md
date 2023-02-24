@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Compassvale Primary School
-      background: /images/parade ground walk reduced.jpg
+      background: /images/CVPS3 Hero Banner.gif
       url: /contact-us/
       key_highlights:
         - title: Announcements
