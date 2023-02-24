@@ -24,6 +24,9 @@ sections:
           description: ""
           url: /contact/school-vendors/school-bookshop/
       subtitle: THINKERS • LEADERS • CHAMPIONS
+  - resources:
+      title: Announcements
+      button: Click for more announcements
   - infobar:
       title: PSG Activities
       subtitle: Compassvale Primary School
@@ -39,7 +42,4 @@ sections:
       url: https://docs.google.com/forms/d/e/1FAIpQLSetdFFNxyCwmdiyYhfcOVjL3mdon0ZGyDBb7IbnEJcZ_R3pzQ/viewform?c=0&w=1
       image: /images/pvqr.jpeg
       alt: Image alt text
-  - resources:
-      title: Announcements
-      button: Click for more announcements
 ---
