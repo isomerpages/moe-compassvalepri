@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/pvqr.jpeg)
+![](/images/pvqr.jpeg)<br>
 
-For more information, please click [**here**](https://staging.d2mqouuee1j5o.amplifyapp.com/parents-network/apvs/)
+
+**For more information, please click** [**here**](https://staging.d2mqouuee1j5o.amplifyapp.com/parents-network/apvs/)
