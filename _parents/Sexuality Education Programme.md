@@ -67,4 +67,4 @@ c. Character and Citizenship Education (CCE)
 9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023%20MOE%20Sexuality%20Education%20lessons%20opt-out%20form.pdf). The completed opt-out form is to be submitted by 17 Feb 2023.
 
 
-10\.Parents can contact the school at 63882819 or through email at [cvps@moe.edu.sg](mailto:cvps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+10\.Parents can contact the school at 6388 2819 or through email at [cvps@moe.edu.sg](mailto:cvps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
