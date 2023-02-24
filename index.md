@@ -31,4 +31,5 @@ sections:
       button: Click here
       url: /calendar
       image: /images/cvps google calendar.jpg
+      alt: cvpsgooglecalendar
 ---
