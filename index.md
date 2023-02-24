@@ -21,6 +21,9 @@ sections:
           description: ""
           url: /contact/school-vendors/school-bookshop/
       subtitle: THINKERS • LEADERS • CHAMPIONS
+  - infobar:
+      title: Compassvale Primary School
+      description: THINKERS • LEADERS • CHAMPIONS
   - resources:
       title: Highlights
       button: Click for more highlights
