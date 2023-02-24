@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Compassvale Primary School
       background: /images/CVPS3 Hero Banner.gif
       url: /contact-us/
       key_highlights:
@@ -20,7 +19,6 @@ sections:
         - title: Contact
           description: ""
           url: /contact/school-vendors/school-bookshop/
-      subtitle: THINKERS • LEADERS • CHAMPIONS
   - infobar:
       title: Compassvale Primary School
       description: THINKERS • LEADERS • CHAMPIONS
