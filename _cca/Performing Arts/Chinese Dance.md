@@ -11,9 +11,7 @@ Students are taught by qualified dance instructors and guided by our dedicated t
 
 <img src="/images/chinesedance3.jpg" style="width:44%;margin-right:55px;" align = "right">
 <img src="/images/chinesedance2.jpeg" style="width:35%;margin-left:55px;" align = "left"><br clear="left">
-
 <br clear="left">
-
 <img src="/images/chinesedance5.jpg" style="width:47%;margin-right:55px;" align = "right">
 <img src="/images/chinesedance4.jpg" style="width:33.5%;margin-left:55px;" align = "left"><br clear="left">
 
