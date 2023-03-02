@@ -11,9 +11,7 @@ In Upper Primary, the boys learn game concepts such as the importance of formati
 
 Students who show potential are selected to represent the school at the annual zonal games. School team members continue to represent our school in the annual zonal games and organised small sided tournaments.
 
-<img src="/images/football1.jpg" style="width:85%">
-
-<img src="/images/football2.jpg" style="width:46%" align=left>
-<img src="/images/football3.jpg" style="width:51.5%" align=right>
-
-<br clear="left">
+<img src="/images/Football2_reduced.jpg" style="width:100%">
+<br><img src="/images/Football1_reduced.jpg" style="width:100%">
+<br>
+<img src="/images/Football_reduced.jpg" style="width:100%">
