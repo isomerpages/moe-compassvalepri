@@ -14,11 +14,15 @@ Our athletes go through various training drills to develop specific skills and o
 
 In Track and Field, each child excels in his/her own forte, yet we grow as a team.
 
-<img src="/images/tnf1.jpg" style="width:85%">
+<img src="/images/tnf1.jpg" style="width:100%">
 
 <img src="/images/tnf2.jpg" style="width:49%" align=left>
 <img src="/images/tnf3.jpg" style="width:49%" align=right>
 
 <br clear="left">
 
-<img src="/images/tnf4.jpg" style="width:55%">
+<img src="/images/tnf4.jpg" style="width:100%">
+<br>
+<img src="/images/T&F1_reduced.jpg" style="width:100%">
+
+<img src="/images/T&F.jpeg" style="width:100%">
