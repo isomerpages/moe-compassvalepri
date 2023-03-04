@@ -32,4 +32,13 @@ sections:
         without logging in.
       button: Click here
       url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+  - infopic:
+      title: CVPS School Library
+      description: Find out the new arrivals, what’s popular, leave a review, and more
+        by visiting the webpage below. You will be able to view the books
+        without logging in.
+      button: Click here
+      url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      image: /images/cvps opac.png
+      alt: Image alt text
 ---
