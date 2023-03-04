@@ -23,8 +23,8 @@ sections:
       title: Compassvale Primary School
       description: THINKERS • LEADERS • CHAMPIONS
   - resources:
-      title: Highlights
-      button: Click for more highlights
+      title: News and Updates
+      button: Click for more
   - infobar:
       title: CVPS School Library
       description: Find out the new arrivals, what’s popular, leave a review, and more
