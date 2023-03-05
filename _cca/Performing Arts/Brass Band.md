@@ -29,6 +29,6 @@ Band members get the chance to develop a greater sense of emotional awareness th
 
 <br clear="left">
 
-<img src="/images/Band1.jpeg" style="width:100%">
+<img src="/images/Band1.jpeg" style="width:85%">
 
-<img src="/images/Band.jpeg" style="width:100%">
+<img src="/images/Band.jpeg" style="width:85%">
