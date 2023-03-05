@@ -35,7 +35,7 @@ National Netball Championship – 4th position
 **2022:**<br>
 North Zone Senior – 1st position
 
-<img src="/images/netball3.jpeg" style="width:100%">
+<img src="/images/netball3.jpeg" style="width:85%">
 
 <figure>
 <figcaption><strong>  Recreational Teams
