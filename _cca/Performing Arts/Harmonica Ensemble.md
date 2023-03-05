@@ -9,8 +9,10 @@ In Harmonica, students will be exposed to a range of harmonicas and other musica
 
 Members will be trained to play the chromatic harmonica.  Those who have good grasp in the fundamentals of music such as good rhythm sense will be able to progress faster to more advanced instruments. Members in the Harmonica Ensemble will also have the opportunities to be trained to play the chromatic harmonica, bass harmonica, chord harmonica, marimba, double bass or piano.
 
-<img src="/images/harmonica1.jpg" style="width:85%">
+<img src="/images/harmonica1.jpg" style="width:100%">
 
-<img src="/images/harmonica2.jpg" style="width:85%">
+<img src="/images/Harmonica2_reduced.jpeg" style="width:100%">
 
-<img src="/images/harmonica3.jpg" style="width:85%">
+<img src="/images/harmonica2.jpg" style="width:100%">
+
+<img src="/images/harmonica3.jpg" style="width:100%">
