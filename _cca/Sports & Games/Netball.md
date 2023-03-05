@@ -11,8 +11,8 @@ third_nav_title: Sports & Games
 	</strong></figcaption>  
 </figure>	
 
-<img src="/images/netball1.jpeg" style="width:49%" align=left>
-<img src="/images/netball2.jpeg" style="width:49%" align=right>
+<img src="/images/netball1.jpeg" style="width:50%" align=left>
+<img src="/images/netball2.jpeg" style="width:50%" align=right>
 
 <br clear="left">
 
@@ -35,7 +35,7 @@ National Netball Championship – 4th position
 **2022:**<br>
 North Zone Senior – 1st position
 
-<img src="/images/netball3.jpeg" style="width:85%">
+<img src="/images/netball3.jpeg" style="width:100%">
 
 <figure>
 <figcaption><strong>  Recreational Teams
@@ -47,4 +47,4 @@ North Zone Senior – 1st position
 
 <br clear="left">
 
-The recreational team comprises of P5 and P6 players who are eager to play the game recreationally and keep fit in the company of friends. 
+The recreational team comprises of P5 and P6 players who are eager to play the game recreationally and keep fit in the company of friends.
