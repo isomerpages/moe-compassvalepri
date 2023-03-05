@@ -19,6 +19,6 @@ Overall, Links get opportunities to serve the school and the community through t
 <br>
 <img src="/images/RCY1.jpg" style="width:100%">
 <br>
-<img src="/images/RCY2.jpg" style="width:100%">
+<img src="/images/RCY2.jpg" style="width:50%">
 <br>
 <img src="/images/RCY3.jpg" style="width:100%">
