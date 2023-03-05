@@ -16,12 +16,12 @@ Students are taught a range of physical and vocal skills that are essential for 
 #### **Debate**
 The debate course not only teaches students to be good speakers but also good listeners. They are taught how to prepare a good speech based on the given topic, actively listen to the opposition and come up with a response on the spot. They develop critical thinking skills as they are required to think clearly and logically in order to craft their responses in a structured way.  Students  compete in debate competitions when they are ready to represent the school.
 
-<img src="/images/english1.jpg" style="width:100%">
+<img src="/images/english1.jpg" style="width:85%">
 
-<img src="/images/english2.jpg" style="width:100%">
+<img src="/images/english2.jpg" style="width:85%">
 
-<img src="/images/ELDDS1.jpeg" style="width:100%">
+<img src="/images/ELDDS1.jpeg" style="width:85%">
 
-<img src="/images/ELDDS.jpeg" style="width:100%">
+<img src="/images/ELDDS.jpeg" style="width:85%">
 
-<img src="/images/ELDDS2.jpeg" style="width:100%">
+<img src="/images/ELDDS2.jpeg" style="width:85%">
