@@ -11,6 +11,8 @@ Through Golf CCA, students are able to enjoy the sport, learn sportsmanship and 
 
 Through the structured school programme, students are able to acquire the fundamental skills before progressing to the next level based on their ability. There are also opportunities for students to apply their skills by engaging in friendly games and competitions.
 
-<img src="/images/golf1.jpg" style="width:85%">
+<img src="/images/golf1.jpg" style="width:100%">
 
-<img src="/images/golf2.jpg" style="width:85%">
+<img src="/images/golf2.jpg" style="width:100%">
+
+<img src="/images/GOLF.jpeg" style="width:100%">
