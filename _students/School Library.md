@@ -16,7 +16,7 @@ Find out the new arrivals, what’s popular, leave a review, and more by visitin
 <br>
 
 
-###### **LOGIN DETAILS**<br><br>
+##### **LOGIN DETAILS**<br><br>
 
 | User ID: Birth Certificate Number<br>(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>(Case sensitive and DDMMYYYY refers to the digits of your birthdate.) | <img src="/images/Library%20QR%20Code.png" style="width:85%"> | 
 | -------- | -------- | 
@@ -42,8 +42,8 @@ c.     Upon installing the mobile application, select your school library and lo
 | <img src="/images/library%20apple%20id.png" style="width:60%">     | <img src="/images/library%20android%20users.png" style="width:60%">     | 
 
 
-###### **Other Useful Information**
-**Book Loan**
+##### **Other Useful Information**
+###### **Book Loan**
 * Every student can borrow up to 4 books (2 English and 2 Mother Tongue) for 2 weeks.
 * Students may use an EZ-Link Card or a photocopied version to borrow books.
 
