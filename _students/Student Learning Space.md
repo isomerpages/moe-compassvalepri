@@ -9,7 +9,7 @@ description: ""
 <br>
 For instructions on how to **[Set Password Reset Email Address](/files/userguide.pdf)**.
 
-#### **SLS Support for Home-Based Learning**
+#### **SLS Support**
 **School Operating Hours**<br>
 During school operating hours, students should contact the **<u>School-Based Helpline</u>** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
@@ -42,7 +42,8 @@ The format of your Username is a combination of the first 5 characters of your N
 **Q3. My account has been locked. What should I do?**  <br>
 Your account will be locked after 6 consecutive attempts to log in with an incorrect password.
 <br>
-Please call the SLS Helpdesk to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.<br>
+1. Contact your class form teacher or subject teacher. Your teacher will inform your school's SLS administrator, who will be able to unlock your account.
+2. Alternatively, please contact the SLS Helpdesk to unlock your account. You will need to answer the security questions to verify that you are the legitimate account holder.<br>
 
 **Q4. I used the “Password Reset Link Method” but I cannot find my password reset email. What can I do?**  
 If you cannot see the email in your inbox, it may be in the spam or junk email folder.
