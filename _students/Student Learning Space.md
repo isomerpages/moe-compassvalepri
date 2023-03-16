@@ -53,8 +53,6 @@ Note: The URL in the email will expire within 10 minutes. If the URL has expired
 **Q5. What are the Operating System and Browser Requirements for SLS?**  
 The following are the recommended operating systems:<br>
 
-
-
 | Operating System | Browsers | 
 | -------- | -------- | 
 | Microsoft Windows 10     | Google Chrome 88 and later<br>Microsoft Edge 88 and later     | 
