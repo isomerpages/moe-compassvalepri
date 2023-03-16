@@ -64,10 +64,5 @@ The following are the recommended operating systems:<br>
 | Android 10 and later     | Google Chrome 88 and later     | 
 | ChromeOS 103 and later     | Google Chrome 103 and later     | 
 
-– Windows laptop/desktop with Microsoft Windows 10<br>
-– Apple laptop/desktop with Mac OS X 10.15 and later<br>
-– iPad with iOS 14 and later<br>
-– Android tablet with Android 10 and later<br><br>
-SLS is accessible through the latest internet browsers (minimum: Internet Microsoft Edge 88, Google Chrome 88, or Safari 14.)
 <br>
 If you are having trouble even though your browser meets the above requirements, refer to the [Web Browser Troubleshooting Tips.](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/WebBrowserTroubleshooting.html)
