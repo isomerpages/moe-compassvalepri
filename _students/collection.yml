@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Useful links.md
       - Student Learning Space.md
       - Students.md
       - School Library.md
