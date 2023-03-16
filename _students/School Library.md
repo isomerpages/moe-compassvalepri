@@ -3,7 +3,7 @@ title: School Library
 permalink: /students/school-library/
 description: ""
 ---
-## School Library
+### School Library
 #### OPAC (Online Public Access Catalogue) 
 <img src="/images/opac.jpg" style="width:85%">
 
