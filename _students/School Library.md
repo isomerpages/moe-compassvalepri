@@ -6,6 +6,7 @@ description: ""
 ### School Library
 #### OPAC (Online Public Access Catalogue) 
 <img src="/images/opac.jpg" style="width:85%">
+<br>
 
 #### What's in CVPS School Library?
 ##### **Log in to OPAC (Online Public Access Catalogue)**
@@ -16,7 +17,7 @@ Find out the new arrivals, what’s popular, leave a review, and more by visitin
 <br>
 
 
-##### **LOGIN DETAILS**<br><br>
+#### **LOGIN DETAILS**<br><br>
 
 | User ID: Birth Certificate Number<br>(all in upper case)<br><br>Password: Moe@DDMMYYYY<br>(Case sensitive and DDMMYYYY refers to the digits of your birthdate.) | <img src="/images/Library%20QR%20Code.png" style="width:85%"> | 
 | -------- | -------- | 
@@ -47,11 +48,11 @@ c.     Upon installing the mobile application, select your school library and lo
 * Every student can borrow up to 4 books (2 English and 2 Mother Tongue) for 2 weeks.
 * Students may use an EZ-Link Card or a photocopied version to borrow books.
 
-**Book Renewal**
+###### **Book Renewal**
 * Students may renew each book once for another 2 weeks.
 
-**Overdue Books**
+###### **Overdue Books**
 * Students cannot borrow more books if they have overdue books for more than a month.
 
-**Lost or Damaged Books**
+###### **Lost or Damaged Books**
 * Students have to replace lost or damaged books with books of similar value.
