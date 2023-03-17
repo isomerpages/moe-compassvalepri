@@ -10,4 +10,4 @@ image: ""
 <br>
 
 
-###### To view more pictures, please visit our facebook page by clicking [**here**].(https://www.facebook.com/compassvalepri/)
+###### To view more pictures, please visit our facebook page by clicking [**here.**](https://www.facebook.com/compassvalepri/)
