@@ -14,9 +14,9 @@ For instructions on how to **[Set Password Reset Email Address](/files/userguid
 During school operating hours, students should contact the **<u>School-Based Helpline</u>** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 **School-Based Helpline:** **6388** **2819**<br>
-**Mondays - Fridays: 8:00 am - 4:00 pm**
+Mondays - Fridays: 8:00 am - 4:00 pm
 
-For other matters, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of the school and form class.
+
 
 **Non-School Operating Hours**<br>
 Students can only contact the **<u>SLS Helpdesk</u>** outside the school operating hours.
