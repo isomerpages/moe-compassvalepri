@@ -11,4 +11,4 @@ image: ""
 <br>
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompassvalepri%2Fposts%2Fpfbid0y4Wng1sgEoNtyQbUSPkGdVFeMEhnQUnPTAPPhyGXr9ZBHjGhCjjvXQms9k9pEf7sl&show_text=true&width=500" width="500" height="696" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-###### **Click on the picture to connect to our Facebook Account.**
+###### Click [**here**](https://www.facebook.com/compassvalepri/) to visit our facebook page.
