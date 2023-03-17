@@ -10,9 +10,6 @@ sections:
       background: /images/CVPS3 Hero Banner.gif
       url: /contact-us/
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/
         - title: Calendar
           description: ""
           url: /calendar/
