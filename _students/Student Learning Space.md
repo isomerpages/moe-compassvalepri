@@ -63,4 +63,4 @@ The following are the recommended operating systems:<br>
 | ChromeOS 103 and later     | Google Chrome 103 and later     | 
 
 <br>
-If you are having trouble even though your browser meets the above requirements, refer to the [Web Browser Troubleshooting Tips.](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/WebBrowserTroubleshooting.html)
+If you are having trouble even though your browser meets the above requirements, please refer to the [Web Browser Troubleshooting Tips.](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/WebBrowserTroubleshooting.html)
