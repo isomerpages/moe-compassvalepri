@@ -29,7 +29,7 @@ Saturdays: 9:00 am - 9:00 pm<br>
 
 Alternatively, students can email the SLS Helpdesk at [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com). When emailing the SLS Helpdesk, they should include their full name, name of the school and form class.<br>
 
-For further information on login and technical issues, please click [**here**.](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
+For further information on login and technical issues, please click [here.](https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/index.html)
 #### **<u>Frequently Asked Questions</u>**<br>
 **Q1. I have forgotten my password. What should I do?** <br>
 There are three ways that you can reset your password:
