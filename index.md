@@ -1,7 +1,10 @@
 ---
 layout: homepage
 title: Compassvale Primary School
-description: Brief site description here
+description: >-
+  Contact Us. Tel: 6388 2819. Email: cvps@moe.edu.sg. 
+
+  Address. 21 Compassvale Street Singapore 545091. © Copyright 2023. Compassvale Primary School.
 image: /images/logo.jpg
 permalink: /
 notification: ""
@@ -32,3 +35,4 @@ sections:
       image: /images/cvps opac.png
       alt: Image alt text
 ---
+
