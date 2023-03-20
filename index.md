@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GIF1 draft - cvps.gif
+      background: /images/CVPS3 Hero Banner.gif
       url: /contact-us/
       key_highlights:
         - title: Calendar
