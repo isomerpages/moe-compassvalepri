@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - School Library.md
-      - Students.md
       - Student Learning Space.md
       - Useful links.md
