@@ -1,32 +1,38 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Compassvale Primary School
+description: >-
+  Contact Us. Tel: 6388 2819. Email: cvps@moe.edu.sg. 
+
+  Address. 21 Compassvale Street Singapore 545091. © Copyright 2023. Compassvale Primary School.
+image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/CVPS3 Hero Banner.gif
+      url: /contact-us/
+      key_highlights:
+        - title: Calendar
+          description: ""
+          url: /calendar/
+        - title: Contact
+          description: ""
+          url: /contact/school-vendors/school-bookshop/
+  - infobar:
+      title: Compassvale Primary School
+      description: THINKERS • LEADERS • CHAMPIONS
+  - resources:
+      title: News and Updates
+      button: Click for more
+  - infopic:
+      title: CVPS School Library
+      description: Find out the new arrivals, what’s popular, leave a review, and more
+        by visiting the webpage below. You will be able to view the books
+        without logging in.
+      button: Click here
+      url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      image: /images/cvps opac.png
+      alt: Image alt text
 ---
 

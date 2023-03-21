@@ -1,0 +1,8 @@
+collections:
+  parents-network:
+    output: true
+    order:
+      - Associate Parent Volunteers (APVs).md
+      - Join Us as PV.md
+      - Meet Our Parents.md
+      - PSG Activities.md
