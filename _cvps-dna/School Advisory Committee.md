@@ -9,7 +9,7 @@ description: ""
 
 |  |   |  |
 | -------- | -------- | -------- |
-| **Chairman**     | **Mr Jamie Chen**     | <img src="/images/sac1.jpg" style="width:50%">     |
+| **Chairman**     | **Mr Jamie Chen Yin Kiat**     | <img src="/images/sac1.jpg" style="width:50%">     |
 | **Vice-Chairman**     | **Mr Daniel Tham**     | <img src="/images/sac2.jpg" style="width:50%">     |
 | **Secretary**     | **Mr Jeffrey Aw**     | <img src="/images/sac3.jpeg" style="width:50%">     |
 | **Member**     | **Ms Celine Teo**     | <img src="/images/sac4.jpg" style="width:50%">     |
