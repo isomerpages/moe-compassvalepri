@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/CVPS3 Hero Banner.gif
+      background: /images/GIF1 draft 23marE.gif
       url: /contact-us/
       key_highlights:
         - title: Calendar
@@ -35,4 +35,3 @@ sections:
       image: /images/cvps opac.png
       alt: Image alt text
 ---
-

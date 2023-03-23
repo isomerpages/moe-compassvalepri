@@ -5,37 +5,18 @@ description: ""
 ---
 ### **School Advisory Committee**
 
-<img src="/images/sac2.jpg" style="width:30%;margin-right:85px;" align = "right">
-<img src="/images/sac1.jpg" style="width:30%;margin-left:85px;" align = "left">
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| Mr Jamie Chen Yin Kiat <br> **Chairman** | Mr Daniel Tham Weng Yong <br> **Vice-Chairman** |
-
-<img src="/images/sac4.jpg" style="width:30%;margin-right:85px;" align = "right">
-<img src="/images/sac3.jpeg" style="width:25%;margin-left:85px;" align = "left">
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| Mr Jeffrey Aw<br>**Secretary** |  Ms Celina Teo<br> **Member** |
-
-<img src="/images/sac6.jpg" style="width:30%;margin-right:85px;" align = "right">
-<img src="/images/sac5.jpg" style="width:31%;margin-left:85px;" align = "left">
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| Mr Eugene Koh<br> **Member** | Ms Elizabeth Ng<br> **Member** |
 
 
-| <img src="/images/sac7.png" style="width:28%"> |
-|:---:|
-| Mr Lee Kang Hwa<br>**Member** |
+|  |   |  |
+| -------- | -------- | -------- |
+| **Chairman**     | **Mr Jamie Chen**     | <img src="/images/sac1.jpg" style="width:40%">     |
+| **Vice-Chairman**     | **Mr Daniel Tham**     | <img src="/images/sac2.jpg" style="width:40%">     |
+| **Secretary**     | **Mr Jeffrey Aw**     | <img src="/images/sac3.jpeg" style="width:40%">     |
+| **Member**     | **Ms Celine Teo**     | <img src="/images/sac4.jpg" style="width:40%">     |
+| **Member**     | **Mr Eugene Koh**     | <img src="/images/sac5.jpg" style="width:40%">     |
+| **Member**     | **Ms Elizabeth Ng**     | <img src="/images/sac6.jpg" style="width:40%">     |
+| **Member**     | **Mr Lee Kang Hwa**     | <img src="/images/sac7.png" style="width:40%">     |
+|  |   |  |
 
 ##### **Purpose**
 The purpose of the Advisory Committees for Government Schools is to provide an opportunity for citizens and permanent residents to participate actively in the Government’s education policy of building a dynamic, strong and self-reliant generation. In the process, it aims to develop scholastic talents and healthy pursuits in schools as well as a strong sense of belonging to the nation.
