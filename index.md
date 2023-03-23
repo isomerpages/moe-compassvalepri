@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/students1reduced.jpg
+      background: /images/GIF1 draft 23mar.gif
       url: /contact-us/
       key_highlights:
         - title: Calendar
