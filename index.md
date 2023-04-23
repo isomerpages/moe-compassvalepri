@@ -38,7 +38,7 @@ sections:
         by visiting the webpage below. You will be able to view the books
         without logging in.
       button: Click here
-      url: https://www.compassvalepri.moe.edu.sg/students/school-library/
+      url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/cvps opac.png
       alt: Image alt text
 ---
