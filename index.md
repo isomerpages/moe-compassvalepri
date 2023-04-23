@@ -22,6 +22,19 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS • LEADERS • CHAMPIONS
+  - infobar:
+      title: Associate Parent Volunteers (APVs)
+      description: Application for the APV scheme closes on 1st May 2023
+      button: Please click here
+      url: https://www.compassvalepri.moe.edu.sg/parents-network/apvs/
+  - infopic:
+      title: Associate Parent Volunteers (APVs)
+      subtitle: Infopic Subtitle
+      description: Application for the APV scheme closes on 1st May 2023
+      button: Please click here
+      url: https://www.compassvalepri.moe.edu.sg/parents-network/apvs/
+      image: /images/apvs scheme.jpg
+      alt: Image alt text
   - resources:
       title: News and Updates
       button: Click for more
@@ -31,12 +44,7 @@ sections:
         by visiting the webpage below. You will be able to view the books
         without logging in.
       button: Click here
-      url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+      url: https://www.compassvalepri.moe.edu.sg/students/school-library/
       image: /images/cvps opac.png
       alt: Image alt text
-  - infobar:
-      title: Associate Parent Volunteers (APVs)
-      description: Application for the APV scheme closes on 1st May 2023
-      button: Please click here
-      url: https://www.compassvalepri.moe.edu.sg/parents-network/apvs/
 ---
