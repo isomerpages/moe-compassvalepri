@@ -22,11 +22,6 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS • LEADERS • CHAMPIONS
-  - infobar:
-      title: Associate Parent Volunteers (APVs)
-      description: Application for the APV scheme closes on 1st May 2023
-      button: Please click here
-      url: https://form.gov.sg/637e15b7361f4c0012af0e9d
   - infopic:
       title: Associate Parent Volunteers (APVs)
       description: Application for the APV scheme closes on 1st May 2023
