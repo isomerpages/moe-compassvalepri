@@ -34,4 +34,9 @@ sections:
       url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/cvps opac.png
       alt: Image alt text
+  - infobar:
+      title: Associate Parent Volunteers (APVs)
+      description: Application for the APV scheme closes on 1st May 2023
+      button: Please click here
+      url: https://www.compassvalepri.moe.edu.sg/parents-network/apvs/
 ---
