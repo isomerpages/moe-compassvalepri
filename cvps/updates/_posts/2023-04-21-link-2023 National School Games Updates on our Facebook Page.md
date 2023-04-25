@@ -1,5 +1,5 @@
 ---
-title: 2023 National School Games Updates on our FB Page
+title: 2023 National School Games Updates on our Facebook Page
 date: 2023-04-21
 layout: link
 description: ""
