@@ -13,10 +13,10 @@ sections:
       background: /images/GIF1 draft 23marE.gif
       url: /contact-us/
       key_highlights:
-        - title: Calendar
+        - title: SCHOOL Calendar
           description: ""
           url: /calendar/
-        - title: Contact
+        - title: CONTACT US
           description: ""
           url: /contact/school-vendors/school-bookshop/
   - infobar:
