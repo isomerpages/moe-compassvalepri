@@ -13,22 +13,15 @@ sections:
       background: /images/GIF1 draft 23marE.gif
       url: /contact-us/
       key_highlights:
-        - title: Calendar
+        - title: SCHOOL Calendar
           description: ""
           url: /calendar/
-        - title: Contact
+        - title: CONTACT US
           description: ""
           url: /contact/school-vendors/school-bookshop/
   - infobar:
       title: Compassvale Primary School
-      description: THINKERS • LEADERS • CHAMPIONS
-  - infopic:
-      title: Associate Parent Volunteers (APVs)
-      description: Application for the APV scheme closes on 1st May 2023
-      button: Please click here
-      url: https://www.compassvalepri.moe.edu.sg/parents-network/apvs/
-      image: /images/apvs scheme.jpg
-      alt: Image alt text
+      description: "   THINKERS        •       LEADERS       •       CHAMPIONS"
   - resources:
       title: News and Updates
       button: Click for more
