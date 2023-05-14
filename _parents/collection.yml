@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - School Vendors.md
       - General School Information.md
       - Parents Gateway Mobile App.md
       - PDPA.md
       - School Notifications.md
+      - School Vendors.md
       - Sexuality Education Programme.md
       - 2023 Booklists.md
