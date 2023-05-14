@@ -13,6 +13,9 @@ sections:
       background: /images/GIF1 draft 23marE.gif
       url: /contact-us/
       key_highlights:
+        - title: Open House 2023
+          description: ""
+          url: /openhouse2023
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
