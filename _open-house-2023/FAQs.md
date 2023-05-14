@@ -20,7 +20,7 @@ Yes, we are resourced with the same level of support as per other primary school
 We have designed our P1 curriculum structure to acclimatise pre-school children to the primary school routine. We note that increasingly, pre-schools have been teaching their students social skills and study skills which are useful for the children in the transition.
 
 **Q4. If my child faces challenges in his academic, what are the programmes or assistance available to support him/her?**<br>
-We have various programmes to provide additional learning support to our students, such as the Learning Support Programmes for Engllsh and Mathematics
+We have various programmes to provide additional learning support to our students, such as the Learning Support Programmes for English and Mathematics
  
 #### Recess, Lunch and Snack Breaks
 **Q5. Can you share what kind of food is available at the canteen? Is it healthier choice?** <br>
