@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Open House 2023
           description: ""
-          url: /openhouse2023
+          url: /openhouse
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
