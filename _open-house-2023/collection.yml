@@ -2,10 +2,10 @@ collections:
   open-house-2023:
     output: true
     order:
-      - Welcome Speeches/Chairman, Parent Support Group.md
       - Welcome Speeches/.keep
       - Welcome Speeches/Principal's Message.md
       - Welcome Speeches/Chairman, School Advisory Committee.md
+      - Welcome Speeches/Chairman, Parent Support Group.md
       - Welcome to CVPS!.md
       - Open House Highlights.md
       - General Information.md
