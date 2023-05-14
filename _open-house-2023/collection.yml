@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Welcome to CVPS!.md
-      - FAQs.md
       - Welcome Speeches.md
       - Open House Highlights.md
       - General Information.md
+      - FAQs.md
