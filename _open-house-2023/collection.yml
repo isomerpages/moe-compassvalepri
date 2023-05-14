@@ -2,8 +2,8 @@ collections:
   open-house-2023:
     output: true
     order:
-      - Principal's Message/Welcome Speeches.md
-      - Principal's Message/.keep
+      - Welcome Speeches/Welcome Speeches.md
+      - Welcome Speeches/.keep
       - Welcome to CVPS!.md
       - Open House Highlights.md
       - General Information.md
