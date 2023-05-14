@@ -2,5 +2,6 @@ collections:
   open-house-2023:
     output: true
     order:
+      - Welcome Speeches.md
       - Open House Highlights.md
       - General Information.md
