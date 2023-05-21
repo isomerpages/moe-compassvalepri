@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Open House 2023
           description: ""
-          url: /open-house-2023/welcome-to-cvps!//
+          url: /open-house-2023/welcome-to-cvps!/
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
@@ -24,7 +24,7 @@ sections:
           url: /contact/school-vendors/school-bookshop/
   - infobar:
       title: Compassvale Primary School
-      description: "   THINKERS        •       LEADERS       •       CHAMPIONS"
+      description: THINKERS        •       LEADERS       •       CHAMPIONS
   - resources:
       title: News and Updates
       button: Click for more
