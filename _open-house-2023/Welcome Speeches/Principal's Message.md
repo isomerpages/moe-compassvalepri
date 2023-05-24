@@ -6,7 +6,7 @@ third_nav_title: Welcome Speeches
 ---
 ### **Principal's Message**
 
-<img src="/images/p_mr_aw.jpg" style="width:85%">
+<img src="/images/p_mr_aw.jpg" style="width:55%">
 
 Dear Visitor,<br>
 Welcome to the Compassvale Primary School website.
