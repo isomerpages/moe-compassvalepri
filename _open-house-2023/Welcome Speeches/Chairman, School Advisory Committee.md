@@ -7,7 +7,7 @@ third_nav_title: Welcome Speeches
 ### Message from Chair of the School Advisory Committee CVPS
 
 
-<img src="/images/.jpg" style="width:85%">
+<img src="/images/sac1.jpg" style="width:45%">
 
 
 **Dear Prospective P1 Parents,** <br>
@@ -18,6 +18,6 @@ From all the years of experience with CVPS, I am assured of the holistic educati
 On behalf of the SAC, we look forward to your participation at the Open House!  
 
 Warmest regards, <br>
-**Mr Jamie Chen** <br>
+Mr Jamie Chen <br>
 Chair of the School Advisory Committee
 CVPS
