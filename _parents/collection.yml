@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - School Canteen/General School Information.md
       - School Canteen/.keep
       - Parents Gateway Mobile App.md
       - PDPA.md
