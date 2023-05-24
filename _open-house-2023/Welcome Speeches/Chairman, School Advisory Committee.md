@@ -4,7 +4,7 @@ permalink: /open-house-2023/welcome-speeches/sac/
 description: ""
 third_nav_title: Welcome Speeches
 ---
-### Message from Chair of the School Advisory Committee CVPS
+##### Message from Chair of the School Advisory Committee CVPS
 
 
 <img src="/images/sac1.jpg" style="width:45%">
