@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Canteen/.keep
-      - General School Information.md
       - Parents Gateway Mobile App.md
       - PDPA.md
       - School Notifications.md
