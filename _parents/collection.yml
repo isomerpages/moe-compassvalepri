@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - General School Information draft.md
+      - General School Information/General Information.md
       - General School Information/School Canteen.md
       - General School Information/.keep
       - Parents Gateway Mobile App.md
