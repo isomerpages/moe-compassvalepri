@@ -4,7 +4,7 @@ permalink: /open-house-2023/welcomespeeches/principal/
 description: ""
 third_nav_title: Welcome Speeches
 ---
-<img src="/images/p_mr_aw.jpg" style="width:45%">
+<img src="/images/p_mr_aw.jpg" style="width:40%">
 
 Dear Visitor,<br>
 Welcome to the Compassvale Primary School website.
