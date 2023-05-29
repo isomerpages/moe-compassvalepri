@@ -6,6 +6,8 @@ third_nav_title: Welcome Speeches
 ---
 ##### Message from EXCO Core Team Member, Lead Coorindator, Mentoring &amp; Outreach
 
+![](/images/mdm%20dorothy%20png.JPG)
+
 Dearest Prospective Parents, <br>
 
 In line with our school’s theme for Open House 2023 which is “The Compassvale Experience”, I would like to share my experience in Compassvale Primary School as a parent thus far. Indeed, parenting is not easy, especially raising a child in this increasingly complex world. The presence of a supportive community has made a difference in helping me navigate through the ups and downs in my parenting journey. There’s a saying - it takes a village to raise a child. Who is this village? They are the school leaders, teachers and parents of my children’s classmates and schoolmates who play a significant role in my children’s holistic well-being and development. Personally, I strongly believe in home-school partnership. Looking back, maintaining an open conversation with teachers has given me much assurance that my child is adapting well especially when it was nerve-wrecking, at least for myself when my child entered Primary 1. <br>
