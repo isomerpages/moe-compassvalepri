@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - General School Information draft.md
       - School Information/General Information.md
       - School Information/School Canteen.md
       - School Information/.keep
