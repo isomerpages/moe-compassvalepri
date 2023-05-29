@@ -5,10 +5,8 @@ description: ""
 third_nav_title: Welcome Speeches
 ---
 ##### Message from EXCO Core Team Member, Lead Coorindator, Mentoring &amp; Outreach
-
-<img src="/images/mdmdorothy.jpg" style="width:40%">
-
-![](/images/mdm%20dorothy%20png.JPG)
+<br>
+<img src="/images/mdmdorothy.JPG" style="width:40%">
 
 Dearest Prospective Parents, <br>
 
