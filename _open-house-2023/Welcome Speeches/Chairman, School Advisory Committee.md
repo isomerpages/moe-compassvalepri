@@ -7,7 +7,7 @@ third_nav_title: Welcome Speeches
 ##### Message from Chair of the School Advisory Committee CVPS
 
 
-<img src="/images/sac1.jpg" style="width:45%">
+<img src="/images/sac1.jpg" style="width:40%">
 
 
 **Dear Prospective P1 Parents,** <br>
