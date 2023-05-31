@@ -4,8 +4,6 @@ permalink: /open-house-2023/welcome-speeches/psg/
 description: ""
 third_nav_title: Welcome Speeches
 ---
-##### Message from EXCO Core Team Member, Lead Coorindator, Mentoring &amp; Outreach
-<br>
 <img src="/images/mdmdorothy.JPG" style="width:40%">
 
 Dearest Prospective Parents, <br>
