@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Open House 2023
           description: ""
-          url: /open-house-2023/welcomespeeches/principal/
+          url: /open-house-2023/welcomevideo/
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
