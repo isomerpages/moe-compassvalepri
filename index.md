@@ -25,6 +25,14 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infopic:
+      title: CVPS Open House
+      subtitle: Upcoming soon!
+      description: Join us to know about The Compassvale Experience
+      button: Click here
+      url: /open-house-2023/welcomevideo/
+      image: /images/website_banner_resized.jpg
+      alt: Image alt text
   - resources:
       title: News and Updates
       button: Click for more
@@ -36,13 +44,5 @@ sections:
       button: Click here
       url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/cvps opac.png
-      alt: Image alt text
-  - infopic:
-      title: CVPS Open House
-      subtitle: Upcoming soon!
-      description: Join us to know about The Compassvale Experience
-      button: Click here
-      url: /open-house-2023/welcomevideo/
-      image: /images/website_banner_resized.jpg
       alt: Image alt text
 ---
