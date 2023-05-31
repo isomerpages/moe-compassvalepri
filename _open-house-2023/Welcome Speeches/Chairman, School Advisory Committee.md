@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Welcome Speeches
 ---
 <img src="/images/sac1.jpg" style="width:40%">
-
+<br>
 
 **Dear Prospective P1 Parents,** <br>
 
