@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Welcome Speeches
 ---
 <img src="/images/p_message_openhouse23.jpg" style="width:40%">
-<br><br>
+<br>
+
 Dear Visitor,<br>
 Welcome to the Compassvale Primary School website.
 
