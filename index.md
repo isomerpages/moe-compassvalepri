@@ -27,7 +27,7 @@ sections:
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infopic:
       title: CVPS Open House
-      subtitle: Upcoming soon!
+      subtitle: Coming soon!
       description: Join us to know about The Compassvale Experience
       button: Click here
       url: /open-house-2023/welcomevideo/
