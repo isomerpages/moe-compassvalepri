@@ -1,6 +1,6 @@
 ---
 title: General School Information
-permalink: /parents/general-school-information/
+permalink: /parents/generalschoolinfo/
 description: ""
 ---
 ### **General School Information**
@@ -38,7 +38,7 @@ b.   **What Parents/Guardians Can Do:** Teach your child/ward the properly way t
 |  |  |
 |---|---|
 | Reporting Time |  7.40 a.m. |
-| National Anthem & Pledge-taking |  7.50 a.m. |
+| National Anthem &amp; Pledge-taking |  7.50 a.m. |
 | Start of Lesson |  8.00 a.m. |
 | Dismissal time (Monday, Wednesday and Thursday) :<br>Support lessons will be conducted for identified P1 to P6 students<br>on Wednesday and Thursday |  1.30 p.m. |
 | Dismissal time (Tuesday and Friday) |  2.30 p.m. |
@@ -47,13 +47,13 @@ b.   **What Parents/Guardians Can Do:** Teach your child/ward the properly way t
 
 #### **6  Recesses/Lunch Breaks**
 
-Please note our Recess/Lunch schedule below.
+Please&nbsp;note our Recess/Lunch schedule below.
 
-| Level | Recess | Lunch Break On <br> Tuesdays & Fridays |
+| Level | Recess | Lunch Break On <br> Tuesdays &amp; Fridays |
 |:---:|:---:|:---:|
-| P1 & P6	 | 10.00 a.m. to 10.30 a.m.	 | 12.30 p.m. to 1.00 p.m. |
-| P2 & P4	 | 9.30 a.m. to 10.00 a.m.	 | 12.00 p.m. to 12.30 p.m |
-| P3 & P5	 | 10.30 a.m. to 11.00 a.m.	 | 1.00 p.m.  to 1.30 p.m. |
+| P1 &amp; P6	 | 10.00 a.m. to 10.30 a.m.	 | 12.30 p.m. to 1.00 p.m. |
+| P2 &amp; P4	 | 9.30 a.m. to 10.00 a.m.	 | 12.00 p.m. to 12.30 p.m |
+| P3 &amp; P5	 | 10.30 a.m. to 11.00 a.m.	 | 1.00 p.m.  to 1.30 p.m. |
 |
 
 #### **7  School Bags**
@@ -66,13 +66,13 @@ a.    We believe that regular and open communication between school and parents/
 
 b.    The Student Handbook is another means for you to communicate with our teachers. You may write short notes in the Handbook and address it to the teacher concerned. Please remind your child/ward to show the teacher the note that you have written. 
 
-c.    The operation hours for our General Office are from 0745hrs to 1700hrs from Monday to Friday. We are closed on Saturday, Sunday and Public Holidays. If you wish to call our General Office, our telephone numbers are: 6388 2819 & 6384 5619.  
+c.    The operation hours for our General Office are from 0745hrs to 1700hrs from Monday to Friday. We are closed on Saturday, Sunday and Public Holidays. If you wish to call our General Office, our telephone numbers are: 6388 2819 &amp; 6384 5619.  
 
 d.    We actively manage the school calendar on our webpage so that you can plan ahead to coordinate with our schedule of activities.
 
-You may wish to bookmark [https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&ctz=Asia/Singapore](https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&ctz=Asia/Singapore) in your browser.
+You may wish to bookmark&nbsp;[https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&amp;ctz=Asia/Singapore](https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&amp;ctz=Asia/Singapore)&nbsp;in your browser.
 
-If you are an ical calendar user, you may wish to add [https://calendar.google.com/calendar/ical/cvpspublic%40gmail.com/public/basic.ics](https://calendar.google.com/calendar/ical/cvpspublic%40gmail.com/public/basic.ics)
+If you are an ical calendar user, you may wish to add&nbsp;[https://calendar.google.com/calendar/ical/cvpspublic%40gmail.com/public/basic.ics](https://calendar.google.com/calendar/ical/cvpspublic%40gmail.com/public/basic.ics)
 
 #### **9  Financial Assistance Scheme (FAS)**
 
@@ -81,4 +81,4 @@ a.  Please approach our clerical staff at the General Office if you would like t
 b.    The School Meals Programme provides $2.60 per day for breakfast/recess and an additional subsidy of 2 meals at $2.60 per meal per student per school week to cater for their after-school needs. 
 
 #### **10  Student Protection Plan**
-The school has purchased a Student Protection Plan from NTUC Income Insurance Co-operative Limited for all its students. The plan provides worldwide accident coverage for students during school activities. The full cost of the Student Protection Plan will be borne by the school.
+The&nbsp;school&nbsp;has purchased a Student Protection Plan&nbsp;from NTUC Income Insurance Co-operative Limited for all its students. The plan provides worldwide accident coverage for students during school activities. The full cost of the Student Protection Plan will be borne by the school.

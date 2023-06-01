@@ -10,9 +10,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GIF1 draft 23marE.gif
+      background: /images/open house banner 01junee.gif
       url: /contact-us/
       key_highlights:
+        - title: Open House 2023
+          description: ""
+          url: /open-house-2023/welcomevideo/
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
@@ -21,7 +24,15 @@ sections:
           url: /contact/school-vendors/school-bookshop/
   - infobar:
       title: Compassvale Primary School
-      description: "   THINKERS        •       LEADERS       •       CHAMPIONS"
+      description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infopic:
+      title: CVPS Open House
+      subtitle: Coming soon!
+      description: Join us to know about The Compassvale Experience
+      button: Click here
+      url: /open-house-2023/welcomevideo/
+      image: /images/website_banner_resized.jpg
+      alt: Image alt text
   - resources:
       title: News and Updates
       button: Click for more
