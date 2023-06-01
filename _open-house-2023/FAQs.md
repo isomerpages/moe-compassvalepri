@@ -3,7 +3,7 @@ title: FAQs
 permalink: /open-house-2023/faqs/
 description: ""
 ---
-# FAQs
+
 #### <u>Communication with Teachers</u>
 **Q1. How do parents/guardians communicate with the teachers?** <br>
 Parents/guardians can communicate with the teachers by:<br>
