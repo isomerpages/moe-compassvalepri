@@ -3,7 +3,6 @@ title: General Information
 permalink: /open-house-2023/generalinfo/
 description: ""
 ---
-##### General Information
 
 P1 Registration Exercise will be fully online. You may register your child online in a phase as long as you fulfil at least one of the requirements for that phrase.
 
