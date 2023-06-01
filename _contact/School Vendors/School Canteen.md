@@ -19,14 +19,13 @@ third_nav_title: School Vendors
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office. <br>
 [Application Form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf)
 <br>
-
-2. Attached the following documents together with the application form: <br>
+<br>
+2. Attached the following documents together with the application form: 
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 <br>
 3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
-<br>
 * Address: Compassvale Primary School
 21 Compassvale Street
 Singapore 545091
@@ -36,7 +35,8 @@ Singapore 545091
 
 **How to get there?**
 * Nearest MRT: NE 16 Sengkang
-* Bus number: 27, 83, 89 <br>
+* Bus number: 27, 83, 89 
+<br>
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
