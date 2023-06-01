@@ -3,8 +3,7 @@ title: FAQs
 permalink: /open-house-2023/faqs/
 description: ""
 ---
-
-#### <u>Communication with Teachers</u>
+#### Communication with Teachers
 **Q1. How do parents/guardians communicate with the teachers?** <br>
 Parents/guardians can communicate with the teachers by:<br>
 * writing a note in the Student Handbook; or
@@ -12,7 +11,7 @@ Parents/guardians can communicate with the teachers by:<br>
 * calling the General Office and leave a note for the teacher to return call.
 Parents/Guardians may wish to check with the teachers on their preferred modes of communication.
 
-#### <u>Support for Students with Special Needs </u><br>
+#### Support for Students with Special Needs <br>
 **Q2. Is there any support for students with special needs?** <br>
 Yes, we are resourced with the same level of support as per other primary schools in Singapore.
 
