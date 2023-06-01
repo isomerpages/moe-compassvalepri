@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/open house banner 01june r1.gif
+      background: /images/open house banner 01juneb.gif
       url: /contact-us/
       key_highlights:
         - title: Open House 2023
