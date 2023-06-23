@@ -18,8 +18,6 @@ In Compassvale Primary, we believe in understanding the immediate needs of the c
 
 There are many good primary schools in the Sengkang/ Punggol area and each has its own signature. The schools in the network complement one another to serve the Sengkang/ Punggol communities by providing choices for parents so that they can find the best fit for their children. We hope you will find one that will provide an experience that is best suited to your child’s inclinations. Should we have the privilege of being that match, we look forward to meeting you at our P1 Orientation.
 
-If you are interested to join our Parent Support Group (PSG), do get in touch with the committee through this online form -&nbsp;[https://goo.gl/5qRn06](https://goo.gl/5qRn06). We look forward to your contributions to make the primary school experience a better one for our Compassvalites.
-
 Best,<br>
 Jeffrey Aw<br>
 Principal
