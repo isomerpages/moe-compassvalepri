@@ -1,0 +1,5 @@
+---
+title: Open House Highlights
+permalink: /open-house-2023/highlights/
+description: ""
+---
