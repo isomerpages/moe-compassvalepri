@@ -2,7 +2,6 @@ collections:
   contact:
     output: true
     order:
-      - School Bus Operator/.keep
       - Location.md
       - School Vendors/.keep
       - School Vendors/School Bookshop.md
