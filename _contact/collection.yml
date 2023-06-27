@@ -2,7 +2,6 @@ collections:
   contact:
     output: true
     order:
-      - School Transport/.keep
       - School Vendors Advertisement/.keep
       - Location.md
       - School Vendors/.keep
