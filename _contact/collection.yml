@@ -2,8 +2,6 @@ collections:
   contact:
     output: true
     order:
-      - School Vendors Advertisement/School Canteen draft.md
-      - School Vendors Advertisement/.keep
       - Location.md
       - School Vendors/.keep
       - School Vendors/School Bookshop.md
@@ -12,3 +10,5 @@ collections:
       - School Vendors/School Uniform.md
       - School Vendors/School Transport.md
       - School Vendors/School Dental Service.md
+      - School Vendors Advertisement/.keep
+      - School Vendors Advertisement/School Canteen draft.md
