@@ -17,7 +17,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1. Complete the   [Call for Proposal - Annex A](/files/cvps300623_attachment%202%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023).pdf)
 
-2. Submit the completed Call for Proposal – Annex A by closing date, <u>**12 JULY 2023**</u> , to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, **<u>12 JULY 2023</u>** , to the School’s General Office.
 
 * Address: 21 COMPASSVALE STREET SINGAPORE 545091
 * Contact No: 6388 2819
