@@ -1,8 +1,8 @@
 ---
 title: School Canteen
-permalink: /contact/school-vendors/canteen/
+permalink: /contact/school-vendors-advertisement/schoolcanteen/
 description: ""
-third_nav_title: School Vendors
+third_nav_title: School Vendors Advertisement
 ---
 ### School Canteen Advertisement
 

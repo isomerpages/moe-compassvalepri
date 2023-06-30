@@ -13,5 +13,5 @@ third_nav_title: School Vendors
 | **Tel** | 8800 0262 &nbsp; (mobile number)<br>6282 0262 &nbsp; (office number)|
 |
 
-Submit request via the following link [cvps.sfxtransport.com.sg](http://cvps.sfxtransport.com.sg/)<br>
-Deadline for submission **30/11/22**
+Submit request via the following link&nbsp;[cvps.sfxtransport.com.sg](http://cvps.sfxtransport.com.sg/)<br>
+Please contact SFX Transport Services for school bus services.
