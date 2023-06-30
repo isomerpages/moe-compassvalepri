@@ -26,5 +26,6 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 
 **How to get there?**
-* Nearest MRT: NE 16 Sengkang
-* Bus number: SE1 Compassvale
+* Nearest MRT Station: NE 16 Sengkang
+* Nearest LRT Station: SE1 Compassvale
+* Bus number: 27, 83, 89
