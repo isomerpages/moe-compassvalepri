@@ -4,7 +4,7 @@ permalink: /contact/school-vendors-advertisement/schooltransport/
 description: ""
 third_nav_title: School Vendors Advertisement
 ---
-#### School Bus Advertisement
+### School Bus Advertisement
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
