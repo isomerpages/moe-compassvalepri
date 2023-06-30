@@ -9,7 +9,7 @@ third_nav_title: School Vendors Advertisement
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-1.  [Call for Proposal](/files/call%20for%20proposals%20by%20school.pdf)
+1.   [Call for Proposal](/files/call%20for%20proposals%20by%20school.pdf)
  
 2.	 [Agreement for Appointment of School Bus Operator](/files/cvps300623_attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator%20(version%20june%202023).pdf)
 
