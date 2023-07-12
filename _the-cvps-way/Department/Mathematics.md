@@ -8,7 +8,7 @@ third_nav_title: Department
 #### **Our Learning Approach**
 Our teaching philosophy is one with the belief that every child is unique. Here in Compassvale Primary School, we believe that every child is a Thinker, Leader and Champion. Hence, we cater to a variety of approaches so that meaningful and enjoyable learning could take place for every child. We facilitate the acquisition of skills and knowledge through a variety of activities and tools.  **Concrete-pictorial-abstract (CPA)** activities and **Info-Communication Technology (ICT)**  are incorporated in the curriculum to enhance the teaching and learning of Mathematics. We use a variety of ICT tools such as Student Learning Space (SLS), Google Form and Nearpod. The curriculum is progressive and spiral so that learning would engage and accompany each child in these 6 years, bringing out the joy of learning.
 
-**Primary 1 and 2**<br>
+**Mathematics Primary 1 and 2**<br>
 As each child begins his/her journey in learning Mathematics with us, he/she will go through a fun and engaging way through varied activities in our key programmes. The **Mathematics Big Book Reading Programme** helps our younger students to develop interest and motivation in learning Mathematics. This programme uses Math stories and role plays.
 
 Plenty of opportunities for hands-on and activity-based learning are provided through the use of our **Sustained Support for Mathematics (SSM)**. Compassvalites are provided with manipulatives to visualize the concepts in a concrete way. They will also be exposed to our in-house programme, **HATS in MATHS**. HATS, short for Heuristics and Thinking Skills, aims to develop their thinking skills and equip them with different strategies, which in turn develops our thinkers’ problem-solving skills --- a crucial life skill. 
@@ -25,16 +25,15 @@ Learning does not end in the classroom. Your child gets to participate in the **
 **Mathematics Big Book Reading Programme**<br>
 Mathematics Big Book Reading Programme helps our younger students to develop interest and motivation in learning Mathematics using Math stories and role plays. Through these interactive activities, they have fun with Mathematics and deepen their understanding of Mathematical concepts. Hands-on activities are also designed to accompany the Big Book stories in the P1 and P2 classrooms. 
 
-<img src="/images/mathphoto3.jpg" style="width:100%;margin-right:15px;" align="left"> <br><br><br>
-
+<img src="/images/mathphoto3.jpg" style="width:100%;margin-right:15px;" align="left"> <br>
+<br>
 
 **Learning Support for Mathematics (LSM)**<br>
 LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
 
 
-
-<img src="/images/math5.jpeg" style="width:27%;margin-right:15px;" align="left">
-<img src="/images/math6.jpeg" style="width:19%;margin-right:15px;" align="left">
+<img src="/images/mathphoto3a.jpg" style="width:46%;margin-right:15px;" align="left">
+<img src="/images/mathphoto3b.jpg" style="width:46%;margin-right:15px;" align="left">
 
 <br clear="left">
 
