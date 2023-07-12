@@ -47,6 +47,7 @@ At Primary 4 level, your child may also have an opportunity to participate in **
 
 <img src="/images/mathphoto4.jfif" style="width:45%;margin-right:15px;" align="left">
 <img src="/images/mathphoto7.jfif" style="width:45%;margin-right:15px;" align="left">
+<br><br>
 <img src="/images/mathphoto6.jfif" style="width:45%;margin-right:15px;" align="left">
 <img src="/images/mathphoto5.jfif" style="width:45%;margin-right:15px;" align="left">
 
