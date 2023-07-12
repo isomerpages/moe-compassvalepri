@@ -15,11 +15,7 @@ Plenty of opportunities for hands-on and activity-based learning are provided th
 
 In addition, the enhanced **Learning Support Programme for Mathematics (LSM)** supports selected Primary 1 and 2 children to strengthen their foundation in Mathematics to ensure that every child is well-equipped to advance in their journey in Mathematics.
 
-Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted. 
-
-
-
-<br clear="left">
+Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted. <br>
 
 #### **Specialty Programme**
 **Mathematics Big Book Reading Programme**<br>
@@ -29,12 +25,12 @@ Mathematics Big Book Reading Programme helps our younger students to develop int
 **Learning Support for Mathematics (LSM)**<br>
 LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
 
-<img src="/images/mathphoto3.jpg" style="width:60%;margin-right:15px;" align="left"> <br>
-<br>
+<img src="/images/mathphoto3.jpg" style="width:60%;margin-right:15px;" align="left"> 
 <img src="/images/mathphoto3a.jpg" style="width:40%;margin-right:15px;" align="left">
 <img src="/images/mathphoto3b.jpg" style="width:40%;margin-right:15px;" align="left">
-
 <br clear="left">
+
+
 
 **Primary 3 and 4**<br>
 As each student progresses to the intermediate stage in their Mathematics journey, he/she is exposed to a more abstract concept. The use of **SSM** is integral in the acquisition of concepts as they help to provide a concrete and visual platform for their learning, while keeping them engaged. Group-based activity becomes more frequent as the children support each other in collaborative learning.
