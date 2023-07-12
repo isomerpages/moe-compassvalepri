@@ -32,8 +32,8 @@ Mathematics Big Book Reading Programme helps our younger students to develop int
 LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
 
 
-<img src="/images/mathphoto3a.jpg" style="width:46%;margin-right:15px;" align="left">
-<img src="/images/mathphoto3b.jpg" style="width:46%;margin-right:15px;" align="left">
+<img src="/images/mathphoto3a.jpg" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/mathphoto3b.jpg" style="width:40%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -45,9 +45,9 @@ Each child will now be exposed to more complex strategies in the **HATS** packag
 
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
-<img src="/images/mathphoto4.jfif" style="width:45%;margin-right:15px;" align="left">  <img src="/images/mathphoto7.jfif" style="width:45%;margin-right:15px;" align="left"><br>
-<img src="/images/mathphoto6.jfif" style="width:45%;margin-right:15px;" align="left"><br>
-<img src="/images/mathphoto5.jfif" style="width:45%;margin-right:15px;" align="left"><br>
+<img src="/images/mathphoto4.jfif" style="width:40%;margin-right:15px;" align="left">  <img src="/images/mathphoto7.jfif" style="width:40%;margin-right:15px;" align="left"><br>
+<img src="/images/mathphoto6.jfif" style="width:40%;margin-right:15px;" align="left"><br>
+<img src="/images/mathphoto5.jfif" style="width:40%;margin-right:15px;" align="left"><br>
 
 
 <br clear="left">
@@ -76,8 +76,8 @@ As students transit to the upper primary level, they will face with more advance
 
 For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
 
-<img src="/images/mathphoto10.jfif" style="width:46%;margin-right:15px;" align="left">
-<img src="/images/mathphoto11.jfif" style="width:46%;margin-right:15px;" align="left">
+<img src="/images/mathphoto10.jfif" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/mathphoto11.jfif" style="width:40%;margin-right:15px;" align="left">
 <br><br>
 
 <br><br>
