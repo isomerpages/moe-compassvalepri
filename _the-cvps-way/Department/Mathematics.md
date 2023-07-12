@@ -18,8 +18,6 @@ In addition, the enhanced **Learning Support Programme for Mathematics (LSM)** s
 Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted. 
 
 
-<img src="/images/math2.jpeg" style="width:41%;margin-right:55px;" align="right">
-<img src="/images/math1.jpeg" style="width:35.5%;margin-left:55px;" align="left">
 
 <br clear="left">
 
@@ -27,12 +25,14 @@ Learning does not end in the classroom. Your child gets to participate in the **
 **Mathematics Big Book Reading Programme**<br>
 Mathematics Big Book Reading Programme helps our younger students to develop interest and motivation in learning Mathematics using Math stories and role plays. Through these interactive activities, they have fun with Mathematics and deepen their understanding of Mathematical concepts. Hands-on activities are also designed to accompany the Big Book stories in the P1 and P2 classrooms. 
 
+<img src="/images/mathphoto3.jpg" style="width:100%;margin-right:15px;" align="left"> <br><br><br>
+
+
 **Learning Support for Mathematics (LSM)**<br>
 LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
 
 
-<img src="/images/mathphoto3.jpg" style="width:50%;margin-right:15px;" align="left">
-<img src="/images/math4.jpeg" style="width:15%;margin-right:15px;" align="left">
+
 <img src="/images/math5.jpeg" style="width:27%;margin-right:15px;" align="left">
 <img src="/images/math6.jpeg" style="width:19%;margin-right:15px;" align="left">
 
@@ -46,9 +46,11 @@ Each child will now be exposed to more complex strategies in the **HATS** packag
 
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
-<img src="/images/math7.jpeg" style="width:28%;margin-right:15px;" align="left">
-<img src="/images/math8.jpeg" style="width:37%;margin-right:15px;" align="left">
-<img src="/images/math9.jpeg" style="width:28%;margin-right:15px;" align="left">
+<img src="/images/mathphoto4.jfif" style="width:45%;margin-right:15px;" align="left">
+<img src="/images/mathphoto7.jfif" style="width:45%;margin-right:15px;" align="left">
+<img src="/images/mathphoto6.jfif" style="width:45%;margin-right:15px;" align="left">
+<img src="/images/mathphoto5.jfif" style="width:45%;margin-right:15px;" align="left">
+
 
 <br clear="left">
 
@@ -76,13 +78,18 @@ As students transit to the upper primary level, they will face with more advance
 
 For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
 
+<img src="/images/mathphoto10.jfif" style="width:45%;margin-right:15px;" align="left">
+<img src="/images/mathphoto11.jfif" style="width:45%;margin-right:15px;" align="left">
+<br><br>
+
+<br><br>
 
 #### **Specialty Programme**
 **Mathematics Olympiad**<br>
 **Excellence 2000 (E2K) Mathematics**
 
-<img src="/images/math12.jpeg" style="width:24.5%;margin-right:15px;" align="left">
-<img src="/images/math13.jpeg" style="width:43%;margin-right:15px;" align="left">
-<img src="/images/math14.jpeg" style="width:24.5%;margin-right:15px;" align="left">
+<img src="/images/math.jpeg" style="width:24.5%;margin-right:15px;" align="left">
+<img src="/images/math.jpeg" style="width:43%;margin-right:15px;" align="left">
+<img src="/images/math.jpeg" style="width:24.5%;margin-right:15px;" align="left">
 
 <br clear="left">
