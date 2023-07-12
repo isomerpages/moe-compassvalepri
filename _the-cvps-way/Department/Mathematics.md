@@ -6,19 +6,19 @@ third_nav_title: Department
 ---
 ### **Mathematics**
 #### **Our Learning Approach**
-Our teaching philosophy is one with the belief that every child is unique. Here in Compassvale Primary School, we believe that every child is a Thinker, Leader and Champion. Hence, we cater to a variety of approaches so that meaningful and enjoyable learning could take place for every child. We facilitate the acquisition of skills and knowledge through a variety of activities and tools such as the use of **concrete-pictorial-abstract (CPA)** activities from Primary One and infusing **Info-Communication Technology (ICT)** in the teaching and learning of Mathematics. The curriculum is progressive and spiral so that learning would engage and accompany each child in these 6 years, bringing out the joy of learning.
+Our teaching philosophy is one with the belief that every child is unique. Here in Compassvale Primary School, we believe that every child is a Thinker, Leader and Champion. Hence, we cater to a variety of approaches so that meaningful and enjoyable learning could take place for every child. We facilitate the acquisition of skills and knowledge through a variety of activities and tools.  **Concrete-pictorial-abstract (CPA)** activities and **Info-Communication Technology (ICT)**  are incorporated in the curriculum to enhance the teaching and learning of Mathematics. We use a variety of ICT tools such as Student Learning Space (SLS), Google Form and Nearpod. The curriculum is progressive and spiral so that learning would engage and accompany each child in these 6 years, bringing out the joy of learning.
 
 **Primary 1 and 2**<br>
-As each child begins their journey in learning Mathematics with us, they will go through a fun and engaging way through varied activities in our key programmes.The **Mathematics Big Book Reading Programme**  helps our younger students to develop interest and motivation in learning Mathematics. This programme uses Math stories and role plays. 
+As each child begins their journey in learning Mathematics with us, they will go through a fun and engaging way through varied activities in our key programmes.The&nbsp;**Mathematics Big Book Reading Programme**&nbsp;&nbsp;helps our younger students to develop interest and motivation in learning Mathematics. This programme uses Math stories and role plays.&nbsp;
 
-Plenty of opportunities for hands-on and activity-based learning are provided through the use of our **Sustained Support for Mathematics (SSM)**. Compassvalites are provided with manipulatives to visualize the concepts in a concrete way. They will also be exposed to our in-house programme, **HATS in MATHS**. HATS, short for Heuristics and Thinking Skills, aims to develop their thinking skills and equip them with different strategies, which in turn develops our thinkers’ problem-solving skills --- a crucial life skill. 
+Plenty of opportunities for hands-on and activity-based learning are provided through the use of our&nbsp;**Sustained Support for Mathematics (SSM)**. Compassvalites are provided with manipulatives to visualize the concepts in a concrete way. They will also be exposed to our in-house programme,&nbsp;**HATS in MATHS**. HATS, short for Heuristics and Thinking Skills, aims to develop their thinking skills and equip them with different strategies, which in turn develops our thinkers’ problem-solving skills --- a crucial life skill.&nbsp;
 
-In addition, the enhanced **Learning Support Programme for Mathematics (LSM)** supports selected Primary 1 and 2 children to strengthen their foundation in Mathematics to ensure that every child is well-equipped to advance in their journey in Mathematics.
+In addition, the enhanced&nbsp;**Learning Support Programme for Mathematics (LSM)**&nbsp;supports selected Primary 1 and 2 children to strengthen their foundation in Mathematics to ensure that every child is well-equipped to advance in their journey in Mathematics.
 
-Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted.
+Learning does not end in the classroom. Your child gets to participate in the&nbsp;**Mathematics Games**&nbsp;which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted.
 
-<img src="/images/math2.jpeg" style="width:41%;margin-right:55px;" align = "right">
-<img src="/images/math1.jpeg" style="width:35.5%;margin-left:55px;" align = "left">
+<img src="/images/math2.jpeg" style="width:41%;margin-right:55px;" align="right">
+<img src="/images/math1.jpeg" style="width:35.5%;margin-left:55px;" align="left">
 
 <br clear="left">
 
@@ -29,53 +29,53 @@ Mathematics Big Book Reading Programme helps our younger students to develop int
 **Learning Support for Mathematics (LSM)**<br>
 LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
 
-<img src="/images/math3.jpeg" style="width:26%;margin-right:15px;" align = "left">
-<img src="/images/math4.jpeg" style="width:15%;margin-right:15px;" align = "left">
-<img src="/images/math5.jpeg" style="width:27%;margin-right:15px;" align = "left">
-<img src="/images/math6.jpeg" style="width:19%;margin-right:15px;" align = "left">
+<img src="/images/math3.jpeg" style="width:26%;margin-right:15px;" align="left">
+<img src="/images/math4.jpeg" style="width:15%;margin-right:15px;" align="left">
+<img src="/images/math5.jpeg" style="width:27%;margin-right:15px;" align="left">
+<img src="/images/math6.jpeg" style="width:19%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 **Primary 3 and 4**<br>
-As each student progresses to the intermediate stage in their Mathematics journey, he/she is exposed to a more abstract concept. The use of **SSM** is integral in the acquisition of concepts as they help to provide a concrete and visual platform for their learning, while keeping them engaged. Group-based activity becomes more frequent as the children support each other in collaborative learning.
+As each student progresses to the intermediate stage in their Mathematics journey, he/she is exposed to a more&nbsp;abstract concept. The use of&nbsp;**SSM**&nbsp;is integral in the acquisition of concepts as they help to provide a concrete and visual platform for their learning, while keeping them engaged. Group-based activity becomes more frequent as the children support each other in collaborative learning.
 
-Each student will now be exposed to more complex strategies in the **HATS** package. These strategies become increasingly relevant as they are exposed to more abstract concepts in solving word problems. Occasionally, they will be presented with real-life problems that can be solved using Mathematical concepts.
+Each student will now be exposed to more complex strategies in the&nbsp;**HATS**&nbsp;package. These strategies become increasingly relevant as they are exposed to more abstract concepts in solving word problems. Occasionally, they will be presented with real-life problems that can be solved using Mathematical concepts.
 
-At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
+At Primary 4 level, your child may also have an opportunity to participate in&nbsp;**Mathematics Olympiad**&nbsp;and&nbsp;**Excellence 2000 (E2K) Mathematics**&nbsp;programme.
 
-<img src="/images/math7.jpeg" style="width:28%;margin-right:15px;" align = "left">
-<img src="/images/math8.jpeg" style="width:37%;margin-right:15px;" align = "left">
-<img src="/images/math9.jpeg" style="width:28%;margin-right:15px;" align = "left">
+<img src="/images/math7.jpeg" style="width:28%;margin-right:15px;" align="left">
+<img src="/images/math8.jpeg" style="width:37%;margin-right:15px;" align="left">
+<img src="/images/math9.jpeg" style="width:28%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 #### **Specialty Programme**
 **Mathematics Olympiad**<br>
-Are you game enough for more? Then we have the **Mathematics Olympiad** Training and Competition for you! The Mathematics Olympiad programme in CVPS aims to stretch students who are more mathematically inclined and are progressive in content coverage from Primary 4 to Primary 6.
+Are you game enough for more? Then we have the&nbsp;**Mathematics Olympiad**&nbsp;Training and Competition for you! The Mathematics Olympiad programme in CVPS aims to stretch students who are more mathematically inclined and are progressive in content coverage from Primary 4 to Primary 6.
 
 Selected Primary 4 students will also represent the school to take part in the Mathematics Olympiad Competitions at the national level.
 
 **Excellence 2000 (E2K) Mathematics**<br>
-Who knew getting the wrong answers could bring tears of joy? Compassvalites are taking a step further in their Mathematics competency in the E2K programme. 
+Who knew getting the wrong answers could bring tears of joy? Compassvalites are taking a step further in their Mathematics competency in the E2K programme.&nbsp;
 
 The E2K Mathematics Programme aims to develop cognitive abilities of independent learning, higher order thinking and creativity in students who are advanced in the learning of the subject.
 
-<img src="/images/math10.jpg" style="width:56%" align=left>
-<img src="/images/math11.jpeg" style="width:42%" align=right>
+<img src="/images/math10.jpg" style="width:56%" align="left">
+<img src="/images/math11.jpeg" style="width:42%" align="right">
 
 <br clear="left">
 
 **Primary 5 and 6**<br>
-As student transits to the upper primary level, they will face with more advanced challenges and hence, more rigour will be added to their routines. They are trained to be more independent and take ownership of their learning in their mathematics journey. The use of **SSM** is still largely emphasized. They will work in groups and present their work or worked solutions more frequently. They will also be given opportunities to articulate their mathematical reasoning to their peers.
+As student transits to the upper primary level, they will face with more advanced challenges and hence, more rigour will be added to their routines. They are trained to be more independent and take ownership of their learning in their mathematics journey. The use of&nbsp;**SSM**&nbsp;is still largely emphasized. They will work in groups and present their work or worked solutions more frequently. They will also be given opportunities to articulate their mathematical reasoning to their peers.
 
-For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
+For&nbsp;**HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
 
 #### **Specialty Programme**
 **Mathematics Olympiad**<br>
 **Excellence 2000 (E2K) Mathematics**
 
-<img src="/images/math12.jpeg" style="width:24.5%;margin-right:15px;" align = "left">
-<img src="/images/math13.jpeg" style="width:43%;margin-right:15px;" align = "left">
-<img src="/images/math14.jpeg" style="width:24.5%;margin-right:15px;" align = "left">
+<img src="/images/math12.jpeg" style="width:24.5%;margin-right:15px;" align="left">
+<img src="/images/math13.jpeg" style="width:43%;margin-right:15px;" align="left">
+<img src="/images/math14.jpeg" style="width:24.5%;margin-right:15px;" align="left">
 
 <br clear="left">
