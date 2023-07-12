@@ -25,8 +25,8 @@ Learning does not end in the classroom. Your child gets to participate in the **
 **Mathematics Big Book Reading Programme**<br>
 Mathematics Big Book Reading Programme helps our younger students to develop interest and motivation in learning Mathematics using Math stories and role plays. Through these interactive activities, they have fun with Mathematics and deepen their understanding of Mathematical concepts. Hands-on activities are also designed to accompany the Big Book stories in the P1 and P2 classrooms. 
 
-![](/images/mathphoto3.jpg)
-
+<img src="/images/mathphoto3.jpg" style="width:60%;margin-right:15px;" align="left"> <br>
+<br clear="left">
 
 **Learning Support for Mathematics (LSM)**<br>
 LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
@@ -45,11 +45,9 @@ Each child will now be exposed to more complex strategies in the **HATS** packag
 
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
-<img src="/images/mathphoto4.jfif" style="width:45%;margin-right:15px;" align="left">
-<img src="/images/mathphoto7.jfif" style="width:45%;margin-right:15px;" align="left">
-<br><br>
-<img src="/images/mathphoto6.jfif" style="width:45%;margin-right:15px;" align="left">
-<img src="/images/mathphoto5.jfif" style="width:45%;margin-right:15px;" align="left">
+<img src="/images/mathphoto4.jfif" style="width:45%;margin-right:15px;" align="left">  <img src="/images/mathphoto7.jfif" style="width:45%;margin-right:15px;" align="left"><br>
+<img src="/images/mathphoto6.jfif" style="width:45%;margin-right:15px;" align="left"><br>
+<img src="/images/mathphoto5.jfif" style="width:45%;margin-right:15px;" align="left"><br>
 
 
 <br clear="left">
