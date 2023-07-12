@@ -77,16 +77,14 @@ For **HATS**, the students will be taught more advanced techniques and strategie
 
 <img src="/images/mathphoto10.jfif" style="width:40%;margin-right:15px;" align="left">
 <img src="/images/mathphoto11.jfif" style="width:40%;margin-right:15px;" align="left">
-<br><br>
+<br>
 
-<br><br>
+<br clear="left">
 
 #### **Specialty Programme**
 **Mathematics Olympiad**<br>
 **Excellence 2000 (E2K) Mathematics**
 
-<img src="/images/math.jpeg" style="width:24.5%;margin-right:15px;" align="left">
-<img src="/images/math.jpeg" style="width:43%;margin-right:15px;" align="left">
-<img src="/images/math.jpeg" style="width:24.5%;margin-right:15px;" align="left">
+
 
 <br clear="left">
