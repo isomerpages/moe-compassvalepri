@@ -30,7 +30,8 @@ Mathematics Big Book Reading Programme helps our younger students to develop int
 **Learning Support for Mathematics (LSM)**<br>
 LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
 
-<img src="/images/math3.jpeg" style="width:26%;margin-right:15px;" align="left">
+
+<img src="/images/mathphoto3.jpg" style="width:50%;margin-right:15px;" align="left">
 <img src="/images/math4.jpeg" style="width:15%;margin-right:15px;" align="left">
 <img src="/images/math5.jpeg" style="width:27%;margin-right:15px;" align="left">
 <img src="/images/math6.jpeg" style="width:19%;margin-right:15px;" align="left">
