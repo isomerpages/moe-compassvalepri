@@ -17,8 +17,10 @@ In addition, the enhanced **Learning Support Programme for Mathematics (LSM)** s
 
 Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted. <br>
 
-To add 2 photos.
-
+<img src="/images/mathphoto1.JPG" style="width:60%;margin-right:15px;" align="left"> 
+<br clear="left"><br clear="left">
+<img src="/images/mathphoto2.jpg" style="width:60%;margin-right:15px;" align="left"> 
+<br clear="left">
 
 #### **Specialty Programme**
 **Mathematics Big Book Reading Programme**<br>
@@ -38,7 +40,6 @@ LSM aims to provide early support for selected Primary 1 and 2 students to stren
 As each student progresses to the intermediate stage in their Mathematics journey, he/she is exposed to a more abstract concept. The use of **SSM** is integral in the acquisition of concepts as they help to provide a concrete and visual platform for their learning, while keeping them engaged. Group-based activity becomes more frequent as the children support each other in collaborative learning.
 
 Each child will now be exposed to more complex strategies in the **HATS** package. These strategies become increasingly relevant as they are exposed to more abstract concepts in solving word problems. Occasionally, they will be presented with real-life problems that can be solved using Mathematical concepts. 
-
 
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
