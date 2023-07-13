@@ -64,10 +64,9 @@ The E2K Mathematics Programme aims to develop cognitive abilities of independent
 This empowers and stretches the students’ mathematical skills, fosters abilities and strengthens their confidence in the subject. Furthermore, this programme is taught by E2K-trained teachers so that targeted coaching can reinforce students' perception of self as an independent and mature learner and investigator.
 
 
-<img src="/images/math10.jpg" style="width:56%" align="left">
-<img src="/images/math11.jpeg" style="width:42%" align="right">
+<img src="/images/mathphoto34special.jpeg" style="width:60%" align="left">
 
-<br clear="left">
+<br clear="left"><br>
 
 **Primary 5 and 6**<br>
 As students transit to the upper primary level, they will face with more advanced challenges and hence, more rigour will be added to their routines. They are trained to be more independent and take ownership of their learning in their mathematics journey. The use of **SSM** is still largely emphasized. They will work in groups and present their work or worked solutions more frequently. They will also be given opportunities to articulate their mathematical reasoning to their peers.   
@@ -85,5 +84,8 @@ For **HATS**, the students will be taught more advanced techniques and strategie
 **Excellence 2000 (E2K) Mathematics**
 
 
+<img src="/images/mathphoto56special1.jpeg" style="width:60%;margin-right:15px;" align="left">
+<br clear="left"><br clear="left">
+<img src="/images/mathphoto56special.jpg" style="width:60%;margin-right:15px;" align="left">
 
 <br clear="left">
