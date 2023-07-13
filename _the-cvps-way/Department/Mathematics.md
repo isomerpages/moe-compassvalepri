@@ -77,7 +77,7 @@ For **HATS**, the students will be taught more advanced techniques and strategie
 <img src="/images/mathphoto11.jfif" style="width:41%;margin-right:15px;" align="left">
 <br>
 
-<br clear="left">
+<br clear="left"><br>
 
 #### **Specialty Programme**
 **Mathematics Olympiad**<br>
