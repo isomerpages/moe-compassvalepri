@@ -17,9 +17,8 @@ In addition, the enhanced **Learning Support Programme for Mathematics (LSM)** s
 
 Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted. <br>
 
-<img src="/images/mathphoto1.JPG" style="width:60%;margin-right:15px;" align="left"> 
-<br clear="left"><br clear="left">
-<img src="/images/mathphoto2.jpg" style="width:60%;margin-right:15px;" align="left"> 
+<img src="/images/mathphoto1.JPG" style="width:46%;margin-right:15px;" align="left"> 
+<img src="/images/mathphoto2.jpg" style="width:46%;margin-right:15px;" align="left"> 
 <br clear="left">
 
 #### **Specialty Programme**
