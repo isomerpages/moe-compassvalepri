@@ -33,7 +33,7 @@ LSM aims to provide early support for selected Primary 1 and 2 students to stren
 <img src="/images/mathphoto3a.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/mathphoto3b.jpg" style="width:30%;margin-right:15px;" align="left">
 
-<br clear="left">
+<br clear="left"><br>
 
 **Primary 3 and 4**<br>
 As each student progresses to the intermediate stage in their Mathematics journey, he/she is exposed to a more abstract concept. The use of **SSM** is integral in the acquisition of concepts as they help to provide a concrete and visual platform for their learning, while keeping them engaged. Group-based activity becomes more frequent as the children support each other in collaborative learning.
