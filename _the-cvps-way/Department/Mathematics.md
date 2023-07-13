@@ -42,9 +42,10 @@ Each child will now be exposed to more complex strategies in the **HATS** packag
 
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
-<img src="/images/mathphoto4.jfif" style="width:40%;margin-right:15px;" align="left">  <img src="/images/mathphoto7.jfif" style="width:40%;margin-right:15px;" align="left"><br>
-<img src="/images/mathphoto6.jfif" style="width:40%;margin-right:15px;" align="left"><br>
-<img src="/images/mathphoto5.jfif" style="width:40%;margin-right:15px;" align="left"><br>
+<img src="/images/mathphoto4.jfif" style="width:40%;margin-right:15px;" align="left">  <img src="/images/mathphoto7.jfif" style="width:40%;margin-right:15px;" align="left">
+<br clear="left"><br clear="left">
+<img src="/images/mathphoto6.jfif" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/mathphoto5.jfif" style="width:33%;margin-right:15px;" align="left"><br>
 
 
 <br clear="left">
@@ -73,8 +74,8 @@ As students transit to the upper primary level, they will face with more advance
 
 For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
 
-<img src="/images/mathphoto10.jfif" style="width:40%;margin-right:15px;" align="left">
-<img src="/images/mathphoto11.jfif" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/mathphoto10.jfif" style="width:52%;margin-right:15px;" align="left">
+<img src="/images/mathphoto11.jfif" style="width:41%;margin-right:15px;" align="left">
 <br>
 
 <br clear="left">
