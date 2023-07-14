@@ -10,7 +10,7 @@ third_nav_title: School Vendors Advertisement
 
 | Type of Stall  | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Japanese/ Korean/ Fusion Food Stall (Halal Preferred)     | 23rd June 2023    | NIL     |
+| Japanese/ Korean/ Fusion Food Stall (Halal Preferred)     | 28th July 2023    | NIL     |
 
 
 
