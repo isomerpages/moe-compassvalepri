@@ -26,9 +26,8 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infopic:
-      title: CVPS Open House
-      subtitle: Coming soon!
-      description: Join us to know about The Compassvale Experience
+      title: CVPS Open House 2023
+      description: Learn more about The Compassvale Experience
       button: Click here
       url: /open-house-2023/welcomevideo/
       image: /images/website_banner_resized.jpg
