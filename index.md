@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/open house banner 01junee.gif
+      background: /images/open house banner 21julyb.gif
       url: /contact-us/
       key_highlights:
         - title: Open House 2023
@@ -26,9 +26,8 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infopic:
-      title: CVPS Open House
-      subtitle: Coming soon!
-      description: Join us to know about The Compassvale Experience
+      title: Open House 2023
+      description: Learn more about The Compassvale Experience
       button: Click here
       url: /open-house-2023/welcomevideo/
       image: /images/website_banner_resized.jpg
