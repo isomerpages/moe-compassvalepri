@@ -14,7 +14,7 @@ third_nav_title: School Vendors
 | -------- | -------- | -------- |
 | **Address**     | **:**     | **31 Sin Ming Drive #01-299<br> Singapore 575705**     |
 | **Contact Number** | **:** | **6282 0262** |
-| **Email** | **:**  | enquiry@sfxtransport.com.sg |
+| **Email** | **:**  | **enquiry@sfxtransport.com.sg** |
 
 
 #### **Bus Fares**
