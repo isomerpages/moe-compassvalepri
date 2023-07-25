@@ -4,14 +4,40 @@ permalink: /contact/school-vendors/school-transport/
 description: ""
 third_nav_title: School Vendors
 ---
-### **School Transport**
-#### **Sfx Transport Services**
+### **School Bus Service**
+#### **Details of School Bus Operator and Bus Fares**
 
-|  |  |
-|---|---|
-| **Email** | [school@sfxtransport.com.sg](school@sfxtransport.com.sg)|
-| **Tel** | 8800 0262 &nbsp; (mobile number)<br>6282 0262 &nbsp; (office number)|
-|
+<br>
 
-Submit request via the following link&nbsp;[cvps.sfxtransport.com.sg](http://cvps.sfxtransport.com.sg/)<br>
-Please contact SFX Transport Services for school bus services.
+
+| Name of Bus Operator | : | SFX Transport Services |
+| -------- | -------- | -------- |
+| Address     | :     | 31 Sin Ming Drive #01-299 Singapore 575705     |
+| Contact Number | : | 6282 0262 |
+| Email | : | enquiry@sfxtransport.com.sg |
+
+
+#### **Bus Fares**
+
+Daily School Bus Services **<u>based on Not to Exceed Price</u>** (i.e. for sending students from home to 
+school and vice versa)
+<br>
+
+
+| Distance | **Up to 15-seater** | **&gt; 15-seater** |  |  |
+| -------- | -------- | -------- | -------- | -------- |
+|      | 1 way     | 2 way     | 1 way     | 2 way     |
+| Up to 2km     | S140.00     | $160.00     | $140.00     | $160.00     |
+| &gt;2-4km     | $160.00     | $180.00     | $160.00     | $180.00     |
+
+
+
+
+
+
+
+
+
+
+
+
