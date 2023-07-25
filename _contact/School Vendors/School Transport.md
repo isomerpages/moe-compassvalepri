@@ -29,8 +29,6 @@ school and vice versa)
 
 Bus Services for after school activities (i.e. sending students home from school after supplementary lessons / enrichment programmes and Co-Curricular Activities) 
 
-<br>
-
 | Distance | Up to 15-seater | &gt;15-seater |
 | -------- | -------- | -------- |
 | **Up to 2km**     | $5.00     | $5.00     |
