@@ -26,7 +26,7 @@ school and vice versa)
 ![](/images/School%20Vendors/annotation%202023-07-25%20110410.jfif)
 
 <br>
-Bus Services for after school activities (i.e. sending students home from school after supplementary lessons / enrichment programmes and Co-Curricular Activities). 
+Bus Services for after school activities (i.e. sending students home from school after supplementary lessons / enrichment programmes and Co-Curricular Activities)
 
 | Distance | Up to 15-seater | &gt;15-seater |
 | -------- | -------- | -------- |
