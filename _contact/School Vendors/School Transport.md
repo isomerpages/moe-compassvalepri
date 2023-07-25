@@ -24,20 +24,8 @@ school and vice versa)
 <br>
 
 
-| Distance | **Up to 15-seater** | **&gt; 15-seater** |  |  |
+| <center>Distance</center> | <center>Up to 15-seater</center> |  | <center>&gt; 15-seater</center>  |  |
 | -------- | -------- | -------- | -------- | -------- |
 |      | 1 way     | 2 way     | 1 way     | 2 way     |
 | Up to 2km     | S140.00     | $160.00     | $140.00     | $160.00     |
 | &gt;2-4km     | $160.00     | $180.00     | $160.00     | $180.00     |
-
-
-
-
-
-
-
-
-
-
-
-
