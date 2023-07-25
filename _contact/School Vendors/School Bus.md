@@ -31,5 +31,5 @@ Bus Services for after school activities (i.e. sending students home from school
 
 | Distance | Up to 15-seater | &gt;15-seater |
 | -------- | -------- | -------- |
-| **Up to 2km**     | $5.00     | $5.00     |
-| **&gt;2-4km**     | $8.00     | $8.00     |
+| **Up to 2km**     | $5.00 per trip     | $5.00 per trip    |
+| **&gt;2-4km**     | $8.00 per trip    | $8.00 per trip   |
