@@ -12,7 +12,7 @@ third_nav_title: School Vendors
 
 | Name of Bus Operator | : | SFX Transport Services |
 | -------- | -------- | -------- |
-| **Address**     | **:**     | **31 Sin Ming Drive #01-299 Singapore 575705**     |
+| **Address**     | **:**     | **31 Sin Ming Drive #01-299<br> Singapore 575705**     |
 | **Contact Number** | **:** | **6282 0262** |
 | **Email** | **:**  | enquiry@sfxtransport.com.sg |
 
