@@ -32,9 +32,6 @@ sections:
       url: /open-house-2023/welcomevideo/
       image: /images/website_banner_resized.jpg
       alt: Image alt text
-  - resources:
-      title: News and Updates
-      button: Click for more
   - infopic:
       title: CVPS School Library
       description: Find out the new arrivals, what’s popular, leave a review, and more
@@ -44,4 +41,7 @@ sections:
       url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/cvps opac.png
       alt: Image alt text
+  - resources:
+      title: News and Updates
+      button: Click for more
 ---
