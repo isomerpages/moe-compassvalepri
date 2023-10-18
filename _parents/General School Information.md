@@ -66,7 +66,7 @@ a.    We believe that regular and open communication between school and parents/
 
 b.    The Student Handbook is another means for you to communicate with our teachers. You may write short notes in the Handbook and address it to the teacher concerned. Please remind your child/ward to show the teacher the note that you have written. 
 
-c.    The operation hours for our General Office are from 0745hrs to 1700hrs from Monday to Friday. We are closed on Saturday, Sunday and Public Holidays. If you wish to call our General Office, our telephone numbers are: 6388 2819 &amp; 6384 5619.  
+c.    The operation hours for our General Office are from 0745hrs to 1700hrs from Monday to Friday. We are closed on Saturday, Sunday and Public Holidays. If you wish to call our General Office, our telephone number is: 6388 2819.
 
 d.    We actively manage the school calendar on our webpage so that you can plan ahead to coordinate with our schedule of activities.
 
