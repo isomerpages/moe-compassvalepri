@@ -2,7 +2,6 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - Applied Learning Programme.md
       - Department/.keep
       - Department/English Language.md
       - Department/Mathematics.md
@@ -11,6 +10,7 @@ collections:
       - Department/Tamil Language.md
       - Department/Character & Citizenship Education.md
       - Department/National Education & Social Studies.md
+      - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Our TLC Experience.md
       - Applied Learning Programme/.keep
