@@ -2,6 +2,7 @@ collections:
   the-cvps-way:
     output: true
     order:
+      - Our TLC Experience.md
       - Our TLC Experience/Our TLC Experience.md
       - Our TLC Experience/Applied Learning Programme.md
       - Our TLC Experience/Learning for Life Programme.md
