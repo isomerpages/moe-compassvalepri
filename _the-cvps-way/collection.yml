@@ -2,7 +2,6 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - Mathematics.md
       - Department/.keep
       - Department/English Language.md
       - Department/Mathematics.md
@@ -25,6 +24,7 @@ collections:
       - English Language.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
+      - Mathematics.md
       - Science/.keep
       - Science/Science.md
       - Mother Tongue Language/.keep
