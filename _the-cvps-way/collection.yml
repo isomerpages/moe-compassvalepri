@@ -2,6 +2,7 @@ collections:
   the-cvps-way:
     output: true
     order:
+      - Applied Learning Programme.md
       - Our TLC Experience.md
       - Department/.keep
       - Department/English Language.md
