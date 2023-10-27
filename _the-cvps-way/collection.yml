@@ -2,14 +2,6 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - Mother Tongue Language/.keep
-      - Mother Tongue Language/Tamil Language.md
-      - Mother Tongue Language/Malay Language.md
-      - Mother Tongue Language/Chinese Language.md
-      - Science/Science.md
-      - Science/.keep
-      - Mathematics/Mathematics.md
-      - Mathematics/.keep
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
       - Our TLC Experience/.keep
@@ -31,3 +23,11 @@ collections:
       - Department/Aesthetics.md
       - English Language/.keep
       - English Language/English Language.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mother Tongue Language/.keep
+      - Mother Tongue Language/Tamil Language.md
+      - Mother Tongue Language/Malay Language.md
+      - Mother Tongue Language/Chinese Language.md
+      - Science/.keep
+      - Science/Science.md
