@@ -2,10 +2,8 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - English Language/English Language.md
-      - English Language/.keep
-      - Learning for Life Programme/Learning for Life Programme.md
       - Learning for Life Programme/.keep
+      - Learning for Life Programme/Learning for Life Programme.md
       - Our TLC Experience/.keep
       - Our TLC Experience/Our TLC Experience.md
       - Our TLC Experience/Applied Learning Programme.md
@@ -23,3 +21,5 @@ collections:
       - Department/National Education & Social Studies.md
       - Department/Physical & Health Education.md
       - Department/Aesthetics.md
+      - English Language/.keep
+      - English Language/English Language.md
