@@ -2,12 +2,13 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - Applied Learning Programme/Applied Learning Programme.md
-      - Applied Learning Programme/.keep
+      - Our TLC Experience/.keep
       - Our TLC Experience/Our TLC Experience.md
       - Our TLC Experience/Applied Learning Programme.md
       - Our TLC Experience/Learning for Life Programme.md
-      - Our TLC Experience/.keep
+      - Applied Learning Programme/.keep
+      - Applied Learning Programme/Applied Learning Programme.md
+      - Department/.keep
       - Department/English Language.md
       - Department/Mathematics.md
       - Department/Science.md
@@ -18,4 +19,3 @@ collections:
       - Department/National Education & Social Studies.md
       - Department/Physical & Health Education.md
       - Department/Aesthetics.md
-      - Department/.keep
