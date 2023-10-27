@@ -2,6 +2,7 @@ collections:
   the-cvps-way:
     output: true
     order:
+      - Science/Science.md
       - Science/.keep
       - Mathematics/Mathematics.md
       - Mathematics/.keep
