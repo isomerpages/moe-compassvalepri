@@ -2,6 +2,7 @@ collections:
   the-cvps-way:
     output: true
     order:
+      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
       - Department/.keep
       - Department/English Language.md
