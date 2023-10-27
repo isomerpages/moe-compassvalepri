@@ -2,8 +2,6 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - Physical & Health Education/Physical & Health Education.md
-      - Physical & Health Education/.keep
       - Department/.keep
       - Department/English Language.md
       - Department/Mathematics.md
@@ -36,3 +34,5 @@ collections:
       - Character & Citizenship/.keep
       - Character & Citizenship/Character & Citizenship Education.md
       - Character & Citizenship/National Education & Social Studies.md
+      - Physical & Health Education/.keep
+      - Physical & Health Education/Physical & Health Education.md
