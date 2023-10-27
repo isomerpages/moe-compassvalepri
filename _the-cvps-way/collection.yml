@@ -2,10 +2,10 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - Mother Tongue Language/Tamil Language.md
       - Mother Tongue Language/.keep
-      - Mother Tongue Language/Chinese Language.md
+      - Mother Tongue Language/Tamil Language.md
       - Mother Tongue Language/Malay Language.md
+      - Mother Tongue Language/Chinese Language.md
       - Science/Science.md
       - Science/.keep
       - Mathematics/Mathematics.md
