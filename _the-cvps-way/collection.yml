@@ -2,8 +2,6 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - Aesthetics/Aesthetics.md
-      - Aesthetics/.keep
       - Department/.keep
       - Department/English Language.md
       - Department/Mathematics.md
@@ -38,3 +36,5 @@ collections:
       - Character & Citizenship/National Education & Social Studies.md
       - Physical & Health Education/.keep
       - Physical & Health Education/Physical & Health Education.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
