@@ -2,9 +2,9 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - Character & Citizenship/National Education & Social Studies.md
-      - Character & Citizenship/Character & Citizenship Education.md
       - Character & Citizenship/.keep
+      - Character & Citizenship/Character & Citizenship Education.md
+      - Character & Citizenship/National Education & Social Studies.md
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
       - Our TLC Experience/.keep
