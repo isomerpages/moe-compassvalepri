@@ -2,6 +2,7 @@ collections:
   the-cvps-way:
     output: true
     order:
+      - Character & Citizenship/Character & Citizenship Education.md
       - Character & Citizenship/.keep
       - Learning for Life Programme/.keep
       - Learning for Life Programme/Learning for Life Programme.md
