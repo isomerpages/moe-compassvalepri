@@ -2,7 +2,6 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - English Language.md
       - Department/.keep
       - Department/English Language.md
       - Department/Mathematics.md
@@ -24,6 +23,7 @@ collections:
       - Learning for Life Programme/Learning for Life Programme.md
       - English Language/.keep
       - English Language/English Language.md
+      - English Language.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
       - Science/.keep
