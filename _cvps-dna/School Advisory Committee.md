@@ -9,13 +9,12 @@ description: ""
 
 |  |   |  |
 | -------- | -------- | -------- |
-| **Chairman**     | **Mr Jamie Chen**     | <img src="/images/sac1.jpg" style="width:40%">     |
-| **Vice-Chairman**     | **Mr Daniel Tham**     | <img src="/images/sac2.jpg" style="width:40%">     |
+| **Chairman**     | **Mr Daniel Tham**     | <img src="/images/sac2.jpg" style="width:40%">     |
+| **Vice-Chairman**     | **Ms Celine Teo**     | <img src="/images/sac4.jpg" style="width:40%">     |
 | **Secretary**     | **Mr Jeffrey Aw**     | <img src="/images/sac3.jpeg" style="width:40%">     |
-| **Member**     | **Ms Celine Teo**     | <img src="/images/sac4.jpg" style="width:40%">     |
-| **Member**     | **Mr Eugene Koh**     | <img src="/images/sac5.jpg" style="width:40%">     |
-| **Member**     | **Ms Elizabeth Ng**     | <img src="/images/sac6.jpg" style="width:40%">     |
-| **Member**     | **Mr Lee Kang Hwa**     | <img src="/images/sac7.png" style="width:40%">     |
+| **Member**     | **Mr Eugene Koh**     | <img src="/images/SAC/mreugenekoh.jpg" style="width:40%">     |
+| **Member**     | **Mr Laurence Goh**     | <img src="/images/SAC/mrlaurencegoh.jpg" style="width:40%">     |
+| **Member**     | **Mr James Teo**     | <img src="/images/SAC/mrjamesteo.jpg" style="width:40%">     |
 |  |   |  |
 
 ##### **Purpose**
