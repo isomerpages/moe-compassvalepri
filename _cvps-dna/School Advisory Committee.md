@@ -10,7 +10,7 @@ description: ""
 |  |   |  |
 | -------- | -------- | -------- |
 | **Chairman**     | **Mr Daniel Tham**     | <img src="/images/sac2.jpg" style="width:40%">     |
-| **Vice-Chairman**     | **Ms Celine Teo**     | <img src="/images/sac4.jpg" style="width:40%">     |
+| **Vice-Chairman**     | **Ms Celina Teo**     | <img src="/images/sac4.jpg" style="width:40%">     |
 | **Secretary**     | **Mr Jeffrey Aw**     | <img src="/images/sac3.jpeg" style="width:40%">     |
 | **Member**     | **Mr Eugene Koh**     | <img src="/images/SAC/mreugenekoh.jpg" style="width:40%">     |
 | **Member**     | **Mr Laurence Goh**     | <img src="/images/SAC/mrlaurencegoh.jpg" style="width:40%">     |
