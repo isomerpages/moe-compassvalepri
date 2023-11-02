@@ -2,18 +2,18 @@ collections:
   the-cvps-way:
     output: true
     order:
-      - Our TLC Experience/Our TLC Experience.md
-      - Our TLC Experience/Applied Learning Programme.md
-      - Our TLC Experience/Learning for Life Programme.md
-      - Our TLC Experience/.keep
-      - Department/English Language.md
-      - Department/Mathematics.md
-      - Department/Science.md
-      - Department/Chinese Language.md
-      - Department/Malay Language.md
-      - Department/Tamil Language.md
-      - Department/Character & Citizenship Education.md
-      - Department/National Education & Social Studies.md
-      - Department/Physical & Health Education.md
-      - Department/Aesthetics.md
-      - Department/.keep
+      - Our TLC Experience.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Language/.keep
+      - Mother Tongue Language/Chinese Language.md
+      - Mother Tongue Language/Malay Language.md
+      - Mother Tongue Language/Tamil Language.md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Character & Citizenship Education.md
+      - Character & Citizenship/National Education & Social Studies.md
+      - Physical & Health Education.md
+      - Aesthetics.md
