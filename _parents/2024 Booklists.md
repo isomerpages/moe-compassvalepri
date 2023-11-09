@@ -15,7 +15,7 @@ description: ""
 * **[CVPS P5 4S + HMTL Booklist 2024](/files/2024%20Booklists/cvps%20p5%20(4s%20and%20hmt)%20booklist%202024.pdf)**
 * **[CVPS P5 3S + 1F (MA) Booklist 2024](/files/2024%20Booklists/cvps%20p5%20(3s1f-ma).pdf)**
 * **[CVPS P6 4F Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(4f)%20booklist%202024.pdf)**
-* [CVPS P6 4S Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(4s)%20booklist%202024.pdf)
+* **[CVPS P6 4S Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(4s)%20booklist%202024.pdf)**
 * **[CVPS P6 4S + HMTL Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(4s%20and%20hmt)%20booklist%202024.pdf)**
 * **[CVPS P6 3S + 1F (MA) Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(3s1f-ma)%20booklist%202024.pdf)**
 * **[CVPS P6 2S + 2F Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(2s&amp;2f)%20booklist%202024.pdf)**
