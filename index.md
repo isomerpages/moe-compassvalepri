@@ -25,6 +25,11 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infobar:
+      title: Booklist for Year 2024 is now available
+      id: infobar
+      button: Please click here to download
+      url: https://www.compassvalepri.moe.edu.sg/parents/2024-booklists/
   - infopic:
       title: Open House 2023
       description: Learn more about The Compassvale Experience
