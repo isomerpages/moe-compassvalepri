@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - 2024 Booklists.md
       - General School Information.md
       - Parents Gateway Mobile App.md
       - PDPA.md
       - School Notifications.md
       - Sexuality Education Programme.md
       - 2023 Booklists.md
+      - 2024 Booklists.md
