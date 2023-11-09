@@ -18,6 +18,9 @@ description: ""
 * [CVPS P6 4S Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(4s)%20booklist%202024.pdf)
 * **[CVPS P6 4S + HMTL Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(4s%20and%20hmt)%20booklist%202024.pdf)**
 * **[CVPS P6 3S + 1F (MA) Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(3s1f-ma)%20booklist%202024.pdf)**
-* **[CVPS P6 2S + 2F Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(2s&2f)%20booklist%202024.pdf)**
+* **[CVPS P6 2S + 2F Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(2s&amp;2f)%20booklist%202024.pdf)**
 
-If you are ordering from Pacific Bookstores, please click to download [**Pacific Bookstores Purchase Guide**.](/files/2024%20Booklists/cvps%20year%20end%20books%20purchase%20instruction%20info%202023.pdf)
+
+
+If you are ordering from Pacific Bookstores, please click to download<br>
+[**Pacific Bookstores Purchase Guide**.](/files/2024%20Booklists/cvps%20year%20end%20books%20purchase%20instruction%20info%202023.pdf)
