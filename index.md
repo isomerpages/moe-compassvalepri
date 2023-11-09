@@ -29,7 +29,7 @@ sections:
       title: Booklist for Year 2024 is now available
       id: infobar
       button: Please click here to download
-      url: https://www.compassvalepri.moe.edu.sg/parents/2024-booklists/
+      url: https://www.compassvalepri.moe.edu.sg/parents/2024booklists/
   - infopic:
       title: Open House 2023
       description: Learn more about The Compassvale Experience
