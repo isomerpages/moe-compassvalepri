@@ -4,7 +4,7 @@ permalink: /parents/2024booklists/
 variant: markdown
 description: ""
 ---
-## **2024 Booklists**
+## **CVPS 2024 Booklists**
 * ##### [CVPS P1 Booklist 2024](/files/2024%20Booklists/cvps%20p1%20booklist%202024.pdf)
 * ##### [**CVPS P2 Booklist 2024**](/files/2024%20Booklists/cvps%20p2%20booklist%202024.pdf)
 * ##### [**CVPS P3 Booklist 2024**](/files/2024%20Booklists/cvps%20p3%20booklist%202024.pdf)
