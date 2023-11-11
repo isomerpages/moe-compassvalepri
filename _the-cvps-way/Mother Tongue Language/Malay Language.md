@@ -9,7 +9,7 @@ variant: markdown
 ##### **P1 Pandai Bercerita**
 ‘Pandai Bercerita’ is an exposure programme for students to learn the basic art form of storytelling.&nbsp; Storytelling with props is a fun way to share stories with others. It builds confidence and provides students with a safe environment to experiment with self-expressions by adapting fables and retelling them in a fun and engaging way.
 
-<img src="/images/Malay%20Department/Pic_1.jpeg" style="width:75%"><br>
+<img src="/images/Malay%20Department/malaydept1.jpg" style="width:75%"><br>
 <img src="/images/Malay%20Department/Pic_2.jpeg" style="width:75%">
 
 
