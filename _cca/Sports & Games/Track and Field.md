@@ -24,5 +24,5 @@ In Track and Field, each child excels in his/her own forte, yet we grow as a tea
 <br>
 <br><br><br><br>
 <img src="/images/tnf1.jpg" style="width:85%">
-<br>
 ![](/images/CCA/Track%20and%20Field/trackandfield3.gif)
+![](/images/CCA/Track%20and%20Field/trackandfieldhurdle2.gif)
