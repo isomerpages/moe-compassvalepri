@@ -12,13 +12,7 @@ Formed in 2003, the Compassvale Primary School Brass Band has made significant p
 <img src="/images/band1.jpg" style="width:100%" align="left">
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-
 New recruits of the band may choose from the following musical instruments such as Trumpet / Cornet / Horn (high brass), Trombone / Baritone / Euphonium / Tuba (low brass) and&nbsp; &nbsp;Percussion (drums / bells).
-
 
 Each student must be committed and ready to undertake the task of learning an instrument.&nbsp;
 
