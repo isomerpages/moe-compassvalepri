@@ -13,7 +13,7 @@ In the P4 Junior team, our players undergo training where they pick up foundatio
 
 In these teams led by our coach and teachers, they continue to sharpen their skills and develop their mental and physical resilience which enable them to excel in their game performance. The Compassvale Primary School teams have continued to shine at the North Zone Netball Championships in the past years.
 
-<img src="/images/CCA/Netball/Netball.JPG" style="width:85%">
+<img src="/images/CCA/Netball/Netball_r.jpg" style="width:85%">
 
 
 ##### **Our results:**
