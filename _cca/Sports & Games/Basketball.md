@@ -8,7 +8,7 @@ variant: markdown
 ### **Basketball**
 CVPS Basketball CCA brings together all enthusiasts of the game, whether they prefer to play competitively or for leisure. In this CCA, students learn the basic technical skills required to play a game of basketball. They will be taught techniques on dribbling, shooting, passing and ball handling. They will be physically conditioned to match the demands of the game and taught proper warm-up and cooling down routines through regular practice. They will also be exposed to tactical game play and participate in friendly matches against other schools organised by the teachers-in-charge.&nbsp;
 
-<img src="/images/Basketball.jpeg" style="width:70%">
+<img src="/images/Basketball.jpeg" style="width:60%">
 <br>
 Basketball is a team sport. Our CCA not only focuses on the athletic aspects but also on character building and discipline. Values such as resilience, integrity and respect are instilled in every player. Players who exhibit good school core values will be invited to join the school team to represent CVPS in inter-school competitions.
 <br>
@@ -19,6 +19,6 @@ Basketball is a team sport. Our CCA not only focuses on the athletic aspects but
 <br>
 <br>
 <br>
-<img src="/images/CCA/Basketball/Basketball_2.PNG" style="width:65%">
+<img src="/images/CCA/Basketball/Basketball_2.PNG" style="width:60%">
 <br>
-<img src="/images/CCA/Basketball/Basketball_1.PNG" style="width:65%">
+<img src="/images/CCA/Basketball/Basketball_1.PNG" style="width:60%">
