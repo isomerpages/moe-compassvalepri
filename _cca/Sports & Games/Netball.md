@@ -3,20 +3,18 @@ title: Netball
 permalink: /cca/sports-and-games/netball/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ### **Netball**
 
-<figure>
-<figcaption><strong>  Our Senior Team (P6s) and Our P4 Netball Team
-	</strong></figcaption>  
-</figure>	
+In the P4 Junior team, our players undergo training where they pick up foundational skills such as agility and teamwork. After a rigorous selection process, players are selected to be a part of the junior and senior school teams.
 
-<img src="/images/netball1.jpeg" style="width:50%" align=left>
-<img src="/images/netball2.jpeg" style="width:50%" align=right>
+<img src="/images/CCA/Netball/Netball_1.jpeg" style="width:85%">
 
-<br clear="left">
+In these teams led by our coach and teachers, they continue to sharpen their skills and develop their mental and physical resilience which enable them to excel in their game performance. The Compassvale Primary School teams have continued to shine at the North Zone Netball Championships in the past years.
 
-In the P4 Junior team, our players undergo training where they pick up foundational skills such as agility and teamwork. After a rigorous selection process, players are selected to be a part of the junior and senior school teams. In these teams led by our coach and teachers, they continue to sharpen their skills and develop their mental and physical resilience which enable them to excel in their game performance. The Compassvale Primary School teams have continued to shine at the North Zone Netball Championships in the past years.
+<img src="/images/CCA/Netball/Netball.JPG" style="width:85%">
+
 
 ##### **Our results:**
 **2017**:<br>
@@ -35,16 +33,8 @@ National Netball Championship – 4th position
 **2022:**<br>
 North Zone Senior – 1st position
 
-<img src="/images/netball3.jpeg" style="width:85%">
+**2023:**<br>
+North Zone Senior – 1st position
+National Juniors - Tier 1
 
-<figure>
-<figcaption><strong>  Recreational Teams
-	</strong></figcaption>  
-</figure>	
-
-<img src="/images/netball4.jpeg" style="width:50%" align=left>
-<img src="/images/netball5.jpeg" style="width:47.5%" align=right>
-
-<br clear="left">
-
-The recreational team comprises of P5 and P6 players who are eager to play the game recreationally and keep fit in the company of friends.
+<img src="/images/CCA/Netball/Netball_3.jpg" style="width:85%">
