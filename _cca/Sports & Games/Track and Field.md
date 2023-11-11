@@ -17,14 +17,9 @@ Weekly, our athletes congregate to build their character, hone their techniques 
 
 Our athletes go through various training drills to develop specific skills and overcome their weaknesses. The target for each drill is moderated regularly on an increasing and achievable basis to bring our athletes to the next level of excellence. Those who exhibit progression in skills and grit form the school team who will have the opportunity to participate in large scale competitions such as the National School Games.
 
-In Track and Field, each child excels in his/her own forte, yet we grow as a team. <br><br>
-<img src="/images/tnf2.jpg" style="width:49%" align="left">
-<img src="/images/tnf3.jpg" style="width:49%" align="right">
-<br>
-<br>
-<br>
-<br>
-<br>
+In Track and Field, each child excels in his/her own forte, yet we grow as a team. <br>
+
 <img src="/images/tnf1.jpg" style="width:85%">
-![](/images/CCA/Track%20and%20Field/trackandfield3.gif)
-![](/images/CCA/Track%20and%20Field/trackandfieldhurdle2.gif)
+<br>
+<img src="/images/CCA/Track%20and%20Field/trackandfield3.gif" style="width:50%" align="left">
+<img src="/images/CCA/Track%20and%20Field/trackandfieldhurdle2.gif" style="width:50%" align="right">
