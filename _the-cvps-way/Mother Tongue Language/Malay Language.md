@@ -30,7 +30,7 @@ The Reading Programme aims to develop a good reading habit that enables students
 ##### **MTL Fortnight**
 The much-anticipated event of the year is carried out to immerse students in the Malay culture.&nbsp; Students are exposed to authentic cultural opportunities through interactive and experiential learning, at the same time promoting the use of Mother Tongue language.
 
-<img src="/images/Malay%20Department/Pic_7.jpeg" style="width:49%" align="left"> 
+<img src="/images/Malay%20Department/malaydept7.jpg" style="width:49%" align="left"> 
 <img src="/images/Malay%20Department/Pic_8.jpeg" style="width:49%" align="right">
 
 <br clear="left">
