@@ -9,7 +9,6 @@ variant: markdown
 Formed in 2003, the Compassvale Primary School Brass Band has made significant progress. Through the years, they have had performed at many occasions as well as competitions under the dedicated guidance of a group of teachers and instructors.
 <br>
 <br>
-<img src="/images/band1.jpg" style="width:100%" align="left">
 <img src="/images/band2.jpg" style="width:100%" align="left">
 
 <br>
@@ -21,7 +20,7 @@ Each student must be committed and ready to undertake the task of learning an in
 The senior members are also empowered to guide and lead the junior members during sectional trainings.
 <br>
 <br>
-<img src="/images/CCA/Brass%20Band/band_2023a.jpg" style="width:80%" align="left">
+<img src="/images/CCA/Brass%20Band/band_2023a.jpg" style="width:100%" align="left">
 <br>
 <br>
 <br>
@@ -36,6 +35,6 @@ As the band members progress through the years, band members learn the value of 
 
 Band members get the chance to develop a greater sense of emotional awareness through playing music, particularly during collaboration amongst students. We believe that music is invaluable in developing successful students. Music shapes the way our students understand themselves and the world around them. It nurtures assets and skills that are critical to future success.
 
-<img src="/images/CCA/Brass%20Band/band_2023b.jpg" style="width:80%" align="left">
+<img src="/images/CCA/Brass%20Band/band_2023b.jpg" style="width:100%" align="left">
 
 <br clear="left">
