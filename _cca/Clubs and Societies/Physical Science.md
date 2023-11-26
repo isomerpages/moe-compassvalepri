@@ -11,4 +11,7 @@ Science Club conducts activities to encourage students to explore science in the
 <img src="/images/CCA/Physical%20Science/Physical_Science_1.jpg" style="width:85%">
 <br>
 <img src="/images/CCA/Physical%20Science/Physical_Science_2.JPG" style="width:85%">
-
+<center>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2mBnDtHhNB2CtUflHMShfrLoKeeYeel567GIQxtaIDY9MI5Vg2zxIQdOqp5r0mjwL2BYGiK6Dpg1R/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<br>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTP0Az_9x8mR5giX_eeWDWfNLQDqdtmGkMLKX8eI2TfwIVt1qaB9F0UDVVwLP0X-jOCpVAYZ-xiClE5/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
