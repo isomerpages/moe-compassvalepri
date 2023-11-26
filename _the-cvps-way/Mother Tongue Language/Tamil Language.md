@@ -13,8 +13,10 @@ The students enthusiastically colored the cards and affixed the school logo stic
 
 Our hope is that, when they revisit this card at the conclusion of their six-year journey at CVPS, it will evoke cherished memories of their very first Tamil language lesson.
  
-![](/images/Tamil%20Language%20Department/Picture1.jpg)
-![](/images/Tamil%20Language%20Department/Picture2.png)
+ <img src="/images/Tamil%20Language%20Department/Picture1.jpg" style="width:85%">
+ 
+  <img src="/images/Tamil%20Language%20Department/Picture2.png" style="width:85%">
+
 
 ##### **P1 Kite Making**
 P1 Compassvalites learning the Tamil language had a great time with their families, coming together for a kite-making activity that was both enjoyable and educational. This hands-on experience complemented their classroom learning. Students, parents, and family members were encouraged to converse in Tamil while creating the kites, underlining the importance of using their mother tongue at home to support their language development.
