@@ -13,4 +13,5 @@ Art Club provides a platform for our members to express themselves with artistic
 <center>
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ8MYXLJmZEb1XJRX24CUoYZwgSQiMJ1Os5dZ7VzoFLeyTX6otwwtk9gBBMmz-QZOKwMN8c5eD-_NPJ/embed?start=false&amp;loop=false&amp;delayms=3000" align="center"></iframe>
 <br>
+	
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQtWV4u1tC5AFYfVcfS2J3pLfhO3GV30RBBMoK0tqPUzHnE2FoMCGmhx7xuMTYEAhceKQJePYTr1kB-/embed?start=false&amp;loop=false&amp;delayms=3000" align="center"></iframe></center>
