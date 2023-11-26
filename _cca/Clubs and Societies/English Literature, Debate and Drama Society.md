@@ -14,7 +14,6 @@ Students develop public speaking skills which include voice mastery, gestures an
 
 #### **Drama**
 Students are taught a range of physical and vocal skills that are essential for performing on stage. These include facial expression, body language, spatial awareness, coordination, diction, intonation and voice projection. They participate in enjoyable activities that promote their drama skills such as freeze frame and tableaux.
-<img src="/images/english1.jpg" style="width:85%"><br>
 <img src="/images/english2.jpg" style="width:85%"><br>
 <img src="/images/ELDDS2.jpeg" style="width:85%">
 
