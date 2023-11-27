@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Character & Citizenship
 ---
 ### **Student Leadership**
-We believe that every student has the potential to become a student leader. Aligning to the school’s vision ‘Thinkers, Leaders, Champions’, we seek to develop our students to become effective leaders and guide them to bring out the best in themselves. 
+We believe that every student has the potential to become a student leader. Aligning to the school’s vision ‘**Thinkers, Leaders, Champions**’, we seek to develop our students to become effective leaders and guide them to bring out the best in themselves. 
 
 Students with consistent performance will be nominated for school-wide leadership roles such as Prefects, Peer Support Leaders, NE Champions, Sports Champions&nbsp; and Cyber Wellness Champions to lead peers. &nbsp;In their respective roles, student leaders are given multiple platforms and ample opportunities to lead and serve. 
 
