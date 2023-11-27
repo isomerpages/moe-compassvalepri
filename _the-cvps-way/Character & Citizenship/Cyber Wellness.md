@@ -8,7 +8,7 @@ third_nav_title: Character & Citizenship
 ### **Cyber Wellness**
 The aim of the Cyber Wellness programme is to develop our students to be discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in the cyberspace.
 
-The school adopts MOE’s Cyber Wellness Framework in educating our students on Cyber Wellness.  This framework focuses on three key processes: Sense, Think and Act.
+The school adopts MOE’s Cyber Wellness Framework in educating our students on Cyber Wellness.  This framework focuses on three key processes: **Sense, Think and Act**.
 
 <img src="/images/CCE/cyber_wellness1.png" style="width:85%">
 
