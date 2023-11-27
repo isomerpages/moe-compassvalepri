@@ -74,10 +74,9 @@ The school’s environmental education programme allows our students to explore 
 
 This initiative not only raises awareness about scientific issues but also fosters critical thinking, problem-solving, and leadership skills. By taking actions and championing scientific causes such as 30 by 30 – Our Food Future, students develop a sense of empathy, environmental stewardship, and a commitment to making a positive impact on the world.
 
-
-<img src="/images/Science%20Department/Science1A.png" style="width:41.5%;margin-right:15px;" align="left">
-<img src="/images/Science%20Department/1b.jpeg" style="width:23.5%;margin-right:15px;" align="left">
-<img src="/images/Science%20Department/1c.jpeg" style="width:23.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/7a.jpeg" style="width:29.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/7b.jpeg" style="width:29.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/7c.jpg" style="width:29.5%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -86,17 +85,14 @@ By championing the 4Rs, students develop a sense of responsibility, environmenta
 
 Our Science Leaders from Primary 3 to 6 champion the school’s recycling efforts and encourage the habit of recycling of daily common items that students would unknowingly throw away. From used paper to drink cartons, our Science Leaders are the subject-matter experts when it comes to which items to recycle and not recycle, and which items to reuse instead of recycling. They become advocates for a greener future, inspiring others to adopt eco-friendly practices and make a positive impact on the planet.
 
+<img src="/images/Science%20Department/8a.jpeg" style="width:85%">
+<br>
 
-<img src="/images/science11.jpeg" style="width:35.5%" align="left">
-<img src="/images/science12.jpeg" style="width:62.5%" align="right">
-
-<br clear="left">
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9azugSmUnnLY7FG1_piw9LCqOyk1rhR0zkzoP4-sxXwkjM0rdegHz2LA7EwpX0OvU4h6YbsTwyNxg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ##### **Championing Water Conservation**
 In 2020, the school procured and built a rainwater harvester near the canteen with the intent of conserving the use of potable drinking water for cleaning and landscaping purposes such as watering the plants and the school field. The rainwater harvester collects rainwater that falls on our roof and diverts much of that water into a tank that stores that rainwater for use later. In addition, this system models our school’s vision of thinking, leading and championing innovative solutions that care for the environment. Students are able to witness the application of science and other disciplines to form innovative solutions.
 
 By championing water conservation, students develop a sense of responsibility, empathy, and environmental stewardship. They become advocates for sustainable water usage, inspiring others to adopt water-saving practices and contribute to the preservation of this vital resource.
 
-
-<img src="/images/science13.jpg" style="width:85%">
-<img src="/images/science10.jpg" style="width:85%">
+<img src="/images/Science%20Department/9.jpg" style="width:85%">
