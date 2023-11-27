@@ -3,9 +3,10 @@ title: Golf
 permalink: /cca/sports-and-games/golf/
 description: ""
 third_nav_title: Sports & Games
+variant: markdown
 ---
 ### **Golf**
-Golf is one of the most popular sports worldwide.Compassvale Primary School is one of the first few primary schools in Singapore to include Golf as one of its CCAs.
+Golf is one of the most popular sports worldwide. Compassvale Primary School is one of the first few primary schools in Singapore to include Golf as one of its CCAs.
 
 Through Golf CCA, students are able to enjoy the sport, learn sportsmanship and foster relationships with their peers. The teaching of the school values of respect, responsibility, resilience, integrity, care and harmony are infused into the lessons.
 
