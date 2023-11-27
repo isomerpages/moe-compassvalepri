@@ -47,10 +47,9 @@ By empowering students to lead in science discoveries, students become active pa
 ##### **Fun with Science**
 Our Fun with Science programme designed for P1 and P2 students allows them to have their first-hand experience in Science. Our students are able to identify the application of science in their many daily life experiences making learning meaningful.
 
-<img src="/images/science6.jpg" style="width:42%" align="left">
-<img src="/images/science7.jpg" style="width:52%" align="right">
 
-<br clear="left">
+<img src="/images/Science%20Department/Science4.png" style="width:85%">
+
 
 ##### **E2K Science Programme**
 E2k Science programme aims to provide students with opportunities to delve deeper into scientific concepts and develop critical thinking skills. 
