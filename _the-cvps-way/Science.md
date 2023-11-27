@@ -26,7 +26,8 @@ The learning of Science takes place beyond the classrooms where students explore
 Moving the students forward to be critical thinkers and develop the future skills necessary for students to engage in the more complex world, students are encouraged to draw links to what they learn and observe to real-life phenomenon. This is done through the use of the school’s Makerspace where elements of STEAM (Science, Technology, Engineering, Aesthetics and Maths) are used for students to apply what they learn to authentic scenarios such as forensics and architecture. 
 
 <img src="/images/Science%20Department/2a.jpeg" style="width:58.5%;margin-right:15px;" align="left">
-<img src="/images/Science%20Department/2b.jpeg" style="width:33%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/2b.jpeg" style="width:33%;margin-right:15px;" align="right">
+
 <br clear="left">
 <br>
 The out-of-the-classroom learning enables students to solve real-life problems, discover and deepen their learning of Science. Hands-on activities and projects are designed to encourage our students to overcome challenges, innovate and embark on a journey of knowledge construction.
@@ -47,19 +48,15 @@ By empowering students to lead in science discoveries, students become active pa
 ##### **Fun with Science**
 Our Fun with Science programme designed for P1 and P2 students allows them to have their first-hand experience in Science. Our students are able to identify the application of science in their many daily life experiences making learning meaningful.
 
-
 <img src="/images/Science%20Department/Science4.png" style="width:85%">
-
 
 ##### **E2K Science Programme**
 E2k Science programme aims to provide students with opportunities to delve deeper into scientific concepts and develop critical thinking skills. 
 
 Through a combination of hands-on experiments, research projects, and interactive discussions, students are challenged to think beyond the textbook and explore real-world applications of scientific principles. The programme encourages students to ask probing questions, make connections between different scientific disciplines, and develop a deeper understanding of complex scientific phenomena. By engaging in collaborative and inquiry-based learning, students develop problem-solving abilities, analytical thinking, and effective communication skills.
 
-
-<img src="/images/science8.jpeg" style="width:37%" align="left">
-<img src="/images/science9.jpeg" style="width:61%" align="right">
-
+<img src="/images/Science%20Department/Science5A.png" style="width:45%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/5b.jpeg" style="width:45%;margin-right:15px;" align="left">
 <br clear="left">
 
 ##### **Creative Science Toy Making**
