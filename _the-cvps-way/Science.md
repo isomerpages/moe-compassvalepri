@@ -25,6 +25,10 @@ The learning of Science takes place beyond the classrooms where students explore
 
 Moving the students forward to be critical thinkers and develop the future skills necessary for students to engage in the more complex world, students are encouraged to draw links to what they learn and observe to real-life phenomenon. This is done through the use of the school’s Makerspace where elements of STEAM (Science, Technology, Engineering, Aesthetics and Maths) are used for students to apply what they learn to authentic scenarios such as forensics and architecture. 
 
+<img src="/images/Science%20Department/2a.jpeg" style="width:58.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/2b.jpeg" style="width:33%;margin-right:15px;" align="left">
+<br clear="left">
+<br>
 The out-of-the-classroom learning enables students to solve real-life problems, discover and deepen their learning of Science. Hands-on activities and projects are designed to encourage our students to overcome challenges, innovate and embark on a journey of knowledge construction.
 
 Ultimately, thinking like a scientist nurtures a sense of wonder and fosters a lifelong love for learning.
