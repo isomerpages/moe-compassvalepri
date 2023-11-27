@@ -29,7 +29,6 @@ Furthermore, participating in creative projects like this helped students recall
 <br clear="left">
 <br>
 <img src="/images/Tamil%20Language%20Department/Picture4.png" style="width:45%" align="left">
-
 <img src="/images/Tamil%20Language%20Department/Picture3.png" style="width:48%" align="right">
 
 <br clear="left">
@@ -40,8 +39,7 @@ Learning at Compassvale Primary School is an exciting and enjoyable experience! 
 The P1 students had a blast making their very own kites and flying them in the park, while the P2 students embarked on a thrilling treasure hunt, diligently checking off items from their activity checklist. During the entire session, students made a conscious effort to communicate in Tamil with both their peers and teachers, making it a memorable and language-enriching experience.
 
 <img src="/images/tamil1.jpg" style="width:23%;margin-left:15px;" align="left">
-<img src="/images/tamil2.png" style="width:42%;margin-left:15px;" align="left">
+<img src="/images/tamil2.png" style="width:41%;margin-left:15px;" align="left">
 <img src="/images/tamil3.jpg" style="width:23%;margin-left:15px;" align="left">
 
 <br clear="left">
-
