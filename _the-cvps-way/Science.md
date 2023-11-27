@@ -89,6 +89,7 @@ Our Science Leaders from Primary 3 to 6 champion the school’s recycling effort
 <br>
 <center>
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9azugSmUnnLY7FG1_piw9LCqOyk1rhR0zkzoP4-sxXwkjM0rdegHz2LA7EwpX0OvU4h6YbsTwyNxg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</center><br>
 
 ##### **Championing Water Conservation**
 In 2020, the school procured and built a rainwater harvester near the canteen with the intent of conserving the use of potable drinking water for cleaning and landscaping purposes such as watering the plants and the school field. The rainwater harvester collects rainwater that falls on our roof and diverts much of that water into a tank that stores that rainwater for use later. In addition, this system models our school’s vision of thinking, leading and championing innovative solutions that care for the environment. Students are able to witness the application of science and other disciplines to form innovative solutions.
@@ -96,4 +97,3 @@ In 2020, the school procured and built a rainwater harvester near the canteen wi
 By championing water conservation, students develop a sense of responsibility, empathy, and environmental stewardship. They become advocates for sustainable water usage, inspiring others to adopt water-saving practices and contribute to the preservation of this vital resource.
 
 <img src="/images/Science%20Department/9.jpg" style="width:65%">
-</center>
