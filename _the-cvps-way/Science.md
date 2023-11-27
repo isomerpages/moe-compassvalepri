@@ -17,10 +17,9 @@ By cultivating a scientific mindset, students not only develop a deeper understa
 
 The learning of Science takes place beyond the classrooms where students explore the Ecological Garden, Fern Garden and the Herbs and Spices Gardens. The out-of-the classroom experiences provide students with an opportunity to question what they observe and find ways to derive answers by careful observations using the scientific method. 
 
-
-<img src="/images/science1.jpeg" style="width:32%;margin-right:15px;" align="left">
-<img src="/images/science2.jpeg" style="width:20%;margin-right:15px;" align="left">
-<img src="/images/science3.jpeg" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/Science1A.png" style="width:41.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/1b.jpeg" style="width:23.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/1c.jpeg" style="width:23.5%;margin-right:15px;" align="left">
 
 <br clear="left">
 
