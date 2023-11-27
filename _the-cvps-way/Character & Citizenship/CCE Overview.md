@@ -17,3 +17,11 @@ The school believes that only through holistic education can a child be educated
 ##### **Our R3ICH Experiences**
 
 * [CCE Curriculum](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ccecurriculum/)
+* [Cyber Wellness](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/cyberwellness/)
+* [Values-In-Action](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/via/)
+* [Education & Career Guidance](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ecg/)
+* [Sexuality Education](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/sed/)
+* [Student Leadership](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/studentlead/)
+* [Student Recognition & Awards](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/studentrecognition/)
+* [Social Studies](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ss/)
+* [National Education](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ne/)
