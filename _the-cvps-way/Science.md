@@ -64,8 +64,10 @@ By combining creativity and science, Creative Science Toy Making sparks curiosit
 
 Unleashing their creativity and bringing their ideas to life, students engage in Design Thinking, by going through many phases in the designing of their toys and learnt how productive failure leads to desirable outcomes. 
 
+<img src="/images/Science%20Department/6a.jpg" style="width:35.5%" align="left">
+<img src="/images/Science%20Department/6b.jpg" style="width:63%" align="right">
 
-<img src="/images/science10.jpg" style="width:85%">
+<br clear="left">
 
 #### **Champion Scientific Causes**
 The school’s environmental education programme allows our students to explore environmental related issues, engage in decision-making, and take actions to conserve and protect the environment. Students champion the green habits under the guidance of teachers and the programme includes green habit practices, sharing during assembly and recess activities. 
@@ -73,6 +75,11 @@ The school’s environmental education programme allows our students to explore 
 This initiative not only raises awareness about scientific issues but also fosters critical thinking, problem-solving, and leadership skills. By taking actions and championing scientific causes such as 30 by 30 – Our Food Future, students develop a sense of empathy, environmental stewardship, and a commitment to making a positive impact on the world.
 
 
+<img src="/images/Science%20Department/Science1A.png" style="width:41.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/1b.jpeg" style="width:23.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/1c.jpeg" style="width:23.5%;margin-right:15px;" align="left">
+
+<br clear="left">
 
 ##### **Championing 4Rs – Reduce, Reuse, Recycle, Refuse**
 By championing the 4Rs, students develop a sense of responsibility, environmental stewardship, and a commitment to sustainable living. 
@@ -92,3 +99,4 @@ By championing water conservation, students develop a sense of responsibility, e
 
 
 <img src="/images/science13.jpg" style="width:85%">
+<img src="/images/science10.jpg" style="width:85%">
