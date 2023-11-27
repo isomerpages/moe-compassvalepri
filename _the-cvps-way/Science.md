@@ -56,7 +56,7 @@ E2k Science programme aims to provide students with opportunities to delve deepe
 Through a combination of hands-on experiments, research projects, and interactive discussions, students are challenged to think beyond the textbook and explore real-world applications of scientific principles. The programme encourages students to ask probing questions, make connections between different scientific disciplines, and develop a deeper understanding of complex scientific phenomena. By engaging in collaborative and inquiry-based learning, students develop problem-solving abilities, analytical thinking, and effective communication skills.
 
 <img src="/images/Science%20Department/Science5A.png" style="width:45%;margin-right:15px;" align="left">
-<img src="/images/Science%20Department/5b.jpeg" style="width:45%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/5b.jpeg" style="width:45.5%;margin-right:15px;" align="left">
 <br clear="left">
 
 ##### **Creative Science Toy Making**
