@@ -25,4 +25,4 @@ The school believes that only through holistic education can a child be educated
 * [Social Studies](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ss/)
 * [National Education](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ne/)
 * [International Partnerships & TIE](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ip&tie)
-* [Cyber Wellness Test](the-cvps-way/character-and-citizenship/cyberwellness)
+* [Cyber Wellness Test](the-cvps-way/character-and-citizenship/ecg)
