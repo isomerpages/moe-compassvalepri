@@ -18,7 +18,7 @@ The school believes that only through holistic education can a child be educated
 * [CCE Curriculum](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ccecurriculum/)
 * [Cyber Wellness](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/cyberwellness/)
 * [Values-in-Action](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/via/)
-* [Education & Career Guidance](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ed-cg/)
+* [Education & Career Guidance](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/ecg)
 * [Sexuality Education](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/sed/)
 * [Student Leadership](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/studentlead/)
 * [Student Recognition & Awards](https://www.compassvalepri.moe.edu.sg/the-cvps-way/character-and-citizenship/studentrecognition)
