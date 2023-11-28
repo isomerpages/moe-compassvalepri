@@ -82,7 +82,6 @@ For **HATS**, the students will be taught more advanced techniques and strategie
 **Mathematics Olympiad**<br>
 **Excellence 2000 (E2K) Mathematics**
 
-
 <img src="/images/mathphoto56special1.jpeg" style="width:85%;margin-right:15px;" align="center">
 <br>
 <img src="/images/mathphoto56special.jpg" style="width:85%;margin-right:15px;" align="center">
