@@ -70,9 +70,10 @@ This empowers and stretches the students’ mathematical skills, fosters abiliti
 **Primary 5 and 6**<br>
 As students transit to the upper primary level, they will face with more advanced challenges and hence, more rigour will be added to their routines. They are trained to be more independent and take ownership of their learning in their mathematics journey. The use of **SSM** is still largely emphasized. They will work in groups and present their work or worked solutions more frequently. They will also be given opportunities to articulate their mathematical reasoning to their peers.   
 
-For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
-<img src="/images/Math%20Department/math10.png" style="width:46%;margin-right:15px;" align="left">
-<img src="/images/Math%20Department/math11.png" style="width:46%;margin-right:15px;" align="left">
+For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school. 
+
+<img src="/images/Math%20Department/math10.png" style="width:54%;margin-right:15px;" align="left">
+<img src="/images/Math%20Department/math11.png" style="width:38.5%;margin-right:15px;" align="left">
 <br clear="left">
 
 #### **Specialty Programme**
