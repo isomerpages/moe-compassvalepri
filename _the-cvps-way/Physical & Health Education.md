@@ -46,11 +46,8 @@ Primary 6 students pit their skills and tactics against one another during the i
 Selected students are invited to enrol in a programme where they get to learn to play exciting sports or engage in physically fun activities and learn more about healthy eating. All the sessions require the students to think positive and be champions of their own health. They are taught how to lead a healthier lifestyle beyond school.
 
 <img src="/images/PE%20Department/AYR_4.jpeg" style="width:85%">
-<br><br>
+<br>
 <center>
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4JJDhdp2YCpFzD5ePHR-S63N2eZXorcxEYpb81HD31yD6IhgwTafVLHsIBtd2gwkGXera6SX02mc-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-<br><br>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfk2s2z0gFXMseQ9NQYs3redOV9SmOUA2S6H_biuogVCtk3yzsKHokW73V6hz_boaJbGljLjtuqioX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-
-</center>
+<br>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfk2s2z0gFXMseQ9NQYs3redOV9SmOUA2S6H_biuogVCtk3yzsKHokW73V6hz_boaJbGljLjtuqioX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
