@@ -17,6 +17,5 @@ Basketball is a team sport. Our CCA not only focuses on the athletic aspects but
 <img src="/images/basketball4.jpeg" style="width:49%" align="right">
 <br clear="left">
 <br clear="right">
-<img src="/images/CCA/Basketball/Basketball_2.PNG" style="width:60%">
-<br>
-<img src="/images/CCA/Basketball/Basketball_1.PNG" style="width:60%">
+<img src="/images/CCA/Basketball/Basketball_2.PNG" style="width:55%" align="left">
+<img src="/images/CCA/Basketball/Basketball_1.PNG" style="width:42%" align="right">
