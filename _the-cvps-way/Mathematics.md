@@ -42,13 +42,11 @@ Each child will now be exposed to more complex strategies in the **HATS** packag
 
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
-<img src="/images/Math%20Department/math4.png" style="width:46%;margin-right:15px;" align="left">  <img src="/images/Math%20Department/math7.png" style="width:46%;margin-right:15px;" align="left">
+<img src="/images/Math%20Department/math4.png" style="width:46.5%;margin-right:15px;" align="left">  <img src="/images/Math%20Department/math7.png" style="width:46.5%;margin-right:15px;" align="left">
 <br clear="left">
 
-<img src="/images/mathphoto6.jfif" style="width:40%;margin-right:15px;" align="left">
-<img src="/images/mathphoto5.jfif" style="width:33%;margin-right:15px;" align="left"><br>
-
-
+<img src="/images/Math%20Department/math6.png" style="width:42.5%;margin-right:15px;" align="left">
+<img src="/images/Math%20Department/math5.png" style="width:35%;margin-right:15px;" align="left"><br>
 <br clear="left">
 
 #### **Specialty Programme**
@@ -73,9 +71,8 @@ This empowers and stretches the students’ mathematical skills, fosters abiliti
 As students transit to the upper primary level, they will face with more advanced challenges and hence, more rigour will be added to their routines. They are trained to be more independent and take ownership of their learning in their mathematics journey. The use of **SSM** is still largely emphasized. They will work in groups and present their work or worked solutions more frequently. They will also be given opportunities to articulate their mathematical reasoning to their peers.   
 
 For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
-
-<img src="/images/mathphoto10.jfif" style="width:45%;margin-right:15px;" align="left">
-<img src="/images/mathphoto11.jfif" style="width:45%;margin-right:15px;" align="left">
+<img src="/images/Math%20Department/math10.png" style="width:46%;margin-right:15px;" align="left">
+<img src="/images/Math%20Department/math11.png" style="width:46%;margin-right:15px;" align="left">
 <br clear="left">
 
 #### **Specialty Programme**
