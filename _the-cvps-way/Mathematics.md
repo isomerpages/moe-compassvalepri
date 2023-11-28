@@ -85,8 +85,8 @@ For **HATS**, the students will be taught more advanced techniques and strategie
 **Excellence 2000 (E2K) Mathematics**
 
 
-<img src="/images/mathphoto56special1.jpeg" style="width:60%;margin-right:15px;" align="left">
-<br clear="left"><br clear="left">
-<img src="/images/mathphoto56special.jpg" style="width:60%;margin-right:15px;" align="left">
+<img src="/images/mathphoto56special1.jpeg" style="width:85%;margin-right:15px;" align="center">
+<br>
+<img src="/images/mathphoto56special.jpg" style="width:85%;margin-right:15px;" align="center">
 
-<br clear="left">
+<br clear="center">
