@@ -12,4 +12,4 @@ Robotics Club members in Compassvale Primary School engage in the design, constr
 <br>
 <img src="/images/CCA/Robotics%20Club/robotics.png" style="width:85%">
 <br>
-<img src="/images/CCA/Robotics%20Club/Robotics_3.png" style="width:85%">
+<img src="/images/CCA/Robotics%20Club/robotics_3.png" style="width:85%">
