@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /the-cvps-way/mathematics/
 description: ""
+variant: markdown
 ---
 ### **Mathematics**
 #### **Our Learning Approach**
@@ -15,9 +16,8 @@ Plenty of opportunities for hands-on and activity-based learning are provided th
 In addition, the enhanced **Learning Support Programme for Mathematics (LSM)** supports selected Primary 1 and 2 children to strengthen their foundation in Mathematics to ensure that every child is well-equipped to advance in their journey in Mathematics.
 
 Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted. <br>
-
-<img src="/images/mathphoto1.JPG" style="width:46%;margin-right:15px;" align="left"> 
-<img src="/images/mathphoto2.jpg" style="width:46%;margin-right:15px;" align="left"> 
+<img src="/images/Math%20Department/math1.png" style="width:46%;margin-right:15px;" align="left"> 
+<img src="/images/Math%20Department/math2.png" style="width:46%;margin-right:15px;" align="left"> 
 <br clear="left">
 
 #### **Specialty Programme**
@@ -41,8 +41,9 @@ Each child will now be exposed to more complex strategies in the **HATS** packag
 
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
-<img src="/images/mathphoto4.jfif" style="width:40%;margin-right:15px;" align="left">  <img src="/images/mathphoto7.jfif" style="width:40%;margin-right:15px;" align="left">
-<br clear="left"><br clear="left">
+<img src="/images/Math%20Department/math4.png" style="width:46%;margin-right:15px;" align="left">  <img src="/images/Math%20Department/math7.png" style="width:46%;margin-right:15px;" align="left">
+<br clear="left">
+
 <img src="/images/mathphoto6.jfif" style="width:40%;margin-right:15px;" align="left">
 <img src="/images/mathphoto5.jfif" style="width:33%;margin-right:15px;" align="left"><br>
 
