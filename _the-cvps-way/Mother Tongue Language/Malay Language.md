@@ -23,7 +23,7 @@ CUB guides students to read and understand comprehension passage and answer comp
 ##### **Reading Programme**
 The Reading Programme aims to develop a good reading habit that enables students to read independently and with pleasure.&nbsp;Inculcating the habit of reading widely will lead to stronger language skills and enriching students’ vocabulary.&nbsp;&nbsp;Students showcase their stories through various ways like storytelling, book reviews and drawings which allows them to demonstrate their understanding according to their interests or preferred mode.
 
-<img src="/images/Malay%20Department/Pic_5.jpeg" style="width:75%"><br>
+<img src="/images/Malay%20Department/pic_5.png" style="width:75%"><br>
 <img src="/images/Malay%20Department/Pic_6.jpeg" style="width:75%">
 
 
