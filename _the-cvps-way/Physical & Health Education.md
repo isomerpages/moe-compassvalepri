@@ -24,13 +24,13 @@ At various locations in school, students learn to make new friends and participa
 #### **Outdoor Camp**
 All P5 students attend an adventure camp for 3 days and 2 nights. Through exposure to the various outdoor elements, students develop their character and are given numerous opportunities to lead their teams and champion their ideas. They work with each other to solve problems and overcome obstacles, constantly thinking about doing things better and yet still caring for each other. In the camp, every activity is planned such that students will need to demonstrate&nbsp; school core values.
 
-<img src="/images/PE%20Department/Camp__6_.jpg" style="width:85%">
+<img src="/images/PE%20Department/pecamp6.png" style="width:85%">
 <br>
 <img src="/images/PE%20Department/Camp__5_.jpg" style="width:85%">
 <br>
 <img src="/images/PE%20Department/Camp__4_.jpg" style="width:85%">
 <br>
-<img src="/images/PE%20Department/Camp__1_.jpg" style="width:85%">
+<img src="/images/PE%20Department/pecamp1.png" style="width:85%">
 
 #### **SwimSafer Program**
 SwimSafer is a national water safety program developed to raise the standard of swimming proficiency in Singapore. All Primary 3 students would be given the opportunity to attend and experience this program.&nbsp;The&nbsp;aim is to teach swimming proficiency and water survival skills to children to minimize drowning incidences in a fun manner.
