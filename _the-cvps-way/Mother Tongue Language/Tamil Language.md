@@ -13,9 +13,7 @@ The students enthusiastically colored the cards and affixed the school logo stic
 
 Our hope is that, when they revisit this card at the conclusion of their six-year journey at CVPS, it will evoke cherished memories of their very first Tamil language lesson.
  
- <img src="/images/Tamil%20Language%20Department/Picture1.jpg" style="width:85%">
- 
-  <img src="/images/Tamil%20Language%20Department/Picture2.png" style="width:85%">
+ <img src="/images/Tamil%20Language%20Department/Picture1.jpg" style="width:85%"><img src="/images/Tamil%20Language%20Department/Picture2.png" style="width:85%">
 
 
 #### **P1 Kite Making**
