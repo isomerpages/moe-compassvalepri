@@ -45,8 +45,8 @@ At Primary 4 level, your child may also have an opportunity to participate in **
 <img src="/images/Math%20Department/math4.png" style="width:46.5%;margin-right:15px;" align="left">  <img src="/images/Math%20Department/math7.png" style="width:46.5%;margin-right:15px;" align="left">
 <br clear="left">
 
-<img src="/images/Math%20Department/math6.png" style="width:42.5%;margin-right:15px;" align="left">
-<img src="/images/Math%20Department/math5.png" style="width:35%;margin-right:15px;" align="left"><br>
+<img src="/images/Math%20Department/math6.png" style="width:50.5%;margin-right:15px;" align="left">
+<img src="/images/Math%20Department/math5.png" style="width:41.5%;margin-right:15px;" align="left"><br>
 <br clear="left">
 
 #### **Specialty Programme**
