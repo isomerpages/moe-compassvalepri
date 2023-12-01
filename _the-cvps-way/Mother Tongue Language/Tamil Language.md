@@ -21,10 +21,9 @@ P1 Compassvalites learning the Tamil language had a great time with their famili
 
 Furthermore, participating in creative projects like this helped students recall the vocabulary learnt in class more effectively. This, in turn, will contribute to their continued progress in conversational skills and their growth as confident learners.
 
-<img src="/images/tamil7.jpg" style="width:32%;margin-right:15px;" align="left">
-<img src="/images/tamil8.jpg" style="width:24%;margin-right:15px;" align="left">
-<img src="/images/tamil9.jpg" style="width:32%;margin-right:15px;" align="left">
-<br clear="left">
+<img src="/images/tamil7.jpg" style="width:32.5%;margin-right:15px;" align="left">
+<img src="/images/tamil8.jpg" style="width:24.2%;margin-right:15px;" align="left">
+<img src="/images/tamil9.jpg" style="width:32.5%;margin-right:15px;" align="left"><br clear="left">
 <br>
 <img src="/images/Tamil%20Language%20Department/Picture4.png" style="width:45%" align="left">
 <img src="/images/Tamil%20Language%20Department/Picture3.png" style="width:48%" align="right">
