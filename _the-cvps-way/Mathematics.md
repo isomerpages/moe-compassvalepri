@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /the-cvps-way/mathematics/
 description: ""
+variant: markdown
 ---
 ### **Mathematics**
 #### **Our Learning Approach**
@@ -14,10 +15,10 @@ Plenty of opportunities for hands-on and activity-based learning are provided th
 
 In addition, the enhanced **Learning Support Programme for Mathematics (LSM)** supports selected Primary 1 and 2 children to strengthen their foundation in Mathematics to ensure that every child is well-equipped to advance in their journey in Mathematics.
 
-Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted. <br>
+Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess and lunch breaks. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted. 
 
-<img src="/images/mathphoto1.JPG" style="width:46%;margin-right:15px;" align="left"> 
-<img src="/images/mathphoto2.jpg" style="width:46%;margin-right:15px;" align="left"> 
+<img src="/images/Math%20Department/math1.png" style="width:46%;margin-right:15px;" align="left"> 
+<img src="/images/Math%20Department/math2.png" style="width:46%;margin-right:15px;" align="left"> 
 <br clear="left">
 
 #### **Specialty Programme**
@@ -41,12 +42,11 @@ Each child will now be exposed to more complex strategies in the **HATS** packag
 
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
-<img src="/images/mathphoto4.jfif" style="width:40%;margin-right:15px;" align="left">  <img src="/images/mathphoto7.jfif" style="width:40%;margin-right:15px;" align="left">
-<br clear="left"><br clear="left">
-<img src="/images/mathphoto6.jfif" style="width:40%;margin-right:15px;" align="left">
-<img src="/images/mathphoto5.jfif" style="width:33%;margin-right:15px;" align="left"><br>
+<img src="/images/Math%20Department/math4.png" style="width:46.5%;margin-right:15px;" align="left">  <img src="/images/Math%20Department/math7.png" style="width:46.5%;margin-right:15px;" align="left">
+<br clear="left">
 
-
+<img src="/images/Math%20Department/math6.png" style="width:50.5%;margin-right:15px;" align="left">
+<img src="/images/Math%20Department/math5.png" style="width:41.5%;margin-right:15px;" align="left"><br>
 <br clear="left">
 
 #### **Specialty Programme**
@@ -70,21 +70,18 @@ This empowers and stretches the students’ mathematical skills, fosters abiliti
 **Primary 5 and 6**<br>
 As students transit to the upper primary level, they will face with more advanced challenges and hence, more rigour will be added to their routines. They are trained to be more independent and take ownership of their learning in their mathematics journey. The use of **SSM** is still largely emphasized. They will work in groups and present their work or worked solutions more frequently. They will also be given opportunities to articulate their mathematical reasoning to their peers.   
 
-For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
+For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school. 
 
-<img src="/images/mathphoto10.jfif" style="width:52%;margin-right:15px;" align="left">
-<img src="/images/mathphoto11.jfif" style="width:41%;margin-right:15px;" align="left">
-<br>
-
-<br clear="left"><br>
+<img src="/images/Math%20Department/math10.png" style="width:54%;margin-right:15px;" align="left">
+<img src="/images/Math%20Department/math11.png" style="width:38.5%;margin-right:15px;" align="left">
+<br clear="left">
 
 #### **Specialty Programme**
 **Mathematics Olympiad**<br>
 **Excellence 2000 (E2K) Mathematics**
 
+<img src="/images/mathphoto56special1.jpeg" style="width:85%;margin-right:15px;" align="center">
+<br>
+<img src="/images/mathphoto56special.jpg" style="width:85%;margin-right:15px;" align="center">
 
-<img src="/images/mathphoto56special1.jpeg" style="width:60%;margin-right:15px;" align="left">
-<br clear="left"><br clear="left">
-<img src="/images/mathphoto56special.jpg" style="width:60%;margin-right:15px;" align="left">
-
-<br clear="left">
+<br clear="center">
