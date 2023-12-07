@@ -28,7 +28,8 @@ sections:
   - infopic:
       title: Associate Parent Volunteers (APVs) Scheme
       id: infopic
-      button: For more information, please click here
+      description: For more information
+      button: please click here
       url: parents-network/apvs/
       image: /images/APVs/Infographic_for_APV_for_landing_page.jpg
       alt: Image alt text
