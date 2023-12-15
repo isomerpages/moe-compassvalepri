@@ -3,10 +3,5 @@ collections:
     output: true
     order:
       - Welcome to CVPS!.md
-      - Welcome Speeches/.keep
-      - Welcome Speeches/Principal.md
-      - Welcome Speeches/Chairman, School Advisory Committee.md
-      - Welcome Speeches/PSG EXCO Core Team Member, Lead Coordinator, Mentoring
-        & Outreach.md
       - General Information.md
       - FAQs.md
