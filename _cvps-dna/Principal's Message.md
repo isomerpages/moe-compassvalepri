@@ -2,8 +2,6 @@
 title: Principal's Message
 permalink: /cvps-dna/principals-message/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **Principal's Message**
-
-Coming soon
+<h3><strong>Principal's Message</strong></h3><p>Coming soon</p>
