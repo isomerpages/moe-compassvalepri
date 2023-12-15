@@ -25,6 +25,14 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infopic:
+      title: Associate Parent Volunteers (APVs) Scheme
+      id: infopic
+      description: For more information
+      button: please click here
+      url: parents-network/apvs/
+      image: /images/APVs/Infographic_for_APV_for_landing_page.jpg
+      alt: Image alt text
   - infobar:
       title: Booklist for Year 2024 is now available
       id: infobar
