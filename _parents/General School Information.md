@@ -2,6 +2,7 @@
 title: General School Information
 permalink: /parents/generalschoolinfo/
 description: ""
+variant: markdown
 ---
 ### **General School Information**
 #### **1  Road Safety**
@@ -33,7 +34,7 @@ a.  **Hygiene Practices:** The school will continue to remind students to mainta
  
 b.   **What Parents/Guardians Can Do:** Teach your child/ward the properly way to wash their hands. Check that their uniforms are washed and changed daily.
 
-#### **5  School hours**
+#### **5  School Hours**
 
 |  |  |
 |---|---|
