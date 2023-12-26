@@ -47,7 +47,7 @@ Note: Major rules are in&nbsp;**bold.**
 
 |  |
 |---|
-| Based on evidence from teachers, witness statements and/or school security measures, the School Disciplinary Committee will decide on the appropriate consequence for each offence committed. These consequences depending on the offence may include but are not limited to the following:<br>- Informing parents<br>- Meeting with parents<br>- Counselling<br>- Suspension (including from school-based activities or external activities such as learning journey, camps etc.)<br>- Discipline measures to foster acceptable and appropriate behaviour in the child will be meted out depending on the &nbsp; &nbsp; &nbsp; &nbsp; nature and severity of the offence. | 
+| Based on evidence from teachers, witness statements and/or school security measures, the School Disciplinary Committee will decide on the appropriate consequence for each offence committed. These consequences depending on the offence may include but are not limited to the following:<br>- Informing parents<br>- Meeting with parents<br>- Counselling<br>- Suspension (including from school-based activities or external activities such as learning journey, camps etc.)<br>- Discipline measures to foster acceptable and appropriate behaviour in the child will be meted out depending on the nature and severity of the offence. | 
 |
 
 #### **Attire and Appearance**
