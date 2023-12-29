@@ -17,4 +17,4 @@ variant: markdown
 |
 
 
-Kindly note that school uniform will only be available in our school bookshop with effect from 1st Feb 2024. If you would like to get our school uniform before 1st Feb 2024, please contact our Shanghai School Uniforms Vendor (refer to above details).
+Kindly note that school uniform will only be available in our school bookshop with effect from 1st Feb 2024. If you would like to get our school uniform before 1st Feb 2024, please contact Shanghai School Uniforms (refer to above details).
