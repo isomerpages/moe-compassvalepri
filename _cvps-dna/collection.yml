@@ -1,0 +1,11 @@
+collections:
+  cvps-dna:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our History.md
+      - School Vision and Mission.md
+      - School Emblem.md
+      - School Song.md
+      - School Rules & Regulations.md
+      - School Advisory Committee.md

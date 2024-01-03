@@ -1,0 +1,6 @@
+collections:
+  students:
+    output: true
+    order:
+      - School Library.md
+      - Student Learning Space.md

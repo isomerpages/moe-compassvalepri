@@ -1,0 +1,7 @@
+collections:
+  open-house-2023:
+    output: true
+    order:
+      - Welcome to CVPS!.md
+      - General Information.md
+      - FAQs.md

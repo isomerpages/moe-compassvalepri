@@ -1,0 +1,6 @@
+collections:
+  others:
+    output: true
+    order:
+      - General School Information draft.md
+      - Announcements.md

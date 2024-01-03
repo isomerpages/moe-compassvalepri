@@ -1,0 +1,11 @@
+collections:
+  contact:
+    output: true
+    order:
+      - Location.md
+      - School Vendors/.keep
+      - School Vendors/School Bookshop.md
+      - School Vendors/Student Care Centre.md
+      - School Vendors/School Dental Service.md
+      - School Vendors/School Bus.md
+      - School Vendors/School Uniform.md
