@@ -56,17 +56,15 @@ b.	Character and Citizenship Education (CCE) <br>
 	</strong></figcaption>  
 </figure>
 
-| UNIT | LESSONS/DURATION | LESSON OVERVIEW<br> | TIME PERIOD |
+| CCE (FTGP) THEME |  LESSON TITLE/ DURATION  | LESSON OVERVIEW<br> |  TIME  PERIOD (e.g. Term 1 Week 2)  |
 |:---:|:---:|---|:---:|
-|  Growing Years | Are We More Than Friends?<br>Lesson 1<br>(60 min) | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.<br> | Term 4 Week 2 |
-|  | Are We More Than Friends?<br>Lesson 2<br>(60 min) | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.<br> | Term 4 Week 3 |
-|  | Did You Know?<br>(30 min) | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<br> | Term 4 Week 6  |
+|  Growing Years | Are We More Than Friends?<br>Lesson 1<br>(60 min) | In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.<br> | Term 4 Week 8 |
+|  | Are We More Than Friends?<br>Lesson 2<br>(60 min) | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.<br> | Term 4 Week 9 |
 
 
 #### **Information for Parents**
 8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023%20MOE%20Sexuality%20Education%20lessons%20opt-out%20form.pdf). The completed opt-out form is to be submitted by 17 Feb 2023.
+9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents via Parents Gateway. 
 
-
-10\.Parents can contact the school at 6388 2819 or through email at&nbsp;[cvps@moe.edu.sg](mailto:cvps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
+10\.Parents can contact the school at 6388 2819 or through email at&nbsp;[cvps@moe.edu.sg](mailto:cvps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
