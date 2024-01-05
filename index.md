@@ -34,17 +34,10 @@ sections:
       image: /images/APVs/Infographic_for_APV_for_landing_page.jpg
       alt: Image alt text
   - infobar:
-      title: Booklist for Year 2024 is now available
+      title: Year 2024 P1 Orientation Briefing Slides
       id: infobar
-      button: Please click here to download
-      url: /parents/2024booklists/
-  - infopic:
-      title: Open House 2023
-      description: Learn more about The Compassvale Experience
-      button: Click here
-      url: /open-house-2023/welcomevideo/
-      image: /images/website_banner_resized.jpg
-      alt: Image alt text
+      button: Please click here to view the slides
+      url: parents/p1orientation/
   - infopic:
       title: CVPS School Library
       description: Find out the new arrivals, what’s popular, leave a review, and more
@@ -53,6 +46,13 @@ sections:
       button: Click here
       url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/cvps opac.png
+      alt: Image alt text
+  - infopic:
+      title: Open House 2023
+      description: Learn more about The Compassvale Experience
+      button: Click here
+      url: /open-house-2023/welcomevideo/
+      image: /images/website_banner_resized.jpg
       alt: Image alt text
   - resources:
       title: News and Updates
