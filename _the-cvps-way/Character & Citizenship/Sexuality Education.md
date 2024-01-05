@@ -20,6 +20,7 @@ third_nav_title: Character & Citizenship
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families); <br>
 (c)	Make responsible decisions for yourself, your family and society; and
 (d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.<br>
+
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 #### **Overview of Compassvale Primary School's Sexuality Education Programme**
