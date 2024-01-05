@@ -25,6 +25,11 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infobar:
+      title: Year 2024 P1 Orientation Briefing Slides
+      id: infobar
+      button: Please click here to download
+      url: parents/p1orientation/
   - infopic:
       title: Associate Parent Volunteers (APVs) Scheme
       id: infopic
@@ -33,11 +38,6 @@ sections:
       url: parents-network/apvs/
       image: /images/APVs/Infographic_for_APV_for_landing_page.jpg
       alt: Image alt text
-  - infobar:
-      title: Year 2024 P1 Orientation Briefing Slides
-      id: infobar
-      button: Please click here to view the slides
-      url: parents/p1orientation/
   - infopic:
       title: CVPS School Library
       description: Find out the new arrivals, what’s popular, leave a review, and more
