@@ -22,7 +22,7 @@ sections:
         - title: CONTACT US
           description: ""
           url: /contact/school-vendors/school-bookshop/
-      variant: image
+      variant: center
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
