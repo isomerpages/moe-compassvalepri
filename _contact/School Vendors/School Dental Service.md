@@ -20,7 +20,7 @@ variant: markdown
 |  |  |
 |---|---|
 | **Monday, Wednesday &  Friday** | 8.00a.m to 5.00p.m   |
-| **Tuesday & Thursday** | 8.00a.m to 5.00p.m |
+| **Tuesday & Thursday** | 8.00a.m to 5.30p.m |
 |
 
 **Please note clinic will be closed from 12.30p.m to 1.30p.m for lunch break.**
