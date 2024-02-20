@@ -4,4 +4,150 @@ permalink: /cvps-dna/sac/
 description: ""
 variant: tiptap
 ---
-<h3><strong>School Advisory Committee</strong></h3><table><tbody><tr><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th><th rowspan="1" colspan="1"><p></p></th></tr><tr><td rowspan="1" colspan="1"><p><strong>Chairman</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Daniel Tham</strong></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" src="/images/sac2.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Vice-Chairman</strong></p></td><td rowspan="1" colspan="1"><p><strong>Ms Celina Teo</strong></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" src="/images/sac4.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Secretary</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Vincent Lee</strong></p><p></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_Vincent_Lee_2.png"></div></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Member</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Eugene Koh</strong></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_Eugene_Koh1.png"></div></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Member</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr Laurence Goh</strong></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_Laurence_Goh2.png"></div></td></tr><tr><td rowspan="1" colspan="1"><p><strong>Member</strong></p></td><td rowspan="1" colspan="1"><p><strong>Mr James Teo</strong></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_James_Teo1.png"></div></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h5><strong>Purpose</strong></h5><p>The purpose of the Advisory Committees for Government Schools is to provide an opportunity for citizens and permanent residents to participate actively in the Government’s education policy of building a dynamic, strong and self-reliant generation. In the process, it aims to develop scholastic talents and healthy pursuits in schools as well as a strong sense of belonging to the nation.</p><h5><strong>Functions</strong></h5><p>The functions of the School Advisory Committee are :</p><p>(a) to promote closer relationship in various ways, between members of the local community and the principals, teachers and students in Government schools;</p><p>(b) to provide opportunities for the local community to take an interest in student welfare and encourage students’ co-curricular activities aimed at character development and their overall growth in line with the Desired Outcomes of Education; and</p><p>(c) to raise funds for carrying out such activities.</p>
+<h3><strong>School Advisory Committee</strong></h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Daniel Tham</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/sac2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Chairman</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Celina Teo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" src="/images/sac4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Vincent Lee</strong>
+</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_Vincent_Lee_2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Eugene Koh</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_Eugene_Koh1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Laurence Goh</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_Laurence_Goh2.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Member</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr James Teo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_James_Teo1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5><strong>Purpose</strong></h5>
+<p>SACs serve as a platform for citizens and permanent residents to partner
+schools to improve student learning and school effectiveness by bridging
+to the community, so as to achieve the Desired Outcomes of Education; and
+to participate in nation building.</p>
+<h5><strong>Functions</strong></h5>
+<p>The functions of the School Advisory Committee are :</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To provide advice on the strategic directions for the school within MOE’s
+policy framework, leveraging the members’ expertise, diverse perspectives
+and experiences.</p>
+</li>
+<li>
+<p>To garner support for the school from stakeholders and the community through
+the members’ networks, to achieve positive student learning outcomes, in
+line with the national educational goals and objectives.</p>
+</li>
+<li>
+<p>To provide resources, connections, networks and partnerships to enrich
+the schools’ programmes so that the school can contribute to the community
+and the community can contribute to the school, for the holistic development
+of the students.</p>
+</li>
+<li>
+<p>The Principal remains the final decision-making authority.</p>
+</li>
+</ul>
+<p></p>
