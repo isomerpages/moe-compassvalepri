@@ -146,8 +146,5 @@ the schools’ programmes so that the school can contribute to the community
 and the community can contribute to the school, for the holistic development
 of the students.</p>
 </li>
-<li>
-<p>The Principal remains the final decision-making authority.</p>
-</li>
 </ul>
 <p></p>
