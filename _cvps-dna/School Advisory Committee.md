@@ -115,7 +115,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Dr. Annitha</strong>
+<p><strong>Dr Annitha</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
