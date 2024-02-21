@@ -111,13 +111,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Member</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Dr. Annitha</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Dr_Annitha_photo.jpg">
+</div>
 </td>
 </tr>
 </tbody>
