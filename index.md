@@ -13,9 +13,9 @@ sections:
       background: /images/open house banner 21julyb.gif
       url: /contact-us/
       key_highlights:
-        - title: Open House 2023
+        - title: CVPS facebook
           description: ""
-          url: /open-house-2023/welcomevideo/
+          url: https://www.facebook.com/compassvalepri/
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
