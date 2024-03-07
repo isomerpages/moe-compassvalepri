@@ -48,13 +48,6 @@ sections:
       url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/cvps opac.png
       alt: Image alt text
-  - infopic:
-      title: Open House 2023
-      description: Learn more about The Compassvale Experience
-      button: Click here
-      url: /open-house-2023/welcomevideo/
-      image: /images/website_banner_resized.jpg
-      alt: Image alt text
   - resources:
       title: News and Updates
       button: Click for more
