@@ -13,9 +13,9 @@ sections:
       background: /images/open house banner 21julyb.gif
       url: /contact-us/
       key_highlights:
-        - title: Open House 2023
+        - title: CVPS facebook
           description: ""
-          url: /open-house-2023/welcomevideo/
+          url: https://www.facebook.com/compassvalepri/
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
@@ -47,13 +47,6 @@ sections:
       button: Click here
       url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/cvps opac.png
-      alt: Image alt text
-  - infopic:
-      title: Open House 2023
-      description: Learn more about The Compassvale Experience
-      button: Click here
-      url: /open-house-2023/welcomevideo/
-      image: /images/website_banner_resized.jpg
       alt: Image alt text
   - resources:
       title: News and Updates
