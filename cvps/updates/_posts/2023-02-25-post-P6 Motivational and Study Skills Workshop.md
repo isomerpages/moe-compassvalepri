@@ -5,11 +5,11 @@ date: 2023-02-25
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompassvalepri%2Fposts%2Fpfbid0PY2aQHBLmzNbMhDNozd7FL4fVHyCEfuyvhro3CKbUyuWgsauF26gwzpfGh3TPmrDl&amp;show_text=true&amp;width=500" width="500" height="632" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="753" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompassvalepri%2Fposts%2Fpfbid08u8KzPVQmwXBSqHcRaTMDVTdPzmfQoEZD8RD6m2FRpfbNsGBBnZ1sz4snconzpucl&amp;show_text=true&amp;width=500"></iframe>
+<br>
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="747" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompassvalepri%2Fposts%2Fpfbid07FZtbpTWcTt4YRqCDbqRg2Sxt6Cr2mjcMLrPiPAuRGNbppg8xbe73w1ou9Ys8t1ql&amp;show_text=true&amp;width=500"></iframe>
+<br>
+<iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="250" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompassvalepri%2Fposts%2Fpfbid0VSPdd693Rrw5SGKCLreAQn2oSutBDxrs6Kc4q1QocUwiPyUAvJyhqu42AFR9mBktl&amp;show_text=true&amp;width=500"></iframe>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompassvalepri%2Fposts%2Fpfbid02KzVMaCFfPx34Ebzs7DtWzkegpjBEtTYWa2CeS2US1DUDzC3zt9xrnUUx5XxvoJHFl&amp;show_text=true&amp;width=500" width="500" height="709" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompassvalepri%2Fposts%2Fpfbid0MG6uQh6h9T7CiH8SByXweuopadJ7cMFBG4WPnauLDfhpRvesvumMn7agWpao9vrHl&amp;show_text=true&amp;width=500" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-###### **Click [here](https://www.facebook.com/compassvalepri/) to visit our Facebook page.**
