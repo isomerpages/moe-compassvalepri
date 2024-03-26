@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Our TLC Experience**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnDsxkMJyA9yVVvJJZApYCTS6KNoSGke-YgHw6Lf00DIs60J4cl0jUrbclCO5KMglkny60Un59fRdz/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnDsxkMJyA9yVVvJJZApYCTS6KNoSGke-YgHw6Lf00DIs60J4cl0jUrbclCO5KMglkny60Un59fRdz/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
 
 #### **Primary 1 &amp; Primary 2**
 In PAL Outdoor Education, students experience joys of the outdoors. Through their interaction with the outdoor environment, they develop creativity, curiosity and also learn about collaboration. They acquire life-skills through the various activities about the outdoors or done in the outdoors. At the end of the module, students even get to have a field trip to a park to immerse themselves in outdoor environment away from that of the school’s vicinity.
