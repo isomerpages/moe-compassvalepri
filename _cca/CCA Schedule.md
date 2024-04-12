@@ -23,7 +23,6 @@ variant: markdown
 |:---:|:---:|:---:|
 |  Basketball | Senior Team <br>Junior Team <br>2.30p.m - 4.30p.m  | Senior Team <br> Junior Team CCA team <br>2.30p.m - 4.30p.m | 
 |  Football |  Junior &amp; Senior Teams<br> CCA Team (P4 &amp; P5)<br>2.30p.m - 4.30p.m |  Junior &amp; Senior Teams<br> CCA Team (P3 &amp; P6)<br>2.30p.m - 4.30p.m  | 
-|  Golf | Nil  |  CCA Team<br>2.30p.m.- 5.10p.m | 
 |  Netball | Junior &amp; Senior Teams<br> CCA Team (P5 &amp; P6)<br>2.30p.m - 4.30p.m  | Junior &amp; Senior Teams<br> CCA Team (P3 &amp; P4)<br>2.30p.m - 4.30p.m   | 
 |  Track &amp; Field | CCA Team<br>2.30p.m - 4.30p.m   | School Team<br>2.30p.m - 4.30p.m   | 
 |  Wushu |  School Team<br>2.30p.m - 4.30p.m  | School Team<br>CCA Team<br>2.30p.m - 4.30p.m | 
@@ -42,4 +41,4 @@ variant: markdown
 |  Art Club |   Nil | CCA Team<br>2.30p.m - 4.30p.m    | 
 |  English Language,<br>Drama Debating |    CCA Team<br>2.30p.m - 4.30p.m |  Nil |  
 |  Robotics |  School Team<br>CCA Team<br>2.30p.m - 4.30p.m  |  School Team<br>2.30p.m - 4.30p.m | 
-| Physical Science |  CCA Team<br>2.30p.m - 4.30p.m  |  Nil | 
+| Physical Science |  CCA Team<br>2.30p.m - 4.30p.m  |  Nil |
