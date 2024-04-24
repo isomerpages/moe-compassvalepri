@@ -2,5 +2,5 @@ collections:
   open-house-2024:
     output: true
     order:
-      - Principal's message.md
       - Welcome to CVPS!.md
+      - Principal's message.md
