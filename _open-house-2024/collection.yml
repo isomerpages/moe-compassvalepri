@@ -2,8 +2,8 @@ collections:
   open-house-2024:
     output: true
     order:
-      - Our CVPS Way.md
       - Welcome to CVPS!.md
       - Principal's message.md
+      - Our CVPS Way.md
       - General Information.md
       - FAQs.md
