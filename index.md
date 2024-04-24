@@ -26,6 +26,13 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infopic:
+      title: CVPS Open House 2024
+      id: infopic
+      description: For more information on Webinar and Guided Tour
+      button: Please click Here
+      url: /open-house-2024/welcomevideo
+      alt: Image alt text
   - infobar:
       title: Year 2024 P1 Orientation Briefing Slides
       id: infobar
