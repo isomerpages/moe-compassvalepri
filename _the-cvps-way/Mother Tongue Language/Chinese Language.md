@@ -3,40 +3,84 @@ title: Chinese Language
 permalink: /the-cvps-way/mother-tongue-language/chinese-language/
 description: ""
 third_nav_title: Mother Tongue Language
+variant: markdown
 ---
 ### **Chinese Language**
-The Chinese Language (CL) Department aims to build a strong foundation in our students in their mastering of Mother Tongue Languages and inculcate moral values, cultures, heritages and traditions through daily classroom teaching and interactive learning activities.  
 
-Our CL Reading Programme aims to develop in our students a passion for reading. They will be taught to select books that cater to their age and interest levels. Fun reading activities have also been planned to build a reading culture that develops our students into proficient readers.  
+<img src="/images/2024%20Open%20House/CL%20Dept/Reading_1.jpg" style="width:49%" align="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/Reading_2.jpg" style="width:49%" align="right"> 
 
-Our team of CL teachers constantly explores a repertoire of pedagogies to bring about joyful and meaningful learning experiences for our students. Lessons conducted are designed to develop in our students the 21st Century Competencies and nurture in them the love for learning Chinese Language so that the spirit of learning stays with them beyond school.
-<br><br>
 <figure>
-<figcaption><strong>&nbsp; CL Reading Programme
+<figcaption><strong>&nbsp; Book sharing by students during Chinese lessons. 
 	</strong></figcaption>  
 </figure>	
-<img src="/images/chinese1.jpg" style="width:85%">
 
-<img src="/images/Chinese2R.jpg" style="width:85%">
 
-<img src="/images/chinese3.png" style="width:88%">
+##### **Mother Tongue Language Fortnight**
+
+The Mother Tongue Language (MTL) Fortnight Programme at Compassvale Primary School is an annual two-week programme that engages students in various fun-filled learning activities to deepen their understanding and appreciation of Chinese language and culture. Each year, the programme focuses on a different cultural theme, providing a comprehensive exploration and discovery of various facets of traditional culture. The themes include traditional weddings, cuisine, handicrafts,  costumes, dance and music.
+
+<img src="/images/2024%20Open%20House/CL%20Dept/MTL.jpg" style="width:90%">
+
+Throughout the two weeks, a diverse array of activities is carefully curated to offer students authentic and experiential learning opportunities. Over their six years of education at the school, students would have delved into various aspects of Chinese culture and tradition which enables them to not only develop proficiency in the language, but also acquire a more holistic and deeper appreciation for the cultural context in which the language thrives.
+
+In essence, the Mother Tongue Language Fortnight at Compassvale Primary School goes beyond the textbook, providing a transformative experience that integrates language learning with a rich tapestry of cultural exploration and discovery.  Through this annual event, students emerge with a well-rounded understanding of their mother tongue as a living language deeply rooted in diverse and vibrant traditions.
+
+
+<img src="/images/2024%20Open%20House/CL%20Dept/mtlbooth.jpg" style="width:45.5%" align="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/malayart.jpg" style="width:53.5%" align="right">
+<br clear="left">
+<br>
+
+<img src="/images/2024%20Open%20House/CL%20Dept/mtlbooth1.jpg" style="width:48.5%" align="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/mtlbooth2.jpg" style="width:48.5%" align="right">
+<br clear="left">
+<br>
+
+<img src="/images/2024%20Open%20House/CL%20Dept/mtlbooth3.jpg" style="width:52.5%" align="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/mtlbooth4.jpg" style="width:43.5%" align="right">
+<br clear="left">
+<br>
+
+<img src="/images/2024%20Open%20House/CL%20Dept/IMG_4004_P1MTLFN.jpg" style="width:58.5%" align="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/IMG_4007_P1MTLFN1.jpg" style="width:40.5%" align="right">
+<br clear="left">
+<br>
+<img src="/images/2024%20Open%20House/CL%20Dept/IMG_5898_P2MTLFN.jpg" style="width:58.5%" align="left">
+<figure>
+<figcaption><strong>&nbsp; Making traditional costumes.
+	</strong></figcaption>  
+</figure>	
+<br clear="left">
+<br>
+<br>
+
+<img src="/images/2024%20Open%20House/CL%20Dept/P6MTLFN.jpg" style="width:85%">
+<br>
+<img src="/images/2024%20Open%20House/CL%20Dept/P5MTLFN.jpg" style="width:47%" align="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/P5MTLFN1.jpg" style="width:48.5%" align="right">
+<br clear="left">
+
+##### **P4 Cultural Camp**
+
+<img src="/images/2024%20Open%20House/CL%20Dept/P4CC1.jpg" style="width:85%">
+<figure>
+<figcaption><strong>&nbsp; 	Doll Kneading
+	</strong></figcaption>  
+</figure>
+<br clear="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/P4CC2.jpg" style="width:60%">
+<figure>
+<figcaption><strong>&nbsp; Puppet Making
+	</strong></figcaption>  
+</figure>	 
+<br clear="left">
+
+##### **Cultural Performance Exposure Scheme**
+
+
 <br>
 <figure>
 <figcaption><strong>&nbsp; Mother Tongue Language Fortnight
 	</strong></figcaption>  
 </figure>	
-<img src="/images/chinese4.jpg" style="width:55%">
-
-<img src="/images/chinese5.png" style="width:51.5%" align="left">
-<img src="/images/chinese6.jpg" style="width:46%" align="right">
-
-<br clear="left">
-<br>
-<figure>
-<figcaption><strong>&nbsp; P4 Cultural Camp
-	</strong></figcaption>  
-</figure>
-<img src="/images/chinese7.jpg" style="width:42%" align="left">
-<img src="/images/chinese8.jpg" style="width:56%" align="right">
-
-<br clear="left">
