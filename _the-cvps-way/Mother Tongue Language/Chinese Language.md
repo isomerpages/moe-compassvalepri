@@ -7,8 +7,8 @@ variant: markdown
 ---
 ### **Chinese Language**
 
-<img src="/images/2024%20Open%20House/CL%20Dept/Reading_1.jpg" style="width:49%" align="left">
-<img src="/images/2024%20Open%20House/CL%20Dept/Reading_2.jpg" style="width:49%" align="right"> 
+<img src="/images/2024%20Open%20House/CL%20Dept/Reading_1.jpg" style="width:47%" align="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/Reading_2.jpg" style="width:47%" align="right"> 
 <br clear="left">
 <figure>
 <figcaption><strong>&nbsp; Book sharing by students during Chinese lessons. 
