@@ -61,3 +61,17 @@ In essence, the Mother Tongue Language Fortnight at Compassvale Primary School g
 <figcaption><strong>&nbsp; P2 students watched a performance at the Singapore Hokkien Huay Kuan Cultural Academy and had the opportunity to interact with the performers on stage.
 	</strong></figcaption>  
 </figure>
+
+##### **Lunar New Year Celebration**
+
+<img src="/images/2024%20Open%20House/CL%20Dept/Papercut1.jpg" style="width:42.5%" align="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/Papercut2.jpg" style="width:51%" align="right">
+<br clear="left">
+<figure>
+<figcaption><strong>&nbsp; Paper-cutting activity to decorate their classroom for the festival.
+	</strong></figcaption>  
+</figure>
+
+##### **Mid-Autumn Celebration**
+
+<img src="/images/2024%20Open%20House/CL%20Dept/mooncake.jpg" style="width:100%">
