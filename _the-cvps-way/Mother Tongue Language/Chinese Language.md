@@ -52,23 +52,12 @@ In essence, the Mother Tongue Language Fortnight at Compassvale Primary School g
 ##### **P4 Cultural Camp**
 
 <img src="/images/2024%20Open%20House/CL%20Dept/p4_cultural_camp.jpg" style="width:100%">
-<figure>
-<figcaption><strong>&nbsp; 	Doll Kneading
-	</strong></figcaption>  
-</figure>
-<br clear="left">
-<img src="/images/2024%20Open%20House/CL%20Dept/P4CC2.jpg" style="width:60%">
-<figure>
-<figcaption><strong>&nbsp; Puppet Making
-	</strong></figcaption>  
-</figure>	 
-<br clear="left">
+
 
 ##### **Cultural Performance Exposure Scheme**
 
-
-<br>
+<img src="/images/2024%20Open%20House/CL%20Dept/CPES1.jpg" style="width:100%">
 <figure>
-<figcaption><strong>&nbsp; Mother Tongue Language Fortnight
+<figcaption><strong>&nbsp; P2 students watched a performance at the Singapore Hokkien Huay Kuan Cultural Academy and had the opportunity to interact with the performers on stage.
 	</strong></figcaption>  
 </figure>
