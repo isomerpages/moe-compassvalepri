@@ -42,28 +42,16 @@ In essence, the Mother Tongue Language Fortnight at Compassvale Primary School g
 <br clear="left">
 <br>
 
-<img src="/images/2024%20Open%20House/CL%20Dept/IMG_4004_P1MTLFN.jpg" style="width:58.5%" align="left">
-<img src="/images/2024%20Open%20House/CL%20Dept/IMG_4007_P1MTLFN1.jpg" style="width:40.5%" align="right">
-<br clear="left">
-<br>
-<img src="/images/2024%20Open%20House/CL%20Dept/IMG_5898_P2MTLFN.jpg" style="width:58.5%" align="left">
-<figure>
-<figcaption><strong>&nbsp; Making traditional costumes.
-	</strong></figcaption>  
-</figure>	
-<br clear="left">
-<br>
-<br>
 
-<img src="/images/2024%20Open%20House/CL%20Dept/P6MTLFN.jpg" style="width:85%">
-<br>
-<img src="/images/2024%20Open%20House/CL%20Dept/P5MTLFN.jpg" style="width:47%" align="left">
-<img src="/images/2024%20Open%20House/CL%20Dept/P5MTLFN1.jpg" style="width:48.5%" align="right">
-<br clear="left">
+<img src="/images/2024%20Open%20House/CL%20Dept/Students_making_traditional_costumes.jpg" style="width:100%" align="center">
+<br clear="center">
+
+<img src="/images/2024%20Open%20House/CL%20Dept/tying_chinese_knots.jpg" style="width:100%" align="center">
+<br clear="center">
 
 ##### **P4 Cultural Camp**
 
-<img src="/images/2024%20Open%20House/CL%20Dept/P4CC1.jpg" style="width:85%">
+<img src="/images/2024%20Open%20House/CL%20Dept/p4_cultural_camp.jpg" style="width:100%">
 <figure>
 <figcaption><strong>&nbsp; 	Doll Kneading
 	</strong></figcaption>  
