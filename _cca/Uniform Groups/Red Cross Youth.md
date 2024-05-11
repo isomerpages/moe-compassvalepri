@@ -6,6 +6,9 @@ third_nav_title: Uniform Groups
 variant: markdown
 ---
 ### **Red Cross Youth**
+<div>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LJVCUG1_Wqc?si=l-YqLk3Qq5qqCUZo" height="315" width="560"></iframe></div>
+
 In our Red Cross CCA, Links learn and hone their first aid skills as well as get training for simple marching drills. The theory lessons teach them critical skills in responding to different emergencies in the first few minutes before any professional medical help arrives.&nbsp;
 
 They will also be actively involved in national and community charity events such as the annual food donation drive at CVPS and the Singapore Red Cross Society (SRCS) Flag Day.&nbsp; Other than the various learning journeys and visits to the Elderly Homes, our Links also have opportunities to represent the school in national and zonal events, competitions and camps organised by the SRCS HQ.&nbsp;
