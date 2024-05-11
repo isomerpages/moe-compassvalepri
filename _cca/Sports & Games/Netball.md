@@ -7,8 +7,8 @@ variant: markdown
 ---
 ### **Netball**
 
-<div>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lZP_yPgpk6U?si=WBeyaM1Ve2GuynQX" align="center" height="315" width="560"></iframe>
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lZP_yPgpk6U?si=WBeyaM1Ve2GuynQX" align="center" height="315" width="560"></iframe></center>
 	
 In the P4 Junior team, our players undergo training where they pick up foundational skills such as agility and teamwork. After a rigorous selection process, players are selected to be a part of the junior and senior school teams.
 
@@ -41,4 +41,4 @@ North Zone Senior – 1st position
 National Juniors - Tier 1
 
 <br>
-<img src="/images/CCA/Netball/Netball_3.jpg" style="width:85%"></div>
+<img src="/images/CCA/Netball/Netball_3.jpg" style="width:85%">
