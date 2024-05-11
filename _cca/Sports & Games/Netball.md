@@ -7,6 +7,8 @@ variant: markdown
 ---
 ### **Netball**
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lZP_yPgpk6U?si=WBeyaM1Ve2GuynQX" height="315" width="560"></iframe>
+
 In the P4 Junior team, our players undergo training where they pick up foundational skills such as agility and teamwork. After a rigorous selection process, players are selected to be a part of the junior and senior school teams.
 
 <img src="/images/CCA/Netball/Netball_1.jpeg" style="width:85%">
