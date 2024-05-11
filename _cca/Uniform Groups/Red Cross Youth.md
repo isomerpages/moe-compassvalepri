@@ -7,8 +7,8 @@ variant: markdown
 ---
 ### **Red Cross Youth**
 
-<div>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LJVCUG1_Wqc?si=l-YqLk3Qq5qqCUZo" height="315" width="560"></iframe></div>
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LJVCUG1_Wqc?si=l-YqLk3Qq5qqCUZo" height="315" width="560"></iframe> </center>
 
 In our Red Cross CCA, Links learn and hone their first aid skills as well as get training for simple marching drills. The theory lessons teach them critical skills in responding to different emergencies in the first few minutes before any professional medical help arrives.&nbsp;
 
