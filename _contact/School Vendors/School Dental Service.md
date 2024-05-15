@@ -17,10 +17,11 @@ variant: markdown
 #### **Dental Clinic Operating Hours**
 ##### **During School Term**
 ###### Monday to Wednesday (alternate week): 
+
 |  |  |
 |---|---|
 | **Monday & Wednesday** | 8.00a.m to 5.00p.m   |
 | **Tuesday** | 8.00a.m to 5.30p.m |
 |
 
-**Please note clinic will be closed from 12.30p.m to 1.30p.m for lunch break.**
+Please note clinic will be closed from 12.30p.m to 1.30p.m for lunch break.
