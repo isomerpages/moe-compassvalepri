@@ -83,10 +83,10 @@ Application is to be submitted online at [https://go.gov.sg/moe-efas](https://go
 
 Parents whose child is a ComCare beneficiary need not submit the application for MOE FAS separately as it will be auto-granted to ComCare beneficiaries in Government and Government-aided schools (GGAS). 
 
-Application via hardcopy form is required for: 
-a.	Families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) 
-b.	Family with more than six children in GGAS 
-c.	Family with more than five unmarried children not in GGAS 
+Application via hardcopy form is required for: <br>
+a.	Families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) <br>
+b.	Family with more than six children in GGAS <br>
+c.	Family with more than five unmarried children not in GGAS <br>
 d.	Family with more than three grandparents in the household
 
 If you have difficulties submitting your application online, the hardcopy application [MOE FAS Application Form 2024](/files/MOE_FAS_Application_Form.pdf) together with all required supporting documents is to be submitted to the General Office. 
