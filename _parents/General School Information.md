@@ -75,11 +75,24 @@ You may wish to bookmark&nbsp;[https://calendar.google.com/calendar/embed?src=cv
 
 If you are an ical calendar user, you may wish to add&nbsp;[https://calendar.google.com/calendar/ical/cvpspublic%40gmail.com/public/basic.ics](https://calendar.google.com/calendar/ical/cvpspublic%40gmail.com/public/basic.ics)
 
-#### **9  Financial Assistance Scheme (FAS)**
+#### **9  MOE Financial Assistance Scheme (FAS)**
 
-a.  Please approach our clerical staff at the General Office if you would like to apply for financial assistance for the purchase school books, uniforms or for the payment of miscellaneous fees. The school will assist to process your application and offer support where possible. 
+MOE provides assistance on school fees and other expenses to Singapore Citizen students in financial need. The eligibility checker can be found on MOE’s website at [https://moe.gov.sg/financial-matters/financial-assistance](https://moe.gov.sg/financial-matters/financial-assistance) 
 
-b.    The School Meals Programme provides $2.60 per day for breakfast/recess and an additional subsidy of 2 meals at $2.60 per meal per student per school week to cater for their after-school needs. 
+Application is to be submitted online at [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) with the required softcopy supporting documents. 
 
-#### **10  Student Protection Plan**
-The&nbsp;school&nbsp;has purchased a Student Protection Plan&nbsp;from NTUC Income Insurance Co-operative Limited for all its students. The plan provides worldwide accident coverage for students during school activities. The full cost of the Student Protection Plan will be borne by the school.
+Parents whose child is a ComCare beneficiary need not submit the application for MOE FAS separately as it will be auto-granted to ComCare beneficiaries in Government and Government-aided schools (GGAS). 
+
+Application via hardcopy form is required for: 
+a.	Families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) 
+b.	Family with more than six children in GGAS 
+c.	Family with more than five unmarried children not in GGAS 
+d.	Family with more than three grandparents in the household
+
+If you have difficulties submitting your application online, the hardcopy application [MOE FAS Application Form 2024](/files/MOE_FAS_Application_Form.pdf) together with all required supporting documents is to be submitted to the General Office. 
+
+#### **10  Group Personal Accident (GPA) Insurance for Students**
+
+All student accident insurance claims are to be submitted electronically. Submission of claims and checking of claim status can be done through the online portal at the following link: [https://studentgpa.incomegroupins.com.sg](https://studentgpa.incomegroupins.com.sg)
+
+More information on claims, FAQs and other details pertaining to the GPA Insurance Plan can be found on Income’s website at [https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa)
