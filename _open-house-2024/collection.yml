@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Welcome to CVPS!.md
-      - Welcome Speeches.md
       - Principal's message.md
+      - Welcome Speeches.md
       - The CVPS Way.md
       - CCA Highlights.md
       - General Information.md
