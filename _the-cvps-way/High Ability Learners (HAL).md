@@ -15,8 +15,8 @@ The English Language STRETCH programme aims to harness our students’ potential
 
 The programme is designed to develop our students’ critical and inventive thinking skills. Students use the linguistic skills acquired to create and represent their ideas. In the process, they develop into effective and empathetic communicators. Taking ownership of their learning, students take pride in their published work which will be shared with the school.
 
-<img src="/images/2024%20Open%20House/HAL/HAL1.jpg" style="width:46%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/HAL/HAL2.jpg" style="width:46%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL1.jpg" style="width:43%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL2.jpg" style="width:43%;margin-right:15px;" align="left"> 
 <br clear="left">
 
 #### **Mathematics Department** 
@@ -26,7 +26,7 @@ The Mathematics Olympiad programme in CVPS aims to stretch students who are more
 
 Selected Primary 4 to Primary 6 students will also represent the school to take part in the Mathematics Olympiad Competitions at the national level.
 
-<img src="/images/mathphoto56special1.jpeg" style="width:75%;margin-center:15px;" align="center">
+<img src="/images/mathphoto56special1.jpeg" style="width:65%;margin-center:15px;" align="center">
 <br clear="center">
 
 **Excellence 2000 E2K Mathematics Programme** 
@@ -37,7 +37,7 @@ The E2K Mathematics Programme aims to develop cognitive abilities of independent
 
 This empowers and stretches the students’ mathematical skills, fosters abilities, and strengthens their confidence in the subject. Furthermore, this programme is taught by E2K-trained teachers so that targeted coaching can reinforce students' perception of self as an independent and mature learner and investigator.
 
-<img src="/images/mathphoto34special.jpeg" style="width:75%;margin-center:15px;" align="center">
+<img src="/images/mathphoto34special.jpeg" style="width:65%;margin-center:15px;" align="center">
 <br clear="center">
 
 #### **Science Department**
@@ -47,8 +47,8 @@ The programme aims to provide students with opportunities to delve deeper into s
 
 Through a combination of hands-on experiments, research projects, and interactive discussions, students are challenged to think beyond the textbook and explore real-world applications of scientific principles. The programme encourages students to ask probing questions, make connections between different scientific disciplines, and develop a deeper understanding of complex scientific phenomena. By engaging in collaborative and inquiry-based learning, students develop problem-solving abilities, analytical thinking, and effective communication skills.
 
-<img src="/images/Science%20Department/Science5A.png" style="width:45%;margin-right:15px;" align="left">
-<img src="/images/Science%20Department/5b.jpeg" style="width:45.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/Science5A.png" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/5b.jpeg" style="width:40.5%;margin-right:15px;" align="left">
 <br clear="left">
 
 #### **Mother Tongue Department**
