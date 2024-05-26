@@ -6,8 +6,8 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 ### **Harmonica Ensemble**
-<br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wcQGo6wUFB8?si=oS40-57Mn6S7I4_X" height="315" width="560"></iframe>
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wcQGo6wUFB8?si=oS40-57Mn6S7I4_X" height="315" width="560"></iframe></center>
 
 In Harmonica, students will be exposed to a range of harmonicas and other musical instruments. The students will also acquire and develop school core values as they train and perform together.
 <br><br>
