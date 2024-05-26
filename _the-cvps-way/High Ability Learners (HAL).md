@@ -14,9 +14,9 @@ Let’s STRETCH – **STR**ive, **E**n**T**huse, **C**reate and **H**one!
 The English Language STRETCH programme aims to harness our students’ potential and develop them into efficient users of the language. It provides an excellent opportunity for our students to extend their learning and deepen their linguistic skills. Through collaborative learning, our students apply inter-disciplinary knowledge to compose and illustrate value-centric stories “for Compassvalites, by Compassvalites”.
 
 The programme is designed to develop our students’ critical and inventive thinking skills. Students use the linguistic skills acquired to create and represent their ideas. In the process, they develop into effective and empathetic communicators. Taking ownership of their learning, students take pride in their published work which will be shared with the school.
-
+<center>
 <img src="/images/2024%20Open%20House/HAL/HAL1.jpg" style="width:43%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/HAL/HAL2.jpg" style="width:43%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL2.jpg" style="width:43%;margin-right:15px;" align="left"> </center>
 <br clear="left">
 
 #### **Mathematics Department** 
@@ -46,9 +46,9 @@ This empowers and stretches the students’ mathematical skills, fosters abiliti
 The programme aims to provide students with opportunities to delve deeper into scientific concepts and develop critical thinking skills.
 
 Through a combination of hands-on experiments, research projects, and interactive discussions, students are challenged to think beyond the textbook and explore real-world applications of scientific principles. The programme encourages students to ask probing questions, make connections between different scientific disciplines, and develop a deeper understanding of complex scientific phenomena. By engaging in collaborative and inquiry-based learning, students develop problem-solving abilities, analytical thinking, and effective communication skills.
-
+<center>
 <img src="/images/Science%20Department/Science5A.png" style="width:40%;margin-right:15px;" align="left">
-<img src="/images/Science%20Department/5b.jpeg" style="width:40.5%;margin-right:15px;" align="left">
+<img src="/images/Science%20Department/5b.jpeg" style="width:40.5%;margin-right:15px;" align="left"></center>
 <br clear="left">
 
 #### **Mother Tongue Department**
