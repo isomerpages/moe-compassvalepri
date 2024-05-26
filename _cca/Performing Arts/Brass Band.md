@@ -6,6 +6,9 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 ### **Brass Band**
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/D2KtPpbRwWM?si=QcOBDC3Q7DiM2kXY" height="315" width="560"></iframe>
+
 Formed in 2003, the Compassvale Primary School Brass Band has made significant progress. Through the years, they have had performed at many occasions as well as competitions under the dedicated guidance of a group of teachers and instructors.
 <br>
 <br>
