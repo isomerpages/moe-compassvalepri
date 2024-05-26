@@ -6,6 +6,9 @@ third_nav_title: Clubs and Societies
 variant: markdown
 ---
 ### **English Literature, Debate and Drama Society**
+<br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QTNXuGCR2uc?si=1dLRFIB-n7O3Pvhx" height="315" width="560"></iframe>
+
 The ELDDS Club aims to develop confidence and creative thinking in our members. The activities not only promote oral communication and dramatisation skills, but are also fun and engaging for students. Members hone different skills throughout the year, namely public speaking, drama and debate.&nbsp; Opportunities are also given for our members to perform during various school events such as International Friendship Day and National Day.
 
 #### **Public Speaking**
