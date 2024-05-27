@@ -31,16 +31,15 @@ LSM aims to provide early support for selected Primary 1 and 2 students to stren
 <img src="/images/2024%20Open%20House/Math/Math3.jpg" style="width:55%;margin-right:15px;" align="left">
 <br clear="left"></center><br>
 
-**Mathematics Primary 3 and 4**<br>
+#### **Mathematics Primary 3 and 4**
 As each student progresses to the intermediate stage in their Mathematics journey, he/she is exposed to a more abstract concept. The use of **SSM** is integral in the acquisition of concepts as they help to provide a concrete and visual platform for their learning, while keeping them engaged. Group-based activity becomes more frequent as the children support each other in collaborative learning.
 
 Each child will now be exposed to more complex strategies in the **HATS** package. These strategies become increasingly relevant as they are exposed to more abstract concepts in solving word problems. Occasionally, they will be presented with real-life problems that can be solved using Mathematical concepts. 
 
-
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
 **Learning Support for Mathematics (LSM)**<br>				
-LSM aims to provide intervention  support for selected Primary 3 and 4 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through factual fluency routines  and other hands-on activities where they get to experience successes incrementally and build their confidence.
+LSM aims to provide intervention  support for selected Primary 3 and 4 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through factual fluency routines and other hands-on activities where they get to experience successes incrementally and build their confidence.
 
 <img src="/images/2024%20Open%20House/Math/Math4.jpg" style="width:23.5%;margin-right:15px;" align="left"> 
 <img src="/images/2024%20Open%20House/Math/Math5.jpg" style="width:42%;margin-right:15px;" align="left"> 
@@ -48,7 +47,7 @@ LSM aims to provide intervention  support for selected Primary 3 and 4 students 
 <br clear="left">
 																		
 
-##### **Mathematics Primary 5 and 6**<br>
+#### **Mathematics Primary 5 and 6**<br>
 As students transit to the upper primary level, they will face more advanced challenges and hence, more rigour will be added to their routines. They are trained to be more independent and take ownership of their learning in their mathematics journey. The use of **SSM** is still largely emphasized. They will work in groups and present their work or worked solutions more frequently. They will also be given opportunities to articulate their mathematical reasoning to their peers.  
 
 For **HATS**, the students will be taught more advanced techniques and strategies which increase their competency to solve both routine and non-routine word problems that will carry them through in their transition to secondary school.
