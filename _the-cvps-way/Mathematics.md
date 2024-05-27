@@ -21,7 +21,7 @@ Learning does not end in the classroom. Your child gets to participate in the **
 <img src="/images/2024%20Open%20House/Math/Math2.jpg" style="width:46%;margin-right:15px;" align="left"> 
 <br clear="left">
 
-##### **Specialty Programme**
+**Specialty Programme**<br>
 **Mathematics Big Book Reading Programme**<br>
 Mathematics Big Book Reading Programme helps our younger students to develop interest and motivation in learning Mathematics using Math stories and role plays. Through these interactive activities, they have fun with Mathematics and deepen their understanding of Mathematical concepts. Hands-on activities are also designed to accompany the Big Book stories in the P1 and P2 classrooms.
 
