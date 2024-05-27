@@ -29,7 +29,7 @@ Mathematics Big Book Reading Programme helps our younger students to develop int
 LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
 <center>
 <img src="/images/2024%20Open%20House/Math/Math3.jpg" style="width:55%;margin-right:15px;" align="left">
-<br clear="left"></center><br>
+<br clear="left"></center>
 
 #### **Mathematics Primary 3 and 4**
 As each student progresses to the intermediate stage in their Mathematics journey, he/she is exposed to a more abstract concept. The use of **SSM** is integral in the acquisition of concepts as they help to provide a concrete and visual platform for their learning, while keeping them engaged. Group-based activity becomes more frequent as the children support each other in collaborative learning.
