@@ -40,9 +40,8 @@ In the science classrooms, teachers adopt an inquiry approach for students to co
 
 By empowering students to lead in science discoveries, students become active participants in the scientific community, contributing to the advancement of knowledge and innovation. They develop a passion for science and a lifelong love for learning, paving the way for future scientific breakthroughs and discoveries.
 
-<img src="/images/Science%20Department/3a.jpeg" style="width:38.5%" align="left">
-<img src="/images/Science%20Department/Science3B.png" style="width:60.5%" align="right">
-
+<img src="/images/Science%20Department/3a.jpeg" style="width:37.5%" align="left">
+<img src="/images/Science%20Department/Science3B.png" style="width:59%" align="right">
 <br clear="left">
 
 ##### **Fun with Science**
