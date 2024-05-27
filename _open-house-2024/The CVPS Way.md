@@ -8,6 +8,18 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/the-cvps-way/high-ability-learners-hal/" rel="noopener noreferrer nofollow" target="_blank">High Ability Learners (HAL)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/the-cvps-way/our-tlc-experience/alp/" rel="noopener noreferrer nofollow" target="_blank">Applied Learning Programme</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/the-cvps-way/our-tlc-experience/llp/" rel="noopener noreferrer nofollow" target="_blank">Learning for Life Programme</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://www.compassvalepri.moe.edu.sg/the-cvps-way/english-language/" rel="noopener noreferrer nofollow" target="_blank">English Language</a></strong>
 </p>
 </li>
