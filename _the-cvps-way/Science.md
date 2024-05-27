@@ -75,7 +75,7 @@ By championing the 4Rs, students develop a sense of responsibility, environmenta
 
 Our Science Leaders from Primary 3 to 6 champion the school’s recycling efforts and encourage the habit of recycling of daily common items that students would unknowingly throw away. From used paper to drink cartons, our Science Leaders are the subject-matter experts when it comes to which items to recycle and not recycle, and which items to reuse instead of recycling. They become advocates for a greener future, inspiring others to adopt eco-friendly practices and make a positive impact on the planet.
 
-<img src="/images/Science%20Department/8a.jpeg" style="width:55%">
+<img src="/images/Science%20Department/8a.jpeg" style="width:49.5%">
 <br>
 <center>
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS9azugSmUnnLY7FG1_piw9LCqOyk1rhR0zkzoP4-sxXwkjM0rdegHz2LA7EwpX0OvU4h6YbsTwyNxg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
