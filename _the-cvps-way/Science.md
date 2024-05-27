@@ -54,8 +54,8 @@ By combining creativity and science, Creative Science Toy Making sparks curiosit
 
 Unleashing their creativity and bringing their ideas to life, students engage in Design Thinking, by going through many phases in the designing of their toys and learnt how productive failure leads to desirable outcomes. 
 
-<img src="/images/Science%20Department/6a.jpg" style="width:35.5%" align="left">
-<img src="/images/Science%20Department/6b.jpg" style="width:63%" align="right">
+<img src="/images/Science%20Department/6a.jpg" style="width:34.5%" align="left">
+<img src="/images/Science%20Department/6b.jpg" style="width:61.5%" align="right">
 
 <br clear="left">
 
