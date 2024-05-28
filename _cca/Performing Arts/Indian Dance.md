@@ -6,7 +6,6 @@ third_nav_title: Performing Arts
 variant: markdown
 ---
 ### **Indian Dance**
-
 <center>
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS562KpA0SRP1I6vkJ5vj39joR24n979NsOLZ-f-DOeYicsiJgAKDRr3wNnnPQYlz4L7QGvS9Xo79EW/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
