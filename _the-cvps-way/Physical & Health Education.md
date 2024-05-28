@@ -8,7 +8,9 @@ variant: markdown
 #### **Sports Carnival**
 Compassvalites engage in a day of sporting events, station games and skills tests. It is a day of joyful competition and students learn to compete to their best of abilities, think of ways to overcome challenges individually or collaboratively and take turns to lead their teams to victory.
 
-<img src="/images/PE%20Department/Sports_Carnival__3_.jpg" style="width:75%">
+<img src="/images/2024%20Open%20House/PE/PE1.jpg" style="width:43%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/PE/PE2.jpg" style="width:43%;margin-right:15px;" align="left"> 
+<br clear="left">
 
 #### **Let's Move**
 During recess, students are encouraged to take part in various forms of recess play to explore, problem-solve, socialise and keep themselves active on a daily basis, participating in activities they enjoy.
