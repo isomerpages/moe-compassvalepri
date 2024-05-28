@@ -6,8 +6,8 @@ third_nav_title: Sports & Games
 variant: markdown
 ---
 ### **Basketball**
-
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQlkXYEMzkMUDSIS_yDKHhs4T8624FwVEZyLjsy2cGglGg8FTevneEoHu5_QYod7ZQCSV_EoZQMWHaE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<center>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQlkXYEMzkMUDSIS_yDKHhs4T8624FwVEZyLjsy2cGglGg8FTevneEoHu5_QYod7ZQCSV_EoZQMWHaE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 CVPS Basketball CCA brings together all enthusiasts of the game, whether they prefer to play competitively or for leisure. In this CCA, students learn the basic technical skills required to play a game of basketball. They will be taught techniques on dribbling, shooting, passing and ball handling. They will be physically conditioned to match the demands of the game and taught proper warm-up and cooling down routines through regular practice. They will also be exposed to tactical game play and participate in friendly matches against other schools organised by the teachers-in-charge.&nbsp;
 
