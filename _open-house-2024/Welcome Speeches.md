@@ -40,7 +40,7 @@ your child will have the opportunity to create a unique experience together.</p>
 <p>Chairman, School Advisory Committee</p>
 <p>Compassvale Primary School</p>
 <hr>
-<h2><strong>Chairperson, Parent Support Group  </strong></h2>
+<h2><strong>Chairperson, Parent Support Group</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sac4.jpg">
