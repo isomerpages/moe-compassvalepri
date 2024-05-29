@@ -58,7 +58,7 @@ To enhance the learning of Mother Tongue Languages from an early age, our school
 
 The HMTL curriculum is conducted weekly outside of school hours, and it includes exposure to literary texts, higher order thinking exercises, and creative, engaging activities and games.
 
-<img src="/images/2024%20Open%20House/HAL/HAL7.jpg" style="width:35%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/HAL/HAL8.jpg" style="width:26.5%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/HAL/HAL9.jpg" style="width:24%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL7R.jpg" style="width:41%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL8.jpg" style="width:26%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL9.jpg" style="width:23.5%;margin-right:15px;" align="left"> 
 <br clear="left">
