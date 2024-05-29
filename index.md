@@ -28,10 +28,10 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infopic:
-      title: CVPS Open House 2024
+      title: CVPS E-Open House 2024
       id: infopic
-      description: For more information on Webinar and Guided Tour
-      button: Please click Here
+      description: To know more about Compassvale Primary School
+      button: Please click here
       url: /open-house-2024/welcomepage
       alt: Image alt text
   - infobar:
