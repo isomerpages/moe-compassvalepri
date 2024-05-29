@@ -9,13 +9,13 @@ variant: markdown
 ##### **P1 Pandai Bercerita**
 ‘Pandai Bercerita’ is an exposure programme for students to learn the basic art form of storytelling.&nbsp; Storytelling with props is a fun way to share stories with others. It builds confidence and provides students with a safe environment to experiment with self-expressions by adapting fables and retelling them in a fun and engaging way.
 
-<img src="/images/Malay%20Department/malaydept1.jpg" style="width:75%"><br>
+<img src="/images/Malay%20Department/malaydept1.jpg" style="width:65%"><br>
 
 ##### **Application of Cub in Comprehension**
 CUB guides students to read and understand comprehension passage and answer comprehension questions. Students learn to analyse the questions by breaking it down into smaller parts to make it easier to comprehend and answer.
 
-<img src="/images/Malay%20Department/Pic_3.jpeg" style="width:49%" align="left"> 
-<img src="/images/Malay%20Department/Pic_4.jpeg" style="width:49%" align="right">
+<img src="/images/Malay%20Department/Pic_3.jpeg" style="width:47%" align="left"> 
+<img src="/images/Malay%20Department/Pic_4.jpeg" style="width:47%" align="right">
 <br clear="left">
 
 ##### **Reading Programme**
@@ -28,7 +28,7 @@ The Reading Programme aims to develop a good reading habit that enables students
 ##### **MTL Fortnight**
 The much-anticipated event of the year is carried out to immerse students in the Malay culture.&nbsp; Students are exposed to authentic cultural opportunities through interactive and experiential learning, at the same time promoting the use of Mother Tongue language.
 
-<img src="/images/Malay%20Department/malaydept7.jpg" style="width:49%" align="left"> 
-<img src="/images/Malay%20Department/Pic_8.jpeg" style="width:49%" align="right">
+<img src="/images/Malay%20Department/malaydept7.jpg" style="width:47%" align="left"> 
+<img src="/images/Malay%20Department/Pic_8.jpeg" style="width:47%" align="right">
 
 <br clear="left">
