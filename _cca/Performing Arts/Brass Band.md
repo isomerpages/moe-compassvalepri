@@ -17,6 +17,7 @@ New recruits of the band may choose from the following musical instruments such 
 <br>
 Each student must be committed and ready to undertake the task of learning an instrument. The senior members are also empowered to guide and lead the junior members during sectional trainings.
 <br>
+
 By the second year, the band members should be able to read music scores, have gained improved motor skills and had achieved a sense of belonging when playing music as a whole band. Students are also given a boost of self-confidence and increased social interaction.
 
 As the band members progress through the years, band members learn the value of discipline and determination.
