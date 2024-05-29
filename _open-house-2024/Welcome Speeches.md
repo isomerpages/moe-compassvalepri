@@ -7,7 +7,7 @@ description: ""
 <h2><strong>Chairman, School Advisory Committee</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sac2.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/sac2.jpg">
 </div>
 <p>Dear Prospective P1 Parents,</p>
 <p>On behalf of the School Advisory Committee, I am delighted to welcome
@@ -43,7 +43,7 @@ your child will have the opportunity to create a unique experience together.</p>
 <h2><strong>Chairperson, Parent Support Group</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sac4.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/sac4.jpg">
 </div>
 <p>Dear Prospective P1 Parents,</p>
 <p>I am thrilled to extend a heartfelt invitation to you on behalf of the
