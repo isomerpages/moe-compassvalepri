@@ -7,9 +7,9 @@ variant: markdown
 ### **Physical &amp; Health Education**
 #### **Sports Carnival**
 Compassvalites engage in a day of sporting events, station games and skills tests. It is a day of joyful competition and students learn to compete to their best of abilities, think of ways to overcome challenges individually or collaboratively and take turns to lead their teams to victory.
-
+<center>
 <img src="/images/2024%20Open%20House/PE/PE1.jpg" style="width:43%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/PE/PE2.jpg" style="width:43%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/PE/PE2.jpg" style="width:43%;margin-right:15px;" align="left"> </center>
 <br clear="left">
 
 #### **Let's Move**
