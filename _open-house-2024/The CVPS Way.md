@@ -8,7 +8,7 @@ description: ""
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="www.compassvalepri.moe.edu.sg/high-ability-learners-hal/" rel="noopener noreferrer nofollow" target="_blank">High Ability Learners (HAL)</a></strong>
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/high-ability-learners-hal/" rel="noopener noreferrer nofollow" target="_blank">High Ability Learners (HAL)</a></strong>
 </p>
 </li>
 <li>
