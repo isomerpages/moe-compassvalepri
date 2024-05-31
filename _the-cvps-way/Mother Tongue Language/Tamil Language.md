@@ -24,8 +24,8 @@ Furthermore, participating in creative projects like this helped students recall
 <img src="/images/tamil8.jpg" style="width:24.2%;margin-right:15px;" align="left">
 <img src="/images/tamil9.jpg" style="width:32.5%;margin-right:15px;" align="left"><br clear="left">
 <br>
-<img src="/images/Tamil%20Language%20Department/Picture4.png" style="width:43%" align="left">
-<img src="/images/Tamil%20Language%20Department/Picture3.png" style="width:46%" align="center">
+<img src="/images/Tamil%20Language%20Department/Picture4.png" style="width:40%" align="left">
+<img src="/images/Tamil%20Language%20Department/Picture3.png" style="width:43%" align="center">
 
 <br clear="left">
 
