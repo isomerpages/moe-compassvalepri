@@ -13,4 +13,4 @@ Our VIA activities focus on:
 * Assisting the Elderly 
 * Clean &amp; Green Efforts 
 
-<img src="/images/CCE/via1.png" style="width:85%">
+<img src="/images/CCE/via1.png" style="width:80%">
