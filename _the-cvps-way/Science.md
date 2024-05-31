@@ -47,7 +47,7 @@ By empowering students to lead in science discoveries, students become active pa
 ##### **Fun with Science**
 Our Fun with Science programme designed for P1 and P2 students allows them to have their first-hand experience in Science. Our students are able to identify the application of science in their many daily life experiences making learning meaningful.
 
-<img src="/images/Science%20Department/Science4.png" style="width:75%">
+<img src="/images/Science%20Department/Science4.png" style="width:65%">
 
 ##### **Creative Science Toy Making**
 By combining creativity and science, Creative Science Toy Making sparks curiosity, nurtures a love for learning, and inspires students to explore the wonders of the scientific world. Students engage in toy-making to apply what they have learnt in the science classroom with the right scientific attitudes.   
