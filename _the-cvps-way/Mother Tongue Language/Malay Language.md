@@ -14,8 +14,8 @@ variant: markdown
 ##### **Application of Cub in Comprehension**
 CUB guides students to read and understand comprehension passage and answer comprehension questions. Students learn to analyse the questions by breaking it down into smaller parts to make it easier to comprehend and answer.
 
-<img src="/images/Malay%20Department/Pic_3.jpeg" style="width:47%" align="left"> 
-<img src="/images/Malay%20Department/Pic_4.jpeg" style="width:47%" align="right">
+<img src="/images/Malay%20Department/Pic_3.jpeg" style="width:45%" align="left"> 
+<img src="/images/Malay%20Department/Pic_4.jpeg" style="width:45%" align="center">
 <br clear="left">
 
 ##### **Reading Programme**
@@ -28,7 +28,6 @@ The Reading Programme aims to develop a good reading habit that enables students
 ##### **MTL Fortnight**
 The much-anticipated event of the year is carried out to immerse students in the Malay culture.&nbsp; Students are exposed to authentic cultural opportunities through interactive and experiential learning, at the same time promoting the use of Mother Tongue language.
 
-<img src="/images/Malay%20Department/malaydept7.jpg" style="width:47%" align="left"> 
-<img src="/images/Malay%20Department/Pic_8.jpeg" style="width:47%" align="right">
-
+<img src="/images/Malay%20Department/malaydept7.jpg" style="width:45%" align="left"> 
+<img src="/images/Malay%20Department/Pic_8.jpeg" style="width:45%" align="center">
 <br clear="left">
