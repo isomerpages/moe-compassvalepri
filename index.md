@@ -32,7 +32,7 @@ sections:
       id: infobar
       description: More information for registration will be shared soon!
   - infopic:
-      title: CVPS E-Open House 2024
+      title: CVPS Open House 2024
       id: infopic
       description: To know more about Compassvale Primary School
       button: Please click here
