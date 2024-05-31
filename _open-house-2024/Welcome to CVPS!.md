@@ -4,8 +4,5 @@ permalink: /open-house-2024/welcomepage/
 variant: markdown
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2024 Open House/Banner_2024.png">
-</div>
-<p></p>
+<center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ot13FuKkqX0?si=NALh-vX3jEpR8a-h" height="315" width="560"></iframe></center>
