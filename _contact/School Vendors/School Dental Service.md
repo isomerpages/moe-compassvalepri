@@ -14,13 +14,14 @@ variant: markdown
 | **Telephone** | 8518 7423 (During clinic operating hours) |
 |
 
-#### **Dental Clinic Operating Hours***
+#### **Dental Clinic Operating Hours**
 ##### **During School Term**
+###### Monday to Wednesday (alternate week): 
 
 |  |  |
 |---|---|
-| **Monday, Wednesday &  Friday** | 8.00a.m to 5.00p.m   |
-| **Tuesday & Thursday** | 8.00a.m to 5.30p.m |
+| **Monday & Wednesday** | 8.00a.m to 5.00p.m   |
+| **Tuesday** | 8.00a.m to 5.30p.m |
 |
 
-**Please note clinic will be closed from 12.30p.m to 1.30p.m for lunch break.**
+Please note clinic will be closed from 12.30p.m to 1.30p.m for lunch break.

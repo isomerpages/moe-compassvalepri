@@ -15,6 +15,6 @@ CCE lessons are taught in Mother Tongue languages (MTL). For students who take t
 
 #### **CCE Corner**
 To immerse our students in a values rich environment, every class has a core values corner in the classroom where values posters and students’ works pertaining to the school values are showcased.  
-<img src="/images/CCE/CCE_Curriculum1.png" style="width:85%">
+<img src="/images/CCE/CCE_Curriculum1.png" style="width:80%">
 
-<img src="/images/CCE/CCE_Curriculum.png" style="width:85%">
+<img src="/images/CCE/CCE_Curriculum.png" style="width:80%">

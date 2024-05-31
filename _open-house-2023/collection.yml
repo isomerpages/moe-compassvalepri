@@ -2,6 +2,7 @@ collections:
   open-house-2023:
     output: true
     order:
+      - 2024 FAQs.md
       - Welcome to CVPS!.md
       - General Information.md
       - FAQs.md
