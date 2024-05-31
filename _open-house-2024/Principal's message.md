@@ -4,7 +4,7 @@ permalink: /principal-s-message/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Principal's Message</strong></h3>
+<h2><strong>Principal's Message</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 55%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/mr_lee1.jpg">
