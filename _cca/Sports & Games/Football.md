@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Football**
 <center>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCra8rVpPCV-rK5Dv9YBPM8vHk3VEAL8UpfYMqJHhJsoz9iLZ88ZLQWAxlNHVjST5tYY2OVulBrHBz/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<iframe allowfullscreen="true" height="370" width="550" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCra8rVpPCV-rK5Dv9YBPM8vHk3VEAL8UpfYMqJHhJsoz9iLZ88ZLQWAxlNHVjST5tYY2OVulBrHBz/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 Our school values such as Respect and Resilience are inculcated in our CCA sessions in order to equip students to enjoy the beautiful game. The boys are taught the essential physical skills such as dribbling, passing and receiving, and shooting through drills and activities. They are also introduced to positions and roles in a football game.
 
