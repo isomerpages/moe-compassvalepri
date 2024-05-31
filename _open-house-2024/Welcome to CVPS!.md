@@ -4,9 +4,8 @@ permalink: /open-house-2024/welcomepage/
 variant: tiptap
 description: ""
 ---
-<p>insert videos</p>
 <p></p>
-<p></p>
-<p>To know more about <strong>THE CVPS WAY</strong>, please click <a href="https://www.compassvalepri.moe.edu.sg/the-cvps-way/our-tlc-experience/" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024 Open House/Banner_2024.png">
+</div>
 <p></p>
