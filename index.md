@@ -11,7 +11,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024 Open House/2024_Landing_Page_C.gif
+      background: /images/2024 Open House/2024_Open_House_Landing_Page_with_banner_B.gif
       url: /contact-us/
       key_highlights:
         - title: CVPS Open House 2024
@@ -38,6 +38,7 @@ sections:
       button: Please click here
       url: /open-house-2024/welcomepage
       alt: Image alt text
+      image: /images/2024 Open House/Banner_2024.png
   - infobar:
       title: Year 2024 P1 Orientation Briefing Slides
       id: infobar
