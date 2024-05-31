@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Physical Science**
 <center>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQenPWZtqlO3phiJ6KdbriqcEyOkZZVBk3Azsa8-8dNtdKNU_NYft4HbKML2dX6kIqgwKrkTCOHSJ3d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<iframe allowfullscreen="true" height="370" width="550" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQenPWZtqlO3phiJ6KdbriqcEyOkZZVBk3Azsa8-8dNtdKNU_NYft4HbKML2dX6kIqgwKrkTCOHSJ3d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 <img src="/images/2024%20Open%20House/CCA/Physical_Science_4.jpg" style="width:49%" align="left">
 <img src="/images/2024%20Open%20House/CCA/Physical_Science_3.jpg" style="width:49%" align="right">
