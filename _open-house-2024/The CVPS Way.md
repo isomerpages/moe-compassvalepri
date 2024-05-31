@@ -4,7 +4,7 @@ permalink: /the-cvps-way/
 variant: tiptap
 description: ""
 ---
-<h3><strong>THE CVPS WAY</strong></h3>
+<h2><strong>THE CVPS WAY</strong></h2>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
