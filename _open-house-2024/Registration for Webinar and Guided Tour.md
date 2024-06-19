@@ -12,7 +12,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Guided School Tour</p>
+<h3><strong>Guided School Tour</strong></h3>
 </th>
 </tr>
 <tr>
@@ -44,6 +44,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -52,7 +53,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>For Webinar (via Zoom Platform)</p>
+<h3><strong>For Webinar (via Zoom Platform)</strong></h3>
 </th>
 </tr>
 <tr>
