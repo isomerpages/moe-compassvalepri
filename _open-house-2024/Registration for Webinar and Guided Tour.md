@@ -12,6 +12,37 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
+<h3><strong>For Webinar (via Zoom Platform)</strong></h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Date:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Saturday, 13 July</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Time:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 to 10 a.m.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <h3><strong>Guided School Tour</strong></h3>
 </th>
 </tr>
@@ -30,37 +61,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>1st Slot: 2.45 to 3.30 p.m.</p>
 <p>2nd Slot: 3.30 to 4.15 p.m.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="2">
-<h3><strong>For Webinar (via Zoom Platform)</strong></h3>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Date:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Saturday, 13 July</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Time:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>9 to 10 a.m.</p>
 </td>
 </tr>
 </tbody>
