@@ -20,7 +20,7 @@ description: ""
 <p>Date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19 July (Term 3 Week 4 Fri)</p>
+<p>Friday, 19 July</p>
 </td>
 </tr>
 <tr>
@@ -30,15 +30,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p>1st Slot: 2.45 to 3.30 p.m.</p>
 <p>2nd Slot: 3.30 to 4.15 p.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Registration Link:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/cvps-openhouse-registration-2024" rel="noopener noreferrer nofollow" target="_blank">Please click here for link</a>
-</p>
 </td>
 </tr>
 </tbody>
@@ -61,7 +52,7 @@ description: ""
 <p>Date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>13 July (Term 3 Week 3 Sat)</p>
+<p>Saturday, 13 July</p>
 </td>
 </tr>
 <tr>
@@ -72,14 +63,8 @@ description: ""
 <p>9 to 10 a.m.</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Registration Link:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<h4><strong>To register, please click <a href="https://go.gov.sg/cvps-openhouse-registration-2024" rel="noopener noreferrer nofollow" target="_blank">here</a></strong></h4>
 <p></p>
