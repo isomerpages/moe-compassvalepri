@@ -49,6 +49,6 @@ Selected students are invited to enrol in a programme where they get to learn to
 
 <img src="/images/PE%20Department/AYR_4.jpeg" style="width:65%">
 <center>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4JJDhdp2YCpFzD5ePHR-S63N2eZXorcxEYpb81HD31yD6IhgwTafVLHsIBtd2gwkGXera6SX02mc-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfk2s2z0gFXMseQ9NQYs3redOV9SmOUA2S6H_biuogVCtk3yzsKHokW73V6hz_boaJbGljLjtuqioX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 <br>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfk2s2z0gFXMseQ9NQYs3redOV9SmOUA2S6H_biuogVCtk3yzsKHokW73V6hz_boaJbGljLjtuqioX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4JJDhdp2YCpFzD5ePHR-S63N2eZXorcxEYpb81HD31yD6IhgwTafVLHsIBtd2gwkGXera6SX02mc-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
