@@ -15,7 +15,7 @@ description: ""
 call.</p>
 <p>Parents/Guardians may wish to check with the teachers on their preferred
 modes of communication.</p>
-<h4><strong><u>Support for Students with Special Needs </u></strong></h4>
+<h4><strong><u>Support for Students with Special Needs</u></strong></h4>
 <p><strong>Q2. Is there any support for students with special needs?</strong>
 </p>
 <p>Yes, we are resourced to support children with special educational needs
@@ -40,7 +40,7 @@ are useful for the children in the transition.</p>
 <p>We have various programmes to provide additional learning support to our
 students like the Learning Support Programmes for English and Mathematics.</p>
 <h4><strong><u>Recess, Lunch and Snack Breaks</u></strong></h4>
-<p><strong>Q6. Can you share what kind of food are available at the canteen? Is it healthier choice? </strong>
+<p><strong>Q6. Can you share what kind of food are available at the canteen? Is it healthier choice?</strong>
 </p>
 <p>Our school collaborates closely with Health Promotion Board (HPB) to offer
 healthy set meals in school to help students cultivate healthy eating habits
@@ -76,7 +76,7 @@ from water coolers in school.</p>
 buddy with a P6 student right from Day 1 to Day 3 as they start their journey
 in our school.</p>
 <h4><strong><u>School operation and Dismissal</u></strong></h4>
-<p><strong>Q10. What is the schooling hours? </strong>
+<p><strong>Q10. What is the schooling hours?</strong>
 </p>
 <p>The school hours in CVPS are as follows:</p>
 <p>• On Mondays, Wednesdays and Thursdays: 0755 - 1330</p>
@@ -86,7 +86,7 @@ are expected to be in school by 0740.</p>
 <p><strong>Q11. What is the number of P1 classes next year and the number of children in each class?</strong>
 </p>
 <p>There are eight P1 classes with thirty students in each class.</p>
-<p><strong>Q12. Would there be a tour to view how the school compound looks like? </strong>
+<p><strong>Q12. Would there be a tour to view how the school compound looks like?</strong>
 </p>
 <p>We will be conducting a Guided Tour for potential P1 Parents/Guardians
 view the school compound as well as to find out more information of the
@@ -104,11 +104,11 @@ new school environment. We will provide more details to parents of our
 2025 Primary 1 cohort of the arrangements nearing the first day of school
 via Parents Gateway (PG).</p>
 <h4><strong><u>Academic Matters</u></strong></h4>
-<p><strong>Q14. If Higher Chinese Language (HCL) is not offered in the school, will the students be given a chance to take up HCL? If yes, how will the procedure be? Do they go to another school for lessons? </strong>
+<p><strong>Q14. If Higher Chinese Language (HCL) is not offered in the school, will the students be given a chance to take up HCL? If yes, how will the procedure be? Do they go to another school for lessons?</strong>
 </p>
 <p>We currently offer HCL; and the eligibility is based on the students'
 ability to manage an intensive curriculum.</p>
-<p><strong>Q15. Is there Hindi Language in Primary 1? </strong>
+<p><strong>Q15. Is there Hindi Language in Primary 1?</strong>
 </p>
 <p>We do not offer Hindi Language in school. You can enquire from The Hindi
 Society (Singapore) for more details.</p>
@@ -145,16 +145,16 @@ books and uniforms will be tentatively in November.</p>
 CCA Preview at Primary 2 to expose students to the different CCAs. They
 will also get a form to list down their preferred CCA (up to 5 options).</p>
 <h4><strong><u>Character Development</u></strong></h4>
-<p><strong>Q21. I heard many parents saying that children can be easily learn bad habits from student care, is the school aware of this and any advice on this? </strong>
+<p><strong>Q21. I heard many parents saying that children can be easily learn bad habits from student care, is the school aware of this and any advice on this?</strong>
 </p>
 <p>We work closely with our vendors to align their curriculum and practices
 to promote our school values.</p>
 <p> </p>
 <h4><strong>FAQ received from E-Open House 2024 Pre-Live Zoom Session</strong></h4>
-<p><strong>Q1. What are the strengths and focus of the school’s curriculum and school culture?  </strong>
+<p><strong>Q1. What are the strengths and focus of the school’s curriculum and school culture?</strong>
 </p>
-<h1>CVPS </h1>
-<p><strong>Q2. Student Care Services?  </strong>
+<h1>CVPS</h1>
+<p><strong>Q2. Student Care Services?</strong>
 </p>
 <p>Our current Student Care Provider is NASCANS. NASCANS is a leading student
 care brand with over 30 locations in partner MOE schools. Its programmes
