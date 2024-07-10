@@ -2,12 +2,12 @@ collections:
   open-house-2024:
     output: true
     order:
-      - Guided Tour Information.md
       - Welcome to CVPS!.md
       - Principal's message.md
       - Welcome Speeches.md
       - The CVPS Way.md
       - CVPS CCA.md
       - FAQs.md
-      - Registration for Webinar and Guided Tour.md
       - General Information.md
+      - Registration for Webinar and Guided Tour.md
+      - Guided Tour Information.md
