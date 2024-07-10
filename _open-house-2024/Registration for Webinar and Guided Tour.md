@@ -59,8 +59,8 @@ description: ""
 <p>Time:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st Slot: 2.45 to 3.30 p.m.</p>
-<p>2nd Slot: 3.30 to 4.15 p.m.</p>
+<p>1st Slot: 2.55 to 3.40 p.m.</p>
+<p>2nd Slot: 3.40 to 4.25 p.m.</p>
 </td>
 </tr>
 </tbody>
