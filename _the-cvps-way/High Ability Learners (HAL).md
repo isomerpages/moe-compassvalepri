@@ -8,7 +8,7 @@ description: ""
 At Compassvale Primary School, we offer opportunities designed to challenge and engage high-ability learners. These students can participate in enrichment programmes organized by various departments to cultivate their interests and talents.
 
 ####  **English Department**
-**STRETCH Programme**
+**STRETCH Programme** <br>
 Let’s STRETCH – **STR**ive, **E**n**T**huse, **C**reate and **H**one!
 
 The English Language STRETCH programme aims to harness our students’ potential and develop them into efficient users of the language. It provides an excellent opportunity for our students to extend their learning and deepen their linguistic skills. Through collaborative learning, our students apply inter-disciplinary knowledge to compose and illustrate value-centric stories “for Compassvalites, by Compassvalites”.
