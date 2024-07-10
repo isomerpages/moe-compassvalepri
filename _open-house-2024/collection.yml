@@ -2,6 +2,7 @@ collections:
   open-house-2024:
     output: true
     order:
+      - Guided Tour Information.md
       - Welcome to CVPS!.md
       - Principal's message.md
       - Welcome Speeches.md
