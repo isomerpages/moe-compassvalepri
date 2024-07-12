@@ -3,6 +3,7 @@ title: School Bus
 permalink: /contact/school-vendors/school-bus/
 description: ""
 third_nav_title: School Vendors
+variant: markdown
 ---
 ### **School Bus Service**
 #### **Details of School Bus Operator and Bus Fares**
@@ -14,7 +15,7 @@ third_nav_title: School Vendors
 | -------- | -------- | -------- |
 | **Address**     | **:**     | **31 Sin Ming Drive #01-299<br> Singapore 575705**     |
 | **Contact Number** | **:** | **6282 0262** |
-| **Email** | **:**  | **enquiry@sfxtransport.com.sg** |
+| **Email** | **:**  | **compassvalepri@sfxtransport.com.sg** |
 
 
 #### **Bus Fares**
@@ -22,13 +23,12 @@ third_nav_title: School Vendors
 Daily School Bus Services **<u>based on Not to Exceed Price</u>** (i.e. for sending students from home to 
 school and vice versa)
 <br>
-
-![](/images/School%20Vendors/annotation%202023-07-25%20110410.jfif)
+![](/images/School%20Vendors/update_bus_fare.png)
 
 <br>
-Bus Services for after school activities (i.e. sending students home from school after supplementary lessons / enrichment programmes and Co-Curricular Activities)
+Bus Services for after school activities (i.e., sending students home from school after enrichment programmes, supplementary classes or CCA) is only available to students who are onboard the daily school bus service. 
 
-| Distance | Up to 15-seater | &gt;15-seater |
-| -------- | -------- | -------- |
-| **Up to 2km**     | $5.00 per trip     | $5.00 per trip    |
-| **&gt;2-4km**     | $8.00 per trip    | $8.00 per trip   |
+| Distance | Per Trip | 
+| -------- | -------- |
+| **Up to 2km**     | $5.00      | 
+| **&gt;2-4km**     | $8.00     | 
