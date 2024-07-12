@@ -23,7 +23,7 @@ variant: markdown
 Daily School Bus Services **<u>based on Not to Exceed Price</u>** (i.e. for sending students from home to 
 school and vice versa)
 <br>
-<img src="/images/School%20Vendors/update_bus_fare.png" style="width:75%" align="center">
+<img src="/images/School%20Vendors/update_bus_fare.png" style="width:65%" align="center">
 <br>
 Bus Services for after school activities (i.e., sending students home from school after enrichment programmes, supplementary classes or CCA) is only available to students who are onboard the daily school bus service. 
 
