@@ -39,6 +39,6 @@ variant: markdown
 | CCA | Tuesdays | Fridays | 
 |:---:|:---:|:---:|
 |  Art Club |   Nil | CCA Team<br>2.30p.m - 4.30p.m    | 
-|  English Language,<br>Drama Debating |    CCA Team<br>2.30p.m - 4.30p.m |  Nil |  
+|  English Language<br>Drama and Debate Society |    CCA Team<br>2.30p.m - 4.30p.m |  Nil |  
 |  Robotics |  School Team<br>CCA Team<br>2.30p.m - 4.30p.m  |  School Team<br>2.30p.m - 4.30p.m | 
 | Physical Science |  CCA Team<br>2.30p.m - 4.30p.m  |  Nil |
