@@ -38,7 +38,7 @@ b.   **What Parents/Guardians Can Do:** Teach your child/ward the properly way t
 
 |  |  |
 |---|---|
-| Reporting Time |  7.40 a.m. |
+| Reporting Time |  Before 7.40 a.m. |
 | National Anthem &amp; Pledge-taking |  7.45 a.m. |
 | Start of Lesson |  8.00 a.m. |
 | Dismissal time (Monday, Wednesday and Thursday) :<br>Support lessons will be conducted for identified students<br>on Wednesday and Thursday |  1.30 p.m. |
