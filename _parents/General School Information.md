@@ -38,12 +38,12 @@ b.   **What Parents/Guardians Can Do:** Teach your child/ward the properly way t
 
 |  |  |
 |---|---|
-| Reporting Time |  7.40 a.m. |
-| National Anthem &amp; Pledge-taking |  7.50 a.m. |
+| Reporting Time |  before 7.40 a.m. |
+| National Anthem &amp; Pledge-taking |  7.45 a.m. |
 | Start of Lesson |  8.00 a.m. |
-| Dismissal time (Monday, Wednesday and Thursday) :<br>Support lessons will be conducted for identified P1 to P6 students<br>on Wednesday and Thursday |  1.30 p.m. |
+| Dismissal time (Monday, Wednesday and Thursday) :<br>Support lessons will be conducted for identified students<br>on Wednesday and Thursday |  1.30 p.m. |
 | Dismissal time (Tuesday and Friday) |  2.30 p.m. |
-| CCA (Tuesday and Friday):<br>Students identified for the school team will have CCA<br>on Tuesday and Friday. |  |
+| CCA (Tuesday and Friday):<br>Students identified for the school team may have CCA<br>on Tuesday and Friday. | 2.30 p.m.<br> to <br>4.30 p.m. |
 |
 
 #### **6  Recesses/Lunch Breaks**
