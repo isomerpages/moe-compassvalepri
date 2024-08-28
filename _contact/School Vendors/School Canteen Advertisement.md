@@ -9,14 +9,14 @@ third_nav_title: School Vendors
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim Noodles Stall      | 30 September 2024     | NIL.    | 
+| Muslim Noodles Stall      | 13 September 2024     | NIL.    | 
 
 
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 * [**Application Form**](/files/application_form___school_canteen_vendor.pdf)
 
-2. Attached the following documents together with the application form:
+2. Attach the following documents together with the application form:
 * Photocopy of the NRIC (front and back)
 * List of proposed menu and pricing for all items
 * Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
