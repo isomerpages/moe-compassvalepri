@@ -10,6 +10,8 @@ third_nav_title: School Vendors
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
 | Muslim Noodles Stall      | 30 September 2024     | NIL.    | 
+
+
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
