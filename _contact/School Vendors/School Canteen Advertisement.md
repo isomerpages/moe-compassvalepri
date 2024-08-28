@@ -13,7 +13,6 @@ third_nav_title: School Vendors
 
 
 **Application Procedure**
-
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 * [**Application Form**](/files/application_form___school_canteen_vendor.pdf)
 
