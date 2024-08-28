@@ -31,9 +31,12 @@ Singapore 545091
 * Email: cvps@moe.edu.sg
 * Contact Person: Ms Rachel Tan / Ms Sherilyne Mah    
 
+
 **How to get there?**
 * Nearest MRT: NE 16 Sengkang
 * Bus number: 27, 83, 89
+
+
 **Interest applicants must meet the following criteria:**
 * Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 * Able to provide good service and quality food with prices determined in consultation with the school.
