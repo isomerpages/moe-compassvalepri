@@ -58,9 +58,14 @@ Please&nbsp;note our Recess/Lunch schedule below.
 |
 
 #### **7  School Bags**
-a.  The Health Promotion Board (HPB) has advised that primary school students should only carry between 10% and 15% of their body weight. Hence, the school would like to seek your assistance to ensure that your child carries a school bag of a suitable weight. We will also implement measures, such as providing lockers and inculcating in our Compassvalites the good habit of being organised.
+a.	The general guideline from Health Promotion Board (HPB) is for children to carry no more than 15 per cent of their bodyweight. In practice, that would generally mean no more than 5kg depending on the child’s weight in the first few years of school. Hence, the school would like to seek your assistance to ensure that your child carries a school bag of a suitable weight. For the well-being of our Compassvalites, alongside providing lockers, we will continue to instill good organisational habits:
+<br>– Students to pack their bags in accordance with the daily class timetable. 
+<br>– Students can use the lockers to keep some of their heavier books or items which they need daily in school. A number lock is recommended to secure the locker.
 
-b.    You can help your lower primary children pack their school bags according to the daily timetable and the day’s needs. This helps to ensure that your child does not carry heavy and unnecessary accessories. You are also advised to buy school bags made of lightweight material with few compartments. The straps should be adjustable and cushioned for the comfort. Please refrain from the use of roller/trolley bags as they may be difficult for children to carry when climbing stairs. They also encourage overloading of the bags. Our Form Teachers will conduct periodic checks as part of our efforts towards lightening our Compassvalites’ school bags. 
+
+b. We would like to recommend that the school bags are made of lightweight material.
+
+c. Please refrain from the use of roller/trolley bags as they can be challenging for children to carry when climbing stairs and may also encourage overpacking. 
 
 #### **8  Communications and Coordination**
 a.    We believe that regular and open communication between school and parents/guardian is important in helping us achieve our common aim of providing an excellent education for our Compassvalites. We will keep you informed of important matters through our school website [https://compassvalepri.moe.edu.sg/](https://compassvalepri.moe.edu.sg/), Parents Gateway announcements and letters. You may also email our administration at our generic email address: **cvps@moe.edu.sg.**
