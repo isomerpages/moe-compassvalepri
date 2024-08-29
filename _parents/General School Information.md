@@ -59,8 +59,8 @@ Please&nbsp;note our Recess/Lunch schedule below.
 
 #### **7  School Bags**
 a.	The general guideline from Health Promotion Board (HPB) is for children to carry no more than 15 per cent of their bodyweight. In practice, that would generally mean no more than 5kg depending on the child’s weight in the first few years of school. Hence, the school would like to seek your assistance to ensure that your child carries a school bag of a suitable weight. For the well-being of our Compassvalites, alongside providing lockers, we will continue to instill good organisational habits:
-<br>– Students to pack their bags in accordance with the daily class timetable. 
-<br>– Students can use the lockers to keep some of their heavier books or items which they need daily in school. A number lock is recommended to secure the locker.
+* Students to pack their bags in accordance with the daily class timetable. 
+* Students can use the lockers to keep some of their heavier books or items which they need daily in school. A number lock is recommended to secure the locker.
 
 
 b. We would like to recommend that the school bags are made of lightweight material.
