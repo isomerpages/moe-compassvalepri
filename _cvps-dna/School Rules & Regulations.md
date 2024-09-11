@@ -16,12 +16,12 @@ variant: markdown
 
 |  |  |  |
 | -------- | -------- | -------- |
-| <br><br>**Girls**     | Girls must be neat in appearance and wear hair bands or pin up their fringes neatly. Fringes must not cover the eyes. <br><br>Shoulder-length hair must be tied up. If hair bands or clips are used, they must be either a simple blue or black band without additional decoration. |    |
+|      | <br><br>**Girls** |  Girls must be neat in appearance and wear hair bands or pin up their fringes neatly. Fringes must not cover the eyes. <br><br>Shoulder-length hair must be tied up. If hair bands or clips are used, they must be either a simple blue or black band without additional decoration.  |
 
 
 |  |  |  |
 | -------- | -------- | -------- |
-| **Boys** | Boys with inappropriate hair-cuts will be told to cut their hair again. All male students must be clean-shaven at all times. Moustache and beards are not allowed. |      |
+|  | **Boys** | Boys with inappropriate hair-cuts will be told to cut their hair again. All male students must be clean-shaven at all times. Moustache and beards are not allowed.     |
 
 
 <br>
