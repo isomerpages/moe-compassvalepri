@@ -30,7 +30,7 @@ variant: markdown
 
 |  |  |
 |:---:|---|
-| Compassvalites have integrity. | **Theft:** <br>Students should not take things belonging to others without permission.<br><br>**Truancy:** <br>Students must stay within the school compound during curriculum time, support lessons or CCA unless supervised excursions have been arranged by the school. <br><br>Students must have valid reasons to be absent from school. They will submit their medical certificates immediately upon returning to school. Only two letters of excuse from parents will be accepted per semester. These letters will not be valid for absence from school assessments and examination.<br><br>Students absent from school assessments and examination must produce medical certificates to be considered absent with valid reasons.<br><br> |
+| Compassvalites<br> have integrity. | **Theft:** <br>Students should not take things belonging to others without permission.<br><br>**Truancy:** <br>Students must stay within the school compound during curriculum time, support lessons or CCA unless supervised excursions have been arranged by the school. <br><br>Students must have valid reasons to be absent from school. They will submit their medical certificates immediately upon returning to school. Only two letters of excuse from parents will be accepted per semester. These letters will not be valid for absence from school assessments and examination.<br><br>Students absent from school assessments and examination must produce medical certificates to be considered absent with valid reasons.<br><br> |
 |
 
 ##### **Care &amp; Harmony**
