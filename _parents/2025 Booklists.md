@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 ---
 ### **CVPS 2025 Booklists**
+<br>
 
-
-* [**CVPS P1 Booklist 2025**](/files/2025%20Booklists/CVPSP1_Booklist_2025.pdf)
+* [**CVPS P1 Booklist 2025**](/files/2025%20Booklists/CVPS_P1_Booklist_2025.pdf)
 * [**CVPS P2 Booklist 2025**](/files/2025%20Booklists/CVPS_P2_Booklist_2025.pdf)
 * [**CVPS P3 Booklist 2025**](/files/2025%20Booklists/CVPS_P3_Booklist_2025.pdf)
 * [**CVPS P3 (HMT) Booklist 2025**](/files/2025%20Booklists/CVPS_P3__HMT__Booklist_2025.pdf)
