@@ -21,7 +21,7 @@ description: ""
 * [**CVPS P6 (3S1F-MA) Booklist 2025**](/files/2025%20Booklists/CVPS_P6__3S1F_MA__Booklist_2025.pdf)
 * [**CVPS P6 (3S1F-MT) Booklist 2025**](/files/2025%20Booklists/CVPS_P6__3S1F_MT__Booklist_2025.pdf)
 * [**CVPS P6 (2S&amp;2F) Booklist 2025**](/files/2025%20Booklists/CVPS_P6__2S_2F__Booklist_2025.pdf)
-* [**CVPS P6(2S2FMAMT)**](/files/2025%20Booklists/CVPS_P6_2S2FMAMT_.pdf)
+* [**CVPS P6(2S2FMAMT) Booklist 2025**](/files/2025%20Booklists/CVPS_P6_2S2FMAMT_.pdf)
 * [**CVPS P6 (4F) Booklist 2025**](/files/2025%20Booklists/CVPS_P6__4F__Booklist_2025.pdf)
 
 
