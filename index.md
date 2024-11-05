@@ -12,9 +12,6 @@ sections:
       background: /images/2024 Open House/2024_Landing_Page_C.gif
       url: /contact-us/
       key_highlights:
-        - title: CVPS Open House 2024
-          description: ""
-          url: /open-house-2024/welcomepage
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
