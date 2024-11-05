@@ -4,23 +4,28 @@ permalink: /parents/2024booklists/
 variant: markdown
 description: ""
 ---
-### **CVPS 2024 Booklists**
-* **[CVPS P1 Booklist 2024](/files/2024%20Booklists/cvps%20p1%20booklist%202024.pdf)**
-* **[CVPS P2 Booklist 2024](/files/2024%20Booklists/cvps%20p2%20booklist%202024.pdf)**
-* **[CVPS P3 Booklist 2024](/files/2024%20Booklists/cvps%20p3%20booklist%202024.pdf)**
-* **[CVPS P3 + HMTL Booklist 2024](/files/2024%20Booklists/cvps%20p3%20(hmt)%20booklist%202024.pdf)**
-* **[CVPS P4 Booklist 2024](/files/2024%20Booklists/cvps%20p4%20booklist%202024.pdf)**
-* **[CVPS P4 + HMTL Booklist 2024](/files/2024%20Booklists/cvps%20p4%20(hmt)%20booklist%202024.pdf)**
-* **[CVPS P5 4S Booklist 2024](/files/2024%20Booklists/cvps%20p5%20(4s)%20booklist%202024.pdf)**
-* **[CVPS P5 4S + HMTL Booklist 2024](/files/2024%20Booklists/cvps%20p5%20(4s%20and%20hmt)%20booklist%202024.pdf)**
-* **[CVPS P5 3S + 1F (MA) Booklist 2024](/files/2024%20Booklists/cvps%20p5%20(3s1f-ma).pdf)**
-* **[CVPS P6 4F Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(4f)%20booklist%202024.pdf)**
-* **[CVPS P6 4S Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(4s)%20booklist%202024.pdf)**
-* **[CVPS P6 4S + HMTL Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(4s%20and%20hmt)%20booklist%202024.pdf)**
-* **[CVPS P6 3S + 1F (MA) Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(3s1f-ma)%20booklist%202024.pdf)**
-* **[CVPS P6 2S + 2F Booklist 2024](/files/2024%20Booklists/cvps%20p6%20(2s&amp;2f)%20booklist%202024.pdf)**
+### **CVPS 2025 Booklists**
+<br>
+
+* [**CVPS P1 Booklist 2025**](/files/2025%20Booklists/CVPSP1_Booklist_2025.pdf)
+* [CVPS P2 Booklist 2025](/files/2025%20Booklists/CVPS_P2_Booklist_2025.pdf)
+* [CVPS P3 Booklist 2025](/files/2025%20Booklists/CVPS_P3_Booklist_2025.pdf)
+* [CVPS P3 (HMT) Booklist 2025](/files/2025%20Booklists/CVPS_P3__HMT__Bookloist_2025.pdf)
+* [CVPS P4 Booklist 2025](/files/2025%20Booklists/CVPS_P4_Booklist_2025.pdf)
+* [CVPS P4 (HMT) Booklist 2025](/files/2025%20Booklists/CVPS_P4__HMT__Booklist_2025.pdf)
+* [CVPS P5 (4S) Booklist 2025](/files/2025%20Booklists/CVPS_P5__4S__Booklist_2025.pdf)
+* [CVPS P5 (4S+HMT) Booklist 2025](/files/2025%20Booklists/CVPS_P5__4S_HMT__Booklist_2025.pdf)
+* [CVPS P5 (3S1F-MA) Booklist 2025](/files/2025%20Booklists/CVPS_P5__3S1F_MA__Booklist_2025.pdf)
+* [CVPS P6 (4S) Booklist 2025](/files/2025%20Booklists/CVPS_P6__4S__Booklist_2025.pdf)
+* [CVPS P6 (4S+HMT) Booklist 2025](/files/2025%20Booklists/CVPS_P6__4S_HMT__Booklist_2025.pdf)
+* [CVPS P6 (3S1F-MA) Booklist 2025](/files/2025%20Booklists/CVPS_P6__3S1F_MA__Booklist_2025.pdf)
+* [CVPS P6 (3S1F-MT) Booklist 2025](/files/2025%20Booklists/CVPS_P6__3S1F_MT__Booklist_2025.pdf)
+* [CVPS P6 (2S&amp;2F) Booklist 2025](/files/2025%20Booklists/CVPS_P6__2S_2F__Booklist_2025.pdf)
+* [CVPS P6(2S2FMAMT)](/files/2025%20Booklists/CVPS_P6_2S2FMAMT_.pdf)
+* [CVPS P6 (4F) Booklist 2025](/files/2025%20Booklists/CVPS_P6__4F__Booklist_2025.pdf)
+
 
 <br>
 
 If you are ordering from Pacific Bookstores, please click to download<br>
-[**Pacific Bookstores Purchase Guide**.](/files/2024%20Booklists/cvps%20year%20end%20books%20purchase%20instruction%20info%202023.pdf)
+[Pacific Bookstores Online Purchase Information](/files/2025%20Booklists/CVPS_Online_Purchase_Info_2024.pdf)[CVPS Online Purchase Info 2024](/files/2025%20Booklists/CVPS_Online_Purchase_Info_2024.pdf)[**Pacific Bookstores Purchase Guide**.](/files/2024%20Booklists/cvps%20year%20end%20books%20purchase%20instruction%20info%202023.pdf)
