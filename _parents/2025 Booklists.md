@@ -28,4 +28,5 @@ description: ""
 <br>
 
 If you are ordering from Pacific Bookstores, please click to download<br>
-[**Pacific Bookstores Online Purchase Information**](/files/2025%20Booklists/CVPS_Online_Purchase_Info_2024.pdf)
+* [**Pacific Bookstores Online Purchase Information**](/files/2025%20Booklists/CVPS_Online_Purchase_Info_2024.pdf)
+* [**Pacific Bookstores Online Purchase Guide**](/files/2025%20Booklists/ONLINE_PURCHASE_GUIDE_PRI_2024.pdf)
