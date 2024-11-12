@@ -18,6 +18,9 @@ sections:
         - title: CONTACT US
           description: ""
           url: /contact/school-vendors/school-bookshop/
+        - title: CVPS Facebook
+          description: ""
+          url: https://www.facebook.com/compassvalepri/
       variant: image
   - infobar:
       title: Compassvale Primary School
