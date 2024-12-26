@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2025/School Leaders/Mr_Lee__resized_.jpg">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Year 2025/School Leaders/Mr_Lee__resized_.jpg">
 </div>
 <p>Dear Parents and Guardians,</p>
 <p>As an educator, I often asked myself, what is the purpose of education?
