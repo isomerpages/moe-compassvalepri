@@ -40,5 +40,5 @@ variant: markdown
 |:---:|:---:|:---:|
 |  Art Club |   CCA Team<br>2.40p.m - 4.30p.m | Nil    | 
 |  English Language<br>Drama and Debate Society |    CCA Team<br>2.40p.m - 4.30p.m |  Nil |  
-|  Robotics |  School Team<br>CCA Team<br>2.40p.m - 4.30p.m  |  School Team<br>2.10p.m - 4.30p.m | 
-| Physical Science |  CCA Team<br>2.40p.m - 4.30p.m  |  Nil |
+|  Robotics |  School Team<br>CCA Team<br>2.40p.m - 4.30p.m  |  School Team<br>2.10p.m - 4.00p.m | 
+| Physical Science |  CCA Team<br>2.40p.m - 4.0p.m  |  Nil |
