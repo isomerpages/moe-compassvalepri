@@ -52,7 +52,7 @@ Please&nbsp;note our Recess/Lunch schedule below.
 
 | Level | Recess | Lunch Break on Tuesday | 
 |:---:|:---:|:---:|
-| P1, P3 &amp; P6	 | 9.35 a.m. to 10.10 a.m.	 | 12.10 p.m. to 12.40 p.m. | 12.10 p.m. to 12.40 p.m. |
+| P1, P3 &amp; P6	 | 9.35 a.m. to 10.10 a.m.	 | 12.10 p.m. to 12.40 p.m. |  |
 | P2, P4 &amp; P5	 | 10.05 a.m. to 10.40 a.m.	 | 12.40 p.m. to 1.10 p.m ||
 |
 
