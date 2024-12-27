@@ -43,7 +43,7 @@ b.   **What Parents/Guardians Can Do:** Teach your child/ward the properly way t
 | Start of Lesson |  7.55 a.m. |
 | Dismissal time (Monday, Wednesday, Thursday and Friday) :<br>Support lessons will be conducted for identified students<br>on Wednesday and Thursday |  1.40 p.m. |
 | Dismissal time (Tuesday) |  2.40 p.m. |
-| CCA (Tuesday / Friday):<br>Students identified for the school team may have CCA<br>on Tuesday and Friday. (Parents will be informed through consent forms.) | 2.40 p.m.<br> /<br>2.10 p.m. |
+| CCA (Tuesday / Friday):<br>Students identified for the school team may have CCA<br>on Tuesday and Friday. (Parents will be informed through consent forms.) | 2.40 p.m. (Tue) <br> /<br>2.10 p.m. (Fri) |
 |
 
 #### **6  Recesses/Lunch Breaks**
