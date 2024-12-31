@@ -38,23 +38,22 @@ b.   **What Parents/Guardians Can Do:** Teach your child/ward the properly way t
 
 |  |  |
 |---|---|
-| Reporting Time |  before 7.45 a.m. |
-| National Anthem &amp; Pledge-taking |  7.45 a.m. |
-| Start of Lesson |  8.00 a.m. |
-| Dismissal time (Monday, Wednesday and Thursday) :<br>Support lessons will be conducted for identified students<br>on Wednesday and Thursday |  1.30 p.m. |
-| Dismissal time (Tuesday and Friday) |  2.30 p.m. |
-| CCA (Tuesday and Friday):<br>Students identified for the school team may have CCA<br>on Tuesday and Friday. | 2.30 p.m.<br> to <br>4.30 p.m. |
+| Reporting Time |  Before 7.45 a.m. |
+| Flag-raising Ceremony |  7.45 a.m. |
+| Start of Lesson |  Refer to timetable |
+| Dismissal time (Monday, Wednesday, Thursday and Friday) :<br>Support lessons will be conducted for identified students<br>on Wednesday and Thursday |  1.40 p.m. |
+| Dismissal time (Tuesday) |  2.40 p.m. |
+| CCA (Tuesday / Friday):<br>Students identified for the school team may have CCA<br>on Tuesday and Friday. (Parents will be informed through consent forms.) | 2.40 p.m. (Tue) <br> /<br>2.10 p.m. (Fri) |
 |
 
 #### **6  Recesses/Lunch Breaks**
 
 Please&nbsp;note our Recess/Lunch schedule below.
 
-| Level | Recess | Lunch Break On <br> Tuesdays &amp; Fridays |
+| Level | Recess | Lunch Break on Tuesday | 
 |:---:|:---:|:---:|
-| P1 &amp; P6	 | 10.00 a.m. to 10.30 a.m.	 | 12.30 p.m. to 1.00 p.m. |
-| P2 &amp; P4	 | 9.30 a.m. to 10.00 a.m.	 | 12.00 p.m. to 12.30 p.m |
-| P3 &amp; P5	 | 10.30 a.m. to 11.00 a.m.	 | 1.00 p.m.  to 1.30 p.m. |
+| P1, P3 &amp; P6	 | 9.35 a.m. to 10.10 a.m.	 | 12.10 p.m. to 12.40 p.m. |  |
+| P2, P4 &amp; P5	 | 10.05 a.m. to 10.40 a.m.	 | 12.40 p.m. to 1.10 p.m ||
 |
 
 #### **7  School Bags**
