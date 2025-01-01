@@ -317,11 +317,8 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <p>Year Head for Lower Primary</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
@@ -361,10 +358,10 @@ description: ""
 <p>Primary 1 Classes</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FT</p>
+<p>Form Teachers</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<p>Email Address</p>
 </th>
 </tr>
 <tr>
@@ -534,10 +531,10 @@ description: ""
 <p>Primary 2 Classes</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>FT</p>
+<p>Form Teachers</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<p>Email Address</p>
 </th>
 </tr>
 <tr>
@@ -687,6 +684,180 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Qu Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="3">
+<p>Year Head for Middle Primary</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 3 Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Primary 4 Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 2 Classes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P3 Care</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P3 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chia Tet Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norliza /</p>
+<p>Ms Ng Wee Liam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P3 Integrity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Raine Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kuan Wai Ling / Ms Chia Joo Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alex Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Valli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P3 Respect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Matthew Siew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Faridah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P3 Responsibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Putra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Koh Pei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
