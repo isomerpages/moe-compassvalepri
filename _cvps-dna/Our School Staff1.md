@@ -30,4 +30,27 @@ description: ""
 | School Staff Development     | Text     | Mr Alex Lee     | [alex_lee_tiong_huat@schools.gov.sg](alex_lee_tiong_huat@schools.gov.sg)     |
 | Information and Communication Technology (ICT)     | Subject Head     | Mr Tay Wei Jun     | [tay_wei_jun@schools.gov.sg](tay_wei_jun@schools.gov.sg)     |
 
+
 #### **School Educators**
+
+
+
+| Year Head for Lower Primary |  |  |
+| -------- | -------- | -------- |
+| Primary 1 Year Head     | Mdm Siti Halizah     | [siti_halizah_hamzah@schools.gov.sg](siti_halizah_hamzah@schools.gov.sg)     |
+| Primary 2 Assistant Year Head     | Mdm Goh Cai Yun     | [goh_cai_yun@schools.gov.sg](goh_cai_yun@schools.gov.sg)     |
+
+<br>
+
+| Primary 1 Classes | Form Teachers | Email Address |
+| -------- | -------- | -------- |
+| P1-1     | Ms Diana Koh<br><br>Ms Lim Yen Pin     | [koh_chin_peng@schools.gov.sg](koh_chin_peng@schools.gov.sg) <br><br>  [lim_yen_pin@schools.gov.sg](lim_yen_pin@schools.gov.sg)  |
+| P1-2     | Text     | Text     |
+| P1-3     | Text     | Text     |
+| P1-4     | Text     | Text     |
+| P1-5     | Text     | Text     |
+| P1-6     | Text     | Text     |
+| P1-7     | Text     | Text     |
+| P1-8     | Text     | Text     |
+
+
