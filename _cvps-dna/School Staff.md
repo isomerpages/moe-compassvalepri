@@ -252,7 +252,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p><strong>Character &amp; Citizenship</strong>
+<p><strong>Character &amp; Citizenship (CCE)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -299,6 +299,38 @@ description: ""
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Staff Development</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Alex Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Information and Communication Technology (ICT)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tay Wei Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
