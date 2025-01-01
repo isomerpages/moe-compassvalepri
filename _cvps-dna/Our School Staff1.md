@@ -4,3 +4,26 @@ permalink: /our-school-staff1/
 variant: markdown
 description: ""
 ---
+#### **School Leaders**
+
+
+|  |  | 
+| -------- | -------- | 
+| **Principal**     | Mr Vincent Lee     | 
+| **Vice-Principal (Academic)**     | Mrs Maria Koh     | 
+| **Vice-Principal (Academic)**     | Mr Kelvin Chin     |
+| **Vice-Principal (Admin)**     | Mr Khou Beng Chew     | 
+
+
+#### **School Management Team**
+
+
+| Department | Title | Staff | Email Address |
+| -------- | -------- | -------- | -------- |
+| English     | Head of Department<br><br>Level Head<br><br> Level Head     | Ms Emellyn Lim<br><br>Mr Khai Ho<br><br>Ms Christianna Huang     | lim_yee_hoon_emellyn@moe.edu.sg <br><br><br>khairulnizad_khalid@moe.edu.sg<br><br>huang_sijia_christianna@moe.edu.sg    |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+
+
+#### **School Educators**
