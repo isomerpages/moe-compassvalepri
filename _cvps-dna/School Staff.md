@@ -513,7 +513,180 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FAJT Mrs Josphine Chng</p>
+<p>Mrs Josphine Chng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Primary 2 Classes</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FT</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P2-1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Raghini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Si Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P2-2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Bong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suraya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P2-3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ivan Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Syahirah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P2-4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Shuh Huey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Aw Si Kuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P2-5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Wendy Poh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Goh Cai Yun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P2-6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Loh Zhi Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jovina Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P2-7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Wani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zelda Mak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>P2-8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Analiza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Qu Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
