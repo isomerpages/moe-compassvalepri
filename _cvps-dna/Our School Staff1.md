@@ -101,3 +101,32 @@ description: ""
 | |
 
 <br>
+
+| Year Head for Upper Primary |  |  |
+| -------- | -------- | -------- |
+| Primary 5 Year Head     | text     | text     |
+| Primary 6 Assistant Year Head     | text     | text    |
+
+<br>
+
+| Primary 5 Classes | Form Teachers | Email Address |
+| -------- | -------- | -------- |
+| P5 Care     | Mr Raymond Tay<br><br>Mrs Ong Lee Lian     | text  |
+| P5 Harmony     | Mr Iskandar<br><br>Mrs Lim Hwee Mian     | Text     |
+| P5 Integrity     | Mdm Hanifah<br><br>Mrs Josephine Yeo <br><br> Mrs Vijay     | Text     |
+| P5 Resilience     | Ms Emellyn Lim<br><br>Mrs Corrin Kwok   | Text     |
+| P5 Respect     | 	Ms Sim Li Ting<br><br>Mdm Sharifah     | Text     |
+| P5 Responsibility     | 	Mdm Irene Goh<br><br>Mr Khai Ho     | Text     |
+| |
+
+<br>
+
+| Primary 6 Classes | Form Teachers | Email Address |
+| -------- | -------- | -------- |
+| P6 Care     | Mr Edmund Hor<br><br>Ms Mogana     | text  |
+| P6 Harmony     | Ms Fiona Seah<br><br>Mr Kirk Hock Lam     | Text     |
+| P6 Integrity     | Ms Christianna Huang<br><br>Mrs Thessa Ang   | Text     |
+| P6 Resilience     | Mrs Janet Doo<br><br>Mdm Goh Kwee Lay   | Text     |
+| P6 Respect     | 	Mr Lim Beng Gee<br><br>Mdm Ellena Tan     | Text     |
+| P6 Responsibility     | 	Mr Lance Peck<br><br>Ms Wong Xing Jie     | Text     |
+| |
