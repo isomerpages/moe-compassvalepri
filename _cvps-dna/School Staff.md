@@ -13,8 +13,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Principal</strong>
-</p>
+<p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Vincent Lee</p>
@@ -22,8 +21,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Academic)</strong>
-</p>
+<p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Maria Koh</p>
@@ -31,8 +29,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Academic)</strong>
-</p>
+<p>Vice-Principal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kelvin Chin</p>
@@ -40,7 +37,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Admin)</strong>
+<p>Vice-Principal (Admin<strong>)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -75,12 +72,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p><strong>English</strong>
-</p>
+<p>English</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department</strong>
-</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Emellyn Lim</p>
@@ -91,8 +86,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head</strong>
-</p>
+<p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khai Ho</p>
@@ -103,8 +97,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head</strong>
-</p>
+<p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Christianna Huang</p>
@@ -115,12 +108,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p><strong>Mathematics</strong>
-</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department</strong>
-</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Thessa Ang</p>
@@ -131,8 +122,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head</strong>
-</p>
+<p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Irene Goh</p>
@@ -143,12 +133,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Science</strong>
-</p>
+<p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department</strong>
-</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sim Li Ting</p>
@@ -162,8 +150,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head</strong>
-</p>
+<p>Level Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Peck Cheng Wee</p>
@@ -174,12 +161,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mother Tongue Language</strong>
-</p>
+<p>Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department</strong>
-</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ong Lee Lian</p>
@@ -193,8 +178,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Level Head (CL)</strong>
-</p>
+<p>Level Head (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Yen Pin</p>
@@ -208,8 +192,7 @@ description: ""
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (ML &amp; TL)</strong>
-</p>
+<p>Subject Head (ML &amp; TL)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Haslina</p>
@@ -220,12 +203,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Physical Education</strong>
-</p>
+<p>Physical Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head</strong>
-</p>
+<p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kenny Liao</p>
@@ -236,12 +217,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Aesthetics</strong>
-</p>
+<p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head</strong>
-</p>
+<p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wong Xing Jie</p>
@@ -252,12 +231,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p><strong>Character &amp; Citizenship (CCE)</strong>
-</p>
+<p>Character &amp; Citizenship (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department</strong>
-</p>
+<p>Head of Department</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ellena Tan</p>
@@ -301,8 +278,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Development</strong>
-</p>
+<p>School Staff Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -316,12 +292,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information and Communication Technology (ICT)</strong>
-</p>
+<p>Information and Communication Technology (ICT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head</strong>
-</p>
+<p>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tay Wei Jun</p>
