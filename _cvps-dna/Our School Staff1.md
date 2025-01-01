@@ -53,3 +53,51 @@ description: ""
 | P1-7     | Mdm Ain Azam<br><br>Mdm Hu Fei Fei     | Text     |
 | P1-8     | Mr Goh Eng Beng<br><br>Mrs Josphine Chng     | Text     |
 | |
+
+<br>
+<br>
+
+| Primary 2 Classes | Form Teachers | Email Address |
+| -------- | -------- | -------- |
+| P2-1     | Ms Raghini<br><br>Ms Wong Si Rong     | text  |
+| P2-2     | Mdm Bong<br><br>Mdm Suraya     | Text     |
+| P2-3     | Mr Ivan Tan<br><br>Mdm Syahirah     | Text     |
+| P2-4     | Mdm Lim Shuh Huey<br><br>Mr Aw Si Kuan     | Text     |
+| P2-5     | Mrs Wendy Poh<br><br>Mdm Goh Cai Yun     | Text     |
+| P2-6     | Mr Loh Zhi Ying<br><br>Ms Jovina Tan     | Text     |
+| P2-7     | Mdm Wani<br><br>Ms Zelda Mak    | Text     |
+| P2-8     | Ms Analiza<br><br>Mdm Qu Yi     | Text     |
+| |
+
+<br>
+
+| Year Head for Middle Primary |  |  |
+| -------- | -------- | -------- |
+| Primary 3 Year Head     | text     | text     |
+| Primary 4 Assistant Year Head     | text     | text     |
+<br>
+
+| Primary 3 Classes | Form Teachers | Email Address |
+| -------- | -------- | -------- |
+| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | Text     |
+| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Ms Ng Wee Liam     | Text     |
+| P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling <br><br>Ms Chia Joo Hong     | Text     |
+| P3 Resilience     | Mr Alex Lee<br><br>Mdm Valli     | Text     |
+| P3 Respect     | Mr Matthew Siew<br><br>Mdm Faridah     | Text     |
+| P3 Responsibility     | Mr Putra<br><br>Mrs Koh Pei Ling     | Text     |
+| |
+
+<br>
+<br>
+
+| Primary 4 Classes | Form Teachers | Email Address |
+| -------- | -------- | -------- |
+| P4 Care     | Mr Nge Moh Lim<br><br>Mdm Chen Jian Fang     | text  |
+| P4 Harmony     | Mr Tay Wei Jun<br><br>Ms Janet Tey     | Text     |
+| P4 Integrity     | Mr Vinod Chandar<br><br>Mdm Alinda     | Text     |
+| P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | Text     |
+| P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | Text     |
+| P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari     | Text     |
+| |
+
+<br>
