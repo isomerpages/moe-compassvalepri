@@ -20,7 +20,7 @@ description: ""
 
 | Department | Title | Staff | Email Address |
 | -------- | -------- | -------- | -------- |
-| English     | Head of Department<br><br>Level Head<br><br> Level Head     | Ms Emellyn Lim<br><br>Mr Khai Ho<br><br>Ms Christianna Huang     | lim_yee_hoon_emellyn@moe.edu.sg <br><br><br>khairulnizad_khalid@moe.edu.sg<br><br>huang_sijia_christianna@moe.edu.sg    |
+| English     | Head of Department<br><br>Level Head<br><br> Level Head     | Ms Emellyn Lim<br><br>Mr Khai Ho<br><br>Ms Christianna Huang     | lim_yee_hoon_emellyn@moe.edu.sg <br><br>khairulnizad_khalid@moe.edu.sg<br><br>huang_sijia_christianna@moe.edu.sg    |
 | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     |
