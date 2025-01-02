@@ -110,7 +110,6 @@ description: ""
 
 <br>
 
-
 | Primary 5 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | P5 Care     | Mr Raymond Tay<br><br>Mrs Ong Lee Lian     | [tay_kim_cheong_raymond@schools.gov.sg](tay_kim_cheong_raymond@schools.gov.sg) <br><br>[khoo_lee_lian@schools.gov.sg](khoo_lee_lian@schools.gov.sg)  |
