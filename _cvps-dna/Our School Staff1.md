@@ -45,13 +45,13 @@ description: ""
 | Primary 1 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | P1-1     | Ms Diana Koh<br><br>Ms Lim Yen Pin     | [koh_chin_peng@schools.gov.sg](koh_chin_peng@schools.gov.sg) <br><br>  [lim_yen_pin@schools.gov.sg](lim_yen_pin@schools.gov.sg)  |
-| P1-2     | Ms Irmawati<br><br>Mdm Haslina     | Text     |
-| P1-3     | Mdm Zalifah<br><br>Miss Ser Yong Bing     | Text     |
-| P1-4     | Mdm Wida<br><br>Ms Sarahlyn Cheng     | Text     |
-| P1-5     | Mdm Nafisah<br><br>Mdm Siti Halizah     | Text     |
-| P1-6     | Ms Dorcas Tan<br><br>Mrs Pearlyn Koh     | Text     |
-| P1-7     | Mdm Ain Azam<br><br>Mdm Hu Fei Fei     | Text     |
-| P1-8     | Mr Goh Eng Beng<br><br>Mrs Josphine Chng     | Text     |
+| P1-2     | Ms Irmawati<br><br>Mdm Haslina     | [irmawati_a@schools.gov.sg](irmawati_a@schools.gov.sg) <br><br>[haslina_abu_bakar_a@schools.gov.sg](haslina_abu_bakar_a@schools.gov.sg)   |
+| P1-3     | Mdm Zalifah<br><br>Miss Ser Yong Bing     | [zalifah_bohari@schools.gov.sg](zalifah_bohari@schools.gov.sg)<br><br>[ser_yong_bing@schools.gov.sg](ser_yong_bing@schools.gov.sg)     |
+| P1-4     | Mdm Wida<br><br>Ms Sarahlyn Cheng     | [widawati_hanafiah@schools.gov.sg](widawati_hanafiah@schools.gov.sg) <br><br> [sarah_lyn_cheng_yanling@schools.gov.sg](sarah_lyn_cheng_yanling@schools.gov.sg)   |
+| P1-5     | Mdm Nafisah<br><br>Mdm Siti Halizah     |   [nafisah_suraida_abd_rahman@schools.gov.sg](nafisah_suraida_abd_rahman@schools.gov.sg) <br><br>[siti_halizah_hamzah@schools.gov.sg](siti_halizah_hamzah@schools.gov.sg)    |
+| P1-6     | Ms Dorcas Tan<br><br>Mrs Pearlyn Koh     | [tan_jeng_ling_dorcas@schools.gov.sg](tan_jeng_ling_dorcas@schools.gov.sg) <br><br> [ng_hui_ling_pearlyn@schools.gov.sg](ng_hui_ling_pearlyn@schools.gov.sg)   |
+| P1-7     | Mdm Ain Azam<br><br>Mdm Hu Fei Fei     |  [nurain_muhamad_azam@schools.gov.sg](nurain_muhamad_azam@schools.gov.sg) <br><br> [hu_fei_fei@schools.gov.sg](hu_fei_fei@schools.gov.sg)    |
+| P1-8     | Mr Goh Eng Beng<br><br>Mrs Josphine Chng     | [goh_eng_beng@schools.gov.sg](goh_eng_beng@schools.gov.sg)  <br><br>[chee_mun_leng_josphine@schools.gov.sg](chee_mun_leng_josphine@schools.gov.sg)   |
 | |
 
 <br>
@@ -73,8 +73,8 @@ description: ""
 
 | Year Head for Middle Primary |  |  |
 | -------- | -------- | -------- |
-| Primary 3 Year Head     | text     | text   |
-| Primary 4 Assistant Year Head     | text     | text     |  |  |
+| Primary 3 Year Head     | Ms Kuan Wai Ling     | [kuan_wai_ling@schools.gov.sg](kuan_wai_ling@schools.gov.sg)   |
+| Primary 4 Assistant Year Head     | Ms Clara Lee     | [clara_poh_san_niah@schools.gov.sg](clara_poh_san_niah@schools.gov.sg)     |  |  |
 
 <br>
 
