@@ -80,13 +80,13 @@ description: ""
 
 | Primary 3 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | Text     |
-| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Ms Ng Wee Liam     | Text     |
-| P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling <br><br>Ms Chia Joo Hong     | Text     |
-| P3 Resilience     | Mr Alex Lee<br><br>Mdm Valli     | Text     |
-| P3 Respect     | Mr Matthew Siew<br><br>Mdm Faridah     | Text     |
-| P3 Responsibility     | Mr Putra<br><br>Mrs Koh Pei Ling     | Text     |
-| |
+| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | [lee_soh_boon_sharon@schools.gov.sg](lee_soh_boon_sharon@schools.gov.sg) <br><br>     |
+| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Ms Ng Wee Liam     | [chia_tet_hong@schools.gov.sg](chia_tet_hong@schools.gov.sg) <br><br>    |
+| P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling <br><br>Ms Chia Joo Hong     | [raine_koh_rui_lan@schools.gov.sg](raine_koh_rui_lan@schools.gov.sg) <br><br>[kuan_wai_ling@schools.gov.sg](kuan_wai_ling@schools.gov.sg) <br><br>    |
+| P3 Resilience     | Mr Alex Lee<br><br>Mdm Valli     | [alex_lee_tiong_huat@schools.gov.sg](alex_lee_tiong_huat@schools.gov.sg) <br><br>[kumathavalli_kelaver@schools.gov.sg](kumathavalli_kelaver@schools.gov.sg)    |
+| P3 Respect     | Mr Matthew Siew<br><br>Mdm Faridah     | [siew_joern_matthew@schools.gov.sg](siew_joern_matthew@schools.gov.sg) <br><br> [faridah_taib@schools.gov.sg](faridah_taib@schools.gov.sg)   |
+| P3 Responsibility     | Mr Putra<br><br>Mrs Koh Pei Ling     | [zaiphizat_putra@schools.gov.sg](zaiphizat_putra@schools.gov.sg) <br><br>[kwek_pei_ling_a@schools.gov.sg](kwek_pei_ling_a@schools.gov.sg)
+|  | 
 
 <br>
 <br>
