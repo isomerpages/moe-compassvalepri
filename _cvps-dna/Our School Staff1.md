@@ -106,29 +106,29 @@ description: ""
 
 | Year Head for Upper Primary |  |  |
 | -------- | -------- | -------- |
-| Primary 5 Year Head     | Mrs Josephine Yeo     | text     |
-| Primary 6 Assistant Year Head     | Mdm Mogana     | text    |
+| Primary 5 Year Head     | Mrs Josephine Yeo     | [lee_swee_eng@schools.gov.sg](lee_swee_eng@schools.gov.sg)     |
+| Primary 6 Assistant Year Head     | Mdm Mogana     | [mogana_sivalingam@schools.gov.sg](mogana_sivalingam@schools.gov.sg)    |
 
 <br>
 
 | Primary 5 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P5 Care     | Mr Raymond Tay<br><br>Mrs Ong Lee Lian     | text  |
-| P5 Harmony     | Mr Iskandar<br><br>Mrs Lim Hwee Mian     | Text     |
-| P5 Integrity     | Mdm Hanifah<br><br>Mrs Josephine Yeo <br><br> Mrs Vijay     | Text     |
-| P5 Resilience     | Ms Emellyn Lim<br><br>Mrs Corrin Kwok   | Text     |
-| P5 Respect     | 	Ms Sim Li Ting<br><br>Mdm Sharifah     | Text     |
-| P5 Responsibility     | 	Mdm Irene Goh<br><br>Mr Khai Ho     | Text     |
+| P5 Care     | Mr Raymond Tay<br><br>Mrs Ong Lee Lian     | [tay_kim_cheong_raymond@schools.gov.sg](tay_kim_cheong_raymond@schools.gov.sg) <br><br>[khoo_lee_lian@schools.gov.sg](khoo_lee_lian@schools.gov.sg)  |
+| P5 Harmony     | Mr Iskandar<br><br>Mrs Lim Hwee Mian     | [radin_tri_iskandar_sumanto@schools.gov.sg](radin_tri_iskandar_sumanto@schools.gov.sg) <br><br> [lim_hwee_mian@schools.gov.sg](lim_hwee_mian@schools.gov.sg)    |
+| P5 Integrity     | Mdm Hanifah<br><br>Mrs Josephine Yeo <br><br> Mrs Vijay     | [hanifah_jasman@schools.gov.sg](hanifah_jasman@schools.gov.sg) <br><br> [lee_swee_eng@schools.gov.sg](lee_swee_eng@schools.gov.sg) <br><br> [vijayalakshmi_a@schools.gov.sg](vijayalakshmi_a@schools.gov.sg)   |
+| P5 Resilience     | Ms Emellyn Lim<br><br>Mrs Corrin Kwok   | [lim_yee_hoon_emellyn@schools.gov.sg](lim_yee_hoon_emellyn@schools.gov.sg) <br><br> [goh_suet_mei@schools.gov.sg](goh_suet_mei@schools.gov.sg)     |
+| P5 Respect     | 	Ms Sim Li Ting<br><br>Mdm Sharifah     | [sim_li_ting@schools.gov.sg](sim_li_ting@schools.gov.sg) <br><br> [sharifah_ayyoo_ali@schools.gov.sg](sharifah_ayyoo_ali@schools.gov.sg)    |
+| P5 Responsibility     | 	Mdm Irene Goh<br><br>Mr Khai Ho     | [goh_irene@schools.gov.sg](goh_irene@schools.gov.sg) <br><br> [khairulnizad_khalid@schools.gov.sg](khairulnizad_khalid@schools.gov.sg)    |
 | |
 
 <br>
 
 | Primary 6 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P6 Care     | Mr Edmund Hor<br><br>Ms Mogana     | text  |
-| P6 Harmony     | Ms Fiona Seah<br><br>Mr Kirk Hock Lam     | Text     |
-| P6 Integrity     | Ms Christianna Huang<br><br>Mrs Thessa Ang   | Text     |
-| P6 Resilience     | Mrs Janet Doo<br><br>Mdm Goh Kwee Lay   | Text     |
-| P6 Respect     | 	Mr Lim Beng Gee<br><br>Mdm Ellena Tan     | Text     |
-| P6 Responsibility     | 	Mr Lance Peck<br><br>Ms Wong Xing Jie     | Text     |
+| P6 Care     | Mr Edmund Hor<br><br>Ms Mogana     | [hor_yoke_keong_edmund@schools.gov.sg](hor_yoke_keong_edmund@schools.gov.sg) <br><br> [mogana_sivalingam@schools.gov.sg](mogana_sivalingam@schools.gov.sg)   |
+| P6 Harmony     | Ms Fiona Seah<br><br>Mr Kirk Hock Lam     | [seah_yiling_fiona@schools.gov.sg](seah_yiling_fiona@schools.gov.sg) <br><br> [kirk_hock_lam@schools.gov.sg](kirk_hock_lam@schools.gov.sg)     |
+| P6 Integrity     | Ms Christianna Huang<br><br>Mrs Thessa Ang   | [huang_sijia_christianna@schools.gov.sg](huang_sijia_christianna@schools.gov.sg)<br><br> [tan_ee_jui_thessa@schools.gov.sg](tan_ee_jui_thessa@schools.gov.sg)     |
+| P6 Resilience     | Mrs Janet Doo<br><br>Mdm Goh Kwee Lay   | [leow_puay_khim@schools.gov.sg](leow_puay_khim@schools.gov.sg)  <br><br> [goh_kwee_lay@schools.gov.sg](goh_kwee_lay@schools.gov.sg)   |
+| P6 Respect     | 	Mr Lim Beng Gee<br><br>Mdm Ellena Tan     | [lim_beng_gee@schools.gov.sg](lim_beng_gee@schools.gov.sg) <br><br> [tan_xuening_ellena@schools.gov.sg](tan_xuening_ellena@schools.gov.sg)    |
+| P6 Responsibility     | 	Mr Lance Peck<br><br>Ms Wong Xing Jie     | [peck_cheng_wee@schools.gov.sg](peck_cheng_wee@schools.gov.sg)  <br><br> [wong_xing_jie@schools.gov.sg](wong_xing_jie@schools.gov.sg)    |
 | |
