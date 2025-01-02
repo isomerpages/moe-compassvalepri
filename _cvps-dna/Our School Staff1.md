@@ -59,14 +59,14 @@ description: ""
 
 | Primary 2 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P2-1     | Ms Raghini<br><br>Ms Wong Si Rong     | text  |
-| P2-2     | Mdm Bong<br><br>Mdm Suraya     | Text     |
-| P2-3     | Mr Ivan Tan<br><br>Mdm Syahirah     | Text     |
-| P2-4     | Mdm Lim Shuh Huey<br><br>Mr Aw Si Kuan     | Text     |
-| P2-5     | Mrs Wendy Poh<br><br>Mdm Goh Cai Yun     | Text     |
-| P2-6     | Mr Loh Zhi Ying<br><br>Ms Jovina Tan     | Text     |
-| P2-7     | Mdm Wani<br><br>Ms Zelda Mak    | Text     |
-| P2-8     | Ms Analiza<br><br>Mdm Qu Yi     | Text     |
+| P2-1     | Ms Raghini<br><br>Ms Wong Si Rong     | [raghini_pandida_selven@schools.gov.sg](raghini_pandida_selven@schools.gov.sg) <br><br>[wong_sirong@schools.gov.sg](wong_sirong@schools.gov.sg)  |
+| P2-2     | Mdm Bong Mui Yoke<br><br>Mdm Suraya     | [bong_mui_yoke@schools.gov.sg](bong_mui_yoke@schools.gov.sg) <br><br>[suraya_mohamed_ismail@schools.gov.sg](suraya_mohamed_ismail@schools.gov.sg)    |
+| P2-3     | Mr Ivan Tan<br><br>Mdm Syahirah     | [tan_ee_teck@schools.gov.sg](tan_ee_teck@schools.gov.sg) <br><br>[syahirah_nabilah_salleh@schools.gov.sg](syahirah_nabilah_salleh@schools.gov.sg)    |
+| P2-4     | Mdm Lim Shuh Huey<br><br>Mr Aw Si Kuan     | [lim_shuh_huey@schools.gov.sg](lim_shuh_huey@schools.gov.sg) <br><br>     |
+| P2-5     | Mrs Wendy Poh<br><br>Mdm Goh Cai Yun     | [lee_mun_lai@schools.gov.sg](lee_mun_lai@schools.gov.sg) <br><br> [goh_cai_yun@schools.gov.sg](goh_cai_yun@schools.gov.sg)    |
+| P2-6     | Mr Loh Zhi Ying<br><br>Ms Jovina Tan     | [loh_zhi_ying@schools.gov.sg](loh_zhi_ying@schools.gov.sg) <br><br>     |
+| P2-7     | Mdm Wani<br><br>Ms Zelda Mak    | [eswani_salman_mrs_eswani@schools.gov.sg](eswani_salman_mrs_eswani@schools.gov.sg) <br><br>[zelda_mak_teng_fong@schools.gov.sg](zelda_mak_teng_fong@schools.gov.sg)    |
+| P2-8     | Ms Analiza<br><br>Mdm Qu Yi     | <br><br> [qu_yi@schools.gov.sg](qu_yi@schools.gov.sg)    |
 | |
 
 <br>
