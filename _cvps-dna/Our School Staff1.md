@@ -38,7 +38,7 @@ description: ""
 | Year Head for Lower Primary |  |  |
 | -------- | -------- | -------- |
 | Primary 1 Year Head     | Mdm Siti Halizah     | [siti_halizah_hamzah@schools.gov.sg](siti_halizah_hamzah@schools.gov.sg)     |
-| Primary 2 Assistant Year Head     | Mdm Goh Cai Yun     | [goh_cai_yun@schools.gov.sg](goh_cai_yun@schools.gov.sg)     |
+| Primary 2 Assistant Year Head     | Mdm Goh Cai Yun     | [goh_cai_yun@schools.gov.sg](goh_cai_yun@schools.gov.sg)     | 
 
 <br>
 
@@ -73,8 +73,10 @@ description: ""
 
 | Year Head for Middle Primary |  |  |
 | -------- | -------- | -------- |
-| Primary 3 Year Head     | text     | text     |
-| Primary 4 Assistant Year Head     | text     | text     |
+| Primary 3 Year Head     | text     | text   |
+| Primary 4 Assistant Year Head     | text     | text     |  |  |
+
+
 <br>
 
 | Primary 3 Classes | Form Teachers | Email Address |
