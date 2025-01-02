@@ -27,6 +27,7 @@ description: ""
 | Physical Education     | Subject Head     | Mr Kenny Liao     | [liao_chunming_kenny@schools.gov.sg](liao_chunming_kenny@schools.gov.sg)     |
 | Aesthetics     | Subject Head     | Ms Wong Xing Jie     | [wong_xing_jie@schools.gov.sg](wong_xing_jie@schools.gov.sg)     |
 | Character &amp;<br> Citizenship (CCE)     | Head of Department<br><br>Level Head (CCE)<br><br>Level Head (CCE)<br><br>Subject Head (NESS)     | Mdm Ellena Tan<br><br>Mdm Alinda<br><br>Ms Corrin Goh<br><br>Ms Fiona Seah     |   [tan_xuening_ellena@schools.gov.sg](tan_xuening_ellena@schools.gov.sg)<br><br>[alinda_ahmed@schools.gov.sg](alinda_ahmed@schools.gov.sg) <br><br>[goh_suet_mei@schools.gov.sg](goh_suet_mei@schools.gov.sg)<br><br> [seah_yiling_fiona@schools.gov.sg](seah_yiling_fiona@schools.gov.sg) |
+| Student Management<br> &amp; SWB     | Subject Head     | Mr Matthew Siew     | [siew_joern_matthew@schools.gov.sg](siew_joern_matthew@schools.gov.sg)     |
 | School Staff<br> Development     | Text     | Mr Alex Lee     | [alex_lee_tiong_huat@schools.gov.sg](alex_lee_tiong_huat@schools.gov.sg)     |
 | Information<br> and<br> Communication<br> Technology (ICT)     | Subject Head     | Mr Tay Wei Jun     | [tay_wei_jun@schools.gov.sg](tay_wei_jun@schools.gov.sg)     |
 | |
@@ -93,20 +94,20 @@ description: ""
 
 | Primary 4 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P4 Care     | Mr Nge Moh Lim<br><br>Mdm Chen Jian Fang     | text  |
-| P4 Harmony     | Mr Tay Wei Jun<br><br>Ms Janet Tey     | Text     |
-| P4 Integrity     | Mr Vinod Chandar<br><br>Mdm Alinda     | Text     |
-| P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | Text     |
-| P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | Text     |
-| P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari     | Text     |
+| P4 Care     | Mr Nge Moh Lim<br><br>Mdm Chen Jian Fang     | [nge_moh_lim@schools.gov.sg](nge_moh_lim@schools.gov.sg) <br><br>[chen_jian_fang@schools.gov.sg](chen_jian_fang@schools.gov.sg)  |
+| P4 Harmony     | Mr Tay Wei Jun<br><br>Ms Janet Tey     | [tay_wei_jun@schools.gov.sg](tay_wei_jun@schools.gov.sg) <br><br>[ng_yet_yen@schools.gov.sg](ng_yet_yen@schools.gov.sg)     |
+| P4 Integrity     | Mr Vinod Chandar<br><br>Mdm Alinda     | [mohanadas_vinod_chandar@schools.gov.sg](mohanadas_vinod_chandar@schools.gov.sg) <br><br>[alinda_ahmed@schools.gov.sg](alinda_ahmed@schools.gov.sg)    |
+| P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | [loh_thiam_fong@schools.gov.sg](loh_thiam_fong@schools.gov.sg) <br><br><br><br> [tan_fong_kin_rachel@schools.gov.sg](tan_fong_kin_rachel@schools.gov.sg)   |
+| P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | [liao_chunming_kenny@schools.gov.sg](liao_chunming_kenny@schools.gov.sg) <br><br>[ignez_Tay_Geok_Choo@schools.gov.sg](ignez_Tay_Geok_Choo@schools.gov.sg)    |
+| P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari     | [clara_poh_san_niah@schools.gov.sg](clara_poh_san_niah@schools.gov.sg) <br><br> [rajeswari_pannirselvam@schools.gov.sg](rajeswari_pannirselvam@schools.gov.sg)   |
 | |
 
 <br>
 
 | Year Head for Upper Primary |  |  |
 | -------- | -------- | -------- |
-| Primary 5 Year Head     | text     | text     |
-| Primary 6 Assistant Year Head     | text     | text    |
+| Primary 5 Year Head     | Mrs Josephine Yeo     | text     |
+| Primary 6 Assistant Year Head     | Mdm Mogana     | text    |
 
 <br>
 
