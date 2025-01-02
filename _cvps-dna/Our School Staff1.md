@@ -98,7 +98,7 @@ description: ""
 | P4 Harmony     | Mr Tay Wei Jun<br><br>Ms Janet Tey     | [tay_wei_jun@schools.gov.sg](tay_wei_jun@schools.gov.sg) <br><br>[ng_yet_yen@schools.gov.sg](ng_yet_yen@schools.gov.sg)     |
 | P4 Integrity     | Mr Vinod Chandar<br><br>Mdm Alinda     | [mohanadas_vinod_chandar@schools.gov.sg](mohanadas_vinod_chandar@schools.gov.sg) <br><br>[alinda_ahmed@schools.gov.sg](alinda_ahmed@schools.gov.sg)    |
 | P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | [loh_thiam_fong@schools.gov.sg](loh_thiam_fong@schools.gov.sg) <br><br><br><br> [tan_fong_kin_rachel@schools.gov.sg](tan_fong_kin_rachel@schools.gov.sg)   |
-| P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | [liao_chunming_kenny@schools.gov.sg](liao_chunming_kenny@schools.gov.sg) <br><br>[ignez_Tay_Geok_Choo@schools.gov.sg](ignez_Tay_Geok_Choo@schools.gov.sg)    |
+| P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | [liao_chunming_kenny@schools.gov.sg](liao_chunming_kenny@schools.gov.sg) <br><br>[ignez_tay_geok_choo@schools.gov.sg](ignez_tay_geok_choo@schools.gov.sg)   |
 | P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari     | [clara_poh_san_niah@schools.gov.sg](clara_poh_san_niah@schools.gov.sg) <br><br> [rajeswari_pannirselvam@schools.gov.sg](rajeswari_pannirselvam@schools.gov.sg)   |
 | |
 
