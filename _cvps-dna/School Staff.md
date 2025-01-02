@@ -105,7 +105,7 @@ description: ""
 | Year Head for Upper Primary |  |  |
 | -------- | -------- | -------- |
 | Primary 5 Year Head     | Mrs Josephine Yeo     | [lee_swee_eng@schools.gov.sg](lee_swee_eng@schools.gov.sg)     |
-| Primary 6 Assistant Year Head     | Mdm Mogana     | [mogana_sivalingam@schools.gov.sg](mogana_sivalingam@schools.gov.sg)    | |
+| Primary 6 Assistant Year Head     | Mdm Mogana     | [mogana_sivalingam@schools.gov.sg](mogana_sivalingam@schools.gov.sg)    | | |
 <br>
 
 
