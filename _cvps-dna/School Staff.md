@@ -143,5 +143,6 @@ description: ""
 | Ms Vrinda     | Special Education Needs Officer     |  [vrinda_ravindaran@schools.gov.sg](vrinda_ravindaran@schools.gov.sg)     |
 | Ms Tan Ming Hui     | School Counsellor     | [tan_ming_hui_c@schools.gov.sg](tan_ming_hui_c@schools.gov.sg)    |
 | Mdm Betty Kuan     | School Counsellor    |   [kuan_fui_ha@schools.gov.sg](kuan_fui_ha@schools.gov.sg) |
+| Mdm Betty Kuan   | School Counsellor (Flexi)    |  [kuan_fui_ha@schools.gov.sg](kuan_fui_ha@schools.gov.sg)  |
 | Ms Ng Yi Jie     | Senior Student Welfare Officer      |  to be updated  |
  |  |
