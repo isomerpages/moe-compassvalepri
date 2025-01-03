@@ -72,32 +72,32 @@ description: ""
 
 | Year Head for Middle Primary |  |  |
 | -------- | -------- | -------- |
-| Year Head <br>Middle Primary (Acting)     | Ms Kuan Wai Ling     | [kuan_wai_ling@schools.gov.sg](kuan_wai_ling@schools.gov.sg)   |
-| Assistant Year Head <br> Middle Primary     | Ms Clara Lee     | [clara_poh_san_niah@schools.gov.sg](clara_poh_san_niah@schools.gov.sg)    
+| Year Head <br>Middle Primary (Acting)     | Ms Kuan Wai Ling     | kuan_wai_ling@schools.gov.sg  |
+| Assistant Year Head <br> Middle Primary     | Ms Clara Lee     | clara_poh_san_niah@schools.gov.sg    
 |  |  |
 
 <br>
 
 | Primary 3 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | [lee_soh_boon_sharon@schools.gov.sg](lee_soh_boon_sharon@schools.gov.sg) <br><br>to be updated     |
-| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Ms Ng Wee Liam     | [chia_tet_hong@schools.gov.sg](chia_tet_hong@schools.gov.sg) <br><br>to be updated <br><br>to be updated    |
-| P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling <br><br>Ms Chia Joo Hong     | [raine_koh_rui_lan@schools.gov.sg](raine_koh_rui_lan@schools.gov.sg) <br><br>[kuan_wai_ling@schools.gov.sg](kuan_wai_ling@schools.gov.sg) <br><br>to be updated    |
-| P3 Resilience     | Mr Alex Lee<br><br>Mdm Valli     | [alex_lee_tiong_huat@schools.gov.sg](alex_lee_tiong_huat@schools.gov.sg) <br><br>[kumathavalli_kelaver@schools.gov.sg](kumathavalli_kelaver@schools.gov.sg)    |
-| P3 Respect     | Mr Matthew Siew<br><br>Mdm Faridah     | [siew_joern_matthew@schools.gov.sg](siew_joern_matthew@schools.gov.sg) <br><br> [faridah_taib@schools.gov.sg](faridah_taib@schools.gov.sg)   |
-| P3 Responsibility     | Mr Putra<br><br>Mrs Koh Pei Ling     | [zaiphizat_putra@schools.gov.sg](zaiphizat_putra@schools.gov.sg) <br><br>[kwek_pei_ling_a@schools.gov.sg](kwek_pei_ling_a@schools.gov.sg)
+| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | lee_soh_boon_sharon@schools.gov.sg <br><br>to be updated     |
+| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Ms Ng Wee Liam     | chia_tet_hong@schools.gov.sg <br><br>to be updated <br><br>to be updated    |
+| P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling <br><br>Ms Chia Joo Hong     | raine_koh_rui_lan@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg <br><br>to be updated    |
+| P3 Resilience     | Mr Alex Lee<br><br>Mdm Valli     | alex_lee_tiong_huat@schools.gov.sg <br><br>kumathavalli_kelaver@schools.gov.sg    |
+| P3 Respect     | Mr Matthew Siew<br><br>Mdm Faridah     | siew_joern_matthew@schools.gov.sg <br><br> faridah_taib@schools.gov.sg   |
+| P3 Responsibility     | Mr Putra<br><br>Mrs Koh Pei Ling     | zaiphizat_putra@schools.gov.sg <br><br>kwek_pei_ling_a@schools.gov.sg
 |  | 
 
 <br>
 
 | Primary 4 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P4 Care     | Mr Nge Moh Lim<br><br>Mdm Chen Jian Fang     | [nge_moh_lim@schools.gov.sg](nge_moh_lim@schools.gov.sg) <br><br>[chen_jian_fang@schools.gov.sg](chen_jian_fang@schools.gov.sg)  |
-| P4 Harmony     | Mr Tay Wei Jun<br><br>Ms Janet Tey     | [tay_wei_jun@schools.gov.sg](tay_wei_jun@schools.gov.sg) <br><br>[ng_yet_yen@schools.gov.sg](ng_yet_yen@schools.gov.sg)     |
-| P4 Integrity     | Mr Vinod Chandar<br><br>Mdm Alinda     | [mohanadas_vinod_chandar@schools.gov.sg](mohanadas_vinod_chandar@schools.gov.sg) <br><br>[alinda_ahmed@schools.gov.sg](alinda_ahmed@schools.gov.sg)    |
-| P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | [loh_thiam_fong@schools.gov.sg](loh_thiam_fong@schools.gov.sg) <br><br>to be updated<br><br> [tan_fong_kin_rachel@schools.gov.sg](tan_fong_kin_rachel@schools.gov.sg)   |
-| P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | [liao_chunming_kenny@schools.gov.sg](liao_chunming_kenny@schools.gov.sg) <br><br>[ignez_tay_geok_choo@schools.gov.sg](ignez_tay_geok_choo@schools.gov.sg)   |
-| P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari     | [clara_poh_san_niah@schools.gov.sg](clara_poh_san_niah@schools.gov.sg) <br><br> [rajeswari_pannirselvam@schools.gov.sg](rajeswari_pannirselvam@schools.gov.sg)   |
+| P4 Care     | Mr Nge Moh Lim<br><br>Mdm Chen Jian Fang     | nge_moh_lim@schools.gov.sg <br><br> chen_jian_fang@schools.gov.sg  |
+| P4 Harmony     | Mr Tay Wei Jun<br><br>Ms Janet Tey     | tay_wei_jun@schools.gov.sg <br><br> ng_yet_yen@schools.gov.sg    |
+| P4 Integrity     | Mr Vinod Chandar<br><br>Mdm Alinda     | mohanadas_vinod_chandar@schools.gov.sg <br><br> alinda_ahmed@schools.gov.sg    |
+| P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | loh_thiam_fong@schools.gov.sg <br><br>to be updated<br><br> tan_fong_kin_rachel@schools.gov.sg   |
+| P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | liao_chunming_kenny@schools.gov.sg <br><br>ignez_tay_geok_choo@schools.gov.sg   |
+| P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari     | clara_poh_san_niah@schools.gov.sg <br><br> rajeswari_pannirselvam@schools.gov.sg  |
 | |
 
 <br>
