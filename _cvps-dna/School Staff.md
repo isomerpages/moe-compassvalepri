@@ -104,20 +104,20 @@ description: ""
 
 | Year Head for Upper Primary |  |  |
 | -------- | -------- | -------- |
-| Year Head Upper Primary     | Mrs Josephine Yeo     | [lee_swee_eng@schools.gov.sg](lee_swee_eng@schools.gov.sg)     |
-| Assistant Year Head <br> Upper Primary (Acting)     | Mdm Mogana     | [mogana_sivalingam@schools.gov.sg](mogana_sivalingam@schools.gov.sg)  
+| Year Head Upper Primary     | Mrs Josephine Yeo     | lee_swee_eng@schools.gov.sg     |
+| Assistant Year Head <br> Upper Primary (Acting)     | Mdm Mogana     | mogana_sivalingam@schools.gov.sg  
 |  |
 
 <br>
 
 | Primary 5 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P5 Care     | Mr Raymond Tay<br><br>Mrs Ong Lee Lian     | [tay_kim_cheong_raymond@schools.gov.sg](tay_kim_cheong_raymond@schools.gov.sg) <br><br>[khoo_lee_lian@schools.gov.sg](khoo_lee_lian@schools.gov.sg)  |
-| P5 Harmony     | Mr Iskandar<br><br>Mrs Lim Hwee Mian     | [radin_tri_iskandar_sumanto@schools.gov.sg](radin_tri_iskandar_sumanto@schools.gov.sg) <br><br> [lim_hwee_mian@schools.gov.sg](lim_hwee_mian@schools.gov.sg)    |
-| P5 Integrity     | Mdm Hanifah<br><br>Mrs Josephine Yeo <br><br> Mrs Vijay     | [hanifah_jasman@schools.gov.sg](hanifah_jasman@schools.gov.sg) <br><br> [lee_swee_eng@schools.gov.sg](lee_swee_eng@schools.gov.sg) <br><br> [vijayalakshmi_a@schools.gov.sg](vijayalakshmi_a@schools.gov.sg)   |
-| P5 Resilience     | Ms Emellyn Lim<br><br>Mrs Corrin Kwok   | [lim_yee_hoon_emellyn@schools.gov.sg](lim_yee_hoon_emellyn@schools.gov.sg) <br><br> [goh_suet_mei@schools.gov.sg](goh_suet_mei@schools.gov.sg)     |
-| P5 Respect     | 	Ms Sim Li Ting<br><br>Mdm Sharifah     | [sim_li_ting@schools.gov.sg](sim_li_ting@schools.gov.sg) <br><br> [sharifah_ayyoo_ali@schools.gov.sg](sharifah_ayyoo_ali@schools.gov.sg)    |
-| P5 Responsibility     | 	Mdm Irene Goh<br><br>Mr Khai Ho     | [goh_irene@schools.gov.sg](goh_irene@schools.gov.sg) <br><br> [khairulnizad_khalid@schools.gov.sg](khairulnizad_khalid@schools.gov.sg)    |
+| P5 Care     | Mr Raymond Tay<br><br>Mrs Ong Lee Lian     | tay_kim_cheong_raymond@schools.gov.sg <br><br> khoo_lee_lian@schools.gov.sg  |
+| P5 Harmony     | Mr Iskandar<br><br>Mrs Lim Hwee Mian     | radin_tri_iskandar_sumanto@schools.gov.sg <br><br> lim_hwee_mian@schools.gov.sg    |
+| P5 Integrity     | Mdm Hanifah<br><br>Mrs Josephine Yeo <br><br> Mrs Vijay     | hanifah_jasman@schools.gov.sg <br><br> lee_swee_eng@schools.gov.sg <br><br> vijayalakshmi_a@schools.gov.sg   |
+| P5 Resilience     | Ms Emellyn Lim<br><br>Mrs Corrin Kwok   | lim_yee_hoon_emellyn@schools.gov.sg <br><br> goh_suet_mei@schools.gov.sg     |
+| P5 Respect     | 	Ms Sim Li Ting<br><br>Mdm Sharifah     | sim_li_ting@schools.gov.sg <br><br> sharifah_ayyoo_ali@schools.gov.sg   |
+| P5 Responsibility     | 	Mdm Irene Goh<br><br>Mr Khai Ho     | goh_irene@schools.gov.sg <br><br> khairulnizad_khalid@schools.gov.sg   |
 | |
 
 <br>
