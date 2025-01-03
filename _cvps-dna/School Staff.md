@@ -28,7 +28,7 @@ description: ""
 | Aesthetics     | Head of Department<br><br>Subject Head     | Mrs Yan-Ko <br><br>Ms Wong Xing Jie     | [wong_xing_jie@schools.gov.sg](wong_xing_jie@schools.gov.sg)     |
 | Character &amp;<br> Citizenship (CCE)     | Head of Department<br><br>Level Head (CCE)<br><br>Level Head (CCE)<br><br>Subject Head (NESS)     | Mdm Ellena Tan<br><br>Mdm Alinda<br><br>Ms Corrin Goh<br><br>Ms Fiona Seah     |   [tan_xuening_ellena@schools.gov.sg](tan_xuening_ellena@schools.gov.sg)<br><br>[alinda_ahmed@schools.gov.sg](alinda_ahmed@schools.gov.sg) <br><br>[goh_suet_mei@schools.gov.sg](goh_suet_mei@schools.gov.sg)<br><br> [seah_yiling_fiona@schools.gov.sg](seah_yiling_fiona@schools.gov.sg) |
 | Student Management<br> &amp; Student Well-being   | Subject Head  | Mr Matthew Siew     | [siew_joern_matthew@schools.gov.sg](siew_joern_matthew@schools.gov.sg)     |
-| School Staff<br> Development     | Head of Department     | Mr Alex Lee     | [alex_lee_tiong_huat@schools.gov.sg](alex_lee_tiong_huat@schools.gov.sg)     |
+| School Staff<br> Development     | School Staff Developer     | Mr Alex Lee     | [alex_lee_tiong_huat@schools.gov.sg](alex_lee_tiong_huat@schools.gov.sg)     |
 | Information<br> and<br> Communication<br> Technology (ICT)     | Subject Head     | Mr Tay Wei Jun     | [tay_wei_jun@schools.gov.sg](tay_wei_jun@schools.gov.sg)     |
 | |
 
