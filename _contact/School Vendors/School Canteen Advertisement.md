@@ -9,7 +9,7 @@ third_nav_title: School Vendors
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Muslim International Stall      | 31 December 2024     | NIL.    | 
+| Muslim International Stall      | 31 January 2025     | NIL.    | 
 
 **Application Procedure**
 
