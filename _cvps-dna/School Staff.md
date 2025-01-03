@@ -124,12 +124,12 @@ description: ""
 
 | Primary 6 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P6 Care     | Mr Edmund Hor<br><br>Ms Mogana     | [hor_yoke_keong_edmund@schools.gov.sg](hor_yoke_keong_edmund@schools.gov.sg) <br><br> [mogana_sivalingam@schools.gov.sg](mogana_sivalingam@schools.gov.sg)   |
-| P6 Harmony     | Ms Fiona Seah<br><br>Mr Kirk Hock Lam     | [seah_yiling_fiona@schools.gov.sg](seah_yiling_fiona@schools.gov.sg) <br><br> [kirk_hock_lam@schools.gov.sg](kirk_hock_lam@schools.gov.sg)     |
-| P6 Integrity     | Ms Christianna Huang<br><br>Mrs Thessa Ang   | [huang_sijia_christianna@schools.gov.sg](huang_sijia_christianna@schools.gov.sg)<br><br> [tan_ee_jui_thessa@schools.gov.sg](tan_ee_jui_thessa@schools.gov.sg)     |
-| P6 Resilience     | Mrs Janet Doo<br><br>Mdm Goh Kwee Lay   | [leow_puay_khim@schools.gov.sg](leow_puay_khim@schools.gov.sg)  <br><br> [goh_kwee_lay@schools.gov.sg](goh_kwee_lay@schools.gov.sg)   |
-| P6 Respect     | 	Mr Lim Beng Gee<br><br>Mdm Ellena Tan     | [lim_beng_gee@schools.gov.sg](lim_beng_gee@schools.gov.sg) <br><br> [tan_xuening_ellena@schools.gov.sg](tan_xuening_ellena@schools.gov.sg)    |
-| P6 Responsibility     | 	Mr Lance Peck<br><br>Ms Wong Xing Jie     | [peck_cheng_wee@schools.gov.sg](peck_cheng_wee@schools.gov.sg)  <br><br> [wong_xing_jie@schools.gov.sg](wong_xing_jie@schools.gov.sg)    |
+| P6 Care     | Mr Edmund Hor<br><br>Ms Mogana     | hor_yoke_keong_edmund@schools.gov.sg <br><br> mogana_sivalingam@schools.gov.sg   |
+| P6 Harmony     | Ms Fiona Seah<br><br>Mr Kirk Hock Lam     | seah_yiling_fiona@schools.gov.sg <br><br> kirk_hock_lam@schools.gov.sg    |
+| P6 Integrity     | Ms Christianna Huang<br><br>Mrs Thessa Ang   | huang_sijia_christianna@schools.gov.sg <br><br> tan_ee_jui_thessa@schools.gov.sg    |
+| P6 Resilience     | Mrs Janet Doo<br><br>Mdm Goh Kwee Lay   | leow_puay_khim@schools.gov.sg <br><br> goh_kwee_lay@schools.gov.sg   |
+| P6 Respect     | 	Mr Lim Beng Gee<br><br>Mdm Ellena Tan     | lim_beng_gee@schools.gov.sg <br><br> tan_xuening_ellena@schools.gov.sg    |
+| P6 Responsibility     | 	Mr Lance Peck<br><br>Ms Wong Xing Jie     | peck_cheng_wee@schools.gov.sg  <br><br> wong_xing_jie@schools.gov.sg   |
 | |
 
 #### **Allied Educators**
@@ -138,10 +138,10 @@ description: ""
 
 | |  |  |
 | -------- | -------- | -------- |
-| Mdm Priscilla Lim     | Senior Special Education Needs Officer      | [lim_gek_sang@schools.gov.sg](lim_gek_sang@schools.gov.sg)     |
-| Mdm Nor' Atiqah     |  Special Education Needs Officer       |  [nor_atiqah_osman@schools.gov.sg](nor_atiqah_osman@schools.gov.sg)    |
-| Ms Vrinda     | Special Education Needs Officer     |  [vrinda_ravindaran@schools.gov.sg](vrinda_ravindaran@schools.gov.sg)     |
-| Ms Tan Ming Hui     | School Counsellor     | [tan_ming_hui_c@schools.gov.sg](tan_ming_hui_c@schools.gov.sg)    |
-| Mdm Betty Kuan   | School Counsellor (Flexi)    |  [kuan_fui_ha@schools.gov.sg](kuan_fui_ha@schools.gov.sg)  |
+| Mdm Priscilla Lim     | Senior Special Education Needs Officer      | lim_gek_sang@schools.gov.sg     |
+| Mdm Nor' Atiqah     |  Special Education Needs Officer       | nor_atiqah_osman@schools.gov.sg    |
+| Ms Vrinda     | Special Education Needs Officer     | vrinda_ravindaran@schools.gov.sg     |
+| Ms Tan Ming Hui     | School Counsellor     | tan_ming_hui_c@schools.gov.sg  |
+| Mdm Betty Kuan   | School Counsellor (Flexi)    |  kuan_fui_ha@schools.gov.sg |
 | Ms Ng Yi Jie     | Senior Student Welfare Officer      |  to be updated  |
  |  |
