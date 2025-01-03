@@ -131,3 +131,16 @@ description: ""
 | P6 Respect     | 	Mr Lim Beng Gee<br><br>Mdm Ellena Tan     | [lim_beng_gee@schools.gov.sg](lim_beng_gee@schools.gov.sg) <br><br> [tan_xuening_ellena@schools.gov.sg](tan_xuening_ellena@schools.gov.sg)    |
 | P6 Responsibility     | 	Mr Lance Peck<br><br>Ms Wong Xing Jie     | [peck_cheng_wee@schools.gov.sg](peck_cheng_wee@schools.gov.sg)  <br><br> [wong_xing_jie@schools.gov.sg](wong_xing_jie@schools.gov.sg)    |
 | |
+
+#### **Allied Educators**
+
+
+
+| |  |  |
+| -------- | -------- | -------- |
+| Mdm Priscilla Lim     | Senior SEN Officer     | [lim_gek_sang@schools.gov.sg](lim_gek_sang@schools.gov.sg)     |
+| Mdm Nor' Atiqah     |  SEN Officer     |  [nor_atiqah_osman@schools.gov.sg](nor_atiqah_osman@schools.gov.sg)    |
+| Ms Vrinda     | SEN Officer     |  [vrinda_ravindaran@schools.gov.sg](vrinda_ravindaran@schools.gov.sg)     |
+| Ms Tan Ming Hui     | School Counsellor     | [tan_ming_hui_c@schools.gov.sg](tan_ming_hui_c@schools.gov.sg)    |
+| Ms Ng Yi Jie     | Senior SWO     |    |
+ |  |
