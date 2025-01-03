@@ -37,7 +37,7 @@ description: ""
 | Year Head for Lower Primary |  |  |
 | -------- | -------- | -------- |
 | Primary 1 Year Head     | Mdm Siti Halizah     | [siti_halizah_hamzah@schools.gov.sg](siti_halizah_hamzah@schools.gov.sg)     |
-| Primary 2 Assistant Year Head     | Mdm Goh Cai Yun     | [goh_cai_yun@schools.gov.sg](goh_cai_yun@schools.gov.sg)     | 
+| Primary 2 Acting Assistant Year Head     | Mdm Goh Cai Yun     | [goh_cai_yun@schools.gov.sg](goh_cai_yun@schools.gov.sg)     | 
 |  |
 
 <br>
@@ -72,7 +72,7 @@ description: ""
 
 | Year Head for Middle Primary |  |  |
 | -------- | -------- | -------- |
-| Primary 3 Year Head     | Ms Kuan Wai Ling     | [kuan_wai_ling@schools.gov.sg](kuan_wai_ling@schools.gov.sg)   |
+| Primary 3 Acting Year Head     | Ms Kuan Wai Ling     | [kuan_wai_ling@schools.gov.sg](kuan_wai_ling@schools.gov.sg)   |
 | Primary 4 Assistant Year Head     | Ms Clara Lee     | [clara_poh_san_niah@schools.gov.sg](clara_poh_san_niah@schools.gov.sg)    
 |  |  |
 
@@ -105,7 +105,7 @@ description: ""
 | Year Head for Upper Primary |  |  |
 | -------- | -------- | -------- |
 | Primary 5 Year Head     | Mrs Josephine Yeo     | [lee_swee_eng@schools.gov.sg](lee_swee_eng@schools.gov.sg)     |
-| Primary 6 Assistant Year Head     | Mdm Mogana     | [mogana_sivalingam@schools.gov.sg](mogana_sivalingam@schools.gov.sg)  
+| Primary 6 Acting Assistant Year Head     | Mdm Mogana     | [mogana_sivalingam@schools.gov.sg](mogana_sivalingam@schools.gov.sg)  
 |  |
 
 <br>
