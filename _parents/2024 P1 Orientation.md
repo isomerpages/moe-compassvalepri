@@ -4,4 +4,22 @@ permalink: /parents/p1orientation/
 variant: tiptap
 description: ""
 ---
-<h3><strong>2024 P1 Orientation Briefing Slides</strong></h3><p></p><ol data-tight="true" class="tight"><li><p><strong><a href="/files/2024 P1 Orientation Slides/Principal_P1_Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal P1 Briefing Slides</a></strong></p><h4></h4></li><li><p><strong><a href="/files/2024 P1 Orientation Slides/Year_Hear__Lower_Primary__P1_Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head P1 Briefing Slides</a></strong></p><h4></h4></li><li><p><strong><a href="/files/2024 P1 Orientation Slides/HOD_Pupil_Management_P1_Briefing_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">HOD Pupil Management P1 Briefing Slides</a></strong></p></li></ol><p></p>
+<h3><strong>2025 P1 Orientation Briefing Slides</strong></h3>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong><a href="/files/2025 P1 Orientation/Principal_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Principal Briefing Slides</a></strong>
+</p>
+<h4></h4>
+</li>
+<li>
+<p><strong><a href="/files/2025 P1 Orientation/Year_Head_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Year Head Briefing Slides</a></strong>
+</p>
+<h4></h4>
+</li>
+<li>
+<p><strong><a href="/files/2025 P1 Orientation/SH_Student_Management___Student_Well_Being_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Subject Head Student Management &amp; Student Well-Being Briefing Slides</a></strong>
+</p>
+</li>
+</ol>
+<p></p>
