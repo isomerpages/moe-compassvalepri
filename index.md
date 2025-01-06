@@ -26,6 +26,11 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infobar:
+      title: Year 2025 P1 Orientation Briefing Slides
+      id: infobar
+      button: Please click here to download
+      url: https://www.compassvalepri.moe.edu.sg/parents/p1orientation/
+  - infobar:
       title: Year 2025 Booklists
       id: infobar
       button: Please click to view
