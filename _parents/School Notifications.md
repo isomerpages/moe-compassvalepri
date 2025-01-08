@@ -2,9 +2,10 @@
 title: School Notifications
 permalink: /parents/school-notifications/
 description: ""
+variant: markdown
 ---
 ### **School Notifications**
-#### **MOE Financial Assistance Scheme (FAS) 2023**
+#### **MOE Financial Assistance Scheme (FAS) 2024**
 
 **Students who:**
 * Are Singapore Citizens.
