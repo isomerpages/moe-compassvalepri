@@ -93,7 +93,7 @@ description: ""
 | Primary 4 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | P4 Care     | Mr Nge Moh Lim<br><br>Mdm Chen Jian Fang     | nge_moh_lim@schools.gov.sg <br><br> chen_jian_fang@schools.gov.sg  |
-| P4 Harmony     | Mr Tay Wei Jun<br><br>Ms Janet Tey     | tay_wei_jun@schools.gov.sg <br><br> ng_yet_yen@schools.gov.sg    |
+| P4 Harmony     | Mr Tay Wei Jun<br><br>Mrs Janet Tey     | tay_wei_jun@schools.gov.sg <br><br> ng_yet_yen@schools.gov.sg    |
 | P4 Integrity     | Mr Vinod Chandar<br><br>Mdm Alinda     | mohanadas_vinod_chandar@schools.gov.sg <br><br> alinda_ahmed@schools.gov.sg    |
 | P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | loh_thiam_fong@schools.gov.sg <br><br>to be updated<br><br> tan_fong_kin_rachel@schools.gov.sg   |
 | P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | liao_chunming_kenny@schools.gov.sg <br><br>ignez_tay_geok_choo@schools.gov.sg   |
