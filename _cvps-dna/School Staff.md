@@ -61,11 +61,11 @@ description: ""
 | P2-1     | Ms Raghini<br><br>Ms Wong Si Rong     | raghini_pandida_selven@schools.gov.sg <br><br> wong_sirong@schools.gov.sg  |
 | P2-2     | Mdm Bong Mui Yoke<br><br>Mdm Suraya     | bong_mui_yoke@schools.gov.sg <br><br> suraya_mohamed_ismail@schools.gov.sg    |
 | P2-3     | Mr Ivan Tan<br><br>Mdm Syahirah     | tan_ee_teck@schools.gov.sg <br><br> syahirah_nabilah_salleh@schools.gov.sg    |
-| P2-4     | Mdm Lim Shuh Huey<br><br>Mr Aw Si Kuan     | lim_shuh_huey@schools.gov.sg <br><br> to be updated    |
+| P2-4     | Mdm Lim Shuh Huey<br><br>Mr Aw Si Kuan     | lim_shuh_huey@schools.gov.sg <br><br> aw_si_kuan_a@schools.gov.sg    |
 | P2-5     | Mrs Wendy Poh<br><br>Mdm Goh Cai Yun     | lee_mun_lai@schools.gov.sg <br><br> goh_cai_yun@schools.gov.sg    |
-| P2-6     | Mr Loh Zhi Ying<br><br>Ms Jovina Tan     | loh_zhi_ying@schools.gov.sg <br><br> to be updated    |
+| P2-6     | Mr Loh Zhi Ying<br><br>Ms Jovina Tan     | loh_zhi_ying@schools.gov.sg <br><br> tan_seoh_hwee_jovina@schools.gov.sg    |
 | P2-7     | Mdm Wani<br><br>Ms Zelda Mak    | eswani_salman_mrs_eswani@schools.gov.sg <br><br> zelda_mak_teng_fong@schools.gov.sg    |
-| P2-8     | Ms Analiza<br><br>Mdm Qu Yi     | to be updated <br><br> qu_yi@schools.gov.sg    |
+| P2-8     | Ms Analiza<br><br>Mdm Qu Yi     | analiza_suboh@schools.gov.sg​  <br><br> qu_yi@schools.gov.sg    |
 | |
 
 <br>
@@ -81,7 +81,7 @@ description: ""
 | Primary 3 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | lee_soh_boon_sharon@schools.gov.sg <br><br>to be updated     |
-| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Ms Ng Wee Liam     | chia_tet_hong@schools.gov.sg <br><br>to be updated <br><br>to be updated    |
+| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Ms Ng Wee Liam     | chia_tet_hong@schools.gov.sg <br><br>norliza_abdul_rahman_a@schools.gov.sg <br><br>ng_wee_liam@schools.gov.sg    |
 | P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling <br><br>Ms Chia Joo Hong     | raine_koh_rui_lan@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg <br><br>to be updated    |
 | P3 Resilience     | Mr Alex Lee<br><br>Mdm Valli     | alex_lee_tiong_huat@schools.gov.sg <br><br>kumathavalli_kelaver@schools.gov.sg    |
 | P3 Respect     | Mr Matthew Siew<br><br>Mdm Faridah     | siew_joern_matthew@schools.gov.sg <br><br> faridah_taib@schools.gov.sg   |
@@ -95,7 +95,7 @@ description: ""
 | P4 Care     | Mr Nge Moh Lim<br><br>Mdm Chen Jian Fang     | nge_moh_lim@schools.gov.sg <br><br> chen_jian_fang@schools.gov.sg  |
 | P4 Harmony     | Mr Tay Wei Jun<br><br>Mrs Janet Tey     | tay_wei_jun@schools.gov.sg <br><br> ng_yet_yen@schools.gov.sg    |
 | P4 Integrity     | Mr Vinod Chandar<br><br>Mdm Alinda     | mohanadas_vinod_chandar@schools.gov.sg <br><br> alinda_ahmed@schools.gov.sg    |
-| P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | loh_thiam_fong@schools.gov.sg <br><br>to be updated<br><br> tan_fong_kin_rachel@schools.gov.sg   |
+| P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | loh_thiam_fong@schools.gov.sg <br><br>norsham_mohammed_noh@schools.gov.sg<br><br> tan_fong_kin_rachel@schools.gov.sg   |
 | P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | liao_chunming_kenny@schools.gov.sg <br><br>ignez_tay_geok_choo@schools.gov.sg   |
 | P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari     | clara_poh_san_niah@schools.gov.sg <br><br> rajeswari_pannirselvam@schools.gov.sg  |
 | |
@@ -143,5 +143,5 @@ description: ""
 | Ms Vrinda     | Special Education Needs Officer     | vrinda_ravindaran@schools.gov.sg     |
 | Ms Tan Ming Hui     | School Counsellor     | tan_ming_hui_c@schools.gov.sg  |
 | Mdm Betty Kuan   | School Counsellor (Flexi)    |  kuan_fui_ha@schools.gov.sg |
-| Ms Ng Yi Jie     | Senior Student Welfare Officer      |  to be updated  |
+| Ms Ng Yi Jie     | Senior Student Welfare Officer      |  ng_yi_jie@schools.gov.sg  |
  |  |
