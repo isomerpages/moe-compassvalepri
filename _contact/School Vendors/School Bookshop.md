@@ -10,18 +10,27 @@ variant: markdown
 **Bookshop Operating Hours**<br>
 
 
-**Opening Hours: 9.00am to 4.00pm (for students)**<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;   &nbsp;&nbsp; &nbsp;      **(For parents, 15 minutes after school dismissal)**
+**For Students: 9.00a.m. to 4.00p.m.**<br><br>
+**For Parents:**
+<br>
+| Day | Start | End |
+| -------- | -------- | -------- |
+| Mon     | 1.55p.m.     | 4.00p.m.     |
+| Tue     | 2.55p.m.     | 4.00p.m.      |
+| Wed     | 1.55p.m.     | 4.00p.m.     |
+| Thu     | 1.55p.m.     | 4.00p.m.     |
+| Fri     | 1.55p.m.     | 4.00p.m.     | 
+ |
+
 												
-**Lunch Hours: Monday/ Wednesday/ Thursday - 12.00pm to 1.00pm**<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;       **Tuesday/ Friday - 1.30pm to 2.30pm**
+**Bookshop Lunch Hours: 12.00p.m. to 1.00p.m.**<br>
 
-**Tel: 9091 9851**
+**Bookshop Contact Number: 9091 9851**
 
-##### **During School Holidays**
-**Pacific Bookstores Pte Ltd**<br>
+<br>
+
+##### **During School Holidays: Bookshop closed.**
+**Please contact Pacific Bookstores Pte Ltd Headquarter**<br>
 Tel: 6929 8012 / 6559 2269&nbsp;(Mon to Fri, 9am to 5pm)<br>
 Email:&nbsp;[sales@pacificbookstores.com](mailto:sales@pacificbookstores.com)<br>
 Website:&nbsp;[www.pacificbookstores.com](http://www.pacificbookstores.com/)
