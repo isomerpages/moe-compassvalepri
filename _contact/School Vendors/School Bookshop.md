@@ -20,7 +20,7 @@ variant: markdown
 | Wed     | 1.55p.m.     | 4.00p.m.     |
 | Thu     | 1.55p.m.     | 4.00p.m.     |
 | Fri     | 1.55p.m.     | 4.00p.m.     | 
- |
+ ||
 
 												
 **Bookshop Lunch Hours: 12.00p.m. to 1.00p.m.**<br>
