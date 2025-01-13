@@ -12,7 +12,7 @@ variant: markdown
 
 **For Students: 9.00a.m. to 4.00p.m.**<br><br>
 **For Parents:**
-<br>
+
 | Day | Start | End |
 | -------- | -------- | -------- |
 | Mon     | 1.55p.m.     | 4.00p.m.     |
