@@ -27,7 +27,6 @@ variant: markdown
 **Bookshop Lunch Hours: 12.00p.m. to 1.00p.m.**<br>
 
 **Bookshop Contact Number: 9091 9851**
-
 <br>
 
 ##### **During School Holidays: Bookshop closed.**
