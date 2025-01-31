@@ -4,6 +4,11 @@ permalink: /parents/p1orientation/
 variant: tiptap
 description: ""
 ---
+<h3><strong>2025 P1 Orientation </strong></h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8zf3fasCqJo?si=KZIGWTOhIf2kWeey"></iframe>
+</div>
+<p></p>
 <h3><strong>2025 P1 Orientation Briefing Slides</strong></h3>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -22,4 +27,10 @@ description: ""
 </p>
 </li>
 </ol>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
