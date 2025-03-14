@@ -80,7 +80,7 @@ description: ""
 
 | Primary 3 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | lee_soh_boon_sharon@schools.gov.sg <br><br>to be updated     |
+| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | lee_soh_boon_sharon@schools.gov.sg <br><br>hamzah_mahmid@schools.gov.sg     |
 | P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Ms Ng Wee Liam     | chia_tet_hong@schools.gov.sg <br><br>norliza_abdul_rahman_a@schools.gov.sg <br><br>ng_wee_liam@schools.gov.sg    |
 | P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling <br><br>Ms Chia Joo Hong     | raine_koh_rui_lan@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg <br><br>to be updated    |
 | P3 Resilience     | Mr Alex Lee<br><br>Mdm Valli     | alex_lee_tiong_huat@schools.gov.sg <br><br>kumathavalli_kelaver@schools.gov.sg    |
