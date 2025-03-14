@@ -24,7 +24,7 @@ description: ""
 | Mathematics     | Head of Department<br><br>Level Head     | Mrs Thessa Ang<br><br>Ms Irene Goh     | tan_ee_jui_thessa@schools.gov.sg<br><br> goh_irene@schools.gov.sg    |
 | Science     | Head of Department<br><br>Level Head   | Ms Sim Li Ting<br><br>Mr Peck Cheng Wee     | sim_li_ting@schools.gov.sg <br><br> peck_cheng_wee@schools.gov.sg   |
 | Mother Tongue<br> Language     | Head of Department<br><br>Level Head (CL)<br><br>Subject Head (ML &amp; TL)     | Mrs Ong Lee Lian<br><br>Ms Lim Yen Pin<br><br>Mdm Haslina     | khoo_lee_lian@schools.gov.sg<br><br> lim_yen_pin@schools.gov.sg <br><br> haslina_abu_bakar_a@schools.gov.sg 
-| Aesthetics     | Head of Department<br><br>Subject Head     | Mrs Yan-Ko <br><br>Ms Wong Xing Jie     | yan_chuat_tong@schools.gov.sg <br><br> wong_xing_jie@schools.gov.sg     |
+| Aesthetics     | Subject Head     | Ms Wong Xing Jie     | wong_xing_jie@schools.gov.sg     |
 | Physical Education     | Subject Head     | Mr Kenny Liao     | liao_chunming_kenny@schools.gov.sg   |
 | Character<br> &amp;<br> Citizenship (CCE)     | Head of Department<br><br>Level Head (CCE)<br><br>Level Head (CCE)<br><br>Subject Head (NESS)     | Mdm Ellena Tan<br><br>Mdm Alinda<br><br>Ms Corrin Goh<br><br>Ms Fiona Seah     |   tan_xuening_ellena@schools.gov.sg <br><br>alinda_ahmed@schools.gov.sg <br><br>goh_suet_mei@schools.gov.sg<br><br> seah_yiling_fiona@schools.gov.sg |
 | School Staff<br> Development     | School Staff Developer     | Mr Alex Lee     | alex_lee_tiong_huat@schools.gov.sg     |
@@ -80,9 +80,9 @@ description: ""
 
 | Primary 3 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | lee_soh_boon_sharon@schools.gov.sg <br><br>to be updated     |
-| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Ms Ng Wee Liam     | chia_tet_hong@schools.gov.sg <br><br>norliza_abdul_rahman_a@schools.gov.sg <br><br>ng_wee_liam@schools.gov.sg    |
-| P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling <br><br>Ms Chia Joo Hong     | raine_koh_rui_lan@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg <br><br>to be updated    |
+| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | lee_soh_boon_sharon@schools.gov.sg <br><br>hamzah_mahmid@schools.gov.sg     |
+| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Mr Ng Wee Liam     | chia_tet_hong@schools.gov.sg <br><br>norliza_abdul_rahman_a@schools.gov.sg <br><br>ng_wee_liam@schools.gov.sg    |
+| P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling     | raine_koh_rui_lan@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg   |
 | P3 Resilience     | Mr Alex Lee<br><br>Mdm Valli     | alex_lee_tiong_huat@schools.gov.sg <br><br>kumathavalli_kelaver@schools.gov.sg    |
 | P3 Respect     | Mr Matthew Siew<br><br>Mdm Faridah     | siew_joern_matthew@schools.gov.sg <br><br> faridah_taib@schools.gov.sg   |
 | P3 Responsibility     | Mr Putra<br><br>Mrs Koh Pei Ling     | zaiphizat_putra@schools.gov.sg <br><br>kwek_pei_ling_a@schools.gov.sg
