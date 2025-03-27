@@ -1,6 +1,6 @@
 ---
 title: Welcome to CVPS!
-permalink: /open-house-2024/welcomepage/
+permalink: /open2024house/welcomepage/
 variant: markdown
 description: ""
 ---
@@ -13,4 +13,3 @@ description: ""
 ### **P1 Experience Video**
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bgmoV0_5e1U?si=FCntslmGQzzuk-Lw" height="335" width="580"></iframe></center>
-
