@@ -44,7 +44,7 @@ description: ""
 
 | Primary 1 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P1-1     | Ms Diana Koh<br><br>Ms Lim Yen Pin     | koh_chin_peng@schools.gov.sg <br><br> lim_yen_pin@schools.gov.sg  |
+| P1-1     | Ms Diana Koh<br><br>Mdm Goh Cai Yun     | koh_chin_peng@schools.gov.sg <br><br> goh_cai_yun@schools.gov.sg  |
 | P1-2     | Ms Irmawati<br><br>Mdm Haslina     | irmawati_a@schools.gov.sg <br><br> haslina_abu_bakar_a@schools.gov.sg  |
 | P1-3     | Mdm Zalifah<br><br>Miss Ser Yong Bing     | zalifah_bohari@schools.gov.sg <br><br> ser_yong_bing@schools.gov.sg   |
 | P1-4     | Mdm Widawati<br><br>Ms Sarahlyn Cheng     |  widawati_hanafiah@schools.gov.sg <br><br> sarah_lyn_cheng_yanling@schools.gov.sg   |
@@ -62,8 +62,8 @@ description: ""
 | P2-2     | Mdm Bong Mui Yoke<br><br>Mdm Suraya     | bong_mui_yoke@schools.gov.sg <br><br> suraya_mohamed_ismail@schools.gov.sg    |
 | P2-3     | Mr Ivan Tan<br><br>Mdm Syahirah     | tan_ee_teck@schools.gov.sg <br><br> syahirah_nabilah_salleh@schools.gov.sg    |
 | P2-4     | Mdm Lim Shuh Huey<br><br>Mr Aw Si Kuan     | lim_shuh_huey@schools.gov.sg <br><br> aw_si_kuan_a@schools.gov.sg    |
-| P2-5     | Mrs Wendy Poh<br><br>Mdm Goh Cai Yun     | lee_mun_lai@schools.gov.sg <br><br> goh_cai_yun@schools.gov.sg    |
-| P2-6     | Mr Loh Zhi Ying<br><br>Ms Jovina Tan     | loh_zhi_ying@schools.gov.sg <br><br> tan_seoh_hwee_jovina@schools.gov.sg    |
+| P2-5     | Mrs Wendy Poh<br><br>Mdm Guo Nannan     | lee_mun_lai@schools.gov.sg <br><br> guo_nannan@schools.gov.sg    |
+| P2-6     | Mr Loh Zhi Ying<br><br>Ms Nicole Sun     | loh_zhi_ying@schools.gov.sg <br><br> nicole_sun_yu_hui@schools.gov.sg    |
 | P2-7     | Mdm Wani<br><br>Ms Zelda Mak    | eswani_salman_mrs_eswani@schools.gov.sg <br><br> zelda_mak_teng_fong@schools.gov.sg    |
 | P2-8     | Ms Analiza<br><br>Mdm Qu Yi     | analiza_suboh@schools.gov.sg​  <br><br> qu_yi@schools.gov.sg    |
 | |
