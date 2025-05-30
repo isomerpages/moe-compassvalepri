@@ -2,4 +2,5 @@ collections:
   cvps-open-house-2025:
     output: true
     order:
+      - Principal's Message.md
       - Welcome to CVPS!.md
