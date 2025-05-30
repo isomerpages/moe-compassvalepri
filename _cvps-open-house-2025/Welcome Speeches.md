@@ -23,11 +23,11 @@ relationships form the foundation of a thriving school, and this is a wonderful
 opportunity to begin or strengthen that bond.</p>
 <p>As you walk through classrooms and hallways, you will find vibrant showcases
 of student learning and creativity. From colourful artwork to hands-on
-projects, each display reflects the curiosity, imagination, and dedication
+projects, each display reflects the curiosity, imagination and dedication
 that fill our school every day.</p>
 <p>We have taken great care to create a safe, supportive and inspiring environment
 where your child can flourish. Our classrooms are joyful spaces where discovery,
-growth, and kindness are part of everyday learning as we nurture the leaders
+growth and kindness are part of everyday learning as we nurture the leaders
 and contributors of tomorrow.</p>
 <p>Above all, we hope to bring you lasting memories with moments of joy,
 pride, and excitement about the journey ahead.</p>
