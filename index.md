@@ -32,6 +32,7 @@ sections:
       button: Click here for more details
       url: /cvps-open-house-2025/welcomepage/
       image: /images/Year 2025/Open House 2025/2025_Landing_Page_GIF_B.gif
+      alt: Open House 2025
   - infobar:
       title: Year 2025 P1 Orientation Briefing Slides
       id: infobar
