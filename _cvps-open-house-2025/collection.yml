@@ -2,4 +2,4 @@ collections:
   cvps-open-house-2025:
     output: true
     order:
-      - CVPS Open House 2025.md
+      - Welcome to CVPS!.md
