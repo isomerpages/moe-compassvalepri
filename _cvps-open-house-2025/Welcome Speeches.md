@@ -39,4 +39,6 @@ and potential.</p>
 <p>Chairman, School Advisory Committee</p>
 <p>Compassvale Primary School</p>
 <p></p>
+<h4><strong>Chairperson, Parent Support Group</strong></h4>
+<p></p>
 <p></p>
