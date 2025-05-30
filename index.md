@@ -26,13 +26,12 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infopic:
-      title: CVPS Associate Parent Volunteer Scheme
+      title: Open House 2025
+      subtitle: Compassvale Primary school
       id: infopic
-      description: For more information
-      button: Please click here
-      url: https://www.compassvalepri.moe.edu.sg/parents-network/apvs/
-      image: /images/APVs/2025_APV_cropped.png
-      alt: Image alt text
+      button: Click here for more details
+      url: /cvps-open-house-2025/welcomepage/
+      image: /images/Year 2025/Open House 2025/2025_Landing_Page_GIF_B.gif
   - infobar:
       title: Year 2025 P1 Orientation Briefing Slides
       id: infobar
