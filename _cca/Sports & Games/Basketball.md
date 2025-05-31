@@ -21,12 +21,10 @@ CVPS Basketball CCA brings together all enthusiasts of the game, whether they pr
 <img src="/images/2024%20Open%20House/CCA/Basketball_2R.jpg" style="width:65%">
 <br>
 Basketball is a team sport. Our CCA not only focuses on the athletic aspects but also on character building and discipline. Values such as resilience, integrity and respect are instilled in every player. Players who exhibit good school core values will be invited to join the school team to represent CVPS in inter-school competitions.<br>
-
 <br>
 <img src="/images/basketball3.jpeg" style="width:49%" align="left">
 <img src="/images/basketball4.jpeg" style="width:49%" align="right">
 <br clear="left">
 <br clear="right">
-
 <center>
 <iframe allowfullscreen="true" height="370" width="550" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQlkXYEMzkMUDSIS_yDKHhs4T8624FwVEZyLjsy2cGglGg8FTevneEoHu5_QYod7ZQCSV_EoZQMWHaE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
