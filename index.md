@@ -18,9 +18,9 @@ sections:
         - title: CONTACT US
           description: ""
           url: /contact/school-vendors/school-bookshop/
-        - title: CVPS Facebook
+        - title: CVPS Open House 2025
           description: ""
-          url: https://www.facebook.com/compassvalepri/
+          url: https://www.compassvalepri.moe.edu.sg/cvps-open-house-2025/welcomepage/
       variant: image
   - infobar:
       title: Compassvale Primary School
