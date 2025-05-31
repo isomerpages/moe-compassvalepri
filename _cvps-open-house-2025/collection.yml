@@ -2,7 +2,7 @@ collections:
   cvps-open-house-2025:
     output: true
     order:
-      - The CVPS Way.md
       - Welcome to CVPS!.md
       - Principal's Message.md
       - Welcome Speeches.md
+      - The CVPS Way.md
