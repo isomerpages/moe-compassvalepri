@@ -11,8 +11,9 @@ variant: markdown
 
 CVPS Basketball CCA brings together all enthusiasts of the game, whether they prefer to play competitively or for leisure. In this CCA, students learn the basic technical skills required to play a game of basketball. They will be taught techniques on dribbling, shooting, passing and ball handling. They will be physically conditioned to match the demands of the game and taught proper warm-up and cooling down routines through regular practice. They will also be exposed to tactical game play and participate in friendly matches against other schools organised by the teachers-in-charge. <br>
 
-<img src="/images/Year%202025/2025%20CCA/Basketball_1_R.jpg" style="width:42%" align="left">
-<img src="/images/Year%202025/2025%20CCA/Basketball_3_R.jpg" style="width:45.5%" align="right">
+<img src="/images/Year%202025/2025%20CCA/Basketball_2_R.jpg" style="width:36.5%" align="left">
+<img src="/images/Year%202025/2025%20CCA/Basketball_1_R.jpg" style="width:29.5%" align="left">
+<img src="/images/Year%202025/2025%20CCA/Basketball_3_R.jpg" style="width:32%" align="left">
 <br clear="left">
 <br clear="right">
 
