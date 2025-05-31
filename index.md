@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Year 2025/Open House 2025/2025_Landing_Page_GIF_C.gif
+      background: /images/Year 2025/Open House 2025/2025_Landing_Page_GIF_D.gif
       url: /contact-us/
       key_highlights:
         - title: SCHOOL Calendar
