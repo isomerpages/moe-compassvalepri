@@ -6,28 +6,34 @@ third_nav_title: Mother Tongue Language
 variant: markdown
 ---
 ### **Malay Language**
-##### **P1 Pandai Bercerita**
-‘Pandai Bercerita’ is an exposure programme for students to learn the basic art form of storytelling.&nbsp; Storytelling with props is a fun way to share stories with others. It builds confidence and provides students with a safe environment to experiment with self-expressions by adapting fables and retelling them in a fun and engaging way.
+##### **Primary 1 and Primary 2 SOAR Programme**
+MTL SOAR is a reading programme designed to foster a love for reading in the student's Mother Tongue Language. The acronym SOAR stands for "Spark interest, Open minds, Appreciate cultural heritage, and Rise as confident readers". This programme encourage students to develop a positive attitude towards reading and learning their MTL and develop a positive set of reading dispositions and habits in the students from young. The students are meaningfully engaged through various fun and light-hearted activities to deepen their interest in the books they are reading.
 
-<img src="/images/Malay%20Department/malaydept1.jpg" style="width:65%"><br>
+These activities enhance students’ language skills and cultural understanding by exposing them to authentic language use and culturally rich stories, helping them connect with their heritage in a meaningful and enjoyable way.
 
-##### **Application of Cub in Comprehension**
-CUB guides students to read and understand comprehension passage and answer comprehension questions. Students learn to analyse the questions by breaking it down into smaller parts to make it easier to comprehend and answer.
-
-<img src="/images/Malay%20Department/Pic_3.jpeg" style="width:45%" align="left"> 
-<img src="/images/Malay%20Department/Pic_4.jpeg" style="width:45%" align="center">
+<img src="/images/Year%202025/CVPS%20Way/2025_ML1.jpg" style="width:51%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/2025_ML2.jpg" style="width:44%" align="center">
 <br clear="left">
 
-##### **Reading Programme**
-The Reading Programme aims to develop a good reading habit that enables students to read independently and with pleasure.&nbsp;Inculcating the habit of reading widely will lead to stronger language skills and enriching students’ vocabulary.&nbsp;&nbsp;Students showcase their stories through various ways like storytelling, book reviews and drawings which allows them to demonstrate their understanding according to their interests or preferred mode.
 
-<img src="/images/Malay%20Department/pic_5.png" style="width:65%"><br>
-<img src="/images/Malay%20Department/Pic_6.jpeg" style="width:65%">
+##### **Primary 2 CPES (Cultural Performance Exposure Scheme)**
 
+CPES provides students with an immersive experience in the arts outside of the classroom, while supporting Malay cultural performing arts groups in Singapore.
 
-##### **MTL Fortnight**
-The much-anticipated event of the year is carried out to immerse students in the Malay culture.&nbsp; Students are exposed to authentic cultural opportunities through interactive and experiential learning, at the same time promoting the use of Mother Tongue language.
+The Primary 2 Malay Students in Compassvale Primary School attended the Pak Pandir Theatre Performance. Although Pak Pandir is known for his humorous and often mischievous antics, his stories speak about humility and strengthening family ties. At the end of the performance, the students were given the opportunity to dance along with the song using the props given. 
 
-<img src="/images/Malay%20Department/malaydept7.jpg" style="width:45%" align="left"> 
-<img src="/images/Malay%20Department/Pic_8.jpeg" style="width:45%" align="center">
+This enriching experience supports Malay Language learning by exposing students to the language in an expressive and meaningful context. Through traditional folktales and cultural values presented in the performance, students deepen their understanding of Malay heritage while expanding their vocabulary and improving listening skills. The interactive elements, such as singing and dancing, make learning enjoyable and strengthen their connection to the language and culture.
+
+<img src="/images/Year%202025/CVPS%20Way/2025_ML3.jpg" style="width:35%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/2025_ML4.jpg" style="width:64%" align="center">
 <br clear="left">
+
+##### **Mother Tongue Language (MTL) Fortnight**
+
+Mother Tongue Language (MTL) Fortnight aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. Students are exposed to a wide variety of activities. We hope that these activities provide authentic opportunities for students to use the Malay Language and experience its culture. The Primary 4 students had the opportunity to learn about the origins, historical and cultural significance of Gamelan in Malay traditions. 
+
+<img src="/images/Year%202025/CVPS%20Way/2025_ML5.jpg" style="width:47%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/2025_ML6.jpg" style="width:47%" align="center">
+<br clear="left">
+
+For the remaining levels, students learn the brief history and cultural context of the Angklung, exploring its significance in Indonesian culture and traditions. Each student would be provided with an Angklung and guided on how to hold and play the instrument correctly. At the end of the workshop, they play a musical piece as a group. These hands-on cultural experiences not only deepen students' understanding of traditional musical forms, but also cultivate a greater appreciation for the heritage and language associated with them, making learning more engaging and meaningful.
