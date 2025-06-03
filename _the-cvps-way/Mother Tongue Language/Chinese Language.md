@@ -40,7 +40,7 @@ The P4 Cultural Camp is specially curated for Primary 4 students to provide an i
 
 The Cultural Performance Exposure Scheme aims to immerse our students in Chinese dramas and other Chinese-language performances presented by both local and international arts groups. The programme seeks to foster an appreciation of Chinese culture in an engaging and enjoyable way. Following the performances, students will participate in follow-up activities designed to deepen their interest in the Chinese language and culture.
 
-<img src="/images/2024%20Open%20House/CL%20Dept/CPES1.jpg" style="width:80%">
+<img src="/images/2024%20Open%20House/CL%20Dept/CPES1.jpg" style="width:90%">
 <figure>
 <figcaption><strong>&nbsp; P2 students attended a theatrical performance at the Singapore Hokkien Huay Kuan Cultural Academy. They had the valuable opportunity to interact with the performers on stage, enriching their cultural experience and bringing Chinese language learning to life.
 	</strong></figcaption>  
