@@ -9,11 +9,9 @@ variant: markdown
 
 ##### **Chinese Language Department Reading Programme**
 
-Our Chinese Language Department's reading programme aims to nurture a love for reading through engaging and interactive approaches. Through our Primary 1 and Primary 2 SOAR (Spark interest, Open minds, Appreciate cultural roots and Rise as bilingual readers) Reading Programme, teachers bring stories to life during dedicated reading sessions through animated storytelling, creative use of props, and dynamic role-play activities. These immersive experiences not only capture our students’ imagination but also strengthen their connection with the Chinese Language. Through this multi-sensory approach, we hope to create a vibrant learning environment and nurture positive reading habits from a young age.
-
+Our Chinese Language Department's reading programme aims to nurture a love for reading through engaging and interactive approaches. Through our Primary 1 and Primary 2 SOAR (Spark interest, Open minds, Appreciate cultural roots and Rise as bilingual readers) Reading Programme, teachers bring stories to life during dedicated reading sessions through animated storytelling, creative use of props, and dynamic role-play activities. These immersive experiences not only capture our students’ imagination but also strengthen their connection with the Chinese Language. Through this multi-sensory approach, we hope to create a vibrant learning environment and nurture positive reading habits from a young age.<br>
 <img src="/images/2024%20Open%20House/CL%20Dept/Reading_1.jpg" style="width:45%" align="left">
 <img src="/images/2024%20Open%20House/CL%20Dept/Reading_2.jpg" style="width:45%" align="center"> 
-<br clear="left">
 <figure>
 <figcaption><strong>&nbsp; Book sharing by students during Chinese lessons. 
 	</strong></figcaption>  
