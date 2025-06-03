@@ -52,13 +52,3 @@ The Cultural Performance Exposure Scheme aims to immerse our students in Chinese
 <figcaption><strong>&nbsp; P2 students attended a theatrical performance at the Singapore Hokkien Huay Kuan Cultural Academy. They had the valuable opportunity to interact with the performers on stage, enriching their cultural experience and bringing Chinese language learning to life.
 	</strong></figcaption>  
 </figure>
-
-##### **Lunar New Year Celebration**
-
-<img src="/images/2024%20Open%20House/CL%20Dept/Papercut1.jpg" style="width:38.5%" align="left">
-<img src="/images/2024%20Open%20House/CL%20Dept/Papercut2.jpg" style="width:46.5%" align="center">
-<br clear="left">
-<figure>
-<figcaption><strong>&nbsp; Paper-cutting activity to decorate their classroom for the festival.
-	</strong></figcaption>  
-</figure>
