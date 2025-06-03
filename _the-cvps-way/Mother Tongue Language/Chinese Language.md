@@ -20,14 +20,13 @@ Our Chinese Language Department's reading programme aims to nurture a love for r
 
 ##### **Mother Tongue Language Fortnight**
 
-The Mother Tongue Language (MTL) Fortnight Programme at Compassvale Primary School is an annual two-week programme that engages students in various fun-filled learning activities to deepen their understanding and appreciation of Chinese Language and culture. Each year, the programme focuses on a different cultural theme, providing a comprehensive exploration and discovery of various facets of traditional culture. The themes include traditional weddings, cuisine, handicrafts, costumes, dance and music.
+The Mother Tongue Language (MTL) Fortnight Programme at Compassvale Primary School is an annual two-week programme that engages students in various fun-filled learning activities to deepen their understanding and appreciation of Chinese Language and culture. Each year, the programme focuses on a different cultural theme, providing a comprehensive exploration and discovery of various facets of traditional culture. The themes include traditional weddings, cuisine, handicrafts, costumes, dance and music. <br>
 
 <img src="/images/Year%202025/CVPS%20Way/2025_CL_1.png" style="width:100%">
 
 Throughout the two weeks, a diverse array of activities is carefully curated to offer students authentic and experiential learning opportunities. Over their six years of education at the school, students would have delved into various aspects of Chinese culture and tradition which enables them to not only develop proficiency in the language but also acquire a more holistic and deeper appreciation for the cultural context in which the language thrives.
 
-In essence, the Mother Tongue Language Fortnight at Compassvale Primary School goes beyond the textbook, providing a transformative experience that integrates language learning with a rich tapestry of cultural exploration and discovery. Through this annual event, students emerge with a well-rounded understanding of their mother tongue as a living language deeply rooted in diverse and vibrant traditions.
-
+In essence, the Mother Tongue Language Fortnight at Compassvale Primary School goes beyond the textbook, providing a transformative experience that integrates language learning with a rich tapestry of cultural exploration and discovery. Through this annual event, students emerge with a well-rounded understanding of their mother tongue as a living language deeply rooted in diverse and vibrant traditions. <br>
 <img src="/images/Year%202025/CVPS%20Way/2025_MTL.jpg" style="width:100%" align="center">
 <br clear="center">
 
