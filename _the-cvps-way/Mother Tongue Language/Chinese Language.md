@@ -36,7 +36,7 @@ In essence, the Mother Tongue Language Fortnight at Compassvale Primary School g
 
 The P4 Cultural Camp is specially curated for Primary 4 students to provide an immersive and engaging experience that fosters a deeper understanding and appreciation of their Mother Tongue language and culture. Through a variety of hands-on activities, students will explore cultural traditions and practices in meaningful and enjoyable ways.
 
-<img src="/images/Year%202025/CVPS%20Way/P4_MTL.jpg" style="width:80%">
+<img src="/images/Year%202025/CVPS%20Way/P4_MTL.jpg" style="width:100%">
 
 ##### **Cultural Performance Exposure Scheme**
 
