@@ -6,16 +6,18 @@ variant: markdown
 ---
 ### **Physical &amp; Health Education**
 #### **Sports Carnival**
-Compassvalites engage in a day of sporting events, station games and skills tests. It is a day of joyful competition and students learn to compete to their best of abilities, think of ways to overcome challenges individually or collaboratively and take turns to lead their teams to victory.
+Experience the thrill of our annual Sports Carnival, where Compassvalites come together for an exhilarating day of athletic excellence. Students test their mettle in sporting events, navigate exciting station games, and showcase their physical prowess through various skills challenges. More than just competition, the carnival cultivates leadership, resilience, and teamwork as students strategize, support one another, and push their limits. Whether competing individually or in teams, our young athletes learn valuable lessons about perseverance, sportsmanship, and the sweet taste of victory earned through dedication and collaborative effort.
 <center>
 <img src="/images/2024%20Open%20House/PE/PE1.jpg" style="width:43%;margin-right:15px;" align="left"> 
 <img src="/images/2024%20Open%20House/PE/PE2.jpg" style="width:43%;margin-right:15px;" align="left"> </center>
 <br clear="left">
 
 #### **Let's Move**
-During recess, students are encouraged to take part in various forms of recess play to explore, problem-solve, socialise and keep themselves active on a daily basis, participating in activities they enjoy.
+During recess, our vibrant play programme transforms break time into opportunities for growth and enjoyment. Students are encouraged to explore diverse activities that keep them physically active while developing essential life skills. At various designated zones throughout the school, students engage in games, challenges, and skill-building stations that foster both individual development and social connections.
 
-At various locations in school, students learn to make new friends and participate in games, challenges or skill practice stations. As part of Let’s Move, students get an opportunity to demonstrate their core values. They learn to care for the equipment&nbsp;provided for them, practise turn-taking and follow the lead of their Sports Champions to ensure everyone is able to have an enjoyable recess in a vibrant and safe environment.
+Through these purposeful activities, students demonstrate and strengthen their core values in action. They learn valuable lessons in responsibility by caring for shared equipment, develop patience through turn-taking, and follow the guidance of our dedicated Sports Champions. This structured yet flexible approach ensures every student has the opportunity to participate in activities they enjoy while maintaining a safe and inclusive environment.
+
+Through these daily interactions, students naturally develop problem-solving abilities, build new friendships, and create a lively community atmosphere that makes recess a highlight of their school day.
 
 <img src="/images/PE%20Department/Let_s_Move__2_.jpg" style="width:65%">
 <br>
@@ -24,7 +26,11 @@ At various locations in school, students learn to make new friends and participa
 <img src="/images/PE%20Department/Let_s_Move__3_.jpg" style="width:65%">
 
 #### **Outdoor Camp**
-All P5 students attend an adventure camp for 3 days and 2 nights. Through exposure to the various outdoor elements, students develop their character and are given numerous opportunities to lead their teams and champion their ideas. They work with each other to solve problems and overcome obstacles, constantly thinking about doing things better and yet still caring for each other. In the camp, every activity is planned such that students will need to demonstrate&nbsp; school core values.
+Our 3 days 2 nights adventure camp is a transformative experience for Primary 5 students, taking them beyond classroom walls into the exciting realm of outdoor education. Set against nature's backdrop, students embark on challenging activities that push their boundaries and foster personal growth.
+
+The carefully crafted programme provides numerous opportunities for students to step into leadership roles, voice their ideas, and work collaboratively to overcome obstacles. Whether navigating team challenges or tackling individual tasks, students learn to think creatively, adapt to new situations, and support one another through every challenge.
+
+Each activity is thoughtfully designed to bring our school's core values to life. As students face and conquer various challenges together, they develop resilience, strengthen their problem-solving abilities, and forge deeper bonds with their peers. This immersive experience creates lasting memories while building character and confidence that extends well beyond the campsite.
 
 <img src="/images/PE%20Department/pecamp6.png" style="width:65%">
 <br>
