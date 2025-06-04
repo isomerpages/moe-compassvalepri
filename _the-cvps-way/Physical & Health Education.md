@@ -44,5 +44,7 @@ Each activity is thoughtfully designed to bring our school's core values to life
 #### **SwimSafer Program**
 SwimSafer is offered to all our Primary 3 students, providing them with essential swimming skills and water safety knowledge in a fun, structured environment. This comprehensive programme equips them with vital water survival techniques, while building their confidence in and around water.
 Under the guidance of qualified instructors, students learn proper swimming techniques alongside crucial water safety principles. The programme's holistic approach ensures our students become competent swimmers who understand the importance of water safety, preparing them for a lifetime of safe aquatic activities.<br>
-
-<img src="/images/PE%20Department/Swimsafer__1_.jpg" style="width:65%">
+<center>
+<img src="/images/PE%20Department/Swimsafer__1_.jpg" style="width:52%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/PE5.jpg" style="width:42%;margin-right:15px;" align="left"> </center>
+<br clear="left">
