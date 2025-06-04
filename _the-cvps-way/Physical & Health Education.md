@@ -33,12 +33,12 @@ The carefully crafted programme provides numerous opportunities for students to 
 Each activity is thoughtfully designed to bring our school's core values to life. As students face and conquer various challenges together, they develop resilience, strengthen their problem-solving abilities, and forge deeper bonds with their peers. This immersive experience creates lasting memories while building character and confidence that extends well beyond the campsite.
 
 <center>
-<img src="/images/Year%202025/CVPS%20Way/PE1.jpg" style="width:49%;margin-right:15px;" align="left"> 
-<img src="/images/Year%202025/CVPS%20Way/PE2.jpg" style="width:43.5%;margin-right:15px;" align="left"> </center>
+<img src="/images/Year%202025/CVPS%20Way/PE1.jpg" style="width:45%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/PE2.jpg" style="width:39.5%;margin-right:15px;" align="left"> </center>
 <br clear="left">
 <center>
-<img src="/images/Year%202025/CVPS%20Way/PE3.jpg" style="width:42%;margin-right:15px;" align="left"> 
-<img src="/images/Year%202025/CVPS%20Way/PE4.jpg" style="width:50%;margin-right:15px;" align="left"> </center>
+<img src="/images/Year%202025/CVPS%20Way/PE3.jpg" style="width:38%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/PE4.jpg" style="width:45.5%;margin-right:15px;" align="left"> </center>
 <br clear="left">
 
 #### **SwimSafer Program**
