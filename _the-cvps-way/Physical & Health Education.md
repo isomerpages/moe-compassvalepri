@@ -32,29 +32,17 @@ The carefully crafted programme provides numerous opportunities for students to 
 
 Each activity is thoughtfully designed to bring our school's core values to life. As students face and conquer various challenges together, they develop resilience, strengthen their problem-solving abilities, and forge deeper bonds with their peers. This immersive experience creates lasting memories while building character and confidence that extends well beyond the campsite.
 
-<img src="/images/PE%20Department/pecamp6.png" style="width:65%">
-<br>
-<img src="/images/PE%20Department/Camp__5_.jpg" style="width:65%">
-<br>
-<img src="/images/PE%20Department/Camp__4_.jpg" style="width:65%">
-<br>
-<img src="/images/PE%20Department/pecamp1.png" style="width:65%">
+<center>
+<img src="/images/Year%202025/CVPS%20Way/PE1.jpg" style="width:49%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/PE2.jpg" style="width:43.5%;margin-right:15px;" align="left"> </center>
+<br clear="left">
+<center>
+<img src="/images/Year%202025/CVPS%20Way/PE3.jpg" style="width:42%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/PE4.jpg" style="width:50%;margin-right:15px;" align="left"> </center>
+<br clear="left">
 
 #### **SwimSafer Program**
-SwimSafer is a national water safety program developed to raise the standard of swimming proficiency in Singapore. All Primary 3 students would be given the opportunity to attend and experience this program.&nbsp;The&nbsp;aim is to teach swimming proficiency and water survival skills to children to minimize drowning incidences in a fun manner.
+SwimSafer is offered to all our Primary 3 students, providing them with essential swimming skills and water safety knowledge in a fun, structured environment. This comprehensive programme equips them with vital water survival techniques, while building their confidence in and around water.
+Under the guidance of qualified instructors, students learn proper swimming techniques alongside crucial water safety principles. The programme's holistic approach ensures our students become competent swimmers who understand the importance of water safety, preparing them for a lifetime of safe aquatic activities.<br>
 
 <img src="/images/PE%20Department/Swimsafer__1_.jpg" style="width:65%">
-
-#### **Post PSLE Interclass Games**
-Primary 6 students pit their skills and tactics against one another during the interclass games that include sports such as Ultimate Frisbee, Football, Basketball and Captain’s Ball. Teachers join in the fun too in the teachers-students match. Students practise their core values while they compete to their best of abilities. It is also an excellent opportunity for them to unwind after the examinations.
-
-<img src="/images/PE%20Department/P6_Post_Exam.JPG" style="width:65%">
-
-#### **Active Youth Recharge Programme**
-Selected students are invited to enrol in a programme where they get to learn to play exciting sports or engage in physically fun activities and learn more about healthy eating. All the sessions require the students to think positive and be champions of their own health. They are taught how to lead a healthier lifestyle beyond school.
-
-<img src="/images/PE%20Department/AYR_4.jpeg" style="width:65%">
-<center>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTfk2s2z0gFXMseQ9NQYs3redOV9SmOUA2S6H_biuogVCtk3yzsKHokW73V6hz_boaJbGljLjtuqioX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-<br>
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4JJDhdp2YCpFzD5ePHR-S63N2eZXorcxEYpb81HD31yD6IhgwTafVLHsIBtd2gwkGXera6SX02mc-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
