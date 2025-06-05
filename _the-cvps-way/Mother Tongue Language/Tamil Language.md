@@ -30,10 +30,10 @@ In the bright and cheerful Tamil classroom of Compassvale Primary School, studen
 <img src="/images/Year%202025/CVPS%20Way/TL8.jpg" style="width:16%;margin-right:15px;" align="left">
 <img src="/images/Year%202025/CVPS%20Way/TL9.jpg" style="width:46.5%;margin-right:15px;" align="left"><br clear="left">
 <br>
-<img src="/images/Tamil%20Language%20Department/Picture4.png" style="width:40%" align="left">
-<img src="/images/Tamil%20Language%20Department/Picture3.png" style="width:43%" align="center">
+<img src="/images/Year%202025/CVPS%20Way/TL10.jpg" style="width:26%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL11.jpg" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL12.jpg" style="width:32%;margin-right:15px;" align="left"><br clear="left">
 
-<br clear="left">
 
 #### **T@P - Tamil at the Park**
 Learning at Compassvale Primary School is an exciting and enjoyable experience! The P1 and P2 Tamil students ventured to Sengkang Sculpture Park, conveniently located right next to the school, for a day filled with engaging games and activities as part of T@P (Tamil at the Park) activity.
