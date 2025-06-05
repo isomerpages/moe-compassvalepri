@@ -35,13 +35,19 @@ In the bright and cheerful Tamil classroom of Compassvale Primary School, studen
 <img src="/images/Year%202025/CVPS%20Way/TL12.jpg" style="width:32%;margin-right:15px;" align="left"><br clear="left">
 
 
-#### **T@P - Tamil at the Park**
-Learning at Compassvale Primary School is an exciting and enjoyable experience! The P1 and P2 Tamil students ventured to Sengkang Sculpture Park, conveniently located right next to the school, for a day filled with engaging games and activities as part of T@P (Tamil at the Park) activity.
+#### **Little Explorers,  Big Discoveries**
+In the lively world of the Primary 1 and 2 Tamil classroom, learning feels more like playtime! Little hands are busy clapping to Tamil rhymes, matching colourful picture cards to words, and forming Tamil letters with playdough and sand trays. With every giggle and cheerful chant, the children are not just having fun; they’re learning new words, sounds, and sentences in Tamil! Through hands-on activities like role-play, drawing, singing, and storytelling, Tamil becomes something they can see, hear, touch, and even act out. These playful moments make it easier for young minds to remember what they learn, and they begin to feel proud of speaking and understanding their mother tongue. For these young learners, Tamil isn’t just a subject. It’s an exciting adventure filled with laughter, colour, and creativity!<br>
 
-The P1 students had a blast making their very own kites and flying them in the park, while the P2 students embarked on a thrilling treasure hunt, diligently checking off items from their activity checklist. During the entire session, students made a conscious effort to communicate in Tamil with both their peers and teachers, making it a memorable and language-enriching experience.
-
-<img src="/images/tamil1.jpg" style="width:23%;margin-left:15px;" align="left">
-<img src="/images/tamil2.png" style="width:41%;margin-left:15px;" align="left">
-<img src="/images/tamil3.jpg" style="width:23%;margin-left:15px;" align="left">
-
+<img src="/images/Year%202025/CVPS%20Way/TL13.jpg" style="width:36%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL14.jpg" style="width:24%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL15.jpg" style="width:28%;margin-left:15px;" align="left">
+<br clear="left">
+<br>
+<img src="/images/Year%202025/CVPS%20Way/TL20.jpg" style="width:24%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL16.jpg" style="width:27%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL17.jpg" style="width:38%;margin-left:15px;" align="left">
+<br clear="left">
+<br>
+<img src="/images/Year%202025/CVPS%20Way/TL18.jpg" style="width:38%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL19.jpg" style="width:50%;margin-left:15px;" align="left">
 <br clear="left">
