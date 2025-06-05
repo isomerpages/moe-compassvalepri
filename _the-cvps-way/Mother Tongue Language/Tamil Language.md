@@ -6,14 +6,16 @@ third_nav_title: Mother Tongue Language
 variant: markdown
 ---
 ### **Tamil Language**
-#### **Welcome Activity Card for P1 Students**
+#### **Mother Tongue Fortnight**
 
-As the P1 students entered their Tamil classroom for their very first Tamil Language lesson, they were each presented with a welcome card, which lit up their faces with enthusiasm. This specially crafted card was thoughtfully designed by the Tamil Language Department to mark this significant occasion. 
-The students enthusiastically colored the cards and affixed the school logo stickers to them. Additionally, they participated in a simple activity that allowed them to express their feelings about their inaugural Tamil lesson. Amid the process of making new friends and adjusting to their unfamiliar surroundings, this activity served as an excellent icebreaker, swiftly bringing everyone together.
+At Compassvale Primary School, the Mother Tongue Language (MTL) Fortnight Programme is a vibrant, two-week celebration that brings the Tamil language and culture to life. Each year, students embark on a cultural journey themed around a different tradition; be it the flavors of authentic cuisine, the artistry of handicrafts, or the rhythm of traditional dance and music. Through hands-on activities and immersive experiences, they don’t just learn about the culture, they live it.
 
-Our hope is that, when they revisit this card at the conclusion of their six-year journey at CVPS, it will evoke cherished memories of their very first Tamil language lesson.
- 
- <img src="/images/Tamil%20Language%20Department/Picture1.jpg" style="width:65%">
+<img src="/images/Year%202025/CVPS%20Way/TL1.jpg" style="width:40%" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL2.jpg" style="width:53%" align="center">
+<br>
+<img src="/images/Year%202025/CVPS%20Way/TL3.jpg" style="width:47%" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL4.jpg" style="width:47%" align="center">
+<br clear="left">
 
 #### **P1 Kite Making**
 P1 Compassvalites learning the Tamil language had a great time with their families, coming together for a kite-making activity that was both enjoyable and educational. This hands-on experience complemented their classroom learning. Students, parents, and family members were encouraged to converse in Tamil while creating the kites, underlining the importance of using their mother tongue at home to support their language development.
