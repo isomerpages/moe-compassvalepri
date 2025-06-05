@@ -17,14 +17,18 @@ At Compassvale Primary School, the Mother Tongue Language (MTL) Fortnight Progra
 <img src="/images/Year%202025/CVPS%20Way/TL4.jpg" style="width:47%" align="center">
 <br clear="left">
 
-#### **P1 Kite Making**
-P1 Compassvalites learning the Tamil language had a great time with their families, coming together for a kite-making activity that was both enjoyable and educational. This hands-on experience complemented their classroom learning. Students, parents, and family members were encouraged to converse in Tamil while creating the kites, underlining the importance of using their mother tongue at home to support their language development.
+**P2 TL MTL Week**
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQG3gfTLHmI5jkTKI7xVXlMKOGuAAPHkrGsSsjCyaW2Tplew5YlK5B6RUal4IjDZ5amBSsJ8Q38gyb9/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-Furthermore, participating in creative projects like this helped students recall the vocabulary learnt in class more effectively. This, in turn, will contribute to their continued progress in conversational skills and their growth as confident learners.
+**P5 TL MTL Week**
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjLl_RPCmequUUuc0rRN9FD7WJ81jZsjtMpqV-V-nM0gAabb4ODBzOZcOfgWBVLYNt3YyUOMsfHoAF/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-<img src="/images/tamil7.jpg" style="width:32.5%;margin-right:15px;" align="left">
-<img src="/images/tamil8.jpg" style="width:24.2%;margin-right:15px;" align="left">
-<img src="/images/tamil9.jpg" style="width:32.5%;margin-right:15px;" align="left"><br clear="left">
+#### **Pongal Festival**
+In the bright and cheerful Tamil classroom of Compassvale Primary School, students are buzzing with excitement. They’re learning all about Pongal, the festival of thanks and joy! As their teacher shares stories about sunny fields, hardworking farmers, and happy cattle, the children imagine the golden rice plants swaying in the wind. They learn that Pongal is celebrated over four joyful days in January, marking the start of the Tamil month Thai; a time filled with good luck. As the students listen, draw, and even act out the celebrations, they realise Pongal isn’t just something far away. It’s a beautiful part of their own culture, coming alive right in their Tamil classroom.
+
+<img src="/images/Year%202025/CVPS%20Way/TL7.jpg" style="width:27%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL8.jpg" style="width:16%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL9.jpg" style="width:46.5%;margin-right:15px;" align="left"><br clear="left">
 <br>
 <img src="/images/Tamil%20Language%20Department/Picture4.png" style="width:40%" align="left">
 <img src="/images/Tamil%20Language%20Department/Picture3.png" style="width:43%" align="center">
