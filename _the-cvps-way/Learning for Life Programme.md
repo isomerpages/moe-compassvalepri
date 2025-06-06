@@ -18,5 +18,3 @@ At the upper primary, Compassvalites continue their music journey into beatboxin
 
 ### **Music Curriculum**<br>
 Compassvale Primary School's Music curriculum aims to develop students' ability for creative expression and communication through music.&nbsp; &nbsp;Compassvalites are given opportunities to learn simple keyboarding, recorder playing and ukelele playing.&nbsp; The theory learning helps Compassvalites read music so that instrumental learning can be more meaningful.&nbsp; Through the learning of the various musical instruments, important values like resilience and responsibility are inculcated.&nbsp; The curriculum also develops awareness and appreciation of music in local and global cultures.
-
-To develop a passion for the Arts in every Compassvalite through an integrated and holistic aesthetics programme.
