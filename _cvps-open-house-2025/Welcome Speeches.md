@@ -7,7 +7,7 @@ description: ""
 <h4><strong>Chairman, School Advisory Commitee</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/sac2.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sac2.jpg">
 </div>
 <p>Dear Prospective P1 Parents,</p>
 <p></p>
@@ -43,7 +43,7 @@ and potential.</p>
 <h4><strong>Chairperson, Parent Support Group</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/sac4.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sac4.jpg">
 </div>
 <p>Dear Prospective P1 Parents,</p>
 <p>It is my pleasure, on behalf of the Parent Support Group, to invite you
