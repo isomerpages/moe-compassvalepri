@@ -25,6 +25,10 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infobar:
+      title: CVPS Open House Webinar and Guided Tour
+      id: infobar
+      description: Information for registration will be shared soon!
   - infopic:
       title: Open House 2025
       subtitle: Compassvale Primary school
