@@ -25,6 +25,12 @@ The learning of Science takes place beyond the classrooms where students explore
 
 Moving the students forward to be critical thinkers and develop the future skills necessary for students to engage in the more complex world, students are encouraged to draw links to what they learn and observe to real-life phenomenon. This is done through the use of the school Makerspace where the elements of STEAM (Science, Technology, Engineering, Aesthetics and Mathematics) are used for students to apply what they have learnt, to authentic scenarios through problem-based learning and design thinking.
 
+<img src="/images/Year%202025/CVPS%20Way/Science1.jpg" style="width:65%" align="center"><br clear="center">
+<img src="/images/Year%202025/CVPS%20Way/Science2.jpg" style="width:48%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/Science4.jpg" style="width:48%;margin-right:15px;" align="center">
+<br clear="center">
+<img src="/images/Year%202025/CVPS%20Way/Science3.jpg" style="width:65%" align="center"><br clear="center">
+<img src="/images/Year%202025/CVPS%20Way/Science5.jpg" style="width:65%" align="center"><br clear="center">
 <img src="/images/Science%20Department/Science_2A.png" style="width:58.5%;margin-right:15px;" align="left">
 <img src="/images/Science%20Department/2b.jpeg" style="width:33%;margin-right:15px;" align="right">
 
