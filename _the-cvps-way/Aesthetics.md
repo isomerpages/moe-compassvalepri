@@ -2,13 +2,11 @@
 title: Aesthetics
 permalink: /the-cvps-way/department/aesthetics/
 description: ""
+variant: markdown
 ---
 ### **Aesthetics**
 **Art Curriculum**<br>
 Compassvale Primary School’s Art Curriculum equips students with knowledge and skills to better understand and engage with the world they live in. Through keen observation, mediums exploration and experimentation, students learn to reflect and express their uniqueness by communicating their thoughts and emotions using artistic processes and creations.
-
-**Music Curriculum**<br>
-Compassvale Primary School's Music curriculum aims to develop students' ability for creative expression and communication through music.&nbsp; &nbsp;Compassvalites are given opportunities to learn simple keyboarding, recorder playing and ukelele playing.&nbsp; The theory learning helps Compassvalites read music so that instrumental learning can be more meaningful.&nbsp; Through the learning of the various musical instruments, important values like resilience and responsibility are inculcated.&nbsp; The curriculum also develops awareness and appreciation of music in local and global cultures.
 
 To develop a passion for the Arts in every Compassvalite through an integrated and holistic aesthetics programme.
 
