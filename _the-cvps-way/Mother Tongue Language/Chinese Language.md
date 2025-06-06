@@ -11,9 +11,9 @@ variant: markdown
 
 Our Chinese Language Department's reading programme aims to nurture a love for reading through engaging and interactive approaches. Through our Primary 1 and Primary 2 SOAR (Spark interest, Open minds, Appreciate cultural roots and Rise as bilingual readers) Reading Programme, teachers bring stories to life during dedicated reading sessions through animated storytelling, creative use of props, and dynamic role-play activities. These immersive experiences not only capture our students’ imagination but also strengthen their connection with the Chinese Language. Through this multi-sensory approach, we hope to create a vibrant learning environment and nurture positive reading habits from a young age.<br>
 <img src="/images/Year%202025/CVPS%20Way/CLread1.jpg" style="width:65%" align="center"><br clear="center">
-<img src="/images/Year%202025/CVPS%20Way/CLread2.jpg" style="width:33%" align="left"> 
-<img src="/images/Year%202025/CVPS%20Way/CLread3.jpg" style="width:33%" align="left"> 
-<img src="/images/Year%202025/CVPS%20Way/CLread4.jpg" style="width:33%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/CLread2.jpg" style="width:30%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/CLread3.jpg" style="width:30%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/CLread4.jpg" style="width:30%" align="left"> 
 <br clear="left">
 
 ##### **Mother Tongue Language Fortnight**
