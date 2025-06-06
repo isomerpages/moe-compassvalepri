@@ -23,7 +23,7 @@ The learning of Science takes place beyond the classrooms where students explore
 
 <br clear="left">
 
-Moving the students forward to be critical thinkers and develop the future skills necessary for students to engage in the more complex world, students are encouraged to draw links to what they learn and observe to real-life phenomenon. This is done through the use of the school’s Makerspace where elements of STEAM (Science, Technology, Engineering, Aesthetics and Maths) are used for students to apply what they learn to authentic scenarios such as forensics and architecture. 
+Moving the students forward to be critical thinkers and develop the future skills necessary for students to engage in the more complex world, students are encouraged to draw links to what they learn and observe to real-life phenomenon. This is done through the use of the school Makerspace where the elements of STEAM (Science, Technology, Engineering, Aesthetics and Mathematics) are used for students to apply what they have learnt, to authentic scenarios through problem-based learning and design thinking.
 
 <img src="/images/Science%20Department/Science_2A.png" style="width:58.5%;margin-right:15px;" align="left">
 <img src="/images/Science%20Department/2b.jpeg" style="width:33%;margin-right:15px;" align="right">
