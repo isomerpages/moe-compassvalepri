@@ -1,6 +1,6 @@
 ---
 title: The CVPS Way
-permalink: /the-cvps-way/
+permalink: /2024the-cvps-way/
 variant: tiptap
 description: ""
 ---

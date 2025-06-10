@@ -1,6 +1,6 @@
 ---
 title: Principal's message
-permalink: /principal-s-message/
+permalink: /2024principal-s-message/
 variant: tiptap
 description: ""
 ---

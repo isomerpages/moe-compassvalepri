@@ -15,3 +15,6 @@ The programme provides Compassvalites many opportunities to discover their talen
 At the middle primary, Compassvalites learn to sing with proper posture and correct breathing technique. Then they will learn to dance and sing at the same time.&nbsp; This is the Show Choir programme that is well-liked by many.&nbsp; The Orff programme gives them an opportunity to play with glockenspiels and xylophones in an ensemble.
 
 At the upper primary, Compassvalites continue their music journey into beatboxing and music composition.&nbsp; The Beatboxing programme helps them to discover themselves and make music themselves. The Garageband programme teaches them to compose their music with ICT.
+
+#### **Music Curriculum**<br>
+Compassvale Primary School's Music curriculum aims to develop students' ability for creative expression and communication through music.&nbsp; &nbsp;Compassvalites are given opportunities to learn simple keyboarding, recorder playing and ukelele playing.&nbsp; The theory learning helps Compassvalites read music so that instrumental learning can be more meaningful.&nbsp; Through the learning of the various musical instruments, important values like resilience and responsibility are inculcated.&nbsp; The curriculum also develops awareness and appreciation of music in local and global cultures.

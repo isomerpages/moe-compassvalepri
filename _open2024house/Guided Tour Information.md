@@ -1,6 +1,6 @@
 ---
 title: Guided Tour Information
-permalink: /guided-tour-information/
+permalink: /2024guided-tour-information/
 variant: tiptap
 description: ""
 ---

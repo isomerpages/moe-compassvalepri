@@ -1,6 +1,6 @@
 ---
 title: CVPS CCA
-permalink: /cvpscca/
+permalink: /2024cvpscca/
 variant: tiptap
 description: ""
 ---

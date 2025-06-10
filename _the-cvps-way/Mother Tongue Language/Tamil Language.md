@@ -6,36 +6,48 @@ third_nav_title: Mother Tongue Language
 variant: markdown
 ---
 ### **Tamil Language**
-#### **Welcome Activity Card for P1 Students**
+#### **Mother Tongue Fortnight**
 
-As the P1 students entered their Tamil classroom for their very first Tamil Language lesson, they were each presented with a welcome card, which lit up their faces with enthusiasm. This specially crafted card was thoughtfully designed by the Tamil Language Department to mark this significant occasion. 
-The students enthusiastically colored the cards and affixed the school logo stickers to them. Additionally, they participated in a simple activity that allowed them to express their feelings about their inaugural Tamil lesson. Amid the process of making new friends and adjusting to their unfamiliar surroundings, this activity served as an excellent icebreaker, swiftly bringing everyone together.
+At Compassvale Primary School, the Mother Tongue Language (MTL) Fortnight Programme is a vibrant, two-week celebration that brings the Tamil language and culture to life. Each year, students embark on a cultural journey themed around a different tradition; be it the flavors of authentic cuisine, the artistry of handicrafts, or the rhythm of traditional dance and music. Through hands-on activities and immersive experiences, they don’t just learn about the culture, they live it.
 
-Our hope is that, when they revisit this card at the conclusion of their six-year journey at CVPS, it will evoke cherished memories of their very first Tamil language lesson.
- 
- <img src="/images/Tamil%20Language%20Department/Picture1.jpg" style="width:65%">
-
-#### **P1 Kite Making**
-P1 Compassvalites learning the Tamil language had a great time with their families, coming together for a kite-making activity that was both enjoyable and educational. This hands-on experience complemented their classroom learning. Students, parents, and family members were encouraged to converse in Tamil while creating the kites, underlining the importance of using their mother tongue at home to support their language development.
-
-Furthermore, participating in creative projects like this helped students recall the vocabulary learnt in class more effectively. This, in turn, will contribute to their continued progress in conversational skills and their growth as confident learners.
-
-<img src="/images/tamil7.jpg" style="width:32.5%;margin-right:15px;" align="left">
-<img src="/images/tamil8.jpg" style="width:24.2%;margin-right:15px;" align="left">
-<img src="/images/tamil9.jpg" style="width:32.5%;margin-right:15px;" align="left"><br clear="left">
+<img src="/images/Year%202025/CVPS%20Way/TL1.jpg" style="width:40%" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL2.jpg" style="width:53%" align="center">
 <br>
-<img src="/images/Tamil%20Language%20Department/Picture4.png" style="width:40%" align="left">
-<img src="/images/Tamil%20Language%20Department/Picture3.png" style="width:43%" align="center">
-
+<img src="/images/Year%202025/CVPS%20Way/TL3.jpg" style="width:47%" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL4.jpg" style="width:47%" align="center">
 <br clear="left">
 
-#### **T@P - Tamil at the Park**
-Learning at Compassvale Primary School is an exciting and enjoyable experience! The P1 and P2 Tamil students ventured to Sengkang Sculpture Park, conveniently located right next to the school, for a day filled with engaging games and activities as part of T@P (Tamil at the Park) activity.
+**P2 TL MTL Week**
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQG3gfTLHmI5jkTKI7xVXlMKOGuAAPHkrGsSsjCyaW2Tplew5YlK5B6RUal4IjDZ5amBSsJ8Q38gyb9/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-The P1 students had a blast making their very own kites and flying them in the park, while the P2 students embarked on a thrilling treasure hunt, diligently checking off items from their activity checklist. During the entire session, students made a conscious effort to communicate in Tamil with both their peers and teachers, making it a memorable and language-enriching experience.
+**P5 TL MTL Week**
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjLl_RPCmequUUuc0rRN9FD7WJ81jZsjtMpqV-V-nM0gAabb4ODBzOZcOfgWBVLYNt3YyUOMsfHoAF/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
-<img src="/images/tamil1.jpg" style="width:23%;margin-left:15px;" align="left">
-<img src="/images/tamil2.png" style="width:41%;margin-left:15px;" align="left">
-<img src="/images/tamil3.jpg" style="width:23%;margin-left:15px;" align="left">
+#### **Pongal Festival**
+In the bright and cheerful Tamil classroom of Compassvale Primary School, students are buzzing with excitement. They’re learning all about Pongal, the festival of thanks and joy! As their teacher shares stories about sunny fields, hardworking farmers, and happy cattle, the children imagine the golden rice plants swaying in the wind. They learn that Pongal is celebrated over four joyful days in January, marking the start of the Tamil month Thai; a time filled with good luck. As the students listen, draw, and even act out the celebrations, they realise Pongal isn’t just something far away. It’s a beautiful part of their own culture, coming alive right in their Tamil classroom.
 
+<img src="/images/Year%202025/CVPS%20Way/TL7.jpg" style="width:27%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL8.jpg" style="width:16%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL9.jpg" style="width:46.5%;margin-right:15px;" align="left"><br clear="left">
+<br>
+<img src="/images/Year%202025/CVPS%20Way/TL10.jpg" style="width:26%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL11.jpg" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL12.jpg" style="width:32%;margin-right:15px;" align="left"><br clear="left">
+
+
+#### **Little Explorers,  Big Discoveries**
+In the lively world of the Primary 1 and 2 Tamil classroom, learning feels more like playtime! Little hands are busy clapping to Tamil rhymes, matching colourful picture cards to words, and forming Tamil letters with playdough and sand trays. With every giggle and cheerful chant, the children are not just having fun; they’re learning new words, sounds, and sentences in Tamil! Through hands-on activities like role-play, drawing, singing, and storytelling, Tamil becomes something they can see, hear, touch, and even act out. These playful moments make it easier for young minds to remember what they learn, and they begin to feel proud of speaking and understanding their mother tongue. For these young learners, Tamil isn’t just a subject. It’s an exciting adventure filled with laughter, colour, and creativity!<br>
+
+<img src="/images/Year%202025/CVPS%20Way/TL13.jpg" style="width:36%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL14.jpg" style="width:24%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL15.jpg" style="width:28%;margin-left:15px;" align="left">
+<br clear="left">
+<br>
+<img src="/images/Year%202025/CVPS%20Way/TL20.jpg" style="width:24%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL16.jpg" style="width:27%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL17.jpg" style="width:38%;margin-left:15px;" align="left">
+<br clear="left">
+<br>
+<img src="/images/Year%202025/CVPS%20Way/TL18.jpg" style="width:38%;margin-left:15px;" align="left">
+<img src="/images/Year%202025/CVPS%20Way/TL19.jpg" style="width:50%;margin-left:15px;" align="left">
 <br clear="left">

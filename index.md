@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024 Open House/2024_Landing_Page_C.gif
+      background: /images/Year 2025/Open House 2025/2025_Landing_Page_GIF_A.gif
       url: /contact-us/
       key_highlights:
         - title: SCHOOL Calendar
@@ -18,21 +18,25 @@ sections:
         - title: CONTACT US
           description: ""
           url: /contact/school-vendors/school-bookshop/
-        - title: CVPS Facebook
+        - title: CVPS Open House 2025
           description: ""
-          url: https://www.facebook.com/compassvalepri/
+          url: https://www.compassvalepri.moe.edu.sg/cvps-open-house-2025/welcomepage/
       variant: image
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infobar:
+      title: CVPS Online Open House and School Tour
+      id: infobar
+      description: Information for registration will be shared soon!
   - infopic:
-      title: CVPS Associate Parent Volunteer Scheme
+      title: Open House 2025
+      subtitle: Compassvale Primary school
       id: infopic
-      description: For more information
-      button: Please click here
-      url: https://www.compassvalepri.moe.edu.sg/parents-network/apvs/
-      image: /images/APVs/2025_APV_cropped.png
-      alt: Image alt text
+      button: Click here for more details
+      url: /cvps-open-house-2025/welcomepage/
+      image: /images/Year 2025/Open House 2025/Website_Banner.jpg
+      alt: Open House 2025
   - infobar:
       title: Year 2025 P1 Orientation Briefing Slides
       id: infobar
