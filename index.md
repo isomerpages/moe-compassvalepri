@@ -30,6 +30,7 @@ sections:
       id: infobar
       button: Please click here to register
       url: /registration-for-online-open-house-and-school-tour/
+      description: Registration will start on 27 June.
   - infobar:
       title: CVPS Online Open House and School Tour
       id: infobar
