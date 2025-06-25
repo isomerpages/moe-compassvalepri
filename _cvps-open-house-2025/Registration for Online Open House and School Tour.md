@@ -32,6 +32,11 @@ description: ""
 <p>9 a.m. to 10 a.m.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Note: Invitation details will be emailed to registrants by 10 July.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 75px">
@@ -60,6 +65,11 @@ description: ""
 </td>
 <td rowspan="1" colspan="2">
 <p>2 p.m. to 3.45 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Note: Invitation details will be emailed to registrants by 15 July.</p>
 </td>
 </tr>
 </tbody>
