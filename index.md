@@ -28,6 +28,11 @@ sections:
   - infobar:
       title: CVPS Online Open House and School Tour
       id: infobar
+      button: Please click here to register
+      url: /registration-for-online-open-house-and-school-tour/
+  - infobar:
+      title: CVPS Online Open House and School Tour
+      id: infobar
       description: Information for registration will be shared soon!
   - infopic:
       title: Open House 2025
