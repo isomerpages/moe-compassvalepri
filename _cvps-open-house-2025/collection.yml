@@ -2,6 +2,7 @@ collections:
   cvps-open-house-2025:
     output: true
     order:
+      - Registration for Online Open House and School Tour.md
       - Welcome to CVPS!.md
       - Principal's Message.md
       - Welcome Speeches.md
