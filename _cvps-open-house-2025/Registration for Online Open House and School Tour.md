@@ -29,7 +29,7 @@ description: ""
 <p>Time:</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>9 a.m. to 10 a.m.</p>
 </td>
 </tr>
 </tbody>
@@ -59,7 +59,7 @@ description: ""
 <p>Time:</p>
 </td>
 <td rowspan="1" colspan="2">
-<p></p>
+<p>2 p.m. to 3.45 p.m.</p>
 </td>
 </tr>
 </tbody>
