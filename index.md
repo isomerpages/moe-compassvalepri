@@ -25,16 +25,21 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infopic:
+      title: CVPS Online Open House and School Tour
+      id: infopic
+      description: Registration will start on 27 June.
+      button: Please click here to register
+      url: /registration-for-online-open-house-and-school-tour/
+      image: /images/Year 2025/Open House
+        2025/2025_Open_House_Registration_QR_Code.png
+      alt: Image alt text
   - infobar:
       title: CVPS Online Open House and School Tour
       id: infobar
       button: Please click here to register
       url: /registration-for-online-open-house-and-school-tour/
       description: Registration will start on 27 June.
-  - infobar:
-      title: CVPS Online Open House and School Tour
-      id: infobar
-      description: Information for registration will be shared soon!
   - infopic:
       title: Open House 2025
       subtitle: Compassvale Primary school
