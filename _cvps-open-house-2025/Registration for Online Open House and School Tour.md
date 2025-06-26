@@ -76,9 +76,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<p><strong>To register, please click <a href="https://tinyurl.com/CVPSOpenHouse2025" rel="noopener nofollow" target="_blank">here</a></strong>
-</p>
-<p><strong>Or scan the QR Code below:</strong>
+<p><strong>To register, please click <a href="https://tinyurl.com/CVPSOpenHouse2025" rel="noopener nofollow" target="_blank">here </a>or scan the QR Code below:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Year 2025/Open House 2025/2025_Open_House_Registration_QR_Code.png">
