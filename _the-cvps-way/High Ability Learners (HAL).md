@@ -53,11 +53,11 @@ The programme aims to provide students with opportunities to delve deeper into s
 
 Through a combination of hands-on experiments, research projects, and interactive discussions, students are challenged to think beyond the textbook and explore real-world applications of scientific principles. The programme encourages students to ask probing questions, make connections between different scientific disciplines, and develop a deeper understanding of complex scientific phenomena. By engaging in collaborative and inquiry-based learning, students develop problem-solving abilities, analytical thinking, and effective communication skills.
  
-<center>
-<img src="/images/Year%202025/HAL/E2K1.jpg" style="width:55%;margin-right:15px;" align="left">
-<img src="/images/Year%202025/HAL/E2k2.jpg" style="width:35.5%;margin-right:15px;" align="left"></center>
+ <img src="/images/Year%202025/HAL/E2K1.jpg" style="width:37%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202025/HAL/E2k2.jpg" style="width:23.5%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202025/HAL/E2k3.jpg" style="width:28%;margin-right:15px;" align="left"> 
 <br clear="left">
-
+ 
 #### **Mother Tongue Department**
 ##### **Higher Mother Curriculum from P3 to P6**
 
