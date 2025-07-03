@@ -54,9 +54,10 @@ Through a combination of hands-on experiments, research projects, and interactiv
 #### **Mother Tongue Department**
 ##### **Higher Mother Curriculum from P3 to P6**
 
-To enhance the learning of Mother Tongue Languages from an early age, our school offers Higher Mother Tongue Language (HMTL) classes for students from Primary 3 to Primary 6. Primary 2 students who exhibit strong ability and interest in a Mother Tongue Language will be invited to participate in a two-year HMTL curriculum, starting with Primary 3. Additionally, Primary 4 students who demonstrate a keen interest and aptitude for their Mother Tongue Language at a higher level can opt to take a Higher Mother Tongue Language starting in Primary 5. 
+To enhance the learning of Mother Tongue Languages, our school offers Higher Mother Tongue Language (HMTL) classes for students from Primary 3 to Primary 6. Primary 2 students who exhibit strong ability and interest in Mother Tongue Language may be invited to participate in a two-year HMTL curriculum. Additionally, Primary 4 students who demonstrate a keen interest and aptitude for their Mother Tongue at a higher level can opt to take Higher Mother Tongue starting in Primary 5.
 
-The HMTL curriculum is conducted weekly outside of school hours, and it includes exposure to literary texts, higher order thinking exercises, and creative, engaging activities and games.
+The HMTL curriculum is conducted weekly outside school hours and it includes exposure to literary texts, higher order thinking exercises, and creative, engaging activities and games.
+
 
 <img src="/images/2024%20Open%20House/HAL/HAL7R.jpg" style="width:41%;margin-right:15px;" align="left"> 
 <img src="/images/2024%20Open%20House/HAL/HAL8.jpg" style="width:26%;margin-right:15px;" align="left"> 
