@@ -45,7 +45,10 @@ This empowers and stretches the students’ mathematical skills, fosters abiliti
 
 The Science Olympiad programme in CVPS aims to develop scientific thinking and stretch students with strong interest and ability in science. The programme provides an avenue to showcase students' abilities in the subject, and focuses on higher-order thinking, critical reasoning, and application in areas such as physics, chemistry, and biology. Selected Primary 5 students will also represent the school to take part in the Science Olympiad Competitions at the national level.
 
-
+ <img src="/images/Year%202025/HAL/SOP1.jpg" style="width:27.5%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202025/HAL/SOP2.jpg" style="width:31%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202025/HAL/SOP3.jpg" style="width:28.5%;margin-right:15px;" align="left"> 
+<br clear="left">
 
 **Excellence 2000 E2k Science Programme** 
 
