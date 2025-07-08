@@ -19,6 +19,7 @@ up.</p>
 2819.</p>
 <p>Registration for both the Webinar and/or Physical School Tour will open
 on 27 June.</p>
+<hr>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -132,6 +133,7 @@ Care, VP Admin.</p>
 </table>
 </li>
 </ul>
+<hr>
 <p></p>
 <p></p>
 <table style="minWidth: 75px">
