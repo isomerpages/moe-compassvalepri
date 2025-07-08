@@ -45,7 +45,8 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 * *Kindly note that there will be no classroom experience and visitors will not be able to buy food from canteen.*
 
 To register for physical school tour, please click https://form.gov.sg/683d6c7a2b78881a4323caa5
-<br>
+
+
 |  |  |  |
 | -------- | -------- | -------- |
 | Day/Date:     | Friday, 18th July 2025     |      |
