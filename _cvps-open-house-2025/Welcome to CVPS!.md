@@ -23,11 +23,15 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 
 
 ###### **For Online Open House (via Microsoft Teams)**
-|   |   |  
-| -------- | -------- | 
-| Day/ Date:     | Saturday, 12th July 2025     |
-| Time:     | 9 a.m. to 10 a.m.     | 
-Note: **The registration for Online Open House has closed.** Invitation details will be emailed to registrants by 10 July.
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Day/Date:     | Saturday, 12th July 2025     |      |
+|Time:    | 9 a.m. to 10 a.m.    |      |
+|Note:    | **The registration for Online Open House has closed.** Invitation details will be emailed to registrants by 10th July.    |      |
+
+
 
 
 ###### **Online Open House Actual Day Programme**
@@ -44,4 +48,3 @@ Note: **The registration for Online Open House has closed.** Invitation details 
 * To provide parents and prospective students an immersive experience of our vibrant learning environment in our school grounds.
 * For families to witness our students in action and gain first-hand insight into our holistic education approach, facilities, and school spirit through guided tours and dynamic CCA displays.
 * *Kindly note that there will be no classroom experience and visitors will not be able to buy food from canteen.*
-
