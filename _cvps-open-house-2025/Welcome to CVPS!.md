@@ -50,7 +50,7 @@ on 27 June.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Note: <strong>The registration for Webinar has closed.&nbsp;</strong>Invitation
+<p>Note: <strong>The registration for Online Open House has closed.&nbsp;</strong>Invitation
 details will be emailed to registrants by 10 July.</p>
 </td>
 </tr>
