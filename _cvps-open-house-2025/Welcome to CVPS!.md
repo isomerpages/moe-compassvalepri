@@ -59,5 +59,5 @@ To register .....
 | -------- | -------- | -------- |
 | Day/Date:     | Friday, 18th July 2025     |      |
 | Time:     | 2 p.m. to 3.45 p.m.<br>1st slot: 2.15 p.m. to 3 p.m.<br>2nd slot: 3 p.m. to 3.45 p.m.     |      |
-
+| Note: | Kindly note that registration closes on 13 July, 12 noon. <br> Invitation details will be emailed to registrants by 15 July. |  |
 
