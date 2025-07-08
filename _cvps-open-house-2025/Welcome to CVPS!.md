@@ -36,4 +36,12 @@ Note: **The registration for Online Open House has closed.** Invitation details 
 | 8.55 a.m.     | Start admitting parents     | 
 | 9.00 a.m.     | — Commencement and briefing on programme<br> — Speakers: Principal, PSG Chairperson, CCA, Mother Tongue Language, Student Care, VP Admin.     | 
 | 8.55 a.m.     | Q&amp;A Session     | 
-| 8.55 a.m.     | End of Session     | 
+| 8.55 a.m.     | End of Session     |
+<br>
+
+### **For Physical School Tour**
+
+* To provide parents and prospective students an immersive experience of our vibrant learning environment in our school grounds.
+* For families to witness our students in action and gain first-hand insight into our holistic education approach, facilities, and school spirit through guided tours and dynamic CCA displays.
+* *Kindly note that there will be no classroom experience and visitors will not be able to buy food from canteen.*
+
