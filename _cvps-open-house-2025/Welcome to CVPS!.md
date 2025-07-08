@@ -51,7 +51,8 @@ on 27 June.</p>
 <tr>
 <td rowspan="1" colspan="3">
 <p>Note:</p>
-<p>The registration for Webinar has closed.&nbsp;</p>
+<p><strong>The registration for Webinar has closed.&nbsp;</strong>
+</p>
 <p>Invitation details will be emailed to registrants by 10 July.</p>
 </td>
 </tr>
