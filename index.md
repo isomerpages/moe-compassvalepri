@@ -30,7 +30,7 @@ sections:
       id: infobar
       button: Please click here to register
       url: /registration-for-online-open-house-and-school-tour/
-      description: Registration will start on 27th June.
+      description: Registration closes on 13 July, 12 noon.
   - infopic:
       title: Open House 2025
       subtitle: Compassvale Primary school
