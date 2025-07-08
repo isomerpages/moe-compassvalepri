@@ -45,7 +45,7 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 * For families to witness our students in action and gain first-hand insight into our holistic education approach, facilities, and school spirit through guided tours and dynamic CCA displays.
 * *Kindly note that there will be no classroom experience and visitors will not be able to buy food from canteen.*
 
-To register for physical school tour, please click https://form.gov.sg/683d6c7a2b78881a4323caa5
+To register for physical school tour, please use this link: https://form.gov.sg/683d6c7a2b78881a4323caa5
 
 
 |  |  |  |
