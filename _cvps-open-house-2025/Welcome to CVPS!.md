@@ -24,13 +24,12 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 
 ###### **For Online Open House (via Microsoft Teams)**
 
-
 |  |  |  |
 | -------- | -------- | -------- |
 | Day/Date:     | Saturday, 12th July 2025     |      |
 |Time:    | 9 a.m. to 10 a.m.    |      |
 |Note:    | **The registration for Online Open House has closed.** Invitation details will be emailed to registrants by 10th July.    |      |
-
+|  |  |  |
 
 
 
