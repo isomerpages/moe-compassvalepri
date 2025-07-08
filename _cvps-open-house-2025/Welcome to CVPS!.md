@@ -96,7 +96,9 @@ Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Note: Invitation details will be emailed to registrants by 15 July.</p>
+<p>Note:</p>
+<p>Kindly note that registration closes on 13 July, 12 noon.</p>
+<p>Invitation details will be emailed to registrants by 15 July.</p>
 </td>
 </tr>
 </tbody>
