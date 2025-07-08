@@ -50,7 +50,6 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 To register .....
 
 ##### **Physical School Tour**
-
 |  |  |  |
 | -------- | -------- | -------- |
 | Day/Date:     | Friday, 18th July 2025     |      |
@@ -59,8 +58,6 @@ To register .....
 |  |  |  |
 
 ##### **Physical School Tour Actual Day Programme**
-
-
 |  |  |  |
 | -------- | -------- | -------- |
 | Time     | Agenda     |      |
