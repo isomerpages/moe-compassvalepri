@@ -20,6 +20,14 @@ up.</p>
 <p>Registration for both the Webinar and/or Physical School Tour will open
 on 27 June.</p>
 <hr>
+<h3><strong>For Online Open House (via Microsoft Teams)</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To offer parents an introduction to our school via an accessible online
+platform—highlighting key areas such as our curriculum, student care services,
+Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</p>
+</li>
+</ul>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -30,7 +38,7 @@ on 27 June.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<h3><strong>For Online Open House (via Microsoft Teams)</strong></h3>
+<h4><strong>For Online Open House (via Microsoft Teams)</strong></h4>
 </th>
 </tr>
 <tr>
@@ -57,14 +65,6 @@ details will be emailed to registrants by 10 July.</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>To offer parents an introduction to our school via an accessible online
-platform—highlighting key areas such as our curriculum, student care services,
-Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</p>
-</li>
-<li>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -131,11 +131,26 @@ Care, VP Admin.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<hr>
+<h3><strong>For Physical School Tour</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>To provide parents and prospective students an immersive experience of
+our vibrant learning environment in our school grounds.</p>
+</li>
+<li>
+<p>For families to witness our students in action and gain first-hand insight
+into our holistic education approach, facilities, and school spirit through
+guided tours and dynamic CCA displays.</p>
+</li>
+<li>
+<p><em>Kindly note that there will be no classroom experience and visitors will not be able to buy food from canteen.</em>
+</p>
 </li>
 </ul>
-<hr>
-<p></p>
-<p></p>
+<p><strong>To register for our Physical School Tour, please click <a href="https://form.gov.sg/683d6c7a2b78881a4323caa5" rel="noopener nofollow" target="_blank">here</a></strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -174,23 +189,7 @@ details will be emailed to registrants by 15 July.</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p>To provide parents and prospective students an immersive experience of
-our vibrant learning environment in our school grounds.</p>
-</li>
-<li>
-<p>For families to witness our students in action and gain first-hand insight
-into our holistic education approach, facilities, and school spirit through
-guided tours and dynamic CCA displays.</p>
-</li>
-<li>
-<p><em>Kindly note that there will be no classroom experience and visitors will not be able to buy food from canteen.</em>
-</p>
-</li>
-</ul>
-<p><strong>To register for our Physical School Tour, please click <a href="https://form.gov.sg/683d6c7a2b78881a4323caa5" rel="noopener nofollow" target="_blank">here</a></strong>
-</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
