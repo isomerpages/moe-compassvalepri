@@ -29,7 +29,6 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 |Note:    | **The registration for Online Open House has closed.** <br>Invitation details will be emailed to registrants by 10th July.    |      |
 |  |  |  |
 
-
 ##### **Online Open House Actual Day Programme**
 |  |  |  |
 | -------- | -------- | -------- |
