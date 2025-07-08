@@ -57,6 +57,13 @@ on 27 June.</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p>To offer parents an introduction to our school via an accessible online
+platform—highlighting key areas such as our curriculum, student care services,
+Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</p>
+</li>
+</ul>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
