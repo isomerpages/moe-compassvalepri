@@ -18,7 +18,8 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 
 #### **For Online Open House (via Microsoft Teams)**
 
-* To offer parents an introduction to our school via an accessible online platform—highlighting key areas such as our curriculum, student care services, Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences. <br>
+* To offer parents an introduction to our school via an accessible online platform—highlighting key areas such as our curriculum, student care services, Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences. 
+
 |  |  |  |
 | -------- | -------- | -------- |
 | Day/Date:     | Saturday, 12th July 2025     |      |
