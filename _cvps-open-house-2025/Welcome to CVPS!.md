@@ -50,8 +50,7 @@ on 27 June.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Note:</p>
-<p><strong>The registration for Webinar has closed.&nbsp;</strong>
+<p>Note: <strong>The registration for Webinar has closed.&nbsp;</strong>
 </p>
 <p>Invitation details will be emailed to registrants by 10 July.</p>
 </td>
@@ -96,8 +95,7 @@ Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Note:</p>
-<p>Kindly note that registration closes on 13 July, 12 noon.</p>
+<p>Note: Kindly note that registration closes on 13 July, 12 noon.</p>
 <p>Invitation details will be emailed to registrants by 15 July.</p>
 </td>
 </tr>
