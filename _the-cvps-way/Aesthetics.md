@@ -15,6 +15,11 @@ variant: markdown
 Our Art Curriculum nurtures creativity, self-expression, and critical thinking through hands-on exploration of various art forms. Integrated within a holistic aesthetics programme, it aims to spark a lifelong passion for the Arts by providing meaningful and progressive learning experiences that build confidence and collaboration.
 
 To enhance the art learning experience at each level, Compassvalites participate in engaging and level-specific programmes:
+* **Primary 3** - Sculpture WAlk
+* **Primary 4** - Watercolour Painting &amp; Museum-Based Learning
+* **Primary 5** - Manga Drawing
+* **Primary 6** - Portrait Drawing
+
 
 |  |  |
 |:---:|:---:|
