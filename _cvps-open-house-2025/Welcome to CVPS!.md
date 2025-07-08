@@ -90,6 +90,8 @@ Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</
 </td>
 <td rowspan="1" colspan="2">
 <p>2 p.m. to 3.45 p.m.</p>
+<p>1st slot: 2.15 p.m. to 3 p.m.</p>
+<p>2nd slot: 3 p.m. to 3.45 p.m.</p>
 </td>
 </tr>
 <tr>
