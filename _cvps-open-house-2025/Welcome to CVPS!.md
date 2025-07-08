@@ -29,7 +29,7 @@ on 27 June.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>For Online Open House (via Microsoft Teams)</p>
+<h3><strong>For Online Open House (via Microsoft Teams)</strong></h3>
 </th>
 </tr>
 <tr>
@@ -62,6 +62,74 @@ details will be emailed to registrants by 10 July.</p>
 platform—highlighting key areas such as our curriculum, student care services,
 Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</p>
 </li>
+<li>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Online Open House Actual Day Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Agenda</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.55 a.m.</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Start admitting parents</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.00 a.m.</p>
+</td>
+<td rowspan="1" colspan="3">
+<ul data-tight="true" class="tight">
+<li>
+<p>Commencement and briefing on programme</p>
+</li>
+<li>
+<p>Speakers: Principal, PSG Chairperson, CCA, Mother Tongue Language, Student
+Care, VP Admin.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.40 a.m.</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Q&amp;A Session</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.55 a.m.</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>End of Session</p>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
 </ul>
 <p></p>
 <p></p>
@@ -74,7 +142,7 @@ Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>For Physical School Tour</p>
+<h3><strong>For Physical School Tour</strong></h3>
 </th>
 </tr>
 <tr>
