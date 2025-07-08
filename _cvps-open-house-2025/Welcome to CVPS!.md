@@ -188,4 +188,62 @@ guided tours and dynamic CCA displays.</p>
 </ul>
 <p><strong>To register for our Physical School Tour, please click <a href="https://form.gov.sg/683d6c7a2b78881a4323caa5" rel="noopener nofollow" target="_blank">here</a></strong>
 </p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="4">
+<p>Physical School Tour Actual Day Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Agenda</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Parents to enter via Gate 3. (Holding area will be at the canteen, near
+the Interactive Wall.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.15 p.m.</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1st guided tour to commence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2nd guided tour to commence.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.45 p.m.</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>End of guided tour.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
