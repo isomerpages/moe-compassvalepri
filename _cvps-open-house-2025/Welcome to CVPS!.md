@@ -93,4 +93,19 @@ on 27 June.</p>
 </tr>
 </tbody>
 </table>
+<ul data-tight="true" class="tight">
+<li>
+<p>To provide parents and prospective students an immersive experience of
+our vibrant learning environment in our school grounds.</p>
+</li>
+<li>
+<p>For families to witness our students in action and gain first-hand insight
+into our holistic education approach, facilities, and school spirit through
+guided tours and dynamic CCA displays.</p>
+</li>
+<li>
+<p><em>Kindly note that there will be no classroom experience and visitors will not be able to buy food from canteen.</em>
+</p>
+</li>
+</ul>
 <p></p>
