@@ -117,7 +117,6 @@ guided tours and dynamic CCA displays.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>To register for our Physical School Tour, please click </strong>
-<a href="https://form.gov.sg/683d6c7a2b78881a4323caa5" rel="noopener nofollow" target="_blank">here</a>
+<p><strong>To register for our Physical School Tour, please click <a href="https://form.gov.sg/683d6c7a2b78881a4323caa5" rel="noopener nofollow" target="_blank">here</a></strong>
 </p>
 <p></p>
