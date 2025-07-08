@@ -6,9 +6,15 @@ variant: markdown
 ---
 ### **Aesthetics**
 **Art Curriculum**<br>
-Compassvale Primary School’s Art Curriculum equips students with knowledge and skills to better understand and engage with the world they live in. Through keen observation, mediums exploration and experimentation, students learn to reflect and express their uniqueness by communicating their thoughts and emotions using artistic processes and creations.
+<img src="/images/Year%202025/CVPS%20Way/Art1.jpg" style="width:75%" align="center"><br>
+<img src="/images/Year%202025/CVPS%20Way/Art2.jpg" style="width:50%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/Art3.jpg" style="width:50%" align="right"> 
 
-To develop a passion for the Arts in every Compassvalite through an integrated and holistic aesthetics programme.
+<br clear="left">
+
+Our Art Curriculum nurtures creativity, self-expression, and critical thinking through hands-on exploration of various art forms. Integrated within a holistic aesthetics programme, it aims to spark a lifelong passion for the Arts by providing meaningful and progressive learning experiences that build confidence and collaboration.
+
+To enhance the art learning experience at each level, Compassvalites participate in engaging and level-specific programmes:
 
 |  |  |
 |:---:|:---:|
