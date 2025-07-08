@@ -28,6 +28,7 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 |  |  |  |
 
 ##### **Online Open House Actual Day Programme**
+
 |  |  |  |
 | -------- | -------- | -------- |
 | Time     | Agenda     |      |
@@ -55,6 +56,7 @@ To register for physical school tour, please click https://form.gov.sg/683d6c7a2
 |  |  |  |
 
 ##### **Physical School Tour Actual Day Programme**
+
 |  |  |  |
 | -------- | -------- | -------- |
 | Time     | Agenda     |      |
