@@ -61,3 +61,14 @@ To register .....
 | Time:     | 2 p.m. to 3.45 p.m.<br>1st slot: 2.15 p.m. to 3 p.m.<br>2nd slot: 3 p.m. to 3.45 p.m.     |      |
 | Note: | Kindly note that registration closes on 13 July, 12 noon. <br> Invitation details will be emailed to registrants by 15 July. |  |
 
+
+##### **Physical School Tour Actual Day Programme**
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Time     | Agenda     |      |
+| 2.00p.m.     | Parents to enter via Gate 3. (Holding area will be at the canteen, near the Interactive Wall.     |      |
+| 2.15p.m.     | 1st guided tour to commence.     |      |
+| 3.00p.m.     | 2nd guided tour to commence.     |      |
+| 3.45p.m.     | End of guided tour.     |      |
