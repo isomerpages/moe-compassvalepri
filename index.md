@@ -26,7 +26,7 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infobar:
-      title: CVPS Online Open House and School Tour
+      title: CVPS Physical School Tour
       id: infobar
       button: Please click here to register
       url: /registration-for-online-open-house-and-school-tour/
