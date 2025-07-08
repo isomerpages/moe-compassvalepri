@@ -29,7 +29,7 @@ sections:
       title: CVPS Physical School Tour
       id: infobar
       button: Please click here to register
-      url: cvps-open-house-2025/welcomepage/
+      url: /cvps-open-house-2025/welcomepage/
       description: Registration closes on 13 July, 12 noon.
   - infopic:
       title: Open House 2025
