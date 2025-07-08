@@ -50,3 +50,14 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 * To provide parents and prospective students an immersive experience of our vibrant learning environment in our school grounds.
 * For families to witness our students in action and gain first-hand insight into our holistic education approach, facilities, and school spirit through guided tours and dynamic CCA displays.
 * *Kindly note that there will be no classroom experience and visitors will not be able to buy food from canteen.*
+
+To register .....
+
+##### **Physical School Tour**
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Day/Date:     | Friday, 18th July 2025     |      |
+| Time:     | 2 p.m. to 3.45 p.m.<br>1st slot: 2.15 p.m. to 3 p.m.<br>2nd slot: 3 p.m. to 3.45 p.m.     |      |
+
+
