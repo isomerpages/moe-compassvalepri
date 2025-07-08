@@ -22,7 +22,7 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 
 
 
-###### **For Online Open House (via Microsoft Teams)**
+##### **For Online Open House (via Microsoft Teams)**
 
 |  |  |  |
 | -------- | -------- | -------- |
@@ -32,15 +32,18 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 |  |  |  |
 
 
+##### **Online Open House Actual Day Programme**
 
-###### **Online Open House Actual Day Programme**
-| Time | Agenda |
-| -------- | -------- | 
-| 8.55 a.m.     | Start admitting parents     | 
-| 9.00 a.m.     | — Commencement and briefing on programme<br> — Speakers: Principal, PSG Chairperson, CCA, Mother Tongue Language, Student Care, VP Admin.     | 
-| 8.55 a.m.     | Q&amp;A Session     | 
-| 8.55 a.m.     | End of Session     |
-<br>
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Time     | Agenda     |      |
+| 8.55a.m.     | Start admitting parents     |      |
+| 9.00a.m.     |  Commencement and briefing on programme.<br> Speakers: Principal, PSG Chairperson, CCA, Mother Tongue Language, Student Care, VP Admin.    |      |
+| 9.40a.m.     | Q&amp;A Session     |      |
+| 9.55a.m.     | End of Session     |      |
+|  |  |  |
+
 
 ### **For Physical School Tour**
 
