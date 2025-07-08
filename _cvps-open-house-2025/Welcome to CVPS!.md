@@ -60,7 +60,7 @@ To register for physical school tour, please click https://form.gov.sg/683d6c7a2
 |  |  |  |
 | -------- | -------- | -------- |
 | Time     | Agenda     |      |
-| 2.00p.m.     | Parents to enter via Gate 3. (Holding area will be at the canteen, near the Interactive Wall.)     |      |
+| 2.00p.m.     | Parents to enter via Gate 3. (Holding area will be at the canteen, near the Interactive Wall)     |      |
 | 2.15p.m.     | 1st guided tour to commence.     |      |
 | 3.00p.m.     | 2nd guided tour to commence.     |      |
 | 3.45p.m.     | End of guided tour.     |      |
