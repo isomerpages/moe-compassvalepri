@@ -64,8 +64,9 @@ Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</
 </li>
 <li>
 <p></p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -73,12 +74,12 @@ Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="4">
+<th rowspan="1" colspan="5">
 <p>Online Open House Actual Day Programme</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Time</strong>
 </p>
 </td>
@@ -88,7 +89,7 @@ Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>8.55 a.m.</p>
 </td>
 <td rowspan="1" colspan="3">
@@ -96,7 +97,7 @@ Mother Tongue Language (MTL) programs, CCAs, Nascan and Primary 1 experiences.</
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>9.00 a.m.</p>
 </td>
 <td rowspan="1" colspan="3">
@@ -112,7 +113,7 @@ Care, VP Admin.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>9.40 a.m.</p>
 </td>
 <td rowspan="1" colspan="3">
@@ -120,7 +121,7 @@ Care, VP Admin.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>9.55 a.m.</p>
 </td>
 <td rowspan="1" colspan="3">
