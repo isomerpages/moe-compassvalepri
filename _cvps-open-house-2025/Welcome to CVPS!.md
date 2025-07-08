@@ -26,8 +26,14 @@ Registration for both the Webinar and/or Physical School Tour will open on 27 Ju
 |   |   |  
 | -------- | -------- | 
 | Day/ Date:     | Saturday, 12th July 2025     |
-| Time:     | 9 a.m. to 10 a.m.     |
+| Time:     | 9 a.m. to 10 a.m.     | 
+Note: **The registration for Online Open House has closed.** Invitation details will be emailed to registrants by 10 July.
 
 
-
-
+###### **Online Open House Actual Day Programme**
+| Time | Agenda |
+| -------- | -------- | 
+| 8.55 a.m.     | Start admitting parents     | 
+| 9.00 a.m.     | — Commencement and briefing on programme<br> — Speakers: Principal, PSG Chairperson, CCA, Mother Tongue Language, Student Care, VP Admin.     | 
+| 8.55 a.m.     | Q&amp;A Session     | 
+| 8.55 a.m.     | End of Session     | 
