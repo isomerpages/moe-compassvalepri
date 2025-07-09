@@ -5,8 +5,8 @@ description: ""
 variant: markdown
 ---
 ### **Aesthetics**
-**Art Curriculum**<br>
-Compassvale Primary School’s Art Curriculum equips students with knowledge and skills to better understand and engage with the world they live in. Through keen observation, mediums exploration and experimentation, students learn to reflect and express their uniqueness by communicating their thoughts and emotions using artistic processes and creations.
+##### **Art Curriculum**
+Compassvale Primary School's Art Curriculum equips students with knowledge and skills to better understand and engage with the world they live in. Through keen observation, mediums exploration and experimentation, students learn to reflect and express their uniqueness by communicating their thoughts and emotions using artistic processes and creations.
 
 To develop a passion for the Arts in every Compassvalite through an integrated and holistic aesthetics programme.
 
