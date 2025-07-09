@@ -6,15 +6,45 @@ variant: markdown
 ---
 ### **Learning for Life Programme**
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSVyXFD5_5RcHo9E-Lq5LPj9gaDoyjlPQNzuad68wNn5RdsrnniksZ0ReFUIL2vuK-nk_hIP_oLlxKw/embed?start=false&amp;loop=true&amp;delayms=5000"></iframe>
+##### **Music as a Canvas for Creativity and Collaboration**
 
-The Learning for Life Programme (LLP) in Compassvale Primary School seeks to help our Compassvalites gain music appreciation skills through learning to play different musical instruments.&nbsp; The overall programme will enhance their learning in psychomotor, cognitive and affective domains.&nbsp; Through active engagement in collaborative learning, they will also acquire social and emotional competencies. They may eventually be active participants in the arts.  
-  
-The programme provides Compassvalites many opportunities to discover their talents.&nbsp; At lower primary, the Keyboard programme allows them to learn to read notes and play simple songs on the keyboard.&nbsp; The Cornet programme gives them an opportunity to play a brass instrument.&nbsp; The Tambourine Dance programme allows them to dance to the rhythm of a song and, at the same time, learn to handle a tambourine.  
+At Compassvale Primary School, our Learning for Life Programme (LLP) leverages the power of music to nurture creativity, build character, and strengthen social-emotional skills. Through varied and authentic musical experiences, Compassvalites are given opportunities to express themselves, collaborate with others, and grow in confidence.
 
-At the middle primary, Compassvalites learn to sing with proper posture and correct breathing technique. Then they will learn to dance and sing at the same time.&nbsp; This is the Show Choir programme that is well-liked by many.&nbsp; The Orff programme gives them an opportunity to play with glockenspiels and xylophones in an ensemble.
+**This programme aims to:**
 
-At the upper primary, Compassvalites continue their music journey into beatboxing and music composition.&nbsp; The Beatboxing programme helps them to discover themselves and make music themselves. The Garageband programme teaches them to compose their music with ICT.
+* Foster Compassvalites’ creativity through musical improvisation and exploration
+* Promote collaboration and teamwork by engaging Compassvalites in group music-making activities
 
-#### **Music Curriculum**<br>
-Compassvale Primary School's Music curriculum aims to develop students' ability for creative expression and communication through music.&nbsp; &nbsp;Compassvalites are given opportunities to learn simple keyboarding, recorder playing and ukelele playing.&nbsp; The theory learning helps Compassvalites read music so that instrumental learning can be more meaningful.&nbsp; Through the learning of the various musical instruments, important values like resilience and responsibility are inculcated.&nbsp; The curriculum also develops awareness and appreciation of music in local and global cultures.
+<img src="/images/Year%202025/CVPS%20Way/LLP1.jpg" style="width:65%" align="center"><br clear="center">
+
+By learning, creating, and performing together, Compassvalites not only develop musical skills but also important life skills that will support them well beyond the classroom.
+<br>
+
+##### **A Progressive and Joyful Music Learning Experience**
+
+Our music programme is thoughtfully designed to develop Compassvalites’ musical skills progressively across the primary years, while nurturing their creativity, confidence, and appreciation for diverse musical forms.
+
+In the lower primary levels, Compassvalites are introduced to the fundamentals of music through two engaging programmes. The Keyboard Programme helps them build a strong foundation in note reading and rhythm as they learn to play simple melodies. 
+
+Complementing this is the Tambourine Dance Programme, where Compassvalites express themselves through movement and learn to coordinate rhythm and tempo while handling the tambourine in choreographed routines.
+
+As they move into the middle primary years, Compassvalites expand their instrumental experience by learning the recorder, which sharpens their breath control, finger coordination, and melodic understanding. They are also introduced to ethnic percussion instruments, giving them a taste of Singapore’s rich cultural heritage while promoting ensemble playing and rhythmic sensitivity.
+
+In the upper primary levels, Compassvalites take their musical journey further by learning to play the ukulele, exploring chord progressions and song accompaniment. They also get to express their creativity through digital music composition using GarageBand, integrating technology in music-making.
+
+<img src="/images/Year%202025/CVPS%20Way/LLP3.jpg" style="width:65%" align="center"><p style="text-align: center;">Tambourine Dance</p>
+<br clear="center">
+<img src="/images/Year%202025/CVPS%20Way/LLP4.jpg" style="width:65%" align="center"><p style="text-align: center;">Composing songs using ukelele</p>
+<br clear="center">
+
+##### **Harmonising Creativity and Collaboration Through Music**
+
+At Compassvale Primary School, we celebrate Compassvalites’ musical talents through meaningful performance opportunities that spark creativity and encourage collaboration. Compass Ignite, our signature talent showcase, provides a vibrant platform for Compassvalites to express themselves confidently—whether through singing, instrumental play, or original compositions—while also working together to put up engaging performances.
+
+Complementing this are morning and recess busking sessions, where Compassvalites share music with their peers in informal, student-led settings. These opportunities not only spread joy and positivity across the school, but also foster a sense of teamwork, artistic expression, and peer encouragement.
+
+Through these experiences, Compassvalites grow as confident and creative performers, while discovering how music can be a powerful tool for connection, collaboration, and building a caring school community.
+
+<img src="/images/Year%202025/CVPS%20Way/LLP5.jpg" style="width:50%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/LLP6.jpg" style="width:50%" align="right"> 
+<br clear="right">
