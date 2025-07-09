@@ -15,8 +15,8 @@ At Compassvale Primary School, our Learning for Life Programme (LLP) leverages t
 * Foster Compassvalites’ creativity through musical improvisation and exploration
 * Promote collaboration and teamwork by engaging Compassvalites in group music-making activities
 
-<img src="/images/Year%202025/CVPS%20Way/LLP1.jpg" style="width:65%" align="center"><br clear="center">
-
+<img src="/images/Year%202025/CVPS%20Way/LLP1.jpg" style="width:65%" align="center"><br>
+<img src="/images/Year%202025/CVPS%20Way/LLP2.jpg" style="width:65%" align="center"><br clear="center">
 By learning, creating, and performing together, Compassvalites not only develop musical skills but also important life skills that will support them well beyond the classroom.
 <br>
 
