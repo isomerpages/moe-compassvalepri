@@ -6,16 +6,34 @@ variant: markdown
 ---
 ### **Aesthetics**
 ##### **Art Curriculum**
-Compassvale Primary School's Art Curriculum equips students with knowledge and skills to better understand and engage with the world they live in. Through keen observation, mediums exploration and experimentation, students learn to reflect and express their uniqueness by communicating their thoughts and emotions using artistic processes and creations.
+<img src="/images/Year%202025/CVPS%20Way/Art1.jpg" style="width:75%" align="center">
+<br>
+<img src="/images/Year%202025/CVPS%20Way/Art2.jpg" style="width:49%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/Art3.jpg" style="width:49%" align="right">
+<br clear="left">
 
-To develop a passion for the Arts in every Compassvalite through an integrated and holistic aesthetics programme.
+Our Art Curriculum nurtures creativity, self-expression, and critical thinking through hands-on exploration of various art forms. Integrated within a holistic aesthetics programme, it aims to spark a lifelong passion for the Arts by providing meaningful and progressive learning experiences that build confidence and collaboration.
 
-|  |  |
-|:---:|:---:|
-| **Cartoon Drawing**<br><br>Primary 2 students learn the foundation of cartoon drawing and apply the keyhole technique to draw cartoon characters and animals. | <img src="/images/aesthetics1.jpg" style="width:80%"> |
-| <img src="/images/aesthetics2.jpg" style="width:100%"> | **Sculpture Walk**<br><br>Primary 3 students became art critics for the day. Students are given the platform for self-expression as they evaluate and interpret public sculptures. |
-| **Museum Based Learning** <br><br> Primary 4 students develop visual observation and interpretation skills through active discussion.  | <img src="/images/aesthetics3.jpg" style="width:90%"> |
-| <img src="/images/aesthetics4.jpg" style="width:80%"> | **Manga Drawing**<br><br>Primary 5 students learn how to bring manga characters to life by adding facial expressions and accessories on them. |
-| **Batik Painting** <br><br> Primary 6 students explore the Malay culture of batik painting and learn how to ‘slow down’ and relax while engaging in the process of batik painting. | <img src="/images/aesthetics5.jpg" style="width:70%"> |
-| <img src="/images/aesthetics6.jpg" style="width:80%"> | **Expressive Portrait Drawing**<br><br>Primary 6 students learn how to draw features of the face and gain understanding on how viewpoints in a portraiture can impact viewer's emotion. |
-| **Instrumental Learning**<br>Students learn to play the keyboard, recorder and ukulele.<br><br>**Singing and Dancing**<br>Students sing and dance to the song learnt. They learn to sing with proper technique and express themselves with movements.  At Primary 6, they even learn to beatbox.| <img src="/images/aesthetics7.jpg" style="width:70%"> |
+To enhance the art learning experience at each level, Compassvalites participate in engaging and level-specific programmes:
+* **Primary 3** - Sculpture WAlk
+* **Primary 4** - Watercolour Painting &amp; Museum-Based Learning
+* **Primary 5** - Manga Drawing
+* **Primary 6** - Portrait Drawing
+
+These signature programmes not only enrich Compassvalites’ artistic skills but also deepen their cultural understanding and visual literacy, empowering them to become confident and expressive individuals.
+
+##### **Music Curriculum**<br>
+
+Our Music Curriculum provides Compassvalites with a vibrant and well-rounded musical experience that nurtures their creativity, expression, and appreciation for the performing arts.
+
+###### **Instrumental Learning**
+Compassvalites are introduced to a variety of instruments, including the keyboard, recorder, and ukulele. Through hands-on practice and guided instruction, they develop fundamental playing techniques, musical literacy, and ensemble skills.
+
+###### **Singing and Movement**
+Compassvalites engage in joyful singing and expressive movement as they learn to perform songs with proper vocal technique. Through dance and coordinated actions, they explore rhythm, pitch, and expression — enhancing their confidence and joy in musical performance.
+
+Together, these experiences cultivate a joyful and well-rounded appreciation of music, encouraging Compassvalites to express themselves confidently and connect with others through the universal language of music.
+
+<img src="/images/Year%202025/CVPS%20Way/Music1.jpg" style="width:32%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/Music2.jpg" style="width:36%" align="left"> 
+<img src="/images/Year%202025/CVPS%20Way/Music3.jpg" style="width:32%" align="right">
