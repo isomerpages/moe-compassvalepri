@@ -33,7 +33,6 @@ As they move into the middle primary years, Compassvalites expand their instrume
 In the upper primary levels, Compassvalites take their musical journey further by learning to play the ukulele, exploring chord progressions and song accompaniment. They also get to express their creativity through digital music composition using GarageBand, integrating technology in music-making.
 
 <img src="/images/Year%202025/CVPS%20Way/LLP3.jpg" style="width:65%" align="center"><p style="text-align: center;">Tambourine Dance</p>
-<br clear="center">
 <img src="/images/Year%202025/CVPS%20Way/LLP4.jpg" style="width:65%" align="center"><p style="text-align: center;">Composing songs using ukelele</p>
 <br clear="center">
 
