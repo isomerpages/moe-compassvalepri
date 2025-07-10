@@ -31,10 +31,10 @@ Complementing this is the Tambourine Dance Programme, where Compassvalites expre
 As they move into the middle primary years, Compassvalites expand their instrumental experience by learning the recorder, which sharpens their breath control, finger coordination, and melodic understanding. They are also introduced to ethnic percussion instruments, giving them a taste of Singapore’s rich cultural heritage while promoting ensemble playing and rhythmic sensitivity.
 
 In the upper primary levels, Compassvalites take their musical journey further by learning to play the ukulele, exploring chord progressions and song accompaniment. They also get to express their creativity through digital music composition using GarageBand, integrating technology in music-making.
-
-<img src="/images/Year%202025/CVPS%20Way/LLP3.jpg" style="width:65%" align="center"><p style="text-align: center;">Tambourine Dance</p>
-<img src="/images/Year%202025/CVPS%20Way/LLP4.jpg" style="width:65%" align="center"><p style="text-align: center;">Composing songs using ukelele</p>
-<br clear="center">
+<center>Tambourine Dance
+<img src="/images/Year%202025/CVPS%20Way/LLP3.jpg" style="width:65%" align="center">
+<center>Composing songs using ukelele
+<img src="/images/Year%202025/CVPS%20Way/LLP4.jpg" style="width:65%" align="center">
 
 ##### **Harmonising Creativity and Collaboration Through Music**
 
@@ -46,4 +46,4 @@ Through these experiences, Compassvalites grow as confident and creative perform
 
 <img src="/images/Year%202025/CVPS%20Way/LLP5.jpg" style="width:50%" align="left"> 
 <img src="/images/Year%202025/CVPS%20Way/LLP6.jpg" style="width:50%" align="right"> 
-<br clear="right">
+<br clear="right"></center></center>
