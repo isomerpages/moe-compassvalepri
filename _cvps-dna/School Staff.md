@@ -97,7 +97,7 @@ description: ""
 | P4 Integrity     | Ms Stephanie Cheong<br><br>Mdm Alinda     | stephanie_cheong@schools.gov.sg <br><br> alinda_ahmed@schools.gov.sg    |
 | P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | loh_thiam_fong@schools.gov.sg <br><br>norsham_mohammed_noh@schools.gov.sg<br><br> tan_fong_kin_rachel@schools.gov.sg   |
 | P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | liao_chunming_kenny@schools.gov.sg <br><br>ignez_tay_geok_choo@schools.gov.sg   |
-| P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari     | clara_poh_san_niah@schools.gov.sg <br><br> rajeswari_pannirselvam@schools.gov.sg  |
+| P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari<br><br>Ms Nurdirayah     | clara_poh_san_niah@schools.gov.sg <br><br> rajeswari_pannirselvam@schools.gov.sg<br><br>nurdirayah_mohamed_idris@schools.gov.sg  |
 | |
 
 <br>
