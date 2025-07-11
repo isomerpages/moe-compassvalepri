@@ -94,7 +94,7 @@ description: ""
 | -------- | -------- | -------- |
 | P4 Care     | Mr Nge Moh Lim<br><br>Mdm Huang Yan     | nge_moh_lim@schools.gov.sg <br><br> huang_yan_a@schools.gov.sg  |
 | P4 Harmony     | Mr Tay Wei Jun<br><br>Mrs Janet Tey     | tay_wei_jun@schools.gov.sg <br><br> ng_yet_yen@schools.gov.sg    |
-| P4 Integrity     | Mr Vinod Chandar<br><br>Mdm Alinda     | mohanadas_vinod_chandar@schools.gov.sg <br><br> alinda_ahmed@schools.gov.sg    |
+| P4 Integrity     | Ms Stephanie Cheong<br><br>Mdm Alinda     | stephanie_cheong@schools.gov.sg <br><br> alinda_ahmed@schools.gov.sg    |
 | P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | loh_thiam_fong@schools.gov.sg <br><br>norsham_mohammed_noh@schools.gov.sg<br><br> tan_fong_kin_rachel@schools.gov.sg   |
 | P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | liao_chunming_kenny@schools.gov.sg <br><br>ignez_tay_geok_choo@schools.gov.sg   |
 | P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari     | clara_poh_san_niah@schools.gov.sg <br><br> rajeswari_pannirselvam@schools.gov.sg  |
