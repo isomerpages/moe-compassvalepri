@@ -35,7 +35,7 @@ In the upper primary levels, Compassvalites take their musical journey further b
 <img src="/images/Year%202025/CVPS%20Way/LLP3.jpg" style="width:65%" align="center">
 <center>Composing songs using ukelele
 <img src="/images/Year%202025/CVPS%20Way/LLP4.jpg" style="width:65%" align="center">
-<br clear="center">
+<br clear="center"></center>
 	
 ##### **Harmonising Creativity and Collaboration Through Music**
 <br>
@@ -44,9 +44,9 @@ At Compassvale Primary School, we celebrate Compassvalites’ musical talents th
 Complementing this are morning and recess busking sessions, where Compassvalites share music with their peers in informal, student-led settings. These opportunities not only spread joy and positivity across the school, but also foster a sense of teamwork, artistic expression, and peer encouragement.
 
 Through these experiences, Compassvalites grow as confident and creative performers, while discovering how music can be a powerful tool for connection, collaboration, and building a caring school community.
-
+</center>
 <center>Compass Ignite<br>
 <img src="/images/Year%202025/CVPS%20Way/LLP5.jpg" style="width:65%" align="center"><br>
 Recess Basking
 <img src="/images/Year%202025/CVPS%20Way/LLP6.jpg" style="width:65%" align="center"> 
-<br clear="center"></center></center></center>
+<br clear="center"></center>
