@@ -34,10 +34,11 @@ In the upper primary levels, Compassvalites take their musical journey further b
 <center>Tambourine Dance
 <img src="/images/Year%202025/CVPS%20Way/LLP3.jpg" style="width:65%" align="center">
 <center>Composing songs using ukelele
-<img src="/images/Year%202025/CVPS%20Way/LLP4.jpg" style="width:65%" align="center"><br clear="center">
+<img src="/images/Year%202025/CVPS%20Way/LLP4.jpg" style="width:65%" align="center">
+<br clear="center">
 	
 ##### **Harmonising Creativity and Collaboration Through Music**
-
+<br>
 At Compassvale Primary School, we celebrate Compassvalites’ musical talents through meaningful performance opportunities that spark creativity and encourage collaboration. Compass Ignite, our signature talent showcase, provides a vibrant platform for Compassvalites to express themselves confidently—whether through singing, instrumental play, or original compositions—while also working together to put up engaging performances.
 
 Complementing this are morning and recess busking sessions, where Compassvalites share music with their peers in informal, student-led settings. These opportunities not only spread joy and positivity across the school, but also foster a sense of teamwork, artistic expression, and peer encouragement.
