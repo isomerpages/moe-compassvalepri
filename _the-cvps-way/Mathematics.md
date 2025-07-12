@@ -35,11 +35,11 @@ Each child will now be exposed to more complex strategies in the **HATS** packag
 At Primary 4 level, your child may also have an opportunity to participate in **Mathematics Olympiad** and **Excellence 2000 (E2K) Mathematics** programme.
 
 **Learning Support for Mathematics (LSM)**<br>				
-LSM aims to provide intervention  support for selected Primary 3 and 4 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through factual fluency routines and other hands-on activities where they get to experience successes incrementally and build their confidence.
+LSM aims to provide intervention support for selected Primary 3 and 4 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through factual fluency routines and other hands-on activities where they get to experience successes incrementally and build their confidence.
 
-<img src="/images/2024%20Open%20House/Math/Math4.jpg" style="width:23.5%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/Math/Math5.jpg" style="width:42%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/Math/Math6.jpg" style="width:23.5%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/Open%20House%202025/Math4.jpg" style="width:37.5%;margin-right:3px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/Math5.jpg" style="width:30%;margin-right:3px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/Math6.jpg" style="width:30%;margin-right:3px;" align="right">
 <br clear="left">
 																		
 
