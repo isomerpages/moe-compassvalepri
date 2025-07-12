@@ -15,12 +15,6 @@ Plenty of opportunities for hands-on and activity-based learning are provided th
 
 In addition, the enhanced **Learning Support Programme for Mathematics (LSM)** supports selected Primary 1 and 2 children to strengthen their foundation in Mathematics to ensure that every child is well-equipped to advance in their journey in Mathematics.
 
-Learning does not end in the classroom. Your child gets to participate in the **Mathematics Games** which are conducted during recess. These games had been carefully selected by the teachers to reinforce mathematical skills that have been taught in the classroom. The games excite the children to explore learning through play with their peers. This stimulates skills which include critical thinking, spatial visualisation and analysis of relationships. Students would foster a love for Mathematics in an engaging environment where creativity is promoted. 
-
-<img src="/images/2024%20Open%20House/Math/Math1.jpg" style="width:46%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/Math/Math2.jpg" style="width:46%;margin-right:15px;" align="left"> 
-<br clear="left">
-
 ##### **Specialty Programme**<br>
 **Mathematics Big Book Reading Programme**<br>
 Mathematics Big Book Reading Programme helps our younger students to develop interest and motivation in learning Mathematics using Math stories and role plays. Through these interactive activities, they have fun with Mathematics and deepen their understanding of Mathematical concepts. Hands-on activities are also designed to accompany the Big Book stories in the P1 and P2 classrooms.
