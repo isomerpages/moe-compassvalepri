@@ -31,20 +31,20 @@ Complementing this is the Tambourine Dance Programme, where Compassvalites expre
 As they move into the middle primary years, Compassvalites expand their instrumental experience by learning the recorder, which sharpens their breath control, finger coordination, and melodic understanding. They are also introduced to ethnic percussion instruments, giving them a taste of Singapore’s rich cultural heritage while promoting ensemble playing and rhythmic sensitivity.
 
 In the upper primary levels, Compassvalites take their musical journey further by learning to play the ukulele, exploring chord progressions and song accompaniment. They also get to express their creativity through digital music composition using GarageBand, integrating technology in music-making.
-<center>Tambourine Dance
+<center>Tambourine Dance</center>
 <img src="/images/Year%202025/CVPS%20Way/LLP3.jpg" style="width:65%" align="center">
-<center>Composing songs using ukelele
+<center>Composing songs using ukelele</center>
 <img src="/images/Year%202025/CVPS%20Way/LLP4.jpg" style="width:65%" align="center">
-<br clear="center"></center>
+<br clear="center">
 	
 ##### **Harmonising Creativity and Collaboration Through Music**
-<br>
+
 At Compassvale Primary School, we celebrate Compassvalites’ musical talents through meaningful performance opportunities that spark creativity and encourage collaboration. Compass Ignite, our signature talent showcase, provides a vibrant platform for Compassvalites to express themselves confidently—whether through singing, instrumental play, or original compositions—while also working together to put up engaging performances.
 
 Complementing this are morning and recess busking sessions, where Compassvalites share music with their peers in informal, student-led settings. These opportunities not only spread joy and positivity across the school, but also foster a sense of teamwork, artistic expression, and peer encouragement.
 
 Through these experiences, Compassvalites grow as confident and creative performers, while discovering how music can be a powerful tool for connection, collaboration, and building a caring school community.
-</center>
+
 <center>Compass Ignite<br>
 <img src="/images/Year%202025/CVPS%20Way/LLP5.jpg" style="width:65%" align="center"><br>
 Recess Basking
