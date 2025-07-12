@@ -50,7 +50,8 @@ For **HATS**, the students will be taught more advanced techniques and strategie
 
 In addition, the teachers will also introduce the Adaptive Learning Systems in SLS so that students can take charge of their own learning in bridging the gaps in the topics that they needed more support in. 
 
-<img src="/images/2024%20Open%20House/Math/Math7.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/2024%20Open%20House/Math/Math8.jpg" style="width:30%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/Math/Math9.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/Year%202025/Open%20House%202025/Math7.jpg" style="width:27%;margin-right:0.5px;" align="left">
+<img src="/images/Year%202025/Open%20House%202025/Math8.jpg" style="width:29%;margin-right:0.5px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/Math9.jpg" style="width:17%;margin-right:0.5px;" align="left">
+<img src="/images/Year%202025/Open%20House%202025/Math10.jpg" style="width:26.5%;margin-right:0.5px;" align="right">
 <br clear="left">
