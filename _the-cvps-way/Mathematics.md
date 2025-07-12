@@ -20,10 +20,12 @@ In addition, the enhanced **Learning Support Programme for Mathematics (LSM)** s
 Mathematics Big Book Reading Programme helps our younger students to develop interest and motivation in learning Mathematics using Math stories and role plays. Through these interactive activities, they have fun with Mathematics and deepen their understanding of Mathematical concepts. Hands-on activities are also designed to accompany the Big Book stories in the P1 and P2 classrooms.
 
 **Learning Support for Mathematics (LSM)**<br>
-LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.
-<center>
-<img src="/images/2024%20Open%20House/Math/Math3.jpg" style="width:55%;margin-right:15px;" align="left">
-<br clear="left"></center>
+LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.<br>
+
+<img src="/images/Year%202025/Open%20House%202025/Math1.jpg" style="width:32.5%;margin-right:4px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/Math2.jpg" style="width:32.5%;margin-right:4px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/Math3.jpg" style="width:32.5%;margin-right:2px;" align="right">
+<br clear="left">
 
 #### **Mathematics Primary 3 and 4**
 As each student progresses to the intermediate stage in their Mathematics journey, he/she is exposed to a more abstract concept. The use of **SSM** is integral in the acquisition of concepts as they help to provide a concrete and visual platform for their learning, while keeping them engaged. Group-based activity becomes more frequent as the children support each other in collaborative learning.
