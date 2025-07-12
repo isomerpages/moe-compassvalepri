@@ -22,23 +22,22 @@ The programme is designed to develop our students’ critical and inventive thin
 #### **Mathematics Department** 
 **Mathematics Olympiad** 
 
-The Mathematics Olympiad programme in CVPS aims to stretch students who are more mathematically inclined and are progressive in content coverage from Primary 4 to Primary 6.
+Are you game enough for more? Then we have the **Mathematics Olympiad** Training and Competition for you! The Mathematics Olympiad programme in CVPS aims to stretch students who are more mathematically inclined from Primary 4 to Primary 6.
 
 Selected Primary 4 to Primary 6 students will also represent the school to take part in the Mathematics Olympiad Competitions at the national level.
 
-<img src="/images/mathphoto56special1.jpeg" style="width:65%;margin-center:15px;" align="center">
-<br clear="center">
-
 **Excellence 2000 E2K Mathematics Programme** 
 
-P4 and P5 Compassvalites are taking a step further in their Mathematics competency through the E2K programme.
+Who knew getting the wrong answers could bring tears of joy? P4 and P5 Compassvalites are taking a step further in honing their Mathematics competency through the E2K programme.
 
-The E2K Mathematics Programme aims to develop cognitive abilities of independent learning, higher order thinking and creativity in students who are advanced in the learning of the subject. This group of students will also learn to create and make connections of the mathematical concepts that they have acquired into real life applications at upper primary level. 
+The E2K Mathematics Programme aims to develop cognitive abilities of independent learning, higher order thinking and creativity in students who are advanced in the learning of the subject. This group of students will also learn to create and make connections of the mathematical concepts that they have acquired into real life applications. 
 
-This empowers and stretches the students’ mathematical skills, fosters abilities, and strengthens their confidence in the subject. Furthermore, this programme is taught by E2K-trained teachers so that targeted coaching can reinforce students' perception of self as an independent and mature learner and investigator.
+This empowers and stretches the students’ mathematical skills, fosters abilities and strengthens their confidence in the subject. Furthermore, this programme is taught by E2K-trained teachers so that targeted coaching can reinforce students' perception of self as an independent and mature learner and investigator.
 
-<img src="/images/mathphoto34special.jpeg" style="width:65%;margin-center:15px;" align="center">
-<br clear="center">
+ <img src="/images/Year%202025/Open%20House%202025/halmath1.jpg" style="width:49.5%;margin-right:3px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/halmath2.jpg" style="width:28%;margin-right:1px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/halmath3.jpg" style="width:21%;margin-right:1px;" align="right"> 
+<br clear="left">
 
 #### **Science Department**
 **Science Olympiad Programme** 
