@@ -45,8 +45,8 @@ Complementing this are morning and recess busking sessions, where Compassvalites
 
 Through these experiences, Compassvalites grow as confident and creative performers, while discovering how music can be a powerful tool for connection, collaboration, and building a caring school community.
 
-<center>Compass Ignite<br>
+<center>Compass Ignite<br></center>
 <img src="/images/Year%202025/CVPS%20Way/LLP5.jpg" style="width:65%" align="center"><br>
 Recess Basking
 <img src="/images/Year%202025/CVPS%20Way/LLP6.jpg" style="width:65%" align="center"> 
-<br clear="center"></center>
+<br clear="center">
