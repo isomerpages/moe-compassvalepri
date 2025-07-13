@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 ### **Aesthetics**
-##### **Art Curriculum**
+#### **Art Curriculum**
 <img src="/images/Year%202025/CVPS%20Way/Art1.jpg" style="width:75%" align="center">
 <br>
 <img src="/images/Year%202025/CVPS%20Way/Art2.jpg" style="width:49%" align="left"> 
@@ -22,14 +22,14 @@ To enhance the art learning experience at each level, Compassvalites participate
 
 These signature programmes not only enrich Compassvalites’ artistic skills but also deepen their cultural understanding and visual literacy, empowering them to become confident and expressive individuals.
 
-##### **Music Curriculum**<br>
+#### **Music Curriculum**<br>
 
 Our Music Curriculum provides Compassvalites with a vibrant and well-rounded musical experience that nurtures their creativity, expression, and appreciation for the performing arts.
 
-###### **Instrumental Learning**
+##### **Instrumental Learning**
 Compassvalites are introduced to a variety of instruments, including the keyboard, recorder, and ukulele. Through hands-on practice and guided instruction, they develop fundamental playing techniques, musical literacy, and ensemble skills.
 
-###### **Singing and Movement**
+##### **Singing and Movement**
 Compassvalites engage in joyful singing and expressive movement as they learn to perform songs with proper vocal technique. Through dance and coordinated actions, they explore rhythm, pitch, and expression — enhancing their confidence and joy in musical performance.
 
 Together, these experiences cultivate a joyful and well-rounded appreciation of music, encouraging Compassvalites to express themselves confidently and connect with others through the universal language of music.
