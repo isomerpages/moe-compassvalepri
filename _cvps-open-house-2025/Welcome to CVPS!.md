@@ -6,9 +6,6 @@ description: ""
 ---
 <img src="/images/Year%202025/Open%20House%202025/Website_Banner.jpg" style="width:80%" align="center"><br clear="center">
 
-**to insert video
-**
-
 #### **For Physical School Tour**
 
 * To provide parents and prospective students an immersive experience of our vibrant learning environment in our school grounds.
