@@ -30,6 +30,6 @@ description: ""
 | 3.45p.m.     | End of guided tour.     |      |
 |  |  |  |
 
-<img src="/images/Year%202025/Open%20House%202025/2025flyer.png" style="width:100%" align="center"><br clear="center">
+<img src="/images/Year%202025/Open%20House%202025/2025flyer.png" style="width:90%" align="center"><br clear="center">
 
 Please click [here](/files/2025_CVPS_Online_Open_House_Sharing.pdf) to download the Online Open House Sharing file.
