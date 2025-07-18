@@ -25,6 +25,11 @@ sections:
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infobar:
+      title: CVPS Online Open House Video
+      id: infobar
+      button: Please click here to view
+      url: /cvps-open-house-2025/welcomepage/
   - infopic:
       title: Open House 2025
       subtitle: Compassvale Primary school
