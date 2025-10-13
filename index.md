@@ -30,14 +30,6 @@ sections:
       id: infobar
       button: Please click here to view
       url: /cvps-open-house-2025/welcomepage/
-  - infopic:
-      title: Open House 2025
-      subtitle: Compassvale Primary school
-      id: infopic
-      button: Click here for more details
-      url: /cvps-open-house-2025/welcomepage/
-      image: /images/Year 2025/Open House 2025/Website_Banner.jpg
-      alt: Open House 2025
   - infobar:
       title: Year 2025 P1 Orientation Briefing Slides
       id: infobar
