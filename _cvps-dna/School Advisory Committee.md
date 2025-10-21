@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Advisory Committee</strong></h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -28,8 +33,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/sac2.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/SAC/Mr_Daniel_Tham.jpg">
 </div>
 </td>
 </tr>
