@@ -66,7 +66,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_Vincent_Lee_2.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/Year 2025/School Leaders/Vincent_Lee_P_9124___Copy.jpg">
 </div>
 </td>
 </tr>
@@ -106,12 +106,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr James Teo</strong>
+<p><strong>Dr Annitha</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Mr_James_Teo1.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Dr_Annitha_photo.jpg">
 </div>
 </td>
 </tr>
@@ -121,12 +121,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Dr Annitha</strong>
+<p><strong>Mr Derrick Lin</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2024 Photos (SL &amp; SAC)/Dr_Annitha_photo.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2025/SAC/Mr_Lin_Poh_Derrick.jpg">
 </div>
 </td>
 </tr>
