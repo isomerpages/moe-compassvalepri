@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Location.md
+      - School Vendors/School Canteen.md
       - School Vendors/.keep
       - School Vendors/School Bookshop.md
       - School Vendors/Student Care Centre.md
