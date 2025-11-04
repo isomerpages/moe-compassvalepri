@@ -25,7 +25,7 @@ sections:
   - infobar:
       title: School Canteen Advertisement
       id: infobar
-      description: Muslim Rice Stall
+      description: For Muslim Rice Stall
       button: Click here for more details
       url: /school-canteen/
   - infobar:
