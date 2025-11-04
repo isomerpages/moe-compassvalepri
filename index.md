@@ -23,6 +23,12 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      description: Muslim Rice Stall
+      button: Click here for more details
+      url: /school-canteen/
+  - infobar:
       title: CVPS Online Open House Video
       id: infobar
       button: Please click here to view
