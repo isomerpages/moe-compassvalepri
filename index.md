@@ -18,13 +18,16 @@ sections:
         - title: CONTACT US
           description: ""
           url: /contact/school-vendors/school-bookshop/
-        - title: CVPS Open House 2025
-          description: ""
-          url: https://www.compassvalepri.moe.edu.sg/cvps-open-house-2025/welcomepage/
       variant: image
   - infobar:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
+  - infobar:
+      title: School Canteen Advertisement
+      id: infobar
+      description: For Muslim Rice Stall
+      button: Click here for more details
+      url: /school-canteen/
   - infobar:
       title: CVPS Online Open House Video
       id: infobar
