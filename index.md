@@ -24,7 +24,7 @@ sections:
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infobar:
       title: Briefing Slides
-      subtitle: 2026 P1 Pre-Orientation
+      subtitle: Year 2026 P1 Pre-Orientation
       id: infobar
       button: Click here to download
       url: /year-2026-primary-1-pre-orientation/
