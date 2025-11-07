@@ -23,6 +23,12 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infobar:
+      title: Briefing Slides
+      subtitle: Year 2026 P1 Pre-Orientation
+      id: infobar
+      button: Click here to download
+      url: /year-2026-primary-1-pre-orientation/
+  - infobar:
       title: School Canteen Advertisement
       id: infobar
       description: For Muslim Rice Stall
@@ -33,16 +39,6 @@ sections:
       id: infobar
       button: Please click here to view
       url: /cvps-open-house-2025/welcomepage/
-  - infobar:
-      title: Year 2025 P1 Orientation Briefing Slides
-      id: infobar
-      button: Please click here to download
-      url: https://www.compassvalepri.moe.edu.sg/parents/p1orientation/
-  - infobar:
-      title: Year 2025 Booklists
-      id: infobar
-      button: Please click to view
-      url: https://www.compassvalepri.moe.edu.sg/parents/2025booklists/
   - infopic:
       title: CVPS School Library
       description: Find out the new arrivals, what’s popular, leave a review, and more
