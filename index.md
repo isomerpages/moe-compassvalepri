@@ -39,16 +39,6 @@ sections:
       id: infobar
       button: Please click here to view
       url: /cvps-open-house-2025/welcomepage/
-  - infobar:
-      title: Year 2025 P1 Orientation Briefing Slides
-      id: infobar
-      button: Please click here to download
-      url: https://www.compassvalepri.moe.edu.sg/parents/p1orientation/
-  - infobar:
-      title: Year 2025 Booklists
-      id: infobar
-      button: Please click to view
-      url: https://www.compassvalepri.moe.edu.sg/parents/2025booklists/
   - infopic:
       title: CVPS School Library
       description: Find out the new arrivals, what’s popular, leave a review, and more
