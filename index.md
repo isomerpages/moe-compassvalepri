@@ -23,6 +23,12 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infobar:
+      title: Briefing Slides
+      subtitle: 2026 P1 Pre-Orientation
+      id: infobar
+      button: Click here to download
+      url: /year-2026-primary-1-pre-orientation/
+  - infobar:
       title: School Canteen Advertisement
       id: infobar
       description: For Muslim Rice Stall
