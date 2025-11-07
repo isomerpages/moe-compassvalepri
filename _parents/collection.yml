@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Year 2026 Primary 1 Pre Orientation.md
       - General School Information.md
       - Parents Gateway Mobile App.md
       - PDPA.md
