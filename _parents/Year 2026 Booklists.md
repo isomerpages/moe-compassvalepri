@@ -17,10 +17,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 1 Booklist</p>
+<p><a href="/files/2026 Booklists/CVPS_P1_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2026 Booklists/CVPS_P1_Booklist_2026_Final.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
+</p>
 </td>
 </tr>
 <tr>
