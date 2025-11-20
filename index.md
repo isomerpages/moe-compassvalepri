@@ -23,6 +23,11 @@ sections:
       title: Compassvale Primary School
       description: THINKERS        •       LEADERS       •       CHAMPIONS
   - infobar:
+      title: Year 2026 Booklists
+      id: infobar
+      button: Click here to download
+      url: year-2026-booklists/
+  - infobar:
       title: Briefing Slides
       subtitle: Year 2026 P1 Pre-Orientation
       id: infobar
