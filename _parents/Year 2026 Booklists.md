@@ -34,7 +34,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Primary 3 Booklist (updating in progress)</p>
+<p><strong><a href="/files/2026 Booklists/CVPS_P3_Booklist_2026_Final__1_.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist</a></strong>
+</p>
 </td>
 </tr>
 <tr>
