@@ -51,7 +51,7 @@ Note: Major rules are in&nbsp;**bold.**
 
 |  |  |
 |:---:|---|
-| Bullying<br><br><br><br>Vaping<br><br><br><br>Vaping (with etomidate)  | Bullying is a serious offence. School-based consequences will include suspension, caning (for boys), and conduct grade adjustment. <br><br>Vaping is a serious offence. School-based consequences will include suspension and conduct grade adjustment.<br><br>Vaping (with etomidate) is a very serious offence. School-based consequences will include suspension, caning (for boys), and adjustment of conduct grade. A police report will be made, and school-based consequences will be meted out in addition to the national penalties imposed by HSA. |
+| Bullying<br><br><br>Vaping<br><br><br>Vaping (with etomidate)  | Bullying is a serious offence. School-based consequences will include suspension, caning (for boys), and conduct grade adjustment. <br><br>Vaping is a serious offence. School-based consequences will include suspension and conduct grade adjustment.<br><br>Vaping (with etomidate) is a very serious offence. School-based consequences will include suspension, caning (for boys), and adjustment of conduct grade. A police report will be made, and school-based consequences will be meted out in addition to the national penalties imposed by HSA. |
 |
 
 
