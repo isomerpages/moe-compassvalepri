@@ -10,39 +10,44 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Year 2025/School Leaders/Mr_Lee__resized_.jpg">
 </div>
-<p>Dear Parents and Guardians,</p>
-<p>As an educator, I often asked myself, what is the purpose of education?
-To me, education is strengthening one’s heart and mind so that they have
-the will to act responsibility and the belief that any individual can seek
-to be a better version of themselves. The school’s emblem reflects our
-school’s commitment to the total development of the child through quality
-education centered on values and compassion, instilling the desire for
-lifelong learning and self-improvement.</p>
-<p>Compassvale Primary School (CVPS) was established on 4 January 1999, our
-vision inspires us to nurture Thinkers • Leaders • Champions. We want our
-students to be ethical, responsible thinkers and leaders who are attuned
-to the needs of the community and society, and actively championing for
-a good cause for the betterment of the community and society.</p>
-<p>To better prepare our students as active contributors, we aim to ignite
-the students’ curiosity and passion for learning through our total curriculum
-both within and beyond the classroom. Our school’s Learning for Life Programme
-provides Compassvalites many opportunities to discover their talents and
-interests. The Applied Learning Programme further develops students’ interest
-in Science, Technology, Engineering and Mathematics (STEM). Through these
-holistic learning experiences, we seek to develop students’ critical and
-inventive thinking, and problem-solving skills to tackle tomorrow’s challenges.</p>
-<p>In CVPS, we provide not just a robust and holistic total curriculum, but
-an enabling and caring school environment. One where the students feel
-that their voices matter and they feel happy, challenged within a safe
-and supportive environment.</p>
-<p>As the saying goes, “It takes a village to raise a child”, a strong partnership
-between school, stakeholders and community is therefore important to reinforce,
-enrich, and deepen the students’ learning. This strong nexus of School-Home-Community
-partnership will support teachers to help our students succeed in their
-endeavours. I look forward to our enduring partnership to nurture our students
-to become lifelong learners who strive together for a bright tomorrow.</p>
 <p></p>
-<p></p>
-<p>Your Partner-In-Education,</p>
-<p>Mr Vincent Lee</p>
-<p>Principal</p>
+<p><strong>Dear Parents and Guardians,</strong>
+</p>
+<p>As an educator, I often reflect on the purpose of education. I believe
+education shapes both the heart and mind, empowering individuals to act
+responsibly, strive to become better versions of themselves, and enable
+them to make meaningful contributions to society.&nbsp;</p>
+<p>Therefore, education at Compassvale Primary School (CVPS) seeks to nurture
+every child to grow in his/her character, intellect and purpose so that
+they become purpose-driven learners who can thrive with confidence in an
+ever evolving and complex future.</p>
+<p>Our vision of nurturing Thinkers of Tomorrow, Leaders of Character, and
+Contributors of Community (T.L.C.) shapes the CVPS experience. As Thinkers
+of Tomorrow, our students are encouraged to be curious, creative, and resilient
+problem-solvers who embrace challenges and innovate with confidence. As
+Leaders of Character, they develop strong values, moral courage, and the
+ability to collaborate, influence, and lead with empathy. As Contributors
+of Community, they learn to exercise student agency, care for others, and
+develop a deep sense of belonging and responsibility to the community.</p>
+<p>Through a progressive and holistic total curriculum, we provide authentic
+and experiential learning opportunities that extend beyond the classroom.
+Our Learning for Life Programme, Applied Learning Programme, W.O.R.L.D.
+overseas learning trips, Camps and Co-Curriculum Activities enable our
+students to broaden their perspectives, discover their strengths and interests,
+apply their learning meaningfully, develop skills and character strengths
+that are essential for the future.</p>
+<p>Beyond the curriculum, at the heart of CVPS, is a caring and enabling
+culture where relationships matter. We strive to create a safe and supportive
+environment where students and staff feel confident expressing their voices,
+taking ownership of their continuous growth.</p>
+<p>Lastly, education is a shared endeavour, by strengthening the School-Home-Community
+collaboration, I believe we can collectively support our students’ holistic
+development and well-being. I look forward to working closely with you,
+parents, to nurture Compassvalites to become lifelong learners who lead
+with purpose, serve with compassion, and embrace the future with optimism.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Your Partner-in-Education,</strong>
+<br><strong>Mr Vincent Lee</strong>
+<br><strong>Principal</strong>
+</p>
