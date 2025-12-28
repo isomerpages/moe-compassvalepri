@@ -7,27 +7,39 @@ variant: markdown
 ---
 ### **Physical Science**
 
-<img src="/images/Year%202025/2025%20CCA/Physical_Science_1_R.jpg" style="width:49%" align="left">
-<img src="/images/Year%202025/2025%20CCA/Physical_Science_2_R.jpg" style="width:49%" align="right">
+<img src="/images/Year%202025/2025%20CCA/Physical_Science_2_R.jpg" style="width:49%" align="left"><img src="/images/Year%202025/2025%20CCA/Physical_Science_1_R.jpg" style="width:49%" align="right">
 <br clear="left">
+<br clear="right">
 
-<br>
+##### **What We Do**<br>
+Science Club brings curiosity to life through hands-on experiments and real-world investigations. Members explore scientific concepts in fun, engaging ways while building problem-solving and inquiry skills. <br><br>
 <img src="/images/2024%20Open%20House/CCA/Physical_Science_5.jpg" style="width:33%" align="left">
 <img src="/images/2024%20Open%20House/CCA/Physical_Science_7.jpg" style="width:33%" align="left"> 
 <img src="/images/Year%202025/2025%20CCA/Physical_Science_3_R.jpg" style="width:33%" align="left"> 
 <br clear="left">
 
-Science Club conducts activities to encourage students to explore science in the world around them. We begin with kitchen science in which club members use a host of household ingredients to conduct science experiments. Through such experiments, students learn how liquid soap breaks down fat in milk, causing a swirling symphony of colours to the food colouring. Students will also learn that baking soda and vinegar create an acid-base reaction and the two chemicals work together to create a gas. Science Club also promotes environmental consciousness through upcycling projects. Through these projects, students minimise the volume of discarded materials and turn their trash to treasure. Students use recyclables materials such as boxes, cartons of milks, bottles and compact discs to create usable products.
+##### **What Students Will Learn**<br>
+* Scientific method and experimentation
+* Chemistry, physics and environmental science basics
+* Teamwork through group investigations
+* Creativity in designing experiments and solutions <br>
+<center><img src="/images/2024%20Open%20House/CCA/Physical_Science_12R.jpg" style="width:65%"></center>
+
+##### **Opportunities for Students**<br>
+* School-based science fairs
+* Participation in external science challenges <br>
+<img src="/images/2024%20Open%20House/CCA/Physical_Science_15.jpg" style="width:49%" align="left"><img src="/images/2024%20Open%20House/CCA/Physical_Science_10.jpg" style="width:49%" align="right">
+<br clear="left">
+<br clear="right">
+
+##### **Who Should Join**<br>
+* Students curious about how things work
+* Students who enjoy hands-on learning and discovery <br>
 
 <img src="/images/2024%20Open%20House/CCA/Physical_Science_9.jpg" style="width:49%" align="left">
-<img src="/images/2024%20Open%20House/CCA/Physical_Science_10.jpg" style="width:49%" align="right">
-<br clear="left">
-<br>
-<img src="/images/2024%20Open%20House/CCA/Physical_Science_15.jpg" style="width:49%" align="left">
 <img src="/images/2024%20Open%20House/CCA/Physical_Science_2.jpg" style="width:49%" align="right"> 
 <br clear="left">
-<br>
-<img src="/images/2024%20Open%20House/CCA/Physical_Science_12R.jpg" style="width:65%">
+<br clear="right">
 
 <center>
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQenPWZtqlO3phiJ6KdbriqcEyOkZZVBk3Azsa8-8dNtdKNU_NYft4HbKML2dX6kIqgwKrkTCOHSJ3d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
