@@ -13,7 +13,7 @@ variant: markdown
 <br clear="right">
 
 ##### **What We Do**
-Chinese Dance celebrates elegance, expression and storytelling through movement. Under the guidance of experienced instructors and dedicated teachers, members learn a range of traditional and contemporary Chinese dance styles. Students develop musicality, body control, rhythm and grace as they train and perform as an ensemble. <br>
+Chinese Dance celebrates elegance, expression and storytelling through movement. Under the guidance of experienced instructors and dedicated teachers, members learn a range of traditional and contemporary Chinese dance styles. Students develop musicality, body control, rhythm and grace as they train and perform as an ensemble. <br><br>
 <img src="/images/Year%202025/2025%20CCA/Chinese_Dance_4_R.jpg" style="width:49%" align="left">
 <img src="/images/Year%202025/2025%20CCA/Chinese_Dance_2_R.jpg" style="width:49%" align="right"><br>
 <br clear="left">
