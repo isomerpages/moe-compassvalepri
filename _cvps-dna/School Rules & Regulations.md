@@ -46,8 +46,7 @@ Note: Major rules are in&nbsp;**bold.**
 
 |  |
 |---|
-| Based on evidence from teachers, witness statements and/or school security measures, the School Disciplinary Committee will decide on the appropriate consequence for each offence committed. Disciplinary measures, intended to foster acceptable and appropriate behaviour in the child, will be meted out depending on the nature and severity of the offence. They may include:<br>- Suspension (including from school-based activities or external activities such as learning journey, camps etc.)<br>- Corrective work<br> - Compensation<br> - Caning (for boys)<br> - Parent engagement<br> - Counselling<br> - Adjustment of conduct grade<br>|  |  
-
+| Based on evidence from teachers, witness statements and/or school security measures, the School Disciplinary Committee will decide on the appropriate consequence for each offence committed. Disciplinary measures, intended to foster acceptable and appropriate behaviour in the child, will be meted out depending on the nature and severity of the offence. They may include:<br>- Suspension (including from school-based activities or external activities such as learning journey, camps etc.)<br>- Corrective work<br> - Compensation<br> - Caning (for boys)<br> - Parent engagement<br> - Counselling<br> - Adjustment of conduct grade|  |  
 
 |  |  |
 |:---:|---|
