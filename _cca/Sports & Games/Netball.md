@@ -29,5 +29,9 @@ Netball emphasizes speed, precision and teamwork. Members train in passing, foot
 * Leadership roles within the team
 <center><img src="/images/Year%202025/2025%20CCA/netball00.png" style="width:65%"></center>
 
+##### **Who Should Join**<br>
+* Students who enjoy fast-paced, team-based sports
+* Students who thrive in structured, strategic play<br>
+
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lZP_yPgpk6U?si=WBeyaM1Ve2GuynQX" align="center" height="315" width="560"> </iframe> </center>
