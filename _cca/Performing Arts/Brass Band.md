@@ -7,32 +7,33 @@ variant: markdown
 ---
 ### **Brass Band**
 
-<img src="/images/Year%202025/2025%20CCA/Band_10_R.jpg" style="width:65%">
-<br>
-##### **What We Do**<br><br>
-Formed in 2003, the Compassvale Primary School Brass Band has made significant progress. Through the years, they have had performed at many occasions as well as competitions under the dedicated guidance of a group of teachers and instructors.
-<br>
+<center><img src="/images/Year%202025/2025%20CCA/Band_10_R.jpg" style="width:65%"></center>
 
-New recruits of the band may choose from the following musical instruments such as Trumpet / Cornet / Horn (high brass), Trombone / Baritone / Euphonium / Tuba (low brass) and Percussion (drums / bells). <br>
+##### **What We Do** <br>
+The Brass Band is one of Compassvale Primary’s established performing arts groups, formed in 2003. Under the guidance of our dedicated band instructors and teachers, members learn to play brass and percussion instruments and perform as a full ensemble. Our band has showcased its talent at school events and national platforms over the years.<br>
+<center><img src="/images/Year%202025/2025%20CCA/Band_5_R.jpg" style="width:65%"></center>
 
-<img src="/images/Year%202025/2025%20CCA/Band_5_R.jpg" style="width:33.3%" align="left"><img src="/images/Year%202025/2025%20CCA/Band_1_R.jpg" style="width:33.3%" align="left">
-<img src="/images/Year%202025/2025%20CCA/Band_3_R.jpg" style="width:33.3%" align="left">
+##### **Instruments You Can Learn** <br>
+Students will have the opportunity to be trained in:
+* High Brass: Trumpet / Cornet / Horn
+* Low Brass: Trombone / Baritone / Euphonium / Tuba
+* Percussion: Drums / Bells / Auxiliary Percussion<br>
+No prior music experience is required — we will build skills from the basics.<br><br>
+<img src="/images/Year%202025/2025%20CCA/Band_9_R.jpg" style="width:49%" align="left"><img src="/images/2024%20Open%20House/CCA/Band_5R.jpg" style="width:49%" align="right">
 <br clear="left">
 <br clear="right">
-Each student must be committed and ready to undertake the task of learning an instrument. The senior members are also empowered to guide and lead the junior members during sectional trainings.
-<br>
 
-By the second year, the band members should be able to read music scores, have gained improved motor skills and had achieved a sense of belonging when playing music as a whole band. Students are also given a boost of self-confidence and increased social interaction.
+##### **Who Should Join** <br>
+* Students who enjoy music or would like to learn a musical instrument
+* Students who enjoy teamwork and performing as a group
+* Students who are willing to practice and grow with the band 
+<br><br>
+<img src="/images/Year%202025/2025%20CCA/Band_3_R.jpg" style="width:49%" align="left">
+<img src="/images/Year%202025/2025%20CCA/Band_1_R.jpg" style="width:49%" align="right">
+<br clear="left">
+<br clear="right">
 
-As the band members progress through the years, band members learn the value of discipline and determination.
-
-Band members get the chance to develop a greater sense of emotional awareness through playing music, particularly during collaboration amongst students. We believe that music is invaluable in developing successful students. Music shapes the way our students understand themselves and the world around them. It nurtures assets and skills that are critical to future success.
-
-<br>
-<img src="/images/Year%202025/2025%20CCA/Band_9_R.jpg" style="width:65%">
-<br>
-<img src="/images/2024%20Open%20House/CCA/Band_5R.jpg" style="width:65%">
-<br>
+##### **Who Should Join** <br>
 <img src="/images/2024%20Open%20House/CCA/Band_6R.jpg" style="width:65%">
 
 <center>
