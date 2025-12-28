@@ -7,9 +7,12 @@ variant: markdown
 ---
 ### **Indian Dance**
 
-<img src="/images/Year%202025/2025%20CCA/Indian_Dance_3_R.jpg" style="width:65%"><br>
-<img src="/images/Year%202025/2025%20CCA/Indian_Dance_2_R.jpg" style="width:65%">
+<img src="/images/Year%202025/2025%20CCA/Indian_Dance_3_R.jpg" style="width:49%" align="left">
+<img src="/images/Year%202025/2025%20CCA/Indian_Dance_2_R.jpg" style="width:49%" align="right">
+<br clear="left">
+<br clear="right">
 
+##### **What We Do**
 Students in this CCA learn various Indian dance forms such as classical, folk and contemporary under the guidance of the CCA teachers and dance instructor. Elements of the skills include various Indian dance facial expressions, hand and foot work, poise and stage presence. They will be introduced to both Indian semi-classical and folk dance music genres. Members start off with basic dance steps and progress to more intricate ones.
 
 <img src="/images/2024%20Open%20House/CCA/Indian_Dance_1R.jpg" style="width:65%">
