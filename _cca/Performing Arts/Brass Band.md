@@ -9,7 +9,7 @@ variant: markdown
 
 <img src="/images/Year%202025/2025%20CCA/Band_10_R.jpg" style="width:65%">
 <br>
-#### **What We Do**<br><br>
+##### **What We Do**<br><br>
 Formed in 2003, the Compassvale Primary School Brass Band has made significant progress. Through the years, they have had performed at many occasions as well as competitions under the dedicated guidance of a group of teachers and instructors.
 <br>
 
