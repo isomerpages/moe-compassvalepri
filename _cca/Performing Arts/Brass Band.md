@@ -53,3 +53,6 @@ Over the years, the Compassvale Primary Brass Band has:
 
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/D2KtPpbRwWM?si=QcOBDC3Q7DiM2kXY" height="315" width="560"></iframe></center></center>
+
+##### **Why Brass Band Matters** <br>
+We believe that music education nurtures confident, empathetic and adaptable learners. Playing in a band strengthens creativity, emotional awareness, self-management and collaboration, helping students grow into thoughtful individuals who lead with character and contribute meaningfully to their community.
