@@ -7,18 +7,29 @@ variant: markdown
 ---
 ### **Wushu**
 
-<img src="/images/Year%202025/2025%20CCA/Wushu_2_R.jpg" style="width:65%"><br>
-<img src="/images/Year%202025/2025%20CCA/Wushu_3_R.jpg" style="width:65%"><br>
-In Wushu, students get to learn self-defence skills and weaponry while exhibiting team spirit and bonding. They learn&nbsp; different skills and routines according to their competence and potential and train relentlessly. There are various&nbsp; opportunities for students to perform during school based performances and compete in the annual National Inter-School Wushu Competition.
+<img src="/images/Year%202025/2025%20CCA/Wushu_3_R.jpg" style="width:30%" align="left"><img src="/images/Year%202025/2025%20CCA/Wushu_2_R.jpg" style="width:67%" align="right">
+<br clear="left">
+<br clear="right">
 
-<img src="/images/Year%202025/2025%20CCA/Wushu_1_R.jpg" style="width:65%"><br>
-<img src="/images/2024%20Open%20House/CCA/Wushu_6.jpg" style="width:65%">
-<br>
-<img src="/images/2024%20Open%20House/CCA/Wushu_4R.jpg" style="width:65%">
-<br>
-<img src="/images/2024%20Open%20House/CCA/Wushu_8R.jpg" style="width:65%">
-<br>
-<img src="/images/wushu.jpg" style="width:65%"><br>
+##### **What We Do**<br>
+Wushu blends martial arts, discipline and performance artistry. Students train in traditional routines that build strength, flexibility and precision, guided by certified coaches. <br><br>
+<img src="/images/2024%20Open%20House/CCA/Wushu_6.jpg" style="width:49%" align="left">
+<img src="/images/2024%20Open%20House/CCA/Wushu_4R.jpg" style="width:49%" align="right">
+<br clear="left">
+<br clear="right">
 
+##### **What Students Will Learn**<br>
+* Stances, strikes, kicks and forms
+* Flexibility and coordination
+* Performance technique and control
+* Discipline, focus and perseverance <br>
+<center><img src="/images/wushu.jpg" style="width:65%"></center>
+
+##### **Opportunities for Students**<br>
+* School showcases and cultural events
+* National School Games Wushu competitions <br>
+<center><img src="/images/2024%20Open%20House/CCA/Wushu_8R.jpg" style="width:65%"></center>
+	
 <center>
 	<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/0LTBCAuVj8M?si=xVHeYaBhsFyiWa8c" height="315" width="560"></iframe> </center>
+	
