@@ -6,13 +6,27 @@ third_nav_title: Clubs and Societies
 variant: markdown
 ---
 ### **Art Club**
+<center><img src="/images/Year%202025/2025%20CCA/Art_Club_2_R.jpg" style="width:65%"></center>
 
-<img src="/images/Year%202025/2025%20CCA/Art_Club_1_R.jpg" style="width:65%"><br>
-<img src="/images/Year%202025/2025%20CCA/Art_Club_2_R.jpg" style="width:65%"><br>
-Art Club provides a platform for our members to express themselves with artistic processes. It allows exploration, experimentation and provides members with opportunities to develop new and existing art creation skills. Members are exposed to different art styles, artists and art movements throughout the course of art making; and through art appreciation classes, members also get to discuss and understand the value of art in their lives. Through progressive and sequential art tasks, the Art Club hopes to equip members with artistic skills and knowledge to observe and perceive the world with heightened aesthetic sensitivity and awareness. 
+##### **What We Do**<br>
+Art Club provides a creative space for students to explore visual arts through hands-on activities. Members experiment with different mediums, techniques and themes while expressing ideas through art.<br>
+<center><img src="/images/Year%202025/2025%20CCA/Art_Club_1_R.jpg" style="width:65%"></center>
 
-<img src="/images/2024%20Open%20House/CCA/Art_Club_2.jpg" style="width:65%"><br>
-<img src="/images/2024%20Open%20House/CCA/Art_Club_1R.jpg" style="width:65%">
+##### **What Students Will Learn**<br>
+* Drawing, painting, sculpting and mixed-media skills
+* Creativity, visual communication and design thinking
+* Art appreciation and critique skills
+* Patience, craftsmanship and attention to detail <br>
+<center><img src="/images/2024%20Open%20House/CCA/Art_Club_2.jpg" style="width:65%"></center>
+
+##### **Opportunities for Students**<br>
+* School exhibitions and art showcases
+* Singapore Youth Festival Art Presentation and community art competitions <br>
+<center><img src="/images/2024%20Open%20House/CCA/Art_Club_1R.jpg" style="width:65%"></center>
+
+##### **Who Should Join**<br>
+* Students who enjoy creating, exploring and expressing through art
+* Students eager to try new techniques and materials <br>
 
 <center>
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4zNaMqAGWisT8rYaserN2pyrj5A2qL6mb9JxXg89lA3jUVBoPXjTfrnkRuj2yOBtJfUbsly68kggd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
