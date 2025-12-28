@@ -33,8 +33,23 @@ No prior music experience is required — we will build skills from the basics.<
 <br clear="left">
 <br clear="right">
 
-##### **Who Should Join** <br>
-<img src="/images/2024%20Open%20House/CCA/Band_6R.jpg" style="width:65%">
+##### **What Students Will Learn** <br>
+* How to read and understand music scores
+* Instrument handling and playing techniques
+* Ensemble playing and listening skills
+* Confidence in performing before an audience
+* Discipline, teamwork and perseverance
+* Leadership skills (senior members guide juniors)
+
+##### **Students’ Opportunities** <br>
+Over the years, the Compassvale Primary Brass Band has:
+* Performed in numerous school celebrations, community events and concerts
+* Taken part in Singapore Youth Festival Arts Presentation and music showcases
+* Built a strong band culture where senior members mentor and support juniors
+* Developed students who continue music in secondary school bands, orchestras and performing arts groups<br><br>
+**Our band takes pride not only in performances, but also in the friendships, commitment and sense of belonging developed through shared music-making.**
+
+<center><img src="/images/2024%20Open%20House/CCA/Band_6R.jpg" style="width:65%">
 
 <center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/D2KtPpbRwWM?si=QcOBDC3Q7DiM2kXY" height="315" width="560"></iframe></center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/D2KtPpbRwWM?si=QcOBDC3Q7DiM2kXY" height="315" width="560"></iframe></center></center>
