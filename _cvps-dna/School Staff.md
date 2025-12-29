@@ -81,12 +81,12 @@ description: ""
 
 | Primary 3 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | lee_soh_boon_sharon@schools.gov.sg <br><br>hamzah_mahmid@schools.gov.sg     |
-| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Mr Ng Wee Liam     | chia_tet_hong@schools.gov.sg <br><br>norliza_abdul_rahman_a@schools.gov.sg <br><br>ng_wee_liam@schools.gov.sg    |
-| P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling<br><br>Ms Lim Yen Pin| raine_koh_rui_lan@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg<br><br>lim_yen_pin@schools.gov.sg   |
-| P3 Resilience     | Mr Alex Lee<br><br>Mdm Jolene Choy     | alex_lee_tiong_huat@schools.gov.sg <br><br>jolene_choy_jo_yin@schools.gov.sg    |
-| P3 Respect     | Mr Matthew Siew<br><br>Mrs Jega<br><br>Mdm Faridah     | siew_joern_matthew@schools.gov.sg <br><br>saroja_devi_jaganathan@schools.gov.sg<br><br> faridah_taib@schools.gov.sg   |
-| P3 Responsibility     | Mr Putra<br><br>Mrs Koh Pei Ling     | zaiphizat_putra@schools.gov.sg <br><br>kwek_pei_ling_a@schools.gov.sg
+| P3 Care     | Mdm Alinda<br><br>Mr Lance Peck     | alinda_ahmed@schools.gov.sg<br><br>peck_cheng_wee@schools.gov.sg     |
+| P3 Harmony     | Ms Toh Wei Ting<br><br>Mr See Shi Yau<br><br>Mdm Noornita     | @schools.gov.sg <br><br>@schools.gov.sg <br><br>noornita_abdul_khalip@schools.gov.sg    |
+| P3 Integrity     | Ms Nurdirayah<br><br>Ms Mabel Ong<br><br>Mdm Faridah| nurdirayah_mohamed_idris@schools.gov.sg<br><br>ong_hui_mei@schools.gov.sg<br><br>faridah_taib@schools.gov.sg   |
+| P3 Resilience     | Mrs Janet Tey<br><br>Ms Ignez Tay     | ng_yet_yen@schools.gov.sg<br><br>ignez_tay_geok_choo@schools.gov.sg    |
+| P3 Respect     | Mr Edmund Hor<br><br>Mrs Jega<br><br>Mrs Ong Lee Lian     | siew_joern_matthew@schools.gov.sg <br><br>saroja_devi_jaganathan@schools.gov.sg<br><br> faridah_taib@schools.gov.sg   |
+| P3 Responsibility     | Ms Zelda Mak<br><br>Mr Najeeb     | zaiphizat_putra@schools.gov.sg <br><br>kwek_pei_ling_a@schools.gov.sg
 |  | 
 
 <br>
