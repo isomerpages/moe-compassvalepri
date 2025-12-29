@@ -65,8 +65,8 @@ description: ""
 | P2-4     | Mdm Widawati<br><br>Ms Raghini<br><br>Mr Kenny Liao     | widawati_hanafiah@schools.gov.sg<br><br> raghini_pandida_selven@schools.gov.sg<br><br>liao_chunming_kenny@schools.gov.sg    |
 | P2-5     | Mdm Nafisah<br><br>Ms Lim Yen Pin<br><br>Mdm Siti Halizah     | nafisah_suraida_abd_rahman@schools.gov.sg<br><br> lim_yen_pin@schools.gov.sg<br><br>siti_halizah_hamzah@schools.gov.sg    |
 | P2-6     | Ms Dorcas Tan<br><br>Mr Hamzah<br><br>Ms Magdalene Teo     | tan_jeng_ling_dorcas@schools.gov.sg<br><br> hamzah_mahmid@schools.gov.sg<br><br>@schools.gov.sg    |
-| P2-7     | Mdm Hu Fei Fei<br><br>Ms Casarie Chua    | eswani_salman_mrs_eswani@schools.gov.sg <br><br> zelda_mak_teng_fong@schools.gov.sg    |
-| P2-8     | Mr Goh Eng Beng<br><br>Mrs Josephin Chng     | analiza_suboh@schools.gov.sg  <br><br> qu_yi@schools.gov.sg    |
+| P2-7     | Mdm Hu Fei Fei<br><br>Ms Casarie Chua    | hu_fei_fei@schools.gov.sg<br><br>@schools.gov.sg    |
+| P2-8     | Mr Goh Eng Beng<br><br>Mrs Josephin Chng     | goh_eng_beng@schools.gov.sg<br><br> chee_mun_leng_josphine_a@schools.gov.sg    |
 | |
 
 <br>
