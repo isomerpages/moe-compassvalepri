@@ -93,12 +93,12 @@ description: ""
 
 | Primary 4 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P4 Care     | Mr Nge Moh Lim<br><br>Mdm Huang Yan     | nge_moh_lim@schools.gov.sg <br><br> huang_yan_a@schools.gov.sg  |
-| P4 Harmony     | Mr Tay Wei Jun<br><br>Mrs Janet Tey     | tay_wei_jun@schools.gov.sg <br><br> ng_yet_yen@schools.gov.sg    |
-| P4 Integrity     | Ms Stephanie Cheong<br><br>Mdm Alinda     | stephanie_cheong@schools.gov.sg <br><br> alinda_ahmed@schools.gov.sg    |
-| P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | loh_thiam_fong@schools.gov.sg <br><br>norsham_mohammed_noh@schools.gov.sg<br><br> tan_fong_kin_rachel@schools.gov.sg   |
-| P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | liao_chunming_kenny@schools.gov.sg <br><br>ignez_tay_geok_choo@schools.gov.sg   |
-| P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari<br><br>Ms Nurdirayah     | clara_poh_san_niah@schools.gov.sg <br><br> rajeswari_pannirselvam@schools.gov.sg<br><br>nurdirayah_mohamed_idris@schools.gov.sg  |
+| P4 Care     | Mr Chia Tet Hong<br><br>Mdm Norliza     | chia_tet_hong@schools.gov.sg<br><br>norliza_abdul_rahman_a@schools.gov.sg  |
+| P4 Harmony     | Mr Ezran<br><br>Ms Rajeswari<br><br>Mr Matthew Siew      | mohamed_ezran_abdul_kassim@schools.gov.sg<br><br> rajeswari_pannirselvam@schools.gov.sg<br><br>siew_joern_matthew@schools.gov.sg    |
+| P4 Integrity     | Mr Lim Beng Gee<br><br>Mrs Sharon Koh     | lim_beng_gee@schools.gov.sg<br><br>lee_soh_boon_sharon@schools.gov.sg    |
+| P4 Resilience     | Ms Ser Yong Bing<br><br>Ms Kuan Wai Ling     | ser_yong_bing@schools.gov.sg <br><br>norsham_mohammed_noh@schools.gov.sg   |
+| P4 Respect     | Ms Angeline Ang<br><br>Ms Raine Koh<br><br>Mr Putra     | liao_chunming_kenny@schools.gov.sg <br><br>ignez_tay_geok_choo@schools.gov.sg<br><br>   |
+| P4 Responsibility     |Ms Jolene Choy<br><br>Ms Wong Sirong     | clara_poh_san_niah@schools.gov.sg <br><br> rajeswari_pannirselvam@schools.gov.sg  |
 | |
 
 <br>
