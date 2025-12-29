@@ -85,8 +85,8 @@ description: ""
 | P3 Harmony     | Ms Toh Wei Ting<br><br>Mr See Shi Yau<br><br>Mdm Noornita     | @schools.gov.sg <br><br>@schools.gov.sg <br><br>noornita_abdul_khalip@schools.gov.sg    |
 | P3 Integrity     | Ms Nurdirayah<br><br>Ms Mabel Ong<br><br>Mdm Faridah| nurdirayah_mohamed_idris@schools.gov.sg<br><br>ong_hui_mei@schools.gov.sg<br><br>faridah_taib@schools.gov.sg   |
 | P3 Resilience     | Mrs Janet Tey<br><br>Ms Ignez Tay     | ng_yet_yen@schools.gov.sg<br><br>ignez_tay_geok_choo@schools.gov.sg    |
-| P3 Respect     | Mr Edmund Hor<br><br>Mrs Jega<br><br>Mrs Ong Lee Lian     | siew_joern_matthew@schools.gov.sg <br><br>saroja_devi_jaganathan@schools.gov.sg<br><br> faridah_taib@schools.gov.sg   |
-| P3 Responsibility     | Ms Zelda Mak<br><br>Mr Najeeb     | zaiphizat_putra@schools.gov.sg <br><br>kwek_pei_ling_a@schools.gov.sg
+| P3 Respect     | Mr Edmund Hor<br><br>Mrs Jega<br><br>Mrs Ong Lee Lian     | hor_yoke_keong_edmund@schools.gov.sg <br><br>saroja_devi_jaganathan@schools.gov.sg<br><br> khoo_lee_lian@schools.gov.sg   |
+| P3 Responsibility     | Ms Zelda Mak<br><br>Mr Najeeb     | zelda_mak_teng_fong@schools.gov.sg <br><br>najeeb_hassan@schools.gov.sg
 |  | 
 
 <br>
