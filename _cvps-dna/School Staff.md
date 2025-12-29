@@ -98,7 +98,7 @@ description: ""
 | P4 Integrity     | Mr Lim Beng Gee<br><br>Mrs Sharon Koh     | lim_beng_gee@schools.gov.sg<br><br>lee_soh_boon_sharon@schools.gov.sg    |
 | P4 Resilience     | Ms Ser Yong Bing<br><br>Ms Kuan Wai Ling     | ser_yong_bing@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg   |
 | P4 Respect     | Ms Angeline Ang<br><br>Ms Raine Koh<br><br>Mr Putra     | @schools.gov.sg <br><br>raine_koh_rui_lan@schools.gov.sg<br><br>zaiphizat_putra@schools.gov.sg   |
-| P4 Responsibility     |Ms Jolene Choy<br><br>Ms Wong Sirong     | jolene_choy_jo_yin@schools.gov.sg<br><br> rajeswari_pannirselvam@schools.gov.sg  |
+| P4 Responsibility     |Ms Jolene Choy<br><br>Ms Wong Sirong     | jolene_choy_jo_yin@schools.gov.sg<br><br> wong_sirong@schools.gov.sg  |
 | |
 
 <br>
