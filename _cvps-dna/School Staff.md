@@ -59,14 +59,14 @@ description: ""
 
 | Primary 2 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P2-1     | Ms Raghini<br><br>Ms Wong Si Rong     | raghini_pandida_selven@schools.gov.sg <br><br> wong_sirong@schools.gov.sg  |
-| P2-2     | Mdm Bong Mui Yoke<br><br>Mdm Suraya     | bong_mui_yoke@schools.gov.sg <br><br> suraya_mohamed_ismail@schools.gov.sg    |
-| P2-3     | Mr Ivan Tan<br><br>Mdm Syahirah     | tan_ee_teck@schools.gov.sg <br><br> syahirah_nabilah_salleh@schools.gov.sg    |
-| P2-4     | Mdm Lim Shuh Huey<br><br>Ms Ng Mei Ling     | lim_shuh_huey@schools.gov.sg <br><br> ng_mei_ling_b@schools.gov.sg    |
-| P2-5     | Mrs Wendy Poh<br><br>Mdm Guo Nannan     | lee_mun_lai@schools.gov.sg <br><br> guo_nannan@schools.gov.sg    |
-| P2-6     | Mr Loh Zhi Ying<br><br>Ms Nicole Sun     | loh_zhi_ying@schools.gov.sg <br><br> nicole_sun_yu_hui@schools.gov.sg    |
-| P2-7     | Mdm Wani<br><br>Ms Zelda Mak    | eswani_salman_mrs_eswani@schools.gov.sg <br><br> zelda_mak_teng_fong@schools.gov.sg    |
-| P2-8     | Ms Analiza<br><br>Mdm Qu Yi     | analiza_suboh@schools.gov.sg​  <br><br> qu_yi@schools.gov.sg    |
+| P2-1     | Ms Diana Koh<br><br>Mdm Goh Cai Yun     | koh_chin_peng@schools.gov.sg<br><br>goh_cai_yun@schools.gov.sg  |
+| P2-2     | Ms Irmawati<br><br>Mdm Haslina     | irmawati_a@schools.gov.sg<br><br> haslina_abu_bakar_a@schools.gov.sg    |
+| P2-3     | Mdm Zalifah<br><br>Mrs Thessa Ang     | zalifah_bohari@schools.gov.sg<br><br> tan_ee_jui_thessa@schools.gov.sg    |
+| P2-4     | Mdm Widawati<br><br>Ms Raghini<br><br>Mr Kenny Liao     | widawati_hanafiah@schools.gov.sg<br><br> raghini_pandida_selven@schools.gov.sg<br><br>liao_chunming_kenny@schools.gov.sg    |
+| P2-5     | Mdm Nafisah<br><br>Ms Lim Yen Pin<br><br>Mdm Siti Halizah     | nafisah_suraida_abd_rahman@schools.gov.sg<br><br> lim_yen_pin@schools.gov.sg<br><br>siti_halizah_hamzah@schools.gov.sg    |
+| P2-6     | Ms Dorcas Tan<br><br>Mr Hamzah<br><br>Ms Magdalene Teo     | tan_jeng_ling_dorcas@schools.gov.sg<br><br> hamzah_mahmid@schools.gov.sg<br><br>@schools.gov.sg    |
+| P2-7     | Mdm Hu Fei Fei<br><br>Ms Casarie Chua    | eswani_salman_mrs_eswani@schools.gov.sg <br><br> zelda_mak_teng_fong@schools.gov.sg    |
+| P2-8     | Mr Goh Eng Beng<br><br>Mrs Josephin Chng     | analiza_suboh@schools.gov.sg  <br><br> qu_yi@schools.gov.sg    |
 | |
 
 <br>
