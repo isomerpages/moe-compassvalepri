@@ -96,9 +96,9 @@ description: ""
 | P4 Care     | Mr Chia Tet Hong<br><br>Mdm Norliza     | chia_tet_hong@schools.gov.sg<br><br>norliza_abdul_rahman_a@schools.gov.sg  |
 | P4 Harmony     | Mr Ezran<br><br>Ms Rajeswari<br><br>Mr Matthew Siew      | mohamed_ezran_abdul_kassim@schools.gov.sg<br><br> rajeswari_pannirselvam@schools.gov.sg<br><br>siew_joern_matthew@schools.gov.sg    |
 | P4 Integrity     | Mr Lim Beng Gee<br><br>Mrs Sharon Koh     | lim_beng_gee@schools.gov.sg<br><br>lee_soh_boon_sharon@schools.gov.sg    |
-| P4 Resilience     | Ms Ser Yong Bing<br><br>Ms Kuan Wai Ling     | ser_yong_bing@schools.gov.sg <br><br>norsham_mohammed_noh@schools.gov.sg   |
-| P4 Respect     | Ms Angeline Ang<br><br>Ms Raine Koh<br><br>Mr Putra     | liao_chunming_kenny@schools.gov.sg <br><br>ignez_tay_geok_choo@schools.gov.sg<br><br>   |
-| P4 Responsibility     |Ms Jolene Choy<br><br>Ms Wong Sirong     | clara_poh_san_niah@schools.gov.sg <br><br> rajeswari_pannirselvam@schools.gov.sg  |
+| P4 Resilience     | Ms Ser Yong Bing<br><br>Ms Kuan Wai Ling     | ser_yong_bing@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg   |
+| P4 Respect     | Ms Angeline Ang<br><br>Ms Raine Koh<br><br>Mr Putra     | @schools.gov.sg <br><br>raine_koh_rui_lan@schools.gov.sg<br><br>zaiphizat_putra@schools.gov.sg   |
+| P4 Responsibility     |Ms Jolene Choy<br><br>Ms Wong Sirong     | jolene_choy_jo_yin@schools.gov.sg<br><br> rajeswari_pannirselvam@schools.gov.sg  |
 | |
 
 <br>
