@@ -113,12 +113,12 @@ description: ""
 
 | Primary 5 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P5 Care     | Ms Tan Yan Bing<br><br>Ms Fiona Seah     | tay_kim_cheong_raymond@schools.gov.sg <br><br> khoo_lee_lian@schools.gov.sg  |
-| P5 Harmony     | Mr Nge Moh Lim<br><br>Mdm Ellena Tan     | radin_tri_iskandar_sumanto@schools.gov.sg <br><br> lim_hwee_mian@schools.gov.sg    |
-| P5 Integrity     | Ms Stephanie Cheong<br><br>Mdm Goh Kwee Lay     | hanifah_jasman@schools.gov.sg <br><br> lee_swee_eng@schools.gov.sg   |
-| P5 Resilience     | Mdm Lim Yan Yan<br><br>Mr Kirk Hock Lam<br><br>Mdm Mogana   | lim_yee_hoon_emellyn@schools.gov.sg <br><br> goh_suet_mei@schools.gov.sg<br><br>     |
-| P5 Respect     | 	Ms Wong Xing Jie<br><br>Mrs Clara Lee     | sim_li_ting@schools.gov.sg <br><br> sharifah_ayyoo_ali@schools.gov.sg   |
-| P5 Responsibility     | 	Mdm Irene Goh<br><br>Mr Khai Ho     | goh_irene@schools.gov.sg <br><br> khairulnizad_khalid@schools.gov.sg   |
+| P5 Care     | Ms Tan Yan Bing<br><br>Ms Fiona Seah     | @schools.gov.sg <br><br> seah_yiling_fiona@schools.gov.sg  |
+| P5 Harmony     | Mr Nge Moh Lim<br><br>Mdm Ellena Tan     | nge_moh_lim@schools.gov.sg<br><br> tan_xuening_ellena@schools.gov.sg    |
+| P5 Integrity     | Ms Stephanie Cheong<br><br>Mdm Goh Kwee Lay     | stephanie_cheong@schools.gov.sg<br><br> goh_kwee_lay@schools.gov.sg   |
+| P5 Resilience     | Mdm Lim Yan Yan<br><br>Mr Kirk Hock Lam<br><br>Mdm Mogana   | lim_yan_yan@schools.gov.sg<br><br> kirk_hock_lam@schools.gov.sg<br><br>mogana_sivalingam@schools.gov.sg     |
+| P5 Respect     | 	Ms Wong Xing Jie<br><br>Mrs Clara Lee     | wong_xing_jie@schools.gov.sg<br><br> clara_poh_san_niah@schools.gov.sg   |
+| P5 Responsibility     | 	Mdm Norsham<br><br>Mr Tay Wei Jun     | norsham_mohammed_noh@schools.gov.sg<br><br> tay_wei_jun@schools.gov.sg   |
 | |
 
 <br>
