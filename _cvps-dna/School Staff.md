@@ -29,7 +29,7 @@ description: ""
 | Character<br> &amp;<br> Citizenship (CCE)     | Head of Department<br><br>Level Head (CCE)<br><br>Subject Head (NESS)     | Mdm Ellena Tan<br><br>Ms Corrin Goh<br><br>Ms Fiona Seah     |   tan_xuening_ellena@schools.gov.sg <br><br>goh_suet_mei@schools.gov.sg<br><br> seah_yiling_fiona@schools.gov.sg |
 | Curriculum &amp; Innovation     | Head of Department     | Mrs Thessa Ang     | tan_ee_jui_thessa@schools.gov.sg    |
 | School Staff<br> Development     | School Staff Developer     | Ms Mabel Ong      | ong_hui_mei@schools.gov.sg     |
-| Information<br> and<br> Communication<br> Technology (ICT)     | Head of Department<br><br>Subject Head     | Mr Najeeb<br><br>Mr Tay Wei Jun     | tay_wei_jun@schools.gov.sg     |
+| Information<br> and<br> Communication<br> Technology (ICT)     | Head of Department<br><br>Subject Head     | Mr Najeeb<br><br>Mr Tay Wei Jun     | najeeb_hassan@schools.gov.sg<br><br>tay_wei_jun@schools.gov.sg     |
 | Student Management<br> &amp; Student Well-being    | Subject Head  | Mr Matthew Siew     | siew_joern_matthew@schools.gov.sg    | 
 | Engagement &amp; Partnership     | Level Head     | Mdm Alinda     | alinda_ahmed@schools.gov.sg    |
 | | 
