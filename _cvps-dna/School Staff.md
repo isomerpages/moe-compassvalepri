@@ -128,9 +128,9 @@ description: ""
 | P6 Care     | Mr Iskandar<br><br>Mrs Lim Hwee Mian     | radin_tri_iskandar_sumanto@schools.gov.sg<br><br> lim_hwee_mian@schools.gov.sg   |
 | P6 Harmony     | Ms Sarahlyn Cheng<br><br>Mdm Sharifah     | sarah_lyn_cheng_yanling@schools.gov.sg <br><br> sharifah_ayyoo_ali@schools.gov.sg    |
 | P6 Integrity     | Mr Raymond Tay<br><br>Ms Shameem   | tay_kim_cheong_raymond@schools.gov.sg <br><br> nur_shameem_abdul_gafoor@schools.gov.sg    |
-| P6 Resilience     | Mdm Hanifah<br><br>Mrs Josephine Yeo   | leow_puay_khim@schools.gov.sg <br><br> goh_kwee_lay@schools.gov.sg   |
-| P6 Respect     | 	Ms Christianna Huang<br><br>Mdm Irene Goh     | lim_beng_gee@schools.gov.sg <br><br> tan_xuening_ellena@schools.gov.sg    |
-| P6 Responsibility     | 	Ms Emellyn Lim<br><br>Mrs Corrin Kwok     | peck_cheng_wee@schools.gov.sg  <br><br> wong_xing_jie@schools.gov.sg   |
+| P6 Resilience     | Mdm Hanifah<br><br>Mrs Josephine Yeo   | hanifah_jasman@schools.gov.sg<br><br> lee_swee_eng@schools.gov.sg   |
+| P6 Respect     | 	Ms Christianna Huang<br><br>Mdm Irene Goh     | huang_sijia_christianna@schools.gov.sg<br><br> goh_irene@schools.gov.sg    |
+| P6 Responsibility     | 	Ms Emellyn Lim<br><br>Mrs Corrin Kwok     | lim_yee_hoon_emellyn@schools.gov.sg  <br><br> goh_suet_mei@schools.gov.sg   |
 | |
 
 #### **Allied Educators**
