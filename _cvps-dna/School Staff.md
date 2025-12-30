@@ -22,7 +22,7 @@ description: ""
 | -------- | -------- | -------- | -------- |
 | English     | Head of Department     | Ms Shameem <br><br>Ms Christianna Huang     | nur_shameem_abdul_gafoor@schools.gov.sg<br><br>huang_sijia_christianna@schools.gov.sg    |
 | Mathematics     | Head of Department     | Ms Irene Goh     | goh_irene@schools.gov.sg    |
-| Science     | Head of Department<br><br>Level Head   | Ms Sim Li Ting<br><br>Mr Peck Cheng Wee     | sim_li_ting@schools.gov.sg <br><br> peck_cheng_wee@schools.gov.sg   |
+| Science     | Head of Department<br><br>Level Head   | Ms Sim Li Ting<br><br><br>Mr Peck Cheng Wee     | sim_li_ting@schools.gov.sg <br><br> <br>peck_cheng_wee@schools.gov.sg   |
 | Mother Tongue<br> Language     | Head of Department<br><br>Subject Head (ML &amp; TL)     | Mrs Ong Lee Lian<br><br>Mdm Haslina     | khoo_lee_lian@schools.gov.sg<br><br>haslina_abu_bakar_a@schools.gov.sg 
 | Physical Education/CCA &amp; Aesthetics     | Head of Department (Acting)     | Mr Kenny Liao     | liao_chunming_kenny@schools.gov.sg     |
 | Aesthetics     | Subject Head     | Ms Wong Xing Jie     | wong_xing_jie@schools.gov.sg   |
