@@ -61,19 +61,37 @@ a.	The general guideline from Health Promotion Board (HPB) is for children to ca
 * Students to pack their bags in accordance with the daily class timetable. 
 * Students can use the lockers to keep some of their heavier books or items which they need daily in school. A number lock is recommended to secure the locker.
 
-
 b. We would like to recommend that the school bags are made of lightweight material.
 
 c. Please refrain from the use of roller/trolley bags as they can be challenging for children to carry when climbing stairs and may also encourage overpacking. 
 
 #### **8  Communications and Coordination**
-a.    We believe that regular and open communication between school and parents/guardian is important in helping us achieve our common aim of providing an excellent education for our Compassvalites. We will keep you informed of important matters through our school website [https://compassvalepri.moe.edu.sg/](https://compassvalepri.moe.edu.sg/), Parents Gateway announcements and letters. You may also email our administration at our generic email address: **cvps@moe.edu.sg.**
+a. We believe that regular and open communication between school and parents/guardian is important in helping us achieve our common aim of providing an excellent education for our Compassvalites. However, teachers are not required to share personal mobile numbers or communicate via other social media/ communication platforms beyond the official modes of communication.
 
-b.    The Student Handbook is another means for you to communicate with our teachers. You may write short notes in the Handbook and address it to the teacher concerned. Please remind your child/ward to show the teacher the note that you have written. 
+<u>**Modes of Communication**</u><br>
+We will keep you informed of important matters through Parents Gateway announcements and letters, and our school website [**https://compassvalepri.moe.edu.sg/**](https://compassvalepri.moe.edu.sg/). You may also email our administration at our generic email address: [**cvps@moe.edu.sg**](cvps@moe.edu.sg). You may also email directly to the relevant key personnel or Form Teachers using the email addresses provided on our school website.
 
-c.    The operation hours for our General Office are from 0745hrs to 1700hrs from Monday to Friday. We are closed on Saturday, Sunday and Public Holidays. If you wish to call our General Office, our telephone number is: 6388 2819.
+The Student Handbook is another means for you to communicate with our teachers. You may write short notes in the Student Handbook and address them to the teacher concerned. Please remind your child/ward to show the teacher the note that you have written.
 
-d.    We actively manage the school calendar on our webpage so that you can plan ahead to coordinate with our schedule of activities.
+We strongly encourage you to make an appointment with the school staff if you would like to meet them personally. The operation hours for our General Office are from 0745hrs to 1700hrs from Mondays to Fridays. We are closed on Saturdays, Sundays and Public Holidays. If you wish to call our General Office, our telephone number is: **6388 2819**. To schedule a meeting, please email the school personnel at least three days in advance to minimise disruption to their core duties such as their teaching duties.
+
+<u>**Expected Response Time**</u><br>
+In line with Civil Service standards, parents/ guardians can expect responses within:<br>
+
+-	Three working days for simple queries.<br>
+-	Seven working days for queries requiring some investigation.<br>
+-	Twenty-one working days for complex queries that require extensive triangulation of information from various parties involved.
+
+<u>**Communication Hours**</u><br>
+Parents are encouraged to contact teachers during school hours (refer to point 5 above) and during term time. Our teachers are not expected to respond to queries outside these hours, on weekends, and during school holidays.
+
+<u>**Respectful Communication**</u><br>
+
+-	Our staff are committed to partnering parents/ guardians with sincerity, integrity, and professionalism. We encourage open and respectful dialogue to support students’ well-being and learning.
+-	By showing mutual courtesy and respect, we set a positive example for our children. The school will disengage from any communication that is rude, disrespectful, or abusive towards staff.
+-	MOE values our staff and will take firm action to protect them against unreasonable behavior, harassment, or abuse.
+
+b.    We actively manage the school calendar on our webpage so that you can plan ahead to coordinate with our schedule of activities.
 
 You may wish to bookmark&nbsp;[https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&amp;ctz=Asia/Singapore](https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&amp;ctz=Asia/Singapore)&nbsp;in your browser.
 
