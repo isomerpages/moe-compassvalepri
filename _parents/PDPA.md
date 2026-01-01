@@ -2,9 +2,17 @@
 title: PDPA
 permalink: /parents/pdpa/
 description: ""
+variant: markdown
 ---
 ### **Personal Data Protection Privacy Policy**
-At Compassvale Primary School, we take our responsibilities under the Personal Data Protection Act 2012 seriously. We recognize the importance of the personal data you have entrusted to us and believe that it is our responsibility to properly manage, protect and process your personal data.
+At Compassvale Primary School, we take our responsibilities under the Personal Data Protection Act 2012 seriously. 
+
+##### **Data Collected and Purpose**
+We hold personal data of our students, including: contact details, assessment/examination results, attendance information, behaviour, and characteristics such as ethnic group, special educational needs, any relevant medical information, photographs, and/or video footage. The data is used in order to support the education of the students, to monitor and report on their progress, to provide appropriate personal and social care, and to assess the performance of our school as a whole, together with any other uses normally associated with this provision in a school environment. We may make use of limited personal data (such as contact details) relating to students, their parents, or guardians for communication purposes and to maintain relationships with our students. We may take photographs and/or videos during school activities or events (both within and outside the school) organised by CVPS or its affiliates, for publicity and security purposes; Data is shared as necessary with third party companies to provide extended services; examples include transport, medical, catering, travel services, and online services. The school may use and publish such photographs and/or video recordings in school publications, website, social media channels, and other communication channels.<br>
+
+Withdrawal of consent for the use of photograph(s) and video image(s) can be made by parents/guardians via email to the school at cvps@moe.edu.sg.<br>
+
+To safeguard student privacy and data security, photography and videography are strictly prohibited within the school premises. This applies to all parents and visitors for consistent implementation. The restriction covers all areas within the school compound, including common spaces such as the foyer and during dismissal times. For official school events (e.g. concerts and prize-giving ceremonies), the school may designate specific photo and video-taking opportunities and zones, which will be clearly communicated prior to each event.
 
 ##### **Parental Consent Clause**
 For the purposes of school students under the age of 13, it is reasonable and accepted that parental consent is sufficient.
