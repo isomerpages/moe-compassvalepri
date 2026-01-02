@@ -40,8 +40,6 @@ variant: markdown
 | Compassvalites<br> are harmonious<br> and caring. | **Damage of school or public property:** <br>Students should not deface, vandalise, or set fire to school or public property.<br><br>**Causing hurt to others:** <br>Students should not use physical or verbal actions to cause hurt to others.<br><br>**Bullying:** <br>Students should not repeatedly or intentionally engage in behaviour that harms or threatens the safety of others, whether through physical, verbal, social or online actions. |
 |
 
-Note: Major rules are in&nbsp;**bold.**
-
 ##### **Consequences**
 
 |  |
