@@ -17,7 +17,7 @@ The Brass Band is one of Compassvale Primary’s established performing arts gro
 Students will have the opportunity to be trained in:
 * High Brass: Trumpet / Cornet / Horn
 * Low Brass: Trombone / Baritone / Euphonium / Tuba
-* Percussion: Drums / Bells / Auxiliary Percussion<br>
+* Percussion: Drums / Bells / Auxiliary Percussion<br><br>
 No prior music experience is required — we will build skills from the basics.<br><br>
 <img src="/images/Year%202025/2025%20CCA/Band_9_R.jpg" style="width:49%" align="left"><img src="/images/2024%20Open%20House/CCA/Band_5R.jpg" style="width:49%" align="right">
 <br clear="left">
