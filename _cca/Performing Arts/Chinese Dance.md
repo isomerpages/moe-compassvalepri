@@ -43,7 +43,7 @@ Chinese Dance celebrates elegance, expression and storytelling through movement.
 * Students who enjoy performing and expressing themselves through movement
 * Students who appreciate Chinese arts and culture
 * Students who enjoy teamwork and creativity
-* Students who have an interest in dance and enjoy moving to music.
+* Students who have an interest in dance and enjoy moving to music
 
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/GwTIHTMvibo?si=G2GLWtnpcP3tED2l" height="315" width="560"></iframe> </center>
