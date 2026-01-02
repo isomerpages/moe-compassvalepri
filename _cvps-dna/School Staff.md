@@ -83,7 +83,7 @@ description: ""
 | Primary 3 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | P3 Care     | Mdm Alinda<br><br>Mr Lance Peck     | alinda_ahmed@schools.gov.sg<br><br>peck_cheng_wee@schools.gov.sg     |
-| P3 Harmony     | Ms Toh Wei Ting<br><br>Mr See Shi Yau<br><br>Mdm Noornita     | @schools.gov.sg <br><br>@schools.gov.sg <br><br>noornita_abdul_khalip@schools.gov.sg    |
+| P3 Harmony     | Ms Toh Wei Ting<br><br>Mr See Shi Yau<br><br>Mdm Noornita     | toh_wei_ting@schools.gov.sg<br><br>to be updated <br><br>noornita_abdul_khalip@schools.gov.sg    |
 | P3 Integrity     | Ms Nurdirayah<br><br>Ms Mabel Ong<br><br>Mdm Faridah| nurdirayah_mohamed_idris@schools.gov.sg<br><br>ong_hui_mei@schools.gov.sg<br><br>faridah_taib@schools.gov.sg   |
 | P3 Resilience     | Mrs Janet Tey<br><br>Ms Ignez Tay     | ng_yet_yen@schools.gov.sg<br><br>ignez_tay_geok_choo@schools.gov.sg    |
 | P3 Respect     | Mr Edmund Hor<br><br>Mrs Jega<br><br>Mrs Ong Lee Lian     | hor_yoke_keong_edmund@schools.gov.sg <br><br>saroja_devi_jaganathan@schools.gov.sg<br><br> khoo_lee_lian@schools.gov.sg   |
@@ -98,7 +98,7 @@ description: ""
 | P4 Harmony     | Mr Ezran<br><br>Ms Rajeswari<br><br>Mr Matthew Siew      | mohamed_ezran_abdul_kassim@schools.gov.sg<br><br> rajeswari_pannirselvam@schools.gov.sg<br><br>siew_joern_matthew@schools.gov.sg    |
 | P4 Integrity     | Mr Lim Beng Gee<br><br>Mrs Sharon Koh     | lim_beng_gee@schools.gov.sg<br><br>lee_soh_boon_sharon@schools.gov.sg    |
 | P4 Resilience     | Ms Ser Yong Bing<br><br>Ms Kuan Wai Ling     | ser_yong_bing@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg   |
-| P4 Respect     | Ms Angeline Ang<br><br>Ms Raine Koh<br><br>Mr Putra     | @schools.gov.sg <br><br>raine_koh_rui_lan@schools.gov.sg<br><br>zaiphizat_putra@schools.gov.sg   |
+| P4 Respect     | Ms Angeline Ang<br><br>Ms Raine Koh<br><br>Mr Putra     | ang_yi_ting_angeline@schools.gov.sg<br><br>raine_koh_rui_lan@schools.gov.sg<br><br>zaiphizat_putra@schools.gov.sg   |
 | P4 Responsibility     |Ms Jolene Choy<br><br>Ms Wong Sirong     | jolene_choy_jo_yin@schools.gov.sg<br><br> wong_sirong@schools.gov.sg  |
 | |
 
@@ -114,7 +114,7 @@ description: ""
 
 | Primary 5 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P5 Care     | Ms Tan Yan Bing<br><br>Ms Fiona Seah     | @schools.gov.sg <br><br> seah_yiling_fiona@schools.gov.sg  |
+| P5 Care     | Ms Tan Yan Bing<br><br>Ms Fiona Seah     | tan_yan_bing@schools.gov.sg<br><br> seah_yiling_fiona@schools.gov.sg  |
 | P5 Harmony     | Mr Nge Moh Lim<br><br>Mdm Ellena Tan     | nge_moh_lim@schools.gov.sg<br><br> tan_xuening_ellena@schools.gov.sg    |
 | P5 Integrity     | Ms Stephanie Cheong<br><br>Mdm Goh Kwee Lay     | stephanie_cheong@schools.gov.sg<br><br> goh_kwee_lay@schools.gov.sg   |
 | P5 Resilience     | Mdm Lim Yan Yan<br><br>Mr Kirk Hock Lam<br><br>Mdm Mogana   | lim_yan_yan@schools.gov.sg<br><br> kirk_hock_lam@schools.gov.sg<br><br>mogana_sivalingam@schools.gov.sg     |
@@ -143,7 +143,7 @@ description: ""
 | Mdm Nor' Atiqah     |  Senior Special Education Needs Officer       | nor_atiqah_osman@schools.gov.sg    |
 | Ms Vrinda     | Special Education Needs Officer     | vrinda_ravindaran@schools.gov.sg     |
 | Ms Tan Ming Hui     | School Counsellor     | tan_ming_hui_c@schools.gov.sg  |
-| Ms Cindy Liong     | School Counsellor      | @schools.gov.sg     |
+| Ms Cindy Liong     | School Counsellor      | to be updated     |
 | Mdm Betty Kuan   | School Counsellor (Flexi)    |  kuan_fui_ha@schools.gov.sg |
 | Ms Ng Yi Jie     | Senior Student Welfare Officer      |  ng_yi_jie@schools.gov.sg  | 
  |  |
