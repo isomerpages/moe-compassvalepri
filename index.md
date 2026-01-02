@@ -21,7 +21,10 @@ sections:
       variant: image
   - infobar:
       title: Compassvale Primary School
-      description: THINKERS        •       LEADERS       •       CHAMPIONS
+      description: •Thinkers of
+        Tomorrow                                                        •Leaders
+        of Character                         •Contributors of Community
+      subtitle: Our vision
   - infobar:
       title: Year 2026 Booklists
       id: infobar
