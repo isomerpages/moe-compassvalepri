@@ -10,7 +10,7 @@ variant: markdown
 <center><img src="/images/2024%20Open%20House/CCA/Netball_4R.jpg" style="width:65%"></center>
 
 ##### **What We Do**<br>
-Netball emphasizes speed, precision and teamwork. Members train in passing, footwork, movement patterns and positional roles, developing strong teamwork and game awareness. <br><br>
+Netball emphasises speed, precision and teamwork. Members train in passing, footwork, movement patterns and positional roles, developing strong teamwork and game awareness. <br><br>
 <img src="/images/Year%202025/2025%20CCA/Netball_4_R.jpg" style="width:49%" align="left">
 <img src="/images/Year%202025/2025%20CCA/Netball_3_R.jpg" style="width:49%" align="right">
 <br clear="left">
