@@ -66,7 +66,9 @@ Note: Major rules are in&nbsp;**bold.**
 
 ##### **P.E. Attire (Boys and Girls)**
 
-<img src="/images/attire3.jpg" style="width:47%" align="left">
-<img src="/images/attire4.jpg" style="width:51%" align="right">
+<img src="/images/Year%202026/School%20Uniform/boy_pe_front.jpg" style="width:27%" align="left">
+<img src="/images/Year%202026/School%20Uniform/girl_pe_front.jpg" style="width:25%" align="left">
+<img src="/images/Year%202026/School%20Uniform/boy_pe_side.jpg" style="width:23%" align="left">
+<img src="/images/Year%202026/School%20Uniform/girl_pe_side.jpg" style="width:22%" align="right">
 
 <br clear="left">
