@@ -23,7 +23,7 @@ sections:
       title: Compassvale Primary School
       description: •Thinkers of
         Tomorrow                                                        •Leaders
-        of Character                         •Contributors of Community
+        of Character     •Contributors of Community
       subtitle: Our vision
   - infobar:
       title: Year 2026 Booklists
