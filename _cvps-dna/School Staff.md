@@ -24,8 +24,7 @@ description: ""
 | Mathematics     | Head of Department     | Ms Irene Goh     | goh_irene@schools.gov.sg    |
 | Science     | Head of Department<br><br>Level Head   | Ms Sim Li Ting<br><br>Mr Peck Cheng Wee     | sim_li_ting@schools.gov.sg <br><br>peck_cheng_wee@schools.gov.sg   |
 | Mother Tongue<br> Language     | Head of Department<br><br>Subject Head<br> (ML &amp; TL)     | Mrs Ong Lee Lian<br><br>Mdm Haslina     | khoo_lee_lian@schools.gov.sg<br><br>haslina_abu_bakar_a@schools.gov.sg 
-| Physical Education/<br>CCA &amp; Aesthetics     | Head of Department (Acting)     | Mr Kenny Liao     | liao_chunming_kenny@schools.gov.sg     |
-| Aesthetics     | Subject Head     | Ms Wong Xing Jie     | wong_xing_jie@schools.gov.sg   |
+| Physical Education/<br>CCA &amp; Aesthetics     | Head of Department (Acting)<br><br>Subject Head (Aesthetics)     | Mr Kenny Liao<br><br>Ms Wong Xing Jie     | liao_chunming_kenny@schools.gov.sg<br><br>wong_xing_jie@schools.gov.sg       |
 | Character<br> &amp;<br> Citizenship (CCE)     | Head of Department<br><br>Level Head (CCE)<br><br>Subject Head (NESS)     | Mdm Ellena Tan<br><br>Ms Corrin Goh<br><br>Ms Fiona Seah     |   tan_xuening_ellena@schools.gov.sg <br><br>goh_suet_mei@schools.gov.sg<br><br> seah_yiling_fiona@schools.gov.sg |
 | Curriculum &amp; Innovation     | Head of Department     | Mrs Thessa Ang     | tan_ee_jui_thessa@schools.gov.sg    |
 | School Staff<br> Development     | School Staff Developer     | Ms Mabel Ong      | ong_hui_mei@schools.gov.sg     |
