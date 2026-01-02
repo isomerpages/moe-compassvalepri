@@ -57,9 +57,10 @@ Note: Major rules are in&nbsp;**bold.**
 
 #### **Attire and Appearance**
 ##### **School Uniform (Boys and Girls)**
-
-<img src="/images/attire1.jpg" style="width:48%" align="left">
-<img src="/images/attire2.jpg" style="width:50%" align="right">
+<img src="/images/Year%202026/School%20Uniform/boy_uniform_front.jpg" style="width:28%" align="left">
+<img src="/images/Year%202026/School%20Uniform/girl_uniform_front.jpg" style="width:23%" align="left">
+<img src="/images/Year%202026/School%20Uniform/boy_uniform_side.jpg" style="width:20%" align="left">
+<img src="/images/Year%202026/School%20Uniform/girl_uniform_side.jpg" style="width:23%" align="right">
 
 <br clear="left">
 
