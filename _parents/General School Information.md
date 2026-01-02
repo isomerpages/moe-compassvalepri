@@ -74,7 +74,7 @@ We will keep you informed of important matters through Parents Gateway announcem
 
 The Student Handbook is another means for you to communicate with our teachers. You may write short notes in the Student Handbook and address them to the teacher concerned. Please remind your child/ward to show the teacher the note that you have written.
 
-We strongly encourage you to make an appointment with the school staff if you would like to meet them personally. The operation hours for our General Office are from 0745hrs to 1700hrs from Mondays to Fridays. We are closed on Saturdays, Sundays and Public Holidays. If you wish to call our General Office, our telephone number is **6388 2819**. To schedule a meeting, please email the school personnel at least three days in advance to minimise disruption to their core duties such as their teaching duties.
+We strongly encourage you to make an appointment with the school staff if you would like to meet them personally. The operation hours for our General Office are from 0745hrs to 1700hrs from Mondays to Fridays. We are closed on Saturdays, Sundays and Public Holidays. If you wish to call our General Office, our telephone number is **6388 2819**. To schedule a meeting, please email the school personnel at least three working days in advance to minimise disruption to their core duties such as their teaching duties.
 
 **<u>Expected Response Time</u>**<br>
 In line with Civil Service standards, parents/ guardians can expect responses within:<br>
