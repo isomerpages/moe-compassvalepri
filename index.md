@@ -34,12 +34,6 @@ sections:
       button: Click here to download
       url: /year-2026-primary-1-pre-orientation/
   - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      description: For Muslim Rice Stall
-      button: Click here for more details
-      url: /school-canteen/
-  - infobar:
       title: CVPS Online Open House Video
       id: infobar
       button: Please click here to view
