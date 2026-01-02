@@ -66,9 +66,10 @@ b. We would like to recommend that the school bags are made of lightweight mater
 c. Please refrain from the use of roller/trolley bags as they can be challenging for children to carry when climbing stairs and may also encourage overpacking. 
 
 #### **8  Communications Guidelines**
-a. We believe that regular and open communication between school and parents/guardian is important in helping us achieve our common aim of providing an excellent education for our Compassvalites. However, teachers are not required to share personal mobile numbers or communicate via other social media/ communication platforms beyond the official modes of communication.<br clear="all">
+a. We believe that regular and open communication between school and parents/guardian is important in helping us achieve our common aim of providing an excellent education for our Compassvalites. However, teachers are not required to share personal mobile numbers or communicate via other social media/ communication platforms beyond the official modes of communication.
+<br>
 
-<u>**Modes of Communication**</u><br>
+**<u>Modes of Communication</u>**<br>
 We will keep you informed of important matters through Parents Gateway announcements and letters, and our school website [**https://compassvalepri.moe.edu.sg/**](https://compassvalepri.moe.edu.sg/). You may also email our administration at our generic email address: [**cvps@moe.edu.sg**](cvps@moe.edu.sg). You may also email directly to the relevant key personnel or Form Teachers using the email addresses provided on our school website.
 
 The Student Handbook is another means for you to communicate with our teachers. You may write short notes in the Student Handbook and address them to the teacher concerned. Please remind your child/ward to show the teacher the note that you have written.
