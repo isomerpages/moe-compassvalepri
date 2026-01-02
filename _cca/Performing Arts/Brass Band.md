@@ -47,6 +47,7 @@ Over the years, the Compassvale Primary Brass Band has:
 * Taken part in Singapore Youth Festival Arts Presentation and music showcases
 * Built a strong band culture where senior members mentor and support juniors
 * Developed students who continue music in secondary school bands, orchestras and performing arts groups<br><br>
+
 **Our band takes pride not only in performances, but also in the friendships, commitment and sense of belonging developed through shared music-making.**
 
 <center><img src="/images/2024%20Open%20House/CCA/Band_6R.jpg" style="width:65%">
