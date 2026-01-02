@@ -73,8 +73,9 @@ description: ""
 
 | Year Head for Middle Primary |  |  |
 | -------- | -------- | -------- |
-| Year Head <br>Middle Primary     | Ms Kuan Wai Ling     | kuan_wai_ling@schools.gov.sg  |
-| Assistant Year Head <br> Middle Primary     | Mdm Noornita     | noornita_abdul_khalip@schools.gov.sg    
+| Year Head <br>Middle Primary     | Ms Kuan Wai Ling     | kuan_wai_ling@schools.gov.sg  | 
+| Assistant Year Head <br>Middle Primary     | Mdm Noornita     | noornita_abdul_khalip@schools.gov.sg  | 
+| Assistant Year Head <br> Middle Primary     | Mrs Clara Lee     | clara_poh_san_niah@schools.gov.sg    
 |  |  |
 
 <br>
@@ -82,7 +83,7 @@ description: ""
 | Primary 3 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | P3 Care     | Mdm Alinda<br><br>Mr Lance Peck     | alinda_ahmed@schools.gov.sg<br><br>peck_cheng_wee@schools.gov.sg     |
-| P3 Harmony     | Ms Toh Wei Ting<br><br>Mr See Shi Yau<br><br>Mdm Noornita     | toh_wei_ting@schools.gov.sg<br><br>to be updated <br><br>noornita_abdul_khalip@schools.gov.sg    |
+| P3 Harmony     | Ms Toh Wei Ting<br><br>Mr See Shi Yau<br><br>Mdm Noornita     | toh_wei_ting@schools.gov.sg<br><br>tsee_shi_yau@schools.gov.sg<br><br>noornita_abdul_khalip@schools.gov.sg    |
 | P3 Integrity     | Ms Nurdirayah<br><br>Ms Mabel Ong<br><br>Mdm Faridah| nurdirayah_mohamed_idris@schools.gov.sg<br><br>ong_hui_mei@schools.gov.sg<br><br>faridah_taib@schools.gov.sg   |
 | P3 Resilience     | Mrs Janet Tey<br><br>Ms Ignez Tay     | ng_yet_yen@schools.gov.sg<br><br>ignez_tay_geok_choo@schools.gov.sg    |
 | P3 Respect     | Mr Edmund Hor<br><br>Mrs Jega<br><br>Mrs Ong Lee Lian     | hor_yoke_keong_edmund@schools.gov.sg <br><br>saroja_devi_jaganathan@schools.gov.sg<br><br> khoo_lee_lian@schools.gov.sg   |
