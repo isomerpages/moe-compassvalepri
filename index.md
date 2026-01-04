@@ -25,16 +25,16 @@ sections:
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
   - infobar:
+      title: Briefing Slides
+      subtitle: Year 2026 Primary 1
+      id: infobar
+      button: Click here to download
+      url: /year-2026-primary-1
+  - infobar:
       title: Year 2026 Booklists
       id: infobar
       button: Click here to download
       url: year-2026-booklists/
-  - infobar:
-      title: Briefing Slides
-      subtitle: Year 2026 P1 Pre-Orientation
-      id: infobar
-      button: Click here to download
-      url: /year-2026-primary-1-pre-orientation/
   - infobar:
       title: CVPS Online Open House Video
       id: infobar
