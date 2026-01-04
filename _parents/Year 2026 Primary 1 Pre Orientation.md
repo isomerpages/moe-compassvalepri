@@ -6,6 +6,6 @@ description: ""
 ---
 <p><strong>Please click on the below link to download:</strong>
 </p>
-<p><strong><a href="/files/Year 2026/P1_Pre_Orientation_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">Year 2026 P1 Pre-Orientation Briefing Slides</a></strong>
+<p><strong><a href="/files/Year 2026/P1_Briefing_slide_2026_combined_updated_For_School_Website.pdf" rel="noopener nofollow" target="_blank">Year 2026 Primary 1 Briefing Slide</a></strong>
 </p>
 <p></p>
