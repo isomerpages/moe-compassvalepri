@@ -115,7 +115,7 @@ description: ""
 | Primary 5 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | P5 Care     | Ms Tan Yan Bing<br><br>Ms Fiona Seah     | tan_yan_bing@schools.gov.sg<br><br> seah_yiling_fiona@schools.gov.sg  |
-| P5 Harmony     | Mr Nge Moh Lim<br><br>Mdm Ellena Tan     | nge_moh_lim@schools.gov.sg<br><br> tan_xuening_ellena@schools.gov.sg    |
+| P5 Harmony     | Mr Nge Moh Lim<br><br>Mdm Ellena Tan<br><br>Mdm Saras     | nge_moh_lim@schools.gov.sg<br><br> tan_xuening_ellena@schools.gov.sg<br><br>saras_ramachandran@schools.gov.sg    |
 | P5 Integrity     | Ms Stephanie Cheong<br><br>Mdm Goh Kwee Lay     | stephanie_cheong@schools.gov.sg<br><br> goh_kwee_lay@schools.gov.sg   |
 | P5 Resilience     | Mdm Lim Yan Yan<br><br>Mr Kirk Hock Lam<br><br>Mdm Mogana   | lim_yan_yan@schools.gov.sg<br><br> kirk_hock_lam@schools.gov.sg<br><br>mogana_sivalingam@schools.gov.sg     |
 | P5 Respect     | 	Ms Wong Xing Jie<br><br>Mrs Clara Lee     | wong_xing_jie@schools.gov.sg<br><br> clara_poh_san_niah@schools.gov.sg   |
