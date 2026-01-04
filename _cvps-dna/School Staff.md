@@ -127,7 +127,7 @@ description: ""
 | Primary 6 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | P6 Care     | Mr Iskandar<br><br>Mrs Lim Hwee Mian     | radin_tri_iskandar_sumanto@schools.gov.sg<br><br> lim_hwee_mian@schools.gov.sg   |
-| P6 Harmony     | Ms Sarahlyn Cheng<br><br>Mdm Sharifah     | sarah_lyn_cheng_yanling@schools.gov.sg <br><br> sharifah_ayyoo_ali@schools.gov.sg    |
+| P6 Harmony     | Ms Sarahlyn Cheng<br><br>Mdm Sharifah<br><br>Ms Lee Mei Ling     | sarah_lyn_cheng_yanling@schools.gov.sg <br><br> sharifah_ayyoo_ali@schools.gov.sg<br><br>lee_mei_ling_b@schools.gov.sg    |
 | P6 Integrity     | Mr Raymond Tay<br><br>Ms Shameem   | tay_kim_cheong_raymond@schools.gov.sg <br><br> nur_shameem_abdul_gafoor@schools.gov.sg    |
 | P6 Resilience     | Mdm Hanifah<br><br>Mrs Josephine Yeo   | hanifah_jasman@schools.gov.sg<br><br> lee_swee_eng@schools.gov.sg   |
 | P6 Respect     | 	Ms Christianna Huang<br><br>Mdm Irene Goh     | huang_sijia_christianna@schools.gov.sg<br><br> goh_irene@schools.gov.sg    |
