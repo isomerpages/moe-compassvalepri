@@ -14,7 +14,7 @@ variant: markdown
 |  Chinese Dance | Junior Team (P3 &amp; P4)<br>2.40p.m - 4.30p.m  | Senior Team (P5 &amp; P6)<br>2.10p.m - 4.00p.m | 
 | Harmonica Ensemble  | Senior Team  (P4 - P6)<br>2.40p.m - 4.30p.m <br>Junior Team (P3)<br>2.40p.m - 4.00p.m  | <br> Nil  | 
 | Indian Dance  |   CCA Team<br>2.40p.m - 4.30p.m | Nil  |  
-|  Malay Dance | <br> Nil | CCA Team<br>2.10p.m - 4.00p.m  | 
+|  Malay Dance | Nil | CCA Team<br>2.10p.m - 4.00p.m  | 
 |
 
 #### **Sports &amp; Games**
