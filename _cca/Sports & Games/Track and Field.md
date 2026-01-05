@@ -6,32 +6,40 @@ third_nav_title: Sports & Games
 variant: markdown
 ---
 ### **Track and Field**
+<center>
+<img src="/images/Year%202025/2025%20CCA/Track___Field_2_R.jpg" style="width:65%"></center>
 
-<img src="/images/Year%202025/2025%20CCA/Track___Field_2_R.jpg" style="width:65%">
+##### **What We Do**<br>
+Track &amp; Field develops athletic potential through running, jumping and throwing events. Members train in speed, endurance, strength and technique, guided by experienced coaches who prepare them for competitions. <br><br>
+<img src="/images/2024%20Open%20House/CCA/Track_and_Field_1R.jpg" style="width:52%" align="left">
+<img src="/images/T&amp;F.jpeg" style="width:46%" align="right">
+<br clear="left">
+<br clear="right">
 
-Track and field is a sport comprising various competitive events based on running, jumping and throwing.  
+##### **What Students Will Learn**<br>
+* Sprinting and middle-distance fundamentals
+* Jumps and throws techniques
+* Strength, stamina and conditioning
+* Goal-setting, perseverance and personal discipline
+<br>
+<img src="/images/2024%20Open%20House/CCA/Track_and_Field_6.jpg" style="width:68%" align="left">
+<img src="/images/Year%202025/2025%20CCA/Track___Field_6_R.jpg" style="width:30%" align="right">
+<br clear="left">
+<br clear="right">
 
-Weekly, our athletes congregate to build their character, hone their techniques and foster stronger bonds. The senior athletes lead the team in warm-up routines and drills. This opportunity promotes responsible decision-making which develops their leadership qualities.
+##### **Opportunities for Students**<br>
+* National School Games competitions
+* Selection based on performance potential
+* Representing the school in various athletic meets<br>
 
-Our athletes go through various training drills to develop specific skills and overcome their weaknesses. The target for each drill is moderated regularly on an increasing and achievable basis to bring our athletes to the next level of excellence. Those who exhibit progression in skills and grit form the school team who will have the opportunity to participate in large scale competitions such as the National School Games.
-<br>
+<center><img src="/images/2024%20Open%20House/CCA/Track_and_Field_7R.jpg" style="width:65%" align="center"></center>
 
-<img src="/images/2024%20Open%20House/CCA/Track_and_Field_1R.jpg" style="width:65%">
-<br>
-<img src="/images/T&amp;F.jpeg" style="width:65%">
-<br>
-<img src="/images/Year%202025/2025%20CCA/Track___Field_6_R.jpg" style="width:65%">
+##### **Who Should Join**<br>
+* Students who enjoy running, physical challenge and pushing personal limits
+* Students who want to compete and improve their athletic performance
+<center><img src="/images/2024%20Open%20House/CCA/Track_and_Field_4.jpg" style="width:65%">
+</center>
 
-<br>
-In Track and Field, each child excels in his/her own forte, yet we grow as a team. <br>
-<br>
-<img src="/images/2024%20Open%20House/CCA/Track_and_Field_6.jpg" style="width:65%" align="center">
-<br>
-<img src="/images/2024%20Open%20House/CCA/Track_and_Field_4.jpg" style="width:65%" align="center">
-<br>
-<img src="/images/2024%20Open%20House/CCA/Track_and_Field_7R.jpg" style="width:65%" align="center">
-
-<br>
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vbTiEgoPl0M?si=xXV2lABlMqcCi7es" height="299" width="480"></iframe>
 <center>

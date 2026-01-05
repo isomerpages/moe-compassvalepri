@@ -20,17 +20,18 @@ description: ""
 
 | Department | Title | Staff | Email Address |
 | -------- | -------- | -------- | -------- |
-| English     | Level Head<br><br> Level Head     | Mr Khai Ho<br><br>Ms Christianna Huang     | khairulnizad_khalid@schools.gov.sg<br><br>huang_sijia_christianna@schools.gov.sg    |
-| Mathematics     | Head of Department<br><br>Level Head     | Mrs Thessa Ang<br><br>Ms Irene Goh     | tan_ee_jui_thessa@schools.gov.sg<br><br> goh_irene@schools.gov.sg    |
-| Science     | Head of Department<br><br>Level Head   | Ms Sim Li Ting<br><br>Mr Peck Cheng Wee     | sim_li_ting@schools.gov.sg <br><br> peck_cheng_wee@schools.gov.sg   |
-| Mother Tongue<br> Language     | Head of Department<br><br>Subject Head (ML &amp; TL)     | Mrs Ong Lee Lian<br><br>Mdm Haslina     | khoo_lee_lian@schools.gov.sg<br><br>haslina_abu_bakar_a@schools.gov.sg 
-| Aesthetics     | Subject Head     | Ms Wong Xing Jie     | wong_xing_jie@schools.gov.sg     |
-| Physical Education     | Subject Head     | Mr Kenny Liao     | liao_chunming_kenny@schools.gov.sg   |
-| Character<br> &amp;<br> Citizenship (CCE)     | Head of Department<br><br>Level Head (CCE)<br><br>Level Head (CCE)<br><br>Subject Head (NESS)     | Mdm Ellena Tan<br><br>Mdm Alinda<br><br>Ms Corrin Goh<br><br>Ms Fiona Seah     |   tan_xuening_ellena@schools.gov.sg <br><br>alinda_ahmed@schools.gov.sg <br><br>goh_suet_mei@schools.gov.sg<br><br> seah_yiling_fiona@schools.gov.sg |
-| School Staff<br> Development     | School Staff Developer     | Mr Alex Lee     | alex_lee_tiong_huat@schools.gov.sg     |
-| Information<br> and<br> Communication<br> Technology (ICT)     | Subject Head     | Mr Tay Wei Jun     | tay_wei_jun@schools.gov.sg     |
-| Student Management<br> &amp; Student Well-being    | Subject Head  | Mr Matthew Siew     | siew_joern_matthew@schools.gov.sg    |
-| |
+| English     | Head of Department<br><br>Level Head     | Ms Shameem <br><br>Ms Christianna Huang     | nur_shameem_abdul_gafoor@schools.gov.sg<br><br>huang_sijia_christianna@schools.gov.sg    |
+| Mathematics     | Head of Department     | Ms Irene Goh     | goh_irene@schools.gov.sg    |
+| Science     | Head of Department<br><br>Level Head   | Ms Sim Li Ting<br><br>Mr Peck Cheng Wee     | sim_li_ting@schools.gov.sg <br><br>peck_cheng_wee@schools.gov.sg   |
+| Mother Tongue<br> Language     | Head of Department<br><br>Subject Head<br> (ML &amp; TL)     | Mrs Ong Lee Lian<br><br>Mdm Haslina     | khoo_lee_lian@schools.gov.sg<br><br>haslina_abu_bakar_a@schools.gov.sg 
+| Physical Education/<br>CCA &amp; Aesthetics     | Head of Department (Acting)<br><br>Subject Head (Aesthetics)     | Mr Kenny Liao<br><br><br>Ms Wong Xing Jie     | liao_chunming_kenny@schools.gov.sg<br><br><br>wong_xing_jie@schools.gov.sg       |
+| Character<br> &amp;<br> Citizenship (CCE)     | Head of Department<br><br>Level Head (CCE)<br><br>Subject Head (NESS)     | Mdm Ellena Tan<br><br>Ms Corrin Goh<br><br>Ms Fiona Seah     |   tan_xuening_ellena@schools.gov.sg <br><br>goh_suet_mei@schools.gov.sg<br><br> seah_yiling_fiona@schools.gov.sg |
+| Curriculum &amp; Innovation     | Head of Department     | Mrs Thessa Ang     | tan_ee_jui_thessa@schools.gov.sg    |
+| School Staff<br> Development     | School Staff Developer     | Ms Mabel Ong      | ong_hui_mei@schools.gov.sg     |
+| Information<br> and<br> Communication<br> Technology (ICT)     | Head of Department<br><br>Subject Head     | Mr Najeeb<br><br>Mr Tay Wei Jun     | najeeb_hassan@schools.gov.sg<br><br>tay_wei_jun@schools.gov.sg     |
+| Student Management<br> &amp; Student Well-being    | Subject Head  | Mr Matthew Siew     | siew_joern_matthew@schools.gov.sg    | 
+| Engagement &amp; Partnership     | Level Head     | Mdm Alinda     | alinda_ahmed@schools.gov.sg    |
+| | 
 
 #### **School Educators**
 
@@ -42,62 +43,63 @@ description: ""
 
 <br>
 
-| Primary 1 Classes | Form Teachers | Email Address |
+| Primary 1 <br>Orientation Group | Teachers | Email Address |
 | -------- | -------- | -------- |
-| P1-1     | Ms Diana Koh<br><br>Mdm Goh Cai Yun     | koh_chin_peng@schools.gov.sg <br><br> goh_cai_yun@schools.gov.sg  |
-| P1-2     | Ms Irmawati<br><br>Mdm Haslina     | irmawati_a@schools.gov.sg <br><br> haslina_abu_bakar_a@schools.gov.sg  |
-| P1-3     | Mdm Zalifah<br><br>Miss Ser Yong Bing     | zalifah_bohari@schools.gov.sg <br><br> ser_yong_bing@schools.gov.sg   |
-| P1-4     | Mdm Widawati<br><br>Ms Sarahlyn Cheng     |  widawati_hanafiah@schools.gov.sg <br><br> sarah_lyn_cheng_yanling@schools.gov.sg   |
-| P1-5     | Mdm Nafisah<br><br>Mdm Siti Halizah     |   nafisah_suraida_abd_rahman@schools.gov.sg <br><br>siti_halizah_hamzah@schools.gov.sg    |
-| P1-6     | Ms Dorcas Tan<br><br>Mrs Pearlyn Koh     | tan_jeng_ling_dorcas@schools.gov.sg <br><br> ng_hui_ling_pearlyn@schools.gov.sg   |
-| P1-7     | Mdm Ain Azam<br><br>Mdm Hu Fei Fei     | nurain_muhamad_azam@schools.gov.sg <br><br> hu_fei_fei@schools.gov.sg   |
-| P1-8     | Mr Goh Eng Beng<br><br>Mrs Josphine Chng     | goh_eng_beng@schools.gov.sg <br><br> chee_mun_leng_josphine@schools.gov.sg   |
+| OG1     | Mdm Lim Shuh Huey <br><br>Mr Loh Zhi Ying     | lim_shuh_huey@schools.gov.sg <br><br> loh_zhi_ying@schools.gov.sg  |
+| OG2     | Mdm Bong Mui Yoke <br><br>Ms Cui Min<br><br>Ms Kristin Hamton      | bong_mui_yoke@schools.gov.sg<br><br>cui_min@schools.gov.sg<br><br>kristin_hamton@schools.gov.sg  |
+| OG3     | Mr Ivan Tan<br><br>Mrs Pearlyn Koh     | tan_ee_teck@schools.gov.sg<br><br>ng_hui_ling_pearlyn@schools.gov.sg   |
+| OG4     | Mrs Wendy Poh<br><br>Mr Farris     |  lee_mun_lai@schools.gov.sg<br><br>mohammad_farris_salleh@schools.gov.sg   |
+| OG5     | Ms Analiza<br><br>Mr Lui Zhenyu     |   analiza_suboh@schools.gov.sg<br><br>lui_zhenyu@schools.gov.sg    |
+| OG6     | Mdm Wani<br><br>Mdm Huang Yan<br><br>Mdm Tan Hiok Hoon      | eswani_salman_mrs_eswani@schools.gov.sg<br><br> huang_yan_a@schools.gov.sg<br><br>tan_hiok_hoon_a@schools.gov.sg   |
+| OG7     | Mdm Qu Yi<br><br>Ms Yvonne Lee    | qu_yi@schools.gov.sg<br><br> lee_hwee_ling@schools.gov.sg   |
+| OG8     | Mrs Rachel Hue<br><br>Ms Nicole Sun<br><br>Mrs Yan-ko     | tan_fong_kin_rachel@schools.gov.sg<br><br> nicole_sun_yu_hui@schools.gov.sg<br><br>ko_lian_hoi@schools.gov.sg   |
 | |
 
 <br>
 
 | Primary 2 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P2-1     | Ms Raghini<br><br>Ms Wong Si Rong     | raghini_pandida_selven@schools.gov.sg <br><br> wong_sirong@schools.gov.sg  |
-| P2-2     | Mdm Bong Mui Yoke<br><br>Mdm Suraya     | bong_mui_yoke@schools.gov.sg <br><br> suraya_mohamed_ismail@schools.gov.sg    |
-| P2-3     | Mr Ivan Tan<br><br>Mdm Syahirah     | tan_ee_teck@schools.gov.sg <br><br> syahirah_nabilah_salleh@schools.gov.sg    |
-| P2-4     | Mdm Lim Shuh Huey<br><br>Ms Ng Mei Ling     | lim_shuh_huey@schools.gov.sg <br><br> ng_mei_ling_b@schools.gov.sg    |
-| P2-5     | Mrs Wendy Poh<br><br>Mdm Guo Nannan     | lee_mun_lai@schools.gov.sg <br><br> guo_nannan@schools.gov.sg    |
-| P2-6     | Mr Loh Zhi Ying<br><br>Ms Nicole Sun     | loh_zhi_ying@schools.gov.sg <br><br> nicole_sun_yu_hui@schools.gov.sg    |
-| P2-7     | Mdm Wani<br><br>Ms Zelda Mak    | eswani_salman_mrs_eswani@schools.gov.sg <br><br> zelda_mak_teng_fong@schools.gov.sg    |
-| P2-8     | Ms Analiza<br><br>Mdm Qu Yi     | analiza_suboh@schools.gov.sg​  <br><br> qu_yi@schools.gov.sg    |
+| P2-1     | Ms Diana Koh<br><br>Mdm Goh Cai Yun     | koh_chin_peng@schools.gov.sg<br><br>goh_cai_yun@schools.gov.sg  |
+| P2-2     | Ms Irmawati<br><br>Mdm Haslina     | irmawati_a@schools.gov.sg<br><br> haslina_abu_bakar_a@schools.gov.sg    |
+| P2-3     | Mdm Zalifah<br><br>Mrs Thessa Ang     | zalifah_bohari@schools.gov.sg<br><br> tan_ee_jui_thessa@schools.gov.sg    |
+| P2-4     | Mdm Widawati<br><br>Ms Raghini<br><br>Mr Kenny Liao     | widawati_hanafiah@schools.gov.sg<br><br> raghini_pandida_selven@schools.gov.sg<br><br>liao_chunming_kenny@schools.gov.sg    |
+| P2-5     | Mdm Nafisah<br><br>Ms Lim Yen Pin<br><br>Mdm Siti Halizah     | nafisah_suraida_abd_rahman@schools.gov.sg<br><br> lim_yen_pin@schools.gov.sg<br><br>siti_halizah_hamzah@schools.gov.sg    |
+| P2-6     | Ms Dorcas Tan<br><br>Mr Hamzah<br><br>Ms Magdalene Teo     | tan_jeng_ling_dorcas@schools.gov.sg<br><br> hamzah_mahmid@schools.gov.sg<br><br>to be updated    |
+| P2-7     | Mdm Hu Fei Fei<br><br>Ms Casarie Chua    | hu_fei_fei@schools.gov.sg<br><br>chua_meng_yi_casarie@schools.gov.sg    |
+| P2-8     | Mr Goh Eng Beng<br><br>Mrs Josephine Chng     | goh_eng_beng@schools.gov.sg<br><br> chee_mun_leng_josphine_a@schools.gov.sg    |
 | |
 
 <br>
 
 | Year Head for Middle Primary |  |  |
 | -------- | -------- | -------- |
-| Year Head <br>Middle Primary (Acting)     | Ms Kuan Wai Ling     | kuan_wai_ling@schools.gov.sg  |
-| Assistant Year Head <br> Middle Primary     | Ms Clara Lee     | clara_poh_san_niah@schools.gov.sg    
+| Year Head <br>Middle Primary     | Ms Kuan Wai Ling     | kuan_wai_ling@schools.gov.sg  | 
+| Assistant Year Head <br>Middle Primary     | Mdm Noornita     | noornita_abdul_khalip@schools.gov.sg  | 
+| Assistant Year Head <br> Middle Primary     | Mrs Clara Lee     | clara_poh_san_niah@schools.gov.sg    
 |  |  |
 
 <br>
 
 | Primary 3 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P3 Care     | Mrs Sharon Koh<br><br>Mr Hamzah     | lee_soh_boon_sharon@schools.gov.sg <br><br>hamzah_mahmid@schools.gov.sg     |
-| P3 Harmony     | Mr Chia Tet Hong<br><br>Mdm Norliza <br><br>Mr Ng Wee Liam     | chia_tet_hong@schools.gov.sg <br><br>norliza_abdul_rahman_a@schools.gov.sg <br><br>ng_wee_liam@schools.gov.sg    |
-| P3 Integrity     | Ms Raine Koh<br><br>Ms Kuan Wai Ling<br><br>Ms Lim Yen Pin| raine_koh_rui_lan@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg<br><br>lim_yen_pin@schools.gov.sg   |
-| P3 Resilience     | Mr Alex Lee<br><br>Mdm Jolene Choy     | alex_lee_tiong_huat@schools.gov.sg <br><br>jolene_choy_jo_yin@schools.gov.sg    |
-| P3 Respect     | Mr Matthew Siew<br><br>Mrs Jega<br><br>Mdm Faridah     | siew_joern_matthew@schools.gov.sg <br><br>saroja_devi_jaganathan@schools.gov.sg<br><br> faridah_taib@schools.gov.sg   |
-| P3 Responsibility     | Mr Putra<br><br>Mrs Koh Pei Ling     | zaiphizat_putra@schools.gov.sg <br><br>kwek_pei_ling_a@schools.gov.sg
+| P3 Care     | Mdm Alinda<br><br>Mr Lance Peck     | alinda_ahmed@schools.gov.sg<br><br>peck_cheng_wee@schools.gov.sg     |
+| P3 Harmony     | Ms Toh Wei Ting<br><br>Mr See Shi Yau<br><br>Mdm Noornita     | toh_wei_ting@schools.gov.sg<br><br>tsee_shi_yau@schools.gov.sg<br><br>noornita_abdul_khalip@schools.gov.sg    |
+| P3 Integrity     | Ms Nurdirayah<br><br>Ms Mabel Ong<br><br>Mdm Faridah| nurdirayah_mohamed_idris@schools.gov.sg<br><br>ong_hui_mei@schools.gov.sg<br><br>faridah_taib@schools.gov.sg   |
+| P3 Resilience     | Mrs Janet Tey<br><br>Ms Ignez Tay     | ng_yet_yen@schools.gov.sg<br><br>ignez_tay_geok_choo@schools.gov.sg    |
+| P3 Respect     | Mr Edmund Hor<br><br>Mrs Jega<br><br>Mrs Ong Lee Lian     | hor_yoke_keong_edmund@schools.gov.sg <br><br>saroja_devi_jaganathan@schools.gov.sg<br><br> khoo_lee_lian@schools.gov.sg   |
+| P3 Responsibility     | Ms Zelda Mak<br><br>Mr Najeeb     | zelda_mak_teng_fong@schools.gov.sg <br><br>najeeb_hassan@schools.gov.sg
 |  | 
 
 <br>
 
 | Primary 4 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P4 Care     | Mr Nge Moh Lim<br><br>Mdm Huang Yan     | nge_moh_lim@schools.gov.sg <br><br> huang_yan_a@schools.gov.sg  |
-| P4 Harmony     | Mr Tay Wei Jun<br><br>Mrs Janet Tey     | tay_wei_jun@schools.gov.sg <br><br> ng_yet_yen@schools.gov.sg    |
-| P4 Integrity     | Ms Stephanie Cheong<br><br>Mdm Alinda     | stephanie_cheong@schools.gov.sg <br><br> alinda_ahmed@schools.gov.sg    |
-| P4 Resilience     | Mr Loh Thiam Fong<br><br>Mdm Norsham<br><br>Mrs Rachel Hue     | loh_thiam_fong@schools.gov.sg <br><br>norsham_mohammed_noh@schools.gov.sg<br><br> tan_fong_kin_rachel@schools.gov.sg   |
-| P4 Respect     | Mr Kenny Liao<br><br>Ms Ignez Tay     | liao_chunming_kenny@schools.gov.sg <br><br>ignez_tay_geok_choo@schools.gov.sg   |
-| P4 Responsibility     | Mrs Clara Lee<br><br>Mrs Rajeswari<br><br>Ms Nurdirayah     | clara_poh_san_niah@schools.gov.sg <br><br> rajeswari_pannirselvam@schools.gov.sg<br><br>nurdirayah_mohamed_idris@schools.gov.sg  |
+| P4 Care     | Mr Chia Tet Hong<br><br>Mdm Norliza     | chia_tet_hong@schools.gov.sg<br><br>norliza_abdul_rahman_a@schools.gov.sg  |
+| P4 Harmony     | Mr Ezran<br><br>Ms Rajeswari<br><br>Mr Matthew Siew      | mohamed_ezran_abdul_kassim@schools.gov.sg<br><br> rajeswari_pannirselvam@schools.gov.sg<br><br>siew_joern_matthew@schools.gov.sg    |
+| P4 Integrity     | Mr Lim Beng Gee<br><br>Mrs Sharon Koh     | lim_beng_gee@schools.gov.sg<br><br>lee_soh_boon_sharon@schools.gov.sg    |
+| P4 Resilience     | Ms Ser Yong Bing<br><br>Ms Kuan Wai Ling     | ser_yong_bing@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg   |
+| P4 Respect     | Mrs Angeline Lim<br><br>Ms Raine Koh<br><br>Mr Putra     | ang_yi_ting_angeline@schools.gov.sg<br><br>raine_koh_rui_lan@schools.gov.sg<br><br>zaiphizat_putra@schools.gov.sg   |
+| P4 Responsibility     |Ms Jolene Choy<br><br>Ms Wong Sirong     | jolene_choy_jo_yin@schools.gov.sg<br><br> wong_sirong@schools.gov.sg  |
 | |
 
 <br>
@@ -112,24 +114,24 @@ description: ""
 
 | Primary 5 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P5 Care     | Mr Raymond Tay<br><br>Mrs Ong Lee Lian     | tay_kim_cheong_raymond@schools.gov.sg <br><br> khoo_lee_lian@schools.gov.sg  |
-| P5 Harmony     | Mr Iskandar<br><br>Mrs Lim Hwee Mian     | radin_tri_iskandar_sumanto@schools.gov.sg <br><br> lim_hwee_mian@schools.gov.sg    |
-| P5 Integrity     | Mdm Hanifah<br><br>Mrs Josephine Yeo <br><br> Mrs Vijay     | hanifah_jasman@schools.gov.sg <br><br> lee_swee_eng@schools.gov.sg <br><br> vijayalakshmi_a@schools.gov.sg   |
-| P5 Resilience     | Ms Emellyn Lim<br><br>Mrs Corrin Kwok   | lim_yee_hoon_emellyn@schools.gov.sg <br><br> goh_suet_mei@schools.gov.sg     |
-| P5 Respect     | 	Ms Sim Li Ting<br><br>Mdm Sharifah     | sim_li_ting@schools.gov.sg <br><br> sharifah_ayyoo_ali@schools.gov.sg   |
-| P5 Responsibility     | 	Mdm Irene Goh<br><br>Mr Khai Ho     | goh_irene@schools.gov.sg <br><br> khairulnizad_khalid@schools.gov.sg   |
+| P5 Care     | Ms Tan Yan Bing<br><br>Ms Fiona Seah     | tan_yan_bing@schools.gov.sg<br><br> seah_yiling_fiona@schools.gov.sg  |
+| P5 Harmony     | Mr Nge Moh Lim<br><br>Mdm Ellena Tan<br><br>Mdm Saras     | nge_moh_lim@schools.gov.sg<br><br> tan_xuening_ellena@schools.gov.sg<br><br>saras_ramachandran@schools.gov.sg    |
+| P5 Integrity     | Ms Stephanie Cheong<br><br>Mdm Goh Kwee Lay     | stephanie_cheong@schools.gov.sg<br><br> goh_kwee_lay@schools.gov.sg   |
+| P5 Resilience     | Mdm Lim Yan Yan<br><br>Mr Kirk Hock Lam<br><br>Mdm Mogana   | lim_yan_yan@schools.gov.sg<br><br> kirk_hock_lam@schools.gov.sg<br><br>mogana_sivalingam@schools.gov.sg     |
+| P5 Respect     | 	Ms Wong Xing Jie<br><br>Mrs Clara Lee     | wong_xing_jie@schools.gov.sg<br><br> clara_poh_san_niah@schools.gov.sg   |
+| P5 Responsibility     | 	Mdm Norsham<br><br>Mr Tay Wei Jun     | norsham_mohammed_noh@schools.gov.sg<br><br> tay_wei_jun@schools.gov.sg   |
 | |
 
 <br>
 
 | Primary 6 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
-| P6 Care     | Mr Edmund Hor<br><br>Ms Mogana     | hor_yoke_keong_edmund@schools.gov.sg <br><br> mogana_sivalingam@schools.gov.sg   |
-| P6 Harmony     | Ms Fiona Seah<br><br>Mr Kirk Hock Lam     | seah_yiling_fiona@schools.gov.sg <br><br> kirk_hock_lam@schools.gov.sg    |
-| P6 Integrity     | Ms Christianna Huang<br><br>Mrs Thessa Ang   | huang_sijia_christianna@schools.gov.sg <br><br> tan_ee_jui_thessa@schools.gov.sg    |
-| P6 Resilience     | Mrs Janet Doo<br><br>Mdm Goh Kwee Lay   | leow_puay_khim@schools.gov.sg <br><br> goh_kwee_lay@schools.gov.sg   |
-| P6 Respect     | 	Mr Lim Beng Gee<br><br>Mdm Ellena Tan     | lim_beng_gee@schools.gov.sg <br><br> tan_xuening_ellena@schools.gov.sg    |
-| P6 Responsibility     | 	Mr Lance Peck<br><br>Ms Wong Xing Jie     | peck_cheng_wee@schools.gov.sg  <br><br> wong_xing_jie@schools.gov.sg   |
+| P6 Care     | Mr Iskandar<br><br>Mrs Lim Hwee Mian     | radin_tri_iskandar_sumanto@schools.gov.sg<br><br> lim_hwee_mian@schools.gov.sg   |
+| P6 Harmony     | Ms Sarahlyn Cheng<br><br>Mdm Sharifah<br><br>Ms Lee Mei Ling     | sarah_lyn_cheng_yanling@schools.gov.sg <br><br> sharifah_ayyoo_ali@schools.gov.sg<br><br>lee_mei_ling_b@schools.gov.sg    |
+| P6 Integrity     | Mr Raymond Tay<br><br>Ms Shameem   | tay_kim_cheong_raymond@schools.gov.sg <br><br> nur_shameem_abdul_gafoor@schools.gov.sg    |
+| P6 Resilience     | Mdm Hanifah<br><br>Mrs Josephine Yeo   | hanifah_jasman@schools.gov.sg<br><br> lee_swee_eng@schools.gov.sg   |
+| P6 Respect     | 	Ms Christianna Huang<br><br>Mdm Irene Goh     | huang_sijia_christianna@schools.gov.sg<br><br> goh_irene@schools.gov.sg    |
+| P6 Responsibility     | 	Ms Emellyn Lim<br><br>Mrs Corrin Kwok     | lim_yee_hoon_emellyn@schools.gov.sg  <br><br> goh_suet_mei@schools.gov.sg   |
 | |
 
 #### **Allied Educators**
@@ -138,10 +140,10 @@ description: ""
 
 | |  |  |
 | -------- | -------- | -------- |
-| Mdm Priscilla Lim     | Senior Special Education Needs Officer      | lim_gek_sang@schools.gov.sg     |
 | Mdm Nor' Atiqah     |  Senior Special Education Needs Officer       | nor_atiqah_osman@schools.gov.sg    |
 | Ms Vrinda     | Special Education Needs Officer     | vrinda_ravindaran@schools.gov.sg     |
 | Ms Tan Ming Hui     | School Counsellor     | tan_ming_hui_c@schools.gov.sg  |
+| Ms Cindy Liong     | School Counsellor      | liong_cindy@schools.gov.sg     |
 | Mdm Betty Kuan   | School Counsellor (Flexi)    |  kuan_fui_ha@schools.gov.sg |
-| Ms Ng Yi Jie     | Senior Student Welfare Officer      |  ng_yi_jie@schools.gov.sg  |
+| Ms Ng Yi Jie     | Senior Student Welfare Officer      |  ng_yi_jie@schools.gov.sg  | 
  |  |

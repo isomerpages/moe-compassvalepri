@@ -7,32 +7,53 @@ variant: markdown
 ---
 ### **Brass Band**
 
-<img src="/images/Year%202025/2025%20CCA/Band_10_R.jpg" style="width:65%">
-<br>
-Formed in 2003, the Compassvale Primary School Brass Band has made significant progress. Through the years, they have had performed at many occasions as well as competitions under the dedicated guidance of a group of teachers and instructors.
-<br>
+<center><img src="/images/Year%202025/2025%20CCA/Band_10_R.jpg" style="width:65%"></center>
 
-New recruits of the band may choose from the following musical instruments such as Trumpet / Cornet / Horn (high brass), Trombone / Baritone / Euphonium / Tuba (low brass) and Percussion (drums / bells). <br>
+##### **What We Do** <br>
+The Brass Band is one of Compassvale Primary’s established performing arts groups, formed in 2003. Under the guidance of our dedicated band instructors and teachers, members learn to play brass and percussion instruments and perform as a full ensemble. Our band has showcased its talent at school events and national platforms over the years.<br>
+<center><img src="/images/Year%202025/2025%20CCA/Band_5_R.jpg" style="width:65%"></center>
 
-<img src="/images/Year%202025/2025%20CCA/Band_5_R.jpg" style="width:33.3%" align="left"><img src="/images/Year%202025/2025%20CCA/Band_1_R.jpg" style="width:33.3%" align="left">
-<img src="/images/Year%202025/2025%20CCA/Band_3_R.jpg" style="width:33.3%" align="left">
+##### **Instruments You Can Learn** <br>
+Students will have the opportunity to be trained in:
+* High Brass: Trumpet / Cornet / Horn
+* Low Brass: Trombone / Baritone / Euphonium / Tuba
+* Percussion: Drums / Bells / Auxiliary Percussion<br><br>
+No prior music experience is required — we will build skills from the basics.<br><br>
+<img src="/images/Year%202025/2025%20CCA/Band_9_R.jpg" style="width:49%" align="left"><img src="/images/2024%20Open%20House/CCA/Band_5R.jpg" style="width:49%" align="right">
 <br clear="left">
 <br clear="right">
-Each student must be committed and ready to undertake the task of learning an instrument. The senior members are also empowered to guide and lead the junior members during sectional trainings.
-<br>
 
-By the second year, the band members should be able to read music scores, have gained improved motor skills and had achieved a sense of belonging when playing music as a whole band. Students are also given a boost of self-confidence and increased social interaction.
+##### **Who Should Join** <br>
+* Students who enjoy music or would like to learn a musical instrument
+* Students who enjoy teamwork and performing as a group
+* Students who are willing to practice and grow with the band 
+<br><br>
+<img src="/images/Year%202025/2025%20CCA/Band_3_R.jpg" style="width:49%" align="left">
+<img src="/images/Year%202025/2025%20CCA/Band_1_R.jpg" style="width:49%" align="right">
+<br clear="left">
+<br clear="right">
 
-As the band members progress through the years, band members learn the value of discipline and determination.
+##### **What Students Will Learn** <br>
+* How to read and understand music scores
+* Instrument handling and playing techniques
+* Ensemble playing and listening skills
+* Confidence in performing before an audience
+* Discipline, teamwork and perseverance
+* Leadership skills (senior members guide juniors)
 
-Band members get the chance to develop a greater sense of emotional awareness through playing music, particularly during collaboration amongst students. We believe that music is invaluable in developing successful students. Music shapes the way our students understand themselves and the world around them. It nurtures assets and skills that are critical to future success.
+##### **Students’ Opportunities** <br>
+Over the years, the Compassvale Primary Brass Band has:
+* Performed in numerous school celebrations, community events and concerts
+* Taken part in Singapore Youth Festival Arts Presentation and music showcases
+* Built a strong band culture where senior members mentor and support juniors
+* Developed students who continue music in secondary school bands, orchestras and performing arts groups<br><br>
 
-<br>
-<img src="/images/Year%202025/2025%20CCA/Band_9_R.jpg" style="width:65%">
-<br>
-<img src="/images/2024%20Open%20House/CCA/Band_5R.jpg" style="width:65%">
-<br>
-<img src="/images/2024%20Open%20House/CCA/Band_6R.jpg" style="width:65%">
+**Our band takes pride not only in performances, but also in the friendships, commitment and sense of belonging developed through shared music-making.**
+
+<center><img src="/images/2024%20Open%20House/CCA/Band_6R.jpg" style="width:65%">
 
 <center>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/D2KtPpbRwWM?si=QcOBDC3Q7DiM2kXY" height="315" width="560"></iframe></center>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/D2KtPpbRwWM?si=QcOBDC3Q7DiM2kXY" height="315" width="560"></iframe></center></center>
+
+##### **Why Brass Band Matters** <br>
+We believe that music education nurtures confident, empathetic and adaptable learners. Playing in a band strengthens creativity, emotional awareness, self-management and collaboration, helping students grow into thoughtful individuals who lead with character and contribute meaningfully to their community.

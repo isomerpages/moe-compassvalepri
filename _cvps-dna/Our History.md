@@ -2,6 +2,7 @@
 title: Our History
 permalink: /cvps-dna/history/
 description: ""
+variant: markdown
 ---
 ### **Our History**
 Compassvale Primary School was established on 4 January 1999 at a holding site in Sengkang Primary School.
@@ -10,7 +11,7 @@ In January 2000, Compassvale Primary School shifted temporarily to a second hold
 
 The school was accorded the Learning for Life Programme (LLP) for Aesthetics and Applied Learning Programme (ALP) in Robotics. The school commenced an on-site upgrading exercise in June 2011 which was completed in December 2012. The school has operated as a single session since January 2013.
 
-In 2019, the school will be celebrating its 20th anniversary as it continues to serve the Sengkang Community.
+In 2029, the school will be celebrating its 30th&nbsp;anniversary as it continues to serve the Sengkang Community.
 
 #### **Milestones** 
 

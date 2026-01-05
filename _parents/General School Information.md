@@ -40,7 +40,7 @@ b.   **What Parents/Guardians Can Do:** Teach your child/ward the properly way t
 |---|---|
 | Reporting Time |  Before 7.45 a.m. |
 | Flag-raising Ceremony |  7.45 a.m. |
-| Start of Lesson |  Refer to timetable |
+| Start of Lesson |  8.05 a.m. |
 | Dismissal time (Monday, Wednesday, Thursday and Friday) :<br>Support lessons will be conducted for identified students<br>on Wednesday and Thursday |  1.40 p.m. |
 | Dismissal time (Tuesday) |  2.40 p.m. |
 | CCA (Tuesday / Friday):<br>Students identified for the school team may have CCA<br>on Tuesday and Friday. (Parents will be informed through consent forms.) | 2.40 p.m. (Tue) <br> /<br>2.10 p.m. (Fri) |
@@ -61,19 +61,38 @@ a.	The general guideline from Health Promotion Board (HPB) is for children to ca
 * Students to pack their bags in accordance with the daily class timetable. 
 * Students can use the lockers to keep some of their heavier books or items which they need daily in school. A number lock is recommended to secure the locker.
 
-
 b. We would like to recommend that the school bags are made of lightweight material.
 
 c. Please refrain from the use of roller/trolley bags as they can be challenging for children to carry when climbing stairs and may also encourage overpacking. 
 
-#### **8  Communications and Coordination**
-a.    We believe that regular and open communication between school and parents/guardian is important in helping us achieve our common aim of providing an excellent education for our Compassvalites. We will keep you informed of important matters through our school website [https://compassvalepri.moe.edu.sg/](https://compassvalepri.moe.edu.sg/), Parents Gateway announcements and letters. You may also email our administration at our generic email address: **cvps@moe.edu.sg.**
+#### **8  Communications Guidelines**
+a. We believe that regular and open communication between school and parents/guardian is important in helping us achieve our common aim of providing an excellent education for our Compassvalites. However, teachers are not required to share personal mobile numbers or communicate via other social media/ communication platforms beyond the official modes of communication.
+<br>
 
-b.    The Student Handbook is another means for you to communicate with our teachers. You may write short notes in the Handbook and address it to the teacher concerned. Please remind your child/ward to show the teacher the note that you have written. 
+**<u>Modes of Communication</u>**<br>
+We will keep you informed of important matters through Parents Gateway announcements and letters, and our school website [**https://compassvalepri.moe.edu.sg/**](https://compassvalepri.moe.edu.sg/). You may also email our administration at our generic email address: [**cvps@moe.edu.sg**](cvps@moe.edu.sg). You may also email directly to the relevant key personnel or Form Teachers using the email addresses provided on our school website.
 
-c.    The operation hours for our General Office are from 0745hrs to 1700hrs from Monday to Friday. We are closed on Saturday, Sunday and Public Holidays. If you wish to call our General Office, our telephone number is: 6388 2819.
+The Student Handbook is another means for you to communicate with our teachers. You may write short notes in the Student Handbook and address them to the teacher concerned. Please remind your child/ward to show the teacher the note that you have written.
 
-d.    We actively manage the school calendar on our webpage so that you can plan ahead to coordinate with our schedule of activities.
+We strongly encourage you to make an appointment with the school staff if you would like to meet them personally. The operation hours for our General Office are from 0745hrs to 1700hrs from Mondays to Fridays. We are closed on Saturdays, Sundays and Public Holidays. If you wish to call our General Office, our telephone number is **6388 2819**. To schedule a meeting, please email the school personnel at least three working days in advance to minimise disruption to their core duties such as their teaching duties.
+
+**<u>Expected Response Time</u>**<br>
+In line with Civil Service standards, parents/ guardians can expect responses within:<br>
+
+-	Three working days for simple queries.<br>
+-	Seven working days for queries requiring some investigation.<br>
+-	Twenty-one working days for complex queries that require extensive triangulation of information from various parties involved.
+
+**<u>Communication Hours</u>**<br>
+Parents are encouraged to contact teachers during school hours (refer to point 5 above) and during term time. Our teachers are not expected to respond to queries outside these hours, on weekends, and during school holidays.
+
+**<u>Respectful Communication</u>**<br>
+
+-	Our staff are committed to partnering parents/ guardians with sincerity, integrity, and professionalism. We encourage open and respectful dialogue to support students’ well-being and learning.
+-	By showing mutual courtesy and respect, we set a positive example for our children. The school will disengage from any communication that is rude, disrespectful, or abusive towards staff.
+-	MOE values our staff and will take firm action to protect them against unreasonable behavior, harassment, or abuse.
+
+b.    We actively manage the school calendar on our webpage so that you can plan ahead to coordinate with our schedule of activities.
 
 You may wish to bookmark&nbsp;[https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&amp;ctz=Asia/Singapore](https://calendar.google.com/calendar/embed?src=cvpspublic%40gmail.com&amp;ctz=Asia/Singapore)&nbsp;in your browser.
 
@@ -81,19 +100,24 @@ If you are an ical calendar user, you may wish to add&nbsp;[https://calendar.goo
 
 #### **9  MOE Financial Assistance Scheme (FAS)**
 
-MOE provides assistance on school fees and other expenses to Singapore Citizen students in financial need. The eligibility checker can be found on MOE’s website at [https://moe.gov.sg/financial-matters/financial-assistance](https://moe.gov.sg/financial-matters/financial-assistance) 
+The Ministry of Education provides financial assistance to needy Singaporean students in Government and Government-Aided schools.
 
-Application is to be submitted online at [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) with the required softcopy supporting documents. 
+Income Criteria:
+Gross Household Income (GHI): ≤$4,000 <br>
+Per Capita Income (PCI): ≤$1,000
 
-Parents whose child is a ComCare beneficiary need not submit the application for MOE FAS separately as it will be auto-granted to ComCare beneficiaries in Government and Government-aided schools (GGAS). 
+Benefits:<br>
+* Full subsidy of miscellaneous fees
+* Free textbooks and school attire
+* Meal subsidies that pay for 7 meals per school week
+* Transport subsidy:
+	- For students taking school bus: 70% of monthly school bus fare
+	- For students taking public transport: public transport subsidy of $21 per month
 
-Application via hardcopy form is required for: <br>
-a.	Families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) <br>
-b.	Family with more than six children in GGAS <br>
-c.	Family with more than five unmarried children not in GGAS <br>
-d.	Family with more than three grandparents in the household
+How to apply:
+* Online through Parents Gateway (Services &gt; Financial Assistance)
+* [https://go.gov.sg/moe-efasggas](https://go.gov.sg/moe-efasggas)
 
-If you have difficulties submitting your application online, the hardcopy application [2025 MOE FAS Application Form](/files/2025_MOE_FAS_Application_Form.pdf) together with all required supporting documents is to be submitted to the General Office. 
 
 #### **10  Group Personal Accident (GPA) Insurance for Students**
 
