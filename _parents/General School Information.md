@@ -100,19 +100,24 @@ If you are an ical calendar user, you may wish to add&nbsp;[https://calendar.goo
 
 #### **9  MOE Financial Assistance Scheme (FAS)**
 
-MOE provides assistance on school fees and other expenses to Singapore Citizen students in financial need. The eligibility checker can be found on MOE’s website at [https://moe.gov.sg/financial-matters/financial-assistance](https://moe.gov.sg/financial-matters/financial-assistance) 
+The Ministry of Education provides financial assistance to needy Singaporean students in Government and Government-Aided schools.
 
-Application is to be submitted online at [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) with the required softcopy supporting documents. 
+Income Criteria:
+Gross Household Income (GHI): ≤$4,000
+Per Capita Income (PCI): ≤$1,000
 
-Parents whose child is a ComCare beneficiary need not submit the application for MOE FAS separately as it will be auto-granted to ComCare beneficiaries in Government and Government-aided schools (GGAS). 
+Benefits:<br>
+* Full subsidy of miscellaneous fees
+* Free textbooks and school attire
+* Meal subsidies that pay for 7 meals per school week
+* Transport subsidy:
+	- For students taking school bus: 70% of monthly school bus fare
+	- For students taking public transport: public transport subsidy of $21 per month
 
-Application via hardcopy form is required for: <br>
-a.	Families with other dependents (Great grandparents, Aunties/Uncles, Cousins and others) <br>
-b.	Family with more than six children in GGAS <br>
-c.	Family with more than five unmarried children not in GGAS <br>
-d.	Family with more than three grandparents in the household
+How to apply:
+* Online through Parents Gateway (Services &gt; Financial Assistance)
+* [https://go.gov.sg/moe-efasggas](https://go.gov.sg/moe-efasggas)
 
-If you have difficulties submitting your application online, the hardcopy application [2025 MOE FAS Application Form](/files/2025_MOE_FAS_Application_Form.pdf) together with all required supporting documents is to be submitted to the General Office. 
 
 #### **10  Group Personal Accident (GPA) Insurance for Students**
 
