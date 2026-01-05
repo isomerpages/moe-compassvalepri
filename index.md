@@ -42,9 +42,9 @@ sections:
       url: /cvps-open-house-2025/welcomepage/
   - infopic:
       title: CVPS School Library
-      description: Find out the new arrivals, what’s popular, leave a review, and more
-        by visiting the webpage below. You will be able to view the books
-        without logging in.
+      description: Curious about what’s on our shelves? Visit the school library
+        webpage to explore book availability, new arrivals, popular reads, and
+        reader reviews.
       button: Click here
       url: https://schoolibrary.moe.edu.sg/compassvalepri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
       image: /images/cvps opac.png
