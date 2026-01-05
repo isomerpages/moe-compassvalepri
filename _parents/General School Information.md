@@ -103,7 +103,7 @@ If you are an ical calendar user, you may wish to add&nbsp;[https://calendar.goo
 The Ministry of Education provides financial assistance to needy Singaporean students in Government and Government-Aided schools.
 
 Income Criteria:
-Gross Household Income (GHI): ≤$4,000
+Gross Household Income (GHI): ≤$4,000 <br>
 Per Capita Income (PCI): ≤$1,000
 
 Benefits:<br>
