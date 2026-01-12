@@ -43,7 +43,7 @@ description: ""
 
 <br>
 
-| Primary 1 <br>Orientation Group | Teachers | Email Address |
+| Primary 1 Classes | Teachers | Email Address |
 | -------- | -------- | -------- |
 | P1-1     | Mdm Lim Shuh Huey <br><br>Mr Loh Zhi Ying     | lim_shuh_huey@schools.gov.sg <br><br> loh_zhi_ying@schools.gov.sg  |
 | P1-2     | Mdm Bong Mui Yoke <br><br>Ms Cui Min<br><br>Ms Kristin Hamton      | bong_mui_yoke@schools.gov.sg<br><br>cui_min@schools.gov.sg<br><br>kristin_hamton@schools.gov.sg  |
