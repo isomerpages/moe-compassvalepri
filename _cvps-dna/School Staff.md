@@ -43,16 +43,16 @@ description: ""
 
 <br>
 
-| Primary 1 <br>Orientation Group | Teachers | Email Address |
+| Primary 1 Classes | Teachers | Email Address |
 | -------- | -------- | -------- |
-| OG1     | Mdm Lim Shuh Huey <br><br>Mr Loh Zhi Ying     | lim_shuh_huey@schools.gov.sg <br><br> loh_zhi_ying@schools.gov.sg  |
-| OG2     | Mdm Bong Mui Yoke <br><br>Ms Cui Min<br><br>Ms Kristin Hamton      | bong_mui_yoke@schools.gov.sg<br><br>cui_min@schools.gov.sg<br><br>kristin_hamton@schools.gov.sg  |
-| OG3     | Mr Ivan Tan<br><br>Mrs Pearlyn Koh     | tan_ee_teck@schools.gov.sg<br><br>ng_hui_ling_pearlyn@schools.gov.sg   |
-| OG4     | Mrs Wendy Poh<br><br>Mr Farris     |  lee_mun_lai@schools.gov.sg<br><br>mohammad_farris_salleh@schools.gov.sg   |
-| OG5     | Ms Analiza<br><br>Mr Lui Zhenyu     |   analiza_suboh@schools.gov.sg<br><br>lui_zhenyu@schools.gov.sg    |
-| OG6     | Mdm Wani<br><br>Mdm Huang Yan<br><br>Mdm Tan Hiok Hoon      | eswani_salman_mrs_eswani@schools.gov.sg<br><br> huang_yan_a@schools.gov.sg<br><br>tan_hiok_hoon_a@schools.gov.sg   |
-| OG7     | Mdm Qu Yi<br><br>Ms Yvonne Lee    | qu_yi@schools.gov.sg<br><br> lee_hwee_ling@schools.gov.sg   |
-| OG8     | Mrs Rachel Hue<br><br>Ms Nicole Sun<br><br>Mrs Yan-ko     | tan_fong_kin_rachel@schools.gov.sg<br><br> nicole_sun_yu_hui@schools.gov.sg<br><br>ko_lian_hoi@schools.gov.sg   |
+| P1-1     | Mdm Lim Shuh Huey <br><br>Mr Loh Zhi Ying     | lim_shuh_huey@schools.gov.sg <br><br> loh_zhi_ying@schools.gov.sg  |
+| P1-2     | Mdm Bong Mui Yoke <br><br>Ms Cui Min<br><br>Ms Kristin Hamton      | bong_mui_yoke@schools.gov.sg<br><br>cui_min@schools.gov.sg<br><br>kristin_hamton@schools.gov.sg  |
+| P1-3     | Mr Ivan Tan<br><br>Mrs Pearlyn Koh     | tan_ee_teck@schools.gov.sg<br><br>ng_hui_ling_pearlyn@schools.gov.sg   |
+| P1-4     | Mrs Wendy Poh<br><br>Mr Farris     |  lee_mun_lai@schools.gov.sg<br><br>mohammad_farris_salleh@schools.gov.sg   |
+| P1-5     | Ms Analiza<br><br>Mr Lui Zhenyu     |   analiza_suboh@schools.gov.sg<br><br>lui_zhenyu@schools.gov.sg    |
+| P1-6     | Mdm Wani<br><br>Mdm Huang Yan<br><br>Mdm Tan Hiok Hoon      | eswani_salman_mrs_eswani@schools.gov.sg<br><br> huang_yan_a@schools.gov.sg<br><br>tan_hiok_hoon_a@schools.gov.sg   |
+| P1-7     | Mdm Qu Yi<br><br>Ms Yvonne Lee    | qu_yi@schools.gov.sg<br><br> lee_hwee_ling@schools.gov.sg   |
+| P1-8     | Mrs Rachel Hue<br><br>Ms Nicole Sun<br><br>Mrs Yan-ko     | tan_fong_kin_rachel@schools.gov.sg<br><br> nicole_sun_yu_hui@schools.gov.sg<br><br>ko_lian_hoi@schools.gov.sg   |
 | |
 
 <br>
