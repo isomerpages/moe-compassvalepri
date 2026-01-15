@@ -15,4 +15,4 @@ Please note that eligible applicants will be required to attend a mandatory info
 
 Refer to the following infographic for more information on our APV Application and Selection Process. 
 
-![](/images/Year%202026/2026_APV_scheme.png)
+<img src="/images/Year%202026/2026_APV_scheme.png" style="width:85%">
