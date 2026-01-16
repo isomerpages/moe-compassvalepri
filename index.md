@@ -24,6 +24,13 @@ sections:
       description: •Thinkers of
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
+  - infopic:
+      title: CVPS APVs Scheme
+      id: infopic
+      button: Click here for more details
+      url: https://www.compassvalepri.moe.edu.sg/parents-network/apvs/
+      image: /images/Year 2026/2026_APV_scheme_infopic.png
+      alt: Image alt text
   - infobar:
       title: Briefing Slides
       subtitle: Year 2026 Primary 1
