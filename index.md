@@ -25,7 +25,7 @@ sections:
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
   - infopic:
-      title: CVPS APVs Scheme
+      title: CVPS Associate Parent Volunteer Scheme (APVs)
       id: infopic
       button: Click here for more details
       url: https://www.compassvalepri.moe.edu.sg/parents-network/apvs/
