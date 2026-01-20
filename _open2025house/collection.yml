@@ -1,5 +1,5 @@
 collections:
-  cvps-open-house-2025:
+  open2025house:
     output: true
     order:
       - Welcome to CVPS!.md
