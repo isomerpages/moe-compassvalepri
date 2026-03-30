@@ -141,6 +141,7 @@ description: ""
 | -------- | -------- | -------- |
 | Mdm Nor' Atiqah     |  Senior Special Education Needs Officer       | nor_atiqah_osman@schools.gov.sg    |
 | Ms Vrinda     | Special Education Needs Officer     | vrinda_ravindaran@schools.gov.sg     |
+| Mr Noor Muhammad     | Special Education Needs Officer     | noor_muhammad_omar@schools.gov.sg
 | Ms Tan Ming Hui     | School Counsellor     | tan_ming_hui_c@schools.gov.sg  |
 | Ms Cindy Liong     | School Counsellor      | liong_cindy@schools.gov.sg     |
 | Mdm Betty Kuan   | School Counsellor (Flexi)    |  kuan_fui_ha@schools.gov.sg |
