@@ -94,11 +94,11 @@ description: ""
 | Primary 4 Classes | Form Teachers | Email Address |
 | -------- | -------- | -------- |
 | P4 Care     | Mr Chia Tet Hong<br><br>Mdm Norliza     | chia_tet_hong@schools.gov.sg<br><br>norliza_abdul_rahman_a@schools.gov.sg  |
-| P4 Harmony     | Mr Ezran<br><br>Ms Rajeswari<br><br>Mr Matthew Siew      | mohamed_ezran_abdul_kassim@schools.gov.sg<br><br> rajeswari_pannirselvam@schools.gov.sg<br><br>siew_joern_matthew@schools.gov.sg    |
+| P4 Harmony     | Mr Ezran<br><br>Ms Rajeswari      | mohamed_ezran_abdul_kassim@schools.gov.sg<br><br> rajeswari_pannirselvam@schools.gov.sg    |
 | P4 Integrity     | Mr Lim Beng Gee<br><br>Mrs Sharon Koh     | lim_beng_gee@schools.gov.sg<br><br>lee_soh_boon_sharon@schools.gov.sg    |
 | P4 Resilience     | Ms Ser Yong Bing<br><br>Ms Kuan Wai Ling     | ser_yong_bing@schools.gov.sg <br><br>kuan_wai_ling@schools.gov.sg   |
 | P4 Respect     | Mrs Angeline Lim<br><br>Ms Raine Koh<br><br>Mr Putra     | ang_yi_ting_angeline@schools.gov.sg<br><br>raine_koh_rui_lan@schools.gov.sg<br><br>zaiphizat_putra@schools.gov.sg   |
-| P4 Responsibility     |Ms Jolene Choy<br><br>Ms Wong Sirong     | jolene_choy_jo_yin@schools.gov.sg<br><br> wong_sirong@schools.gov.sg  |
+| P4 Responsibility     |Mr Matthew Siew<br><br>Ms Wong Sirong<br><br>Ms Clarissa Yap     | siew_joern_matthew@schools.gov.sg<br><br>wong_sirong@schools.gov.sg<br><br>yap_yen_ching_clarissa@schools.gov.sg  |
 | |
 
 <br>
@@ -141,6 +141,7 @@ description: ""
 | -------- | -------- | -------- |
 | Mdm Nor' Atiqah     |  Senior Special Education Needs Officer       | nor_atiqah_osman@schools.gov.sg    |
 | Ms Vrinda     | Special Education Needs Officer     | vrinda_ravindaran@schools.gov.sg     |
+| Mr Noor Muhammad     | Special Education Needs Officer     | noor_muhammad_omar@schools.gov.sg
 | Ms Tan Ming Hui     | School Counsellor     | tan_ming_hui_c@schools.gov.sg  |
 | Ms Cindy Liong     | School Counsellor      | liong_cindy@schools.gov.sg     |
 | Mdm Betty Kuan   | School Counsellor (Flexi)    |  kuan_fui_ha@schools.gov.sg |
