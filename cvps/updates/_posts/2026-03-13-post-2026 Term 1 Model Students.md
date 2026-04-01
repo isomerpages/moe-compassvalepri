@@ -7,7 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>Congratulations to our Term 1 Model Students!</strong>
+</p>
+<p>These Compassvalites have demonstrated exemplary character, positive learning
+attitudes, and consistently upheld our school values. We celebrate their
+efforts and are proud of the example they set for their peers.</p>
+<p>Keep shining and inspiring others!</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=316&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1263759715155700%2F&amp;show_text=true&amp;width=560&amp;t=0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRb4qyD99Nyr90u9ZOfqntbTp8NRaoY6K_-cb1Ld75vJvSQMA4U_cPl5uKswUTmmBXz54XR2iOUCnRy/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
