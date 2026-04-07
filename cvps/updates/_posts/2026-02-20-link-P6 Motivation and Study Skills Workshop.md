@@ -1,11 +1,11 @@
 ---
-title: P6 Peak Performance Workshop
-permalink: /cvps/updates/p6workshop/
-date: 2025-02-19
-layout: post
+title: P6 Motivation and Study Skills Workshop
+date: 2026-02-20
+layout: link
 description: ""
 image: ""
 variant: markdown
+external: https://www.facebook.com/share/v/18dcYUXjxq/
 ---
 <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden" height="709" width="500" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcompassvalepri%2Fposts%2Fpfbid0U9FcXN3DkyMoKNmuYDnwGWByPLXxeu13kWF76WnDZYfJC2tyYPfjGx9CDiWoVtwGl&amp;show_text=true&amp;width=500"></iframe><br>
 
