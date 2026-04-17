@@ -1,4 +1,5 @@
 collections:
   staff-cvps-link:
     output: true
-    order: []
+    order:
+      - The CVPS Link.md
