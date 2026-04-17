@@ -12,3 +12,5 @@ links:
     collection: parents
   - title: Students
     collection: students
+  - title: Staff CVPS Link
+    url: https://go.gov.sg/thecvpslink
