@@ -13,7 +13,7 @@ variant: markdown
 | **Telephone** | 63522741 |
 | **Fax** | 68422741 |
 | **Email** | [contact@shanghai-uniforms.com](mailto:contact@shanghai-uniforms.com) |
-| **Website** | [https://shop.shanghai-uniforms.com/product-category/compassvale-primary-school/](https://shop.shanghai-uniforms.com/product-category/compassvale-primary-school/)
+| **Website** | [Click here for link](https://shanghai-uniforms.sg/shop/category/compassvale-primary-school-105)
 |
 
 
