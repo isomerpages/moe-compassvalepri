@@ -15,7 +15,8 @@ description: ""
 
 **Registration for both the Webinar and/or Physical School Tour will open on 27 June 2026.**
 
-
+* Webinar login details will be emailed to registered participants three days before the event.
+* Guided tour slots will be confirmed, and a confirmation email will be sent to registrants at least three days before the tour date.
 
 
 #### **Open House Registration Guidelines**
@@ -25,5 +26,3 @@ Please note that only parents or legal guardians are eligible to register their 
 We kindly ask that all registrants adhere to these guidelines when signing up.
 
 Should you have any questions, please feel free to contact us at +65 6388 2819.
-
-
