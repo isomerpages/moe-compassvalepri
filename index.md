@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: CVPS Open House 2026
           description: ""
-          url: ""
+          url: /openhouse2026/welcomepage/
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
