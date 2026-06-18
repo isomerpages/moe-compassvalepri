@@ -28,6 +28,13 @@ sections:
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
   - infopic:
+      title: CVPS Open House
+      subtitle: Year 2026
+      id: infopic
+      button: Please click here for more info
+      url: /openhouse2026/welcomepage/
+      alt: Image alt text
+  - infopic:
       title: CVPS Associate Parent Volunteer Scheme (APVs)
       id: infopic
       button: Click here for more details
