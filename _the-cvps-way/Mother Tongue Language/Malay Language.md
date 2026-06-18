@@ -11,29 +11,26 @@ MTL SOAR is a reading programme designed to foster a love for reading in the stu
 
 These activities enhance students’ language skills and cultural understanding by exposing them to authentic language use and culturally rich stories, helping them connect with their heritage in a meaningful and enjoyable way.
 
-<img src="/images/Year%202025/CVPS%20Way/2025_ML1.jpg" style="width:51%" align="left"> 
-<img src="/images/Year%202025/CVPS%20Way/2025_ML2.jpg" style="width:44%" align="center">
+<img src="/images/Year%202026/Open%20House/ML1.jpg" style="width:56%" align="left"> 
+<img src="/images/Year%202026/Open%20House/ML2.jpg" style="width:40%" align="center">
 <br clear="left">
 
 
 ##### **Primary 2 CPES (Cultural Performance Exposure Scheme)**
 
-CPES provides students with an immersive experience in the arts outside of the classroom, while supporting Malay cultural performing arts groups in Singapore.
+CPES provides Lower Primary students with immersive arts experiences beyond the classroom while supporting Malay cultural performing arts groups in Singapore. These meaningful learning experiences support Malay Language learning by exposing students to the language through interactive storytelling, music and performances in authentic cultural contexts. Through these experiences, students deepen their appreciation of Malay heritage, expand their vocabulary and strengthen their listening and communication skills in an engaging and enjoyable manner.<br>
 
-The Primary 2 Malay Students in Compassvale Primary School attended the Pak Pandir Theatre Performance. Although Pak Pandir is known for his humorous and often mischievous antics, his stories speak about humility and strengthening family ties. At the end of the performance, the students were given the opportunity to dance along with the song using the props given. 
+Students participated in activities such as an underwater-themed performance that promoted environmental awareness and teamwork, as well as Arabian-inspired storytelling sessions featuring Abu Nawas, which highlighted values such as wisdom, creativity, resilience and problem-solving. These experiences encouraged students to connect language learning with values education and real-life situations, while fostering greater interest and appreciation for the Malay language and culture.
 
-This enriching experience supports Malay Language learning by exposing students to the language in an expressive and meaningful context. Through traditional folktales and cultural values presented in the performance, students deepen their understanding of Malay heritage while expanding their vocabulary and improving listening skills. The interactive elements, such as singing and dancing, make learning enjoyable and strengthen their connection to the language and culture.
-
-<img src="/images/Year%202025/CVPS%20Way/2025_ML3.jpg" style="width:35%" align="left"> 
-<img src="/images/Year%202025/CVPS%20Way/2025_ML4.jpg" style="width:64%" align="center">
-<br clear="left">
+<img src="/images/Year%202026/Open%20House/ML3.jpg" style="width:60%" align="center"> 
+<br clear="center">
 
 ##### **Mother Tongue Language (MTL) Fortnight**
 
-Mother Tongue Language (MTL) Fortnight aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. Students are exposed to a wide variety of activities. We hope that these activities provide authentic opportunities for students to use the Malay Language and experience its culture. The Primary 4 students had the opportunity to learn about the origins, historical and cultural significance of Gamelan in Malay traditions. 
+Mother Tongue Language (MTL) Fortnight aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. Students are exposed to a wide variety of activities. We hope that these activities provide authentic opportunities for students to use the Malay Language and experience its culture. <br>
 
-<img src="/images/Year%202025/CVPS%20Way/2025_ML5.jpg" style="width:47%" align="left"> 
-<img src="/images/Year%202025/CVPS%20Way/2025_ML6.jpg" style="width:47%" align="center">
+During the MTL Fortnight the students took part in meaningful activities centered on the value of sacrifice based on the theme of Hari Raya Haji. They explored how sacrifices are made for the well-being of others and discussed real-life examples that helped them understand its importance. As part of the programme, the students designed creative cards using calligraphy, incorporating core values such as kindness, responsibility and respect. These hands-on activities not only enhanced their appreciation of the language but also allowed them to express their understanding in an artistic way. The students also enjoyed the experience as they actively engaged in discussions and activities. Moreover, they gained a deeper understanding of the purpose and significance of making sacrifices.
+
+<img src="/images/Year%202026/Open%20House/ML4.jpg" style="width:47%" align="left"> 
+<img src="/images/Year%202026/Open%20House/ML5.jpg" style="width:48.5%" align="center">
 <br clear="left">
-
-For the remaining levels, students learn the brief history and cultural context of the Angklung, exploring its significance in Indonesian culture and traditions. Each student would be provided with an Angklung and guided on how to hold and play the instrument correctly. At the end of the workshop, they play a musical piece as a group. These hands-on cultural experiences not only deepen students' understanding of traditional musical forms, but also cultivate a greater appreciation for the heritage and language associated with them, making learning more engaging and meaningful.
