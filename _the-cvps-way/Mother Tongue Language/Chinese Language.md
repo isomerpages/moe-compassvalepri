@@ -20,7 +20,7 @@ Our Chinese Language Department's reading programme aims to nurture a love for r
 
 The Mother Tongue Language (MTL) Fortnight Programme at Compassvale Primary School is an annual two-week programme that engages students in various fun-filled learning activities to deepen their understanding and appreciation of Chinese Language and culture. Each year, the programme focuses on a different cultural theme, providing a comprehensive exploration and discovery of various facets of traditional culture. The themes include traditional weddings, cuisine, handicrafts, costumes, dance and music. <br>
 
-<img src="/images/Year%202026/Open%20House/Screenshot_2026_05_23_144056.png" style="width:80%">
+<img src="/images/Year%202026/Open%20House/Screenshot_2026_05_23_144056.png" style="width:75%">
 
 Throughout the two weeks, a diverse array of activities is carefully curated to offer students authentic and experiential learning opportunities. Over their six years of education at the school, students would have delved into various aspects of Chinese culture and tradition which enables them to not only develop proficiency in the language but also acquire a more holistic and deeper appreciation for the cultural context in which the language thrives.
 
@@ -39,7 +39,7 @@ The P4 Cultural Camp is specially curated for Primary 4 students to provide an i
 
 The Cultural Performance Exposure Scheme aims to immerse our students in Chinese dramas and other Chinese-language performances presented by both local and international arts groups. The programme seeks to foster an appreciation of Chinese culture in an engaging and enjoyable way. Following the performances, students will participate in follow-up activities designed to deepen their interest in the Chinese language and culture.
 
-<img src="/images/Year%202026/Open%20House/IMG_4072.jpg" style="width:80%">
+<img src="/images/Year%202026/Open%20House/IMG_4072.jpg" style="width:75%">
 <figure>
 <figcaption><strong>&nbsp; Our Primary 2 students participated in a theatrical experience organised by the Singapore Hokkien Huay Kuan Cultural Academy. They enjoyed "Journey to the West- Borrowing the Plantain Fan《三借芭蕉扇》" and had the valuable opportunity to interact with the performers on stage, enriching their cultural experience and bringing Chinese language learning to life.
 	</strong></figcaption>  
