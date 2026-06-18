@@ -2,6 +2,7 @@ collections:
   open-house-2026:
     output: true
     order:
+      - General Information.md
       - The CVPS Way.md
       - Welcome to CVPS.md
       - Welcome Speeches.md
