@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Year 2025/Open House 2025/2025_Landing_Page_GIF_A.gif
+      background: /images/Year 2026/Open House/Landing_Page_gif_A.gif
       url: /contact-us/
       key_highlights:
         - title: CVPS Open House 2026
