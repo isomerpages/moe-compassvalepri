@@ -2,10 +2,10 @@ collections:
   open-house-2026:
     output: true
     order:
+      - Welcome to CVPS.md
       - Principal's Message.md
+      - Welcome Speeches.md
       - Guided Tour Information.md
+      - The CVPS Way.md
       - CVPS CCA.md
       - General Information.md
-      - The CVPS Way.md
-      - Welcome to CVPS.md
-      - Welcome Speeches.md
