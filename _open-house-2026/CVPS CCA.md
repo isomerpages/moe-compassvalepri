@@ -134,3 +134,79 @@ description: ""
 </tbody>
 </table>
 <p></p>
+<h4><strong>Uniformed Groups</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.compassvalepri.moe.edu.sg/cca/uniform-group/red-cross-youth/" rel="noopener nofollow" target="_blank">Red Cross Youth</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>Clubs &amp; Societies</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.compassvalepri.moe.edu.sg/cca/clubs-and-societies/art-club/" rel="noopener nofollow" target="_blank">Art Club</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_art_club.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/clubs-and-societies/english-language-drama-and-debate-society/" rel="noopener nofollow" target="_blank">English Language Drama and Debate Society</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_eldds.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/clubs-and-societies/physical-science/" rel="noopener nofollow" target="_blank">Physical Science</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_physical_science.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/clubs-and-societies/robotics-club/" rel="noopener nofollow" target="_blank">Robotics Clubs</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_robotics_club.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
