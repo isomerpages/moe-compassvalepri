@@ -10,8 +10,6 @@ description: ""
 <p>To find out more about CVPS CCA, please click the link below.</p>
 <h4><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/" rel="noopener noreferrer nofollow" target="_blank">CVPS CCA</a></strong></h4>
 <h4><strong>Performing Arts</strong></h4>
-<p></p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -69,66 +67,68 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<table style="minWidth: 100px">
+<h4><strong>Sports &amp; Games</strong></h4>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Brass Band</p>
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/sports-and-games/basketball/" rel="noopener nofollow" target="_blank">Basketball</a></strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Chinese Dance</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Indian Dance</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Malay Dance</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_basketball.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_brass_band.png">
-</div>
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/sports-and-games/football/" rel="noopener nofollow" target="_blank">Football</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_chinese_dance.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_indian_dance.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_malay_dance.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_football.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/sports-and-games/netball/" rel="noopener nofollow" target="_blank">Netball</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/sports-and-games/track-and-field/" rel="noopener nofollow" target="_blank">Track and Field</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_track_and_field.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/sports-and-games/wushu/" rel="noopener nofollow" target="_blank">Wushu</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_wushu.png">
+</div>
 </td>
 </tr>
 </tbody>
