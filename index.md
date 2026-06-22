@@ -34,6 +34,7 @@ sections:
       button: Please click here for more info
       url: /openhouse2026/welcomepage/
       alt: Image alt text
+      image: /images/Year 2026/Open House/open_house_banner_2026.png
   - infopic:
       title: CVPS Associate Parent Volunteer Scheme (APVs)
       id: infopic
