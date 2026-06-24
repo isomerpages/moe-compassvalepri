@@ -14,7 +14,7 @@ A meaningful highlight was the “Welcome Bear” time capsule activity, where s
 
 These experiences helped students develop communication, empathy and relationship-building skills through meaningful interactions and shared learning experiences, while building a positive foundation for joyful and meaningful Tamil Language learning.
 
-<img src="/images/Year%202026/Open%20House/TL1.jpg" style="width:48%" align="left">
+<img src="/images/Year%202026/Open%20House/TL1_revised.jpg" style="width:48%" align="left">
 <img src="/images/Year%202026/Open%20House/TL2.jpg" style="width:48%" align="center">
 <br clear="center">
 
@@ -27,7 +27,7 @@ Primary 3 and 4 students created colourful Pongal pot weaving crafts, developing
 
 Through discussions and reflections, students explored Pongal values such as thankfulness, humility and resilience, and related them meaningfully to their daily lives and interactions with others. The celebration also encouraged students to communicate, collaborate and learn from one another through meaningful shared experiences, while strengthening their appreciation for multiculturalism, heritage and cultural identity.
 
-<img src="/images/Year%202026/Open%20House/TL3.jpg" style="width:55%" align="center">
+<img src="/images/Year%202026/Open%20House/TL3_revised.jpg" style="width:55%" align="center">
 <br clear="center">
 
 
