@@ -7,7 +7,7 @@ description: ""
 <h4><strong>Chairman, School Advisory Committee</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SAC/Mr_Daniel_Tham.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SAC/Mr_Daniel_Tham.jpg">
 </div>
 <p>Dear Prospective P1 Parents,</p>
 <p>As you walk through our halls today, you are witnessing more than classrooms
@@ -40,7 +40,7 @@ meaningfully to our world.</p>
 <h4><strong>Chairperson, Parent Support Group</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/sac4.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/sac4.jpg">
 </div>
 <p>Dear Prospective P1 Parents,</p>
 <p>Welcome to Compassvale Primary School (CVPS)! Thank you for taking the
