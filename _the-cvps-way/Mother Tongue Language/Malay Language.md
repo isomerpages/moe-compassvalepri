@@ -31,6 +31,6 @@ Mother Tongue Language (MTL) Fortnight aims to create an immersive environment f
 
 During the MTL Fortnight the students took part in meaningful activities centered on the value of sacrifice based on the theme of Hari Raya Haji. They explored how sacrifices are made for the well-being of others and discussed real-life examples that helped them understand its importance. As part of the programme, the students designed creative cards using calligraphy, incorporating core values such as kindness, responsibility and respect. These hands-on activities not only enhanced their appreciation of the language but also allowed them to express their understanding in an artistic way. The students also enjoyed the experience as they actively engaged in discussions and activities. Moreover, they gained a deeper understanding of the purpose and significance of making sacrifices.
 
-<img src="/images/Year%202026/Open%20House/ML4.jpg" style="width:47%" align="left"> 
-<img src="/images/Year%202026/Open%20House/ML5.jpg" style="width:48.5%" align="center">
+<img src="/images/Year%202026/Open%20House/ML4_revised.jpg" style="width:48.5%" align="left"> 
+<img src="/images/Year%202026/Open%20House/ML5_revised.jpg" style="width:48.5%" align="center">
 <br clear="left">
