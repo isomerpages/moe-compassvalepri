@@ -11,8 +11,8 @@ MTL SOAR is a reading programme designed to foster a love for reading in the stu
 
 These activities enhance students’ language skills and cultural understanding by exposing them to authentic language use and culturally rich stories, helping them connect with their heritage in a meaningful and enjoyable way.
 
-<img src="/images/Year%202026/Open%20House/ML1.jpg" style="width:56%" align="left"> 
-<img src="/images/Year%202026/Open%20House/ML2.jpg" style="width:40%" align="center">
+<img src="/images/Year%202026/Open%20House/ML1_revised.jpg" style="width:43%" align="left"> 
+<img src="/images/Year%202026/Open%20House/ML2.jpg" style="width:50%" align="center">
 <br clear="left">
 
 
