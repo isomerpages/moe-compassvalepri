@@ -9,8 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Year 2026/Open
-        House/Landing_Page_ppt_style_Version_3___Copy_A.gif
+      background: /images/Year 2026/Open House/Landing_Page_ppt_style_Version_3___CopyB.gif
       url: /contact-us/
       key_highlights:
         - title: CVPS Open House 2026
@@ -32,8 +31,7 @@ sections:
       title: CVPS Open House
       subtitle: Year 2026
       id: infopic
-      description: Registration starts on 27th June, please scan the QR Code for
-        registration.
+      description: Registration opens on 27 June. Click the QR code below to register.
       alt: Image alt text
   - infopic:
       title: CVPS Open House
