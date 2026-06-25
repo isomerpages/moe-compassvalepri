@@ -28,11 +28,12 @@ sections:
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
   - infopic:
-      title: CVPS Open House
+      title: CVPS Open House Registration
       subtitle: Year 2026
       id: infopic
       description: Registration opens on 27 June. Click the QR code below to register.
       alt: Image alt text
+      image: /images/Year 2026/Open House/cvps_open_house_registration.jpg
   - infopic:
       title: CVPS Open House
       subtitle: Year 2026
