@@ -38,7 +38,7 @@ description: ""
 | Year Head for Lower Primary |  |  |
 | -------- | -------- | -------- |
 | Year Head Lower Primary   | Mdm Siti Halizah     | siti_halizah_hamzah@schools.gov.sg     |
-| Assistant Year Head <br> Lower Primary (Acting)   | Mdm Goh Cai Yun     | goh_cai_yun@schools.gov.sg    | 
+| Assistant Year Head <br> Lower Primary   | Mdm Goh Cai Yun     | goh_cai_yun@schools.gov.sg    | 
 |  |
 
 <br>
