@@ -25,7 +25,7 @@ description: ""
 
 #### **Open House Registration Guidelines**
 
-Please note that only parents or legal guardians are eligible to register their child(ren) for our Open House. Kindergartens or schools are not permitted to register on behalf of students or bring groups of students to the event.
+Due to overwhelming response, please note that only parents or legal guardians are eligible to register their child(ren) for our Open House. Kindergartens or schools are not permitted to register on behalf of students or bring groups of students to the event.
 
 We kindly ask that all registrants adhere to these guidelines when signing up.
 
