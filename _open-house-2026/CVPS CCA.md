@@ -143,11 +143,14 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.compassvalepri.moe.edu.sg/cca/uniform-group/red-cross-youth/" rel="noopener nofollow" target="_blank">Red Cross Youth</a>
+<p><strong><a href="https://www.compassvalepri.moe.edu.sg/cca/uniform-group/red-cross-youth/" rel="noopener nofollow" target="_blank">Red Cross Youth</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/Red_Cross_Youth.png">
+</div>
 </td>
 </tr>
 </tbody>
