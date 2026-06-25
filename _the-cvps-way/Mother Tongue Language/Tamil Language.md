@@ -27,7 +27,7 @@ Primary 3 and 4 students created colourful Pongal pot weaving crafts, developing
 
 Through discussions and reflections, students explored Pongal values such as thankfulness, humility and resilience, and related them meaningfully to their daily lives and interactions with others. The celebration also encouraged students to communicate, collaborate and learn from one another through meaningful shared experiences, while strengthening their appreciation for multiculturalism, heritage and cultural identity.
 
-<img src="/images/Year%202026/Open%20House/TL3_revised.jpg" style="width:55%" align="center">
+<img src="/images/Year%202026/Open%20House/TL3.jpg" style="width:55%" align="center">
 <br clear="center">
 
 
@@ -40,6 +40,6 @@ Students explored various traditional art forms and cultural practices through a
 These experiences provided students with meaningful opportunities to communicate, collaborate and learn together in enjoyable and engaging ways. Through authentic and hands-on learning experiences, students deepened their appreciation and understanding of their culture, traditions and Tamil Language while building confidence, strengthening friendships and developing a stronger sense of connection to their mother tongue.
 <br>
 
-<img src="/images/Year%202026/Open%20House/TL4.jpg" style="width:40%" align="left">
-<img src="/images/Year%202026/Open%20House/TL5.png" style="width:54%" align="center">
+<img src="/images/Year%202026/Open%20House/TL4.jpg" style="width:40.5%" align="left">
+<img src="/images/Year%202026/Open%20House/TL3_revised.jpg" style="width:54%" align="center">
 <br clear="center">
