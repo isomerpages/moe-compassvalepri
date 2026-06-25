@@ -22,7 +22,6 @@ description: ""
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_brass_band.png">
 </div>
@@ -34,7 +33,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_chinese_dance.png">
 </div>
@@ -46,7 +44,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_indian_dance.png">
 </div>
@@ -58,7 +55,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_malay_dance.png">
 </div>
@@ -80,7 +76,6 @@ description: ""
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_basketball.png">
 </div>
@@ -92,7 +87,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_football.png">
 </div>
@@ -113,7 +107,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_track_and_field.png">
 </div>
@@ -125,7 +118,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_wushu.png">
 </div>
@@ -147,7 +139,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/Red_Cross_Youth.png">
 </div>
@@ -169,7 +160,6 @@ description: ""
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_art_club.png">
 </div>
@@ -181,7 +171,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_eldds.png">
 </div>
@@ -204,7 +193,6 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/cartoon_robotics_club.png">
 </div>
