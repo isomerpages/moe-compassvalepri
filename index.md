@@ -32,6 +32,13 @@ sections:
       title: CVPS Open House
       subtitle: Year 2026
       id: infopic
+      description: Registration starts on 27th June, please scan the QR Code for
+        registration.
+      alt: Image alt text
+  - infopic:
+      title: CVPS Open House
+      subtitle: Year 2026
+      id: infopic
       button: Please click here for more info
       url: /openhouse2026/welcomepage/
       alt: Image alt text
@@ -54,11 +61,6 @@ sections:
       id: infobar
       button: Click here to download
       url: year-2026-booklists/
-  - infobar:
-      title: CVPS Online Open House Video
-      id: infobar
-      button: Please click here to view
-      url: /cvps-open-house-2025/welcomepage/
   - infopic:
       title: CVPS School Library
       description: Curious about what’s on our shelves? Visit the school library
