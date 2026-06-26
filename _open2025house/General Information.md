@@ -1,6 +1,6 @@
 ---
 title: General Information
-permalink: /2025general-information/
+permalink: /open2025house/generalinfo/
 variant: tiptap
 description: ""
 ---

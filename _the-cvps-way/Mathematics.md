@@ -22,9 +22,9 @@ Mathematics Big Book Reading Programme helps our younger students to develop int
 **Learning Support for Mathematics (LSM)**<br>
 LSM aims to provide early support for selected Primary 1 and 2 students to strengthen their basic numeracy skills and build a good foundation. The child will experience the joy of learning in a small focused group conducted by a trained LSM Coordinator. They will learn through play and other hands-on activities where they get to experience successes incrementally and build their confidence.<br>
 
-<img src="/images/Year%202025/Open%20House%202025/Math1.jpg" style="width:32.5%;margin-right:4px;" align="left"> 
-<img src="/images/Year%202025/Open%20House%202025/Math2.jpg" style="width:32.5%;margin-right:4px;" align="left"> 
-<img src="/images/Year%202025/Open%20House%202025/Math3.jpg" style="width:32.5%;margin-right:2px;" align="right">
+<img src="/images/Year%202025/Open%20House%202025/Math1.jpg" style="width:26%;margin-right:4px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/Math2.jpg" style="width:26%;margin-right:4px;" align="left"> 
+<img src="/images/Year%202026/Open%20House/2026Math3.jpg" style="width:46%;margin-right:2px;" align="right">
 <br clear="left">
 
 #### **Mathematics Primary 3 and 4**
@@ -50,8 +50,14 @@ For **HATS**, the students will be taught more advanced techniques and strategie
 
 In addition, the teachers will also introduce the Adaptive Learning Systems in SLS so that students can take charge of their own learning in bridging the gaps in the topics that they needed more support in. 
 
-<img src="/images/Year%202025/Open%20House%202025/Math7.jpg" style="width:27%;margin-right:0.5px;" align="left">
-<img src="/images/Year%202025/Open%20House%202025/Math8.jpg" style="width:29%;margin-right:0.5px;" align="left"> 
-<img src="/images/Year%202025/Open%20House%202025/Math9.jpg" style="width:17%;margin-right:0.5px;" align="left">
-<img src="/images/Year%202025/Open%20House%202025/Math10.jpg" style="width:26.5%;margin-right:0.5px;" align="right">
+<img src="/images/Year%202025/Open%20House%202025/Math7.jpg" style="width:26.5%;margin-right:0.5px;" align="left">
+<img src="/images/Year%202026/Open%20House/2026Math8.jpg" style="width:29%;margin-right:0.5px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/Math9.jpg" style="width:16.5%;margin-right:0.5px;" align="left">
+<img src="/images/Year%202025/Open%20House%202025/Math10.jpg" style="width:26%;margin-right:0.5px;" align="left">
 <br clear="left">
+
+#### **MaX Hub**<br>
+MaX Hub is a dynamic learning space designed to make Math learning engaging, interactive, and meaningful for our students. Here, students participate in hands-on activities, collaborative projects, and exciting escape room challenges that encourage creativity, critical thinking, and teamwork. Equipped with interactive TV and iPads, the hub also supports technology-enhanced lessons that bring learning to life and allow students to explore concepts in fun and innovative ways. Through these enriching experiences, students develop confidence, problem-solving skills, and a love for learning while building the digital competencies needed for the future.<br>
+
+<img src="/images/Year%202026/Open%20House/2026Math11.jpg" style="width:60%" align="center">
+<br clear="center">

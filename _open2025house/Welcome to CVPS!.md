@@ -1,6 +1,6 @@
 ---
 title: Welcome to CVPS!
-permalink: /cvps-open-house-2025/welcomepage/
+permalink: /open2025house/welcomepage/
 variant: markdown
 description: ""
 ---

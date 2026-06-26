@@ -22,6 +22,15 @@ To enhance the art learning experience at each level, Compassvalites participate
 
 These signature programmes not only enrich Compassvalites’ artistic skills but also deepen their cultural understanding and visual literacy, empowering them to become confident and expressive individuals.
 
+##### **Sketch Café**
+The Sketch Café serves as a creative platform for students to explore art in a relaxed and engaging environment beyond the classroom. It comprises three thoughtfully curated learning zones — the Gallery Wall, which showcases and affirms students’ artworks; the Table Display &amp; Pushcart, which encourages student voice, choice and ownership; and the Drawing Wall, which transforms open canvases into opportunities for creative expression and collaboration.<br>
+
+Through intentionally curated learning experiences, students are encouraged to explore, experiment and reflect on their artistic ideas and processes. Through art appreciation, meaningful conversations and the sharing of artworks, students build confidence, learn to appreciate diverse perspectives and develop into innovative and creative creators who contribute positively to the school’s art culture.
+
+<img src="/images/Year%202026/Open%20House/SketchCafe1.jpg" style="width:35%" align="left"> 
+<img src="/images/Year%202026/Open%20House/SketchCafe2.jpg" style="width:62%" align="right">
+<br clear="left">
+
 ##### **Music Curriculum**<br>
 
 Our Music Curriculum provides Compassvalites with a vibrant and well-rounded musical experience that nurtures their creativity, expression, and appreciation for the performing arts.

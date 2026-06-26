@@ -1,6 +1,6 @@
 ---
 title: Welcome Speeches
-permalink: /2025welcome-speeches/
+permalink: /2025wel-come-speeches/
 variant: tiptap
 description: ""
 ---

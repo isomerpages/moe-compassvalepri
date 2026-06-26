@@ -9,9 +9,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Year 2025/Open House 2025/2025_Landing_Page_GIF_A.gif
+      background: /images/Year 2026/Open House/Landing_Page_ppt_style_Version_3___Final.gif
       url: /contact-us/
       key_highlights:
+        - title: CVPS Open House 2026
+          description: ""
+          url: /openhouse2026/welcomepage/
         - title: SCHOOL Calendar
           description: ""
           url: /calendar/
@@ -24,6 +27,21 @@ sections:
       description: •Thinkers of
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
+  - infopic:
+      title: CVPS Open House Registration
+      subtitle: Year 2026
+      id: infopic
+      description: Registration opens on 27 June. Click the QR code below to register.
+      alt: Image alt text
+      image: /images/Year 2026/Open House/cvps_open_house_registration_crop_v2.jpg
+  - infopic:
+      title: CVPS Open House
+      subtitle: Year 2026
+      id: infopic
+      button: Please click here for more info
+      url: /openhouse2026/welcomepage/
+      alt: Image alt text
+      image: /images/Year 2026/Open House/open_house_banner_2026.png
   - infopic:
       title: CVPS Associate Parent Volunteer Scheme (APVs)
       id: infopic
@@ -42,11 +60,6 @@ sections:
       id: infobar
       button: Click here to download
       url: year-2026-booklists/
-  - infobar:
-      title: CVPS Online Open House Video
-      id: infobar
-      button: Please click here to view
-      url: /cvps-open-house-2025/welcomepage/
   - infopic:
       title: CVPS School Library
       description: Curious about what’s on our shelves? Visit the school library
