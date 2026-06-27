@@ -38,8 +38,8 @@ Students who demonstrate a strong interest and aptitude in Mathematics may be in
 
 Through engaging activities such as puzzles, games, investigations, and collaborative learning experiences, students are challenged to think deeply, explore multiple approaches to solving problems, and communicate their mathematical ideas effectively. The programme also cultivates confidence, resilience, and independence in learning, empowering students to become reflective and self-directed thinkers.
 
-<img src="/images/Year%202025/Open%20House%202025/halmath1.jpg" style="width:68%;margin-right:3px;" align="left"> 
-<img src="/images/Year%202025/Open%20House%202025/halmath3.jpg" style="width:28.5%;margin-right:1px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/halmath1.jpg" style="width:58%;margin-right:3px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/halmath3.jpg" style="width:24.5%;margin-right:1px;" align="left"> 
 <br clear="left">
 
 **Primary Mathematics Project Competition** 
