@@ -86,9 +86,22 @@ To enhance the learning of Mother Tongue Languages from an early age, our school
 
 The HMTL curriculum is conducted weekly outside of school hours, and it includes exposure to literary texts, higher order thinking exercises, and creative, engaging activities and games.
 
-
-
 <img src="/images/2024%20Open%20House/HAL/HAL7R.jpg" style="width:32.5%;margin-right:15px;" align="left"> 
 <img src="/images/Year%202026/Open%20House/HAL_CL_1.jpg" style="width:32.5%;margin-right:15px;" align="left"> 
 <img src="/images/2024%20Open%20House/HAL/HAL9.jpg" style="width:19%;margin-right:15px;" align="left"> 
 <br clear="left">
+
+
+####  **(NEW! Coming in 2027) P4 Integrated Excellence Programme For HAL**
+
+The Integrated Excellence Programme is designed to develop academically strong, curious, and confident learners through rigorous MOE-aligned instruction combined with customised learning experiences. The programme nurtures critical thinking, creativity, inquiry, communication, and leadership while ensuring mastery of core academic competencies. 
+
+##### **Beyond the Classroom**
+
+###### **Coding &amp; Robotics (ICT)**
+Students develop computational thinking, coding proficiency, and engineering skills by designing, programming, and building innovative robotic solutions to real-world challenges.
+
+###### **Sustainability Challenge (Science)**
+Through hands-on projects and collaborative learning, students investigate environmental issues and design sustainable solutions, fostering responsible global citizenship and a commitment to caring for our planet.
+
+Parents will be informed when their child is selected to participate in any of the above programmes. We will also continue to keep parents updated as new enrichment opportunities become available.
