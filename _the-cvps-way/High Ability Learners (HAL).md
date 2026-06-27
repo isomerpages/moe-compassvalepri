@@ -88,7 +88,7 @@ The HMTL curriculum is conducted weekly outside of school hours, and it includes
 
 
 
-<img src="/images/2024%20Open%20House/HAL/HAL7R.jpg" style="width:41%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/HAL/HAL8.jpg" style="width:26%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/HAL/HAL9.jpg" style="width:23.5%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL7R.jpg" style="width:32.5%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202026/Open%20House/HAL_CL_1.jpg" style="width:32.5%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL9.jpg" style="width:19%;margin-right:15px;" align="left"> 
 <br clear="left">
