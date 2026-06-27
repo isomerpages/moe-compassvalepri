@@ -5,70 +5,103 @@ variant: markdown
 description: ""
 ---
 ### **Programmes for High-Ability Learners in CVPS (HAL)**
-At Compassvale Primary School, we offer opportunities designed to challenge and engage high-ability learners. These students can participate in enrichment programmes organized by various departments to cultivate their interests and talents.
+At Compassvale Primary School, we are committed to nurturing every child’s strengths and interests. To support students who demonstrate strong aptitude and enthusiasm in specific areas, we provide a range of opportunities designed to challenge, inspire, and engage high-ability learners.
+
+As students progress through their primary school years, they may be invited to participate in various High-Ability Learner (HAL) programmes. These programmes offer enriching learning experiences beyond the regular curriculum, enabling students to deepen their knowledge, develop critical and creative thinking skills, and pursue their passions.
+
+Through enrichment programmes organised by our different departments, students are encouraged to explore their talents and broaden their perspectives in a supportive and stimulating environment.
+
 
 ####  **English Department**
-**STRETCH Programme** <br>
-Let’s STRETCH – **STR**ive, **E**n**T**huse, **C**reate and **H**one!
+**Reading Circles** <br>
 
-The English Language STRETCH programme aims to harness our students’ potential and develop them into efficient users of the language. It provides an excellent opportunity for our students to extend their learning and deepen their linguistic skills. Through collaborative learning, our students apply inter-disciplinary knowledge to compose and illustrate value-centric stories “for Compassvalites, by Compassvalites”.
+Reading Circles is a programme specially designed for Primary 4 students who demonstrate a strong interest and aptitude in reading. Through the exploration of carefully selected fiction and non-fiction texts, students engage in thoughtful discussions, examine diverse perspectives, and develop deeper critical thinking skills.
 
-The programme is designed to develop our students’ critical and inventive thinking skills. Students use the linguistic skills acquired to create and represent their ideas. In the process, they develop into effective and empathetic communicators. Taking ownership of their learning, students take pride in their published work which will be shared with the school.
+The programme encourages students to make meaningful connections between texts and real-world experiences while fostering creativity, empathy, and a lifelong love for reading and literature.
+
 <center>
-<img src="/images/2024%20Open%20House/HAL/HAL1.jpg" style="width:43%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/HAL/HAL2.jpg" style="width:43%;margin-right:15px;" align="left"> </center>
+<img src="/images/Year%202026/Open%20House/HAL_EL_1.jpg" style="width:45%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202026/Open%20House/HAL_EL_2.jpg" style="width:45%;margin-right:15px;" align="left"> </center>
 <br clear="left">
+
+**Wits &amp; Words Inter-school Debate Championship** <br>
+
+Students with strong verbal and communication abilities may also have the opportunity to participate in the Wits &amp; Words Inter-school Debate Championship, a national-level competition for Primary 5 and 6 students.
+
+Through this enriching experience, students develop their oral communication, critical thinking, and reasoning skills. Working collaboratively in teams, they research contemporary issues, construct well-reasoned arguments, and present their viewpoints with confidence, clarity, and respect. The programme empowers students to become articulate communicators and thoughtful, informed thinkers.
+
 
 #### **Mathematics Department** 
-**Mathematics Olympiad** 
-
-Are you game enough for more? Then we have the **Mathematics Olympiad** Training and Competition for you! The Mathematics Olympiad programme in CVPS aims to stretch students who are more mathematically inclined from Primary 4 to Primary 6.
-
-Selected Primary 4 to Primary 6 students will also represent the school to take part in the Mathematics Olympiad Competitions at the national level.
-
 **Excellence 2000 E2K Mathematics Programme** 
 
-Who knew getting the wrong answers could bring tears of joy? P4 and P5 Compassvalites are taking a step further in honing their Mathematics competency through the E2K programme.
+Students who demonstrate a strong interest and aptitude in Mathematics may be invited to participate in the E2K Mathematics Programme in Primary 4 and 5. Designed to extend learning beyond the regular Mathematics curriculum, the programme nurtures mathematical reasoning, logical thinking, and advanced problem-solving skills.
 
-The E2K Mathematics Programme aims to develop cognitive abilities of independent learning, higher order thinking and creativity in students who are advanced in the learning of the subject. This group of students will also learn to create and make connections of the mathematical concepts that they have acquired into real life applications. 
+Through engaging activities such as puzzles, games, investigations, and collaborative learning experiences, students are challenged to think deeply, explore multiple approaches to solving problems, and communicate their mathematical ideas effectively. The programme also cultivates confidence, resilience, and independence in learning, empowering students to become reflective and self-directed thinkers.
 
-This empowers and stretches the students’ mathematical skills, fosters abilities and strengthens their confidence in the subject. Furthermore, this programme is taught by E2K-trained teachers so that targeted coaching can reinforce students' perception of self as an independent and mature learner and investigator.
-
- <img src="/images/Year%202025/Open%20House%202025/halmath1.jpg" style="width:49.5%;margin-right:3px;" align="left"> 
-<img src="/images/Year%202025/Open%20House%202025/halmath2.jpg" style="width:28%;margin-right:1px;" align="left"> 
-<img src="/images/Year%202025/Open%20House%202025/halmath3.jpg" style="width:21%;margin-right:1px;" align="right"> 
+<img src="/images/Year%202025/Open%20House%202025/halmath1.jpg" style="width:58%;margin-right:3px;" align="left"> 
+<img src="/images/Year%202025/Open%20House%202025/halmath3.jpg" style="width:24.5%;margin-right:1px;" align="left"> 
 <br clear="left">
+
+**Primary Mathematics Project Competition** 
+
+Students may also have an opportunity to participate in the Primary Mathematics Project Competition, jointly organised by the Ministry of Education and NUS High School of Mathematics and Science.
+
+This competition provides an authentic platform for students to apply mathematical concepts creatively to real-world contexts. Through the design of projects such as posters, games, and innovative mathematical applications, students develop their creativity, collaboration, and problem-solving skills while deepening their appreciation of the relevance and versatility of Mathematics in everyday life.
+ 
 
 #### **Science Department**
-**Science Olympiad Programme** 
+**Excellence 2000 E2K Science Programme** 
 
-The Science Olympiad programme in CVPS aims to develop scientific thinking and stretch students with strong interest and ability in science. The programme provides an avenue to showcase students' abilities in the subject, and focuses on higher-order thinking, critical reasoning, and application in areas such as physics, chemistry, and biology. Selected Primary 5 students will also represent the school to take part in the Science Olympiad Competitions at the national level.
+Students who demonstrate a strong interest and aptitude in Science may be invited to participate in the E2K Science Programme in Primary 4 and 5. The programme provides opportunities for students to delve deeper into scientific concepts and engage in inquiry-based learning beyond the standard curriculum.
 
- <img src="/images/Year%202025/HAL/SOP1.jpg" style="width:27.5%;margin-right:15px;" align="left"> 
-<img src="/images/Year%202025/HAL/SOP2.jpg" style="width:31%;margin-right:15px;" align="left"> 
-<img src="/images/Year%202025/HAL/SOP3.jpg" style="width:28.5%;margin-right:15px;" align="left"> 
+Through hands-on investigations and authentic learning experiences, students develop essential scientific process skills such as observation, analysis, problem-solving, and communication. They are encouraged to ask questions, explore possibilities, and apply scientific thinking to better understand the world around them.
+
+The programme also nurtures important dispositions, including curiosity, resilience, resourcefulness, and a willingness to embrace new ideas and challenges. These qualities help students become confident and reflective learners who are prepared to thrive in an ever-changing world.
+
+ <img src="/images/Year%202026/Open%20House/HAL_SC_1.jpg" style="width:44%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202026/Open%20House/HAL_SC_2.jpg" style="width:44%;margin-right:15px;" align="left"> 
 <br clear="left">
 
-**Excellence 2000 E2k Science Programme** 
+**Elementz Competition** 
 
-The programme aims to provide students with opportunities to delve deeper into scientific concepts and develop critical thinking skills.
+Students may also have an opportunity to participate in the Elementz Science Project Competition, organised by Anderson Secondary School.
 
-Through a combination of hands-on experiments, research projects, and interactive discussions, students are challenged to think beyond the textbook and explore real-world applications of scientific principles. The programme encourages students to ask probing questions, make connections between different scientific disciplines, and develop a deeper understanding of complex scientific phenomena. By engaging in collaborative and inquiry-based learning, students develop problem-solving abilities, analytical thinking, and effective communication skills.
+The 24th Elementz Science Project Competition provides an authentic platform for students to delve into scientific inquiry through investigative research. By exploring real-world questions within the Natural Sciences, participants engage in hands-on experiments and rigorous data analysis from various sources. Supported by teacher mentors, students cultivate ownership of their learning as they design and present original projects. This enriching experience nurtures essential dispositions such as curiosity, critical thinking, and a deeper appreciation for the scientific process.
+
+  **Mathematics and Science Olympiad Training**
  
- <img src="/images/Year%202025/HAL/E2K1.jpg" style="width:37%;margin-right:15px;" align="left"> 
-<img src="/images/Year%202025/HAL/E2k2.jpg" style="width:23.5%;margin-right:15px;" align="left"> 
-<img src="/images/Year%202025/HAL/E2k3.jpg" style="width:28%;margin-right:15px;" align="left"> 
+ To further develop students’ potential in Mathematics and/or Science, selected High Ability Learners may participate in specialised Olympiad training sessions conducted on Monday afternoons. These sessions prepare students for various Mathematics and Science Olympiad competitions by strengthening their conceptual understanding, analytical thinking, and problem-solving skills.
+ 
+Through exposure to challenging and thought-provoking questions, students learn to approach problems creatively, persevere through complexity, and develop the confidence to excel in competitive academic settings.
+
+<center>
+<img src="/images/Year%202026/Open%20House/HAL_OLY_1.jpg" style="width:42%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202026/Open%20House/HAL_OLY_2.jpg" style="width:46.5%;margin-right:15px;" align="left"> </center>
 <br clear="left">
  
 #### **Mother Tongue Department**
 ##### **Higher Mother Curriculum from P3 to P6**
 
-To enhance the learning of Mother Tongue Languages, our school offers Higher Mother Tongue Language (HMTL) classes for students from Primary 3 to Primary 6. Primary 2 students who exhibit strong ability and interest in Mother Tongue Language may be invited to participate in a two-year HMTL curriculum. Additionally, Primary 4 students who demonstrate a keen interest and aptitude for their Mother Tongue at a higher level can opt to take Higher Mother Tongue starting in Primary 5.
+To enhance the learning of Mother Tongue Languages from an early age, our school offers Higher Mother Tongue Language (HMTL) classes for students from Primary 3 to Primary 6. Primary 2 students who exhibit strong ability and interest in a Mother Tongue Language will be invited to participate in a two-year HMTL curriculum, starting with Primary 3. Additionally, Primary 4 students who demonstrate a keen interest and aptitude for their Mother Tongue Language at a higher level can opt to take a Higher Mother Tongue Language starting in Primary 5. 
 
-The HMTL curriculum is conducted weekly outside school hours and it includes exposure to literary texts, higher order thinking exercises, and creative, engaging activities and games.
+The HMTL curriculum is conducted weekly outside of school hours, and it includes exposure to literary texts, higher order thinking exercises, and creative, engaging activities and games.
 
-
-<img src="/images/2024%20Open%20House/HAL/HAL7R.jpg" style="width:41%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/HAL/HAL8.jpg" style="width:26%;margin-right:15px;" align="left"> 
-<img src="/images/2024%20Open%20House/HAL/HAL9.jpg" style="width:23.5%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL7R.jpg" style="width:33.5%;margin-right:15px;" align="left"> 
+<img src="/images/Year%202026/Open%20House/HAL_CL_1.jpg" style="width:33.5%;margin-right:15px;" align="left"> 
+<img src="/images/2024%20Open%20House/HAL/HAL9.jpg" style="width:19%;margin-right:15px;" align="left"> 
 <br clear="left">
+
+
+####  **(NEW! Coming in 2027) P4 Integrated Excellence Programme For HAL**
+
+The Integrated Excellence Programme is designed to develop academically strong, curious, and confident learners through rigorous MOE-aligned instruction combined with customised learning experiences. The programme nurtures critical thinking, creativity, inquiry, communication, and leadership while ensuring mastery of core academic competencies. 
+
+##### **Beyond the Classroom**
+
+###### **Coding &amp; Robotics (ICT)**
+Students develop computational thinking, coding proficiency, and engineering skills by designing, programming, and building innovative robotic solutions to real-world challenges.
+
+###### **Sustainability Challenge (Science)**
+Through hands-on projects and collaborative learning, students investigate environmental issues and design sustainable solutions, fostering responsible global citizenship and a commitment to caring for our planet.
+
+Parents will be informed when their child is selected to participate in any of the above programmes. We will also continue to keep parents updated as new enrichment opportunities become available.
