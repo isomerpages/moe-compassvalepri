@@ -31,7 +31,7 @@ sections:
       title: CVPS Open House Registration
       subtitle: Year 2026
       id: infopic
-      description: Registration opens on 27 June. Scan the QR code below to register.
+      description: Registration opens on 27 June. Scan the QR code to register.
       alt: Image alt text
       image: /images/Year 2026/Open House/cvps_open_house_registration_crop_v2.jpg
       button: Click here to register
