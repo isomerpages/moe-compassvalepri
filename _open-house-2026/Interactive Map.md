@@ -22,4 +22,7 @@ you will have the opportunity to explore our learning spaces and facilities.</p>
 <p></p>
 <p><strong><a href="https://view.genially.com/6a4a0237af4a9d0868214508" rel="noopener nofollow" target="_blank">Click here to access our Interactive Map.</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Year 2026/Open House/2026OpenHouse_Discovery_Passport_Front__1_.png">
+</div>
 <p></p>
