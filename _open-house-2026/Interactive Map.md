@@ -19,3 +19,7 @@ you will have the opportunity to explore our learning spaces and facilities.</p>
 </li>
 </ul>
 <p>We look forward to welcoming you!</p>
+<p></p>
+<p><strong><a href="https://view.genially.com/6a4a0237af4a9d0868214508" rel="noopener nofollow" target="_blank">Click here to access our Interactive Map.</a></strong>
+</p>
+<p></p>
