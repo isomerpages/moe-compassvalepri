@@ -28,14 +28,14 @@ sections:
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
   - infopic:
-      title: CVPS Open House Registration
-      subtitle: Year 2026
+      title: Interactive Map
+      subtitle: 2026 CVPS Open house
       id: infopic
-      description: Registration opens on 27 June. Scan the QR code to register.
+      button: click here
+      url: https://view.genially.com/6a4a0237af4a9d0868214508
+      image: /images/Year 2026/Open
+        House/2026OpenHouse_Discovery_Passport_Front__1_.png
       alt: Image alt text
-      image: /images/Year 2026/Open House/cvps_open_house_registration_crop_v2.jpg
-      button: Click here to register
-      url: https://form.gov.sg/6a2fa062b8ad897b4ab2a573
   - infopic:
       title: CVPS Open House
       subtitle: Year 2026
