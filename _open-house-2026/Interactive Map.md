@@ -1,6 +1,6 @@
 ---
-title: Welcome to CVPS
-permalink: /openhouse2026/welcomepage/
+title: Interactive Map
+permalink: /interactive-map/
 variant: tiptap
 description: ""
 ---
