@@ -15,7 +15,7 @@ you will have the opportunity to explore our learning spaces and facilities.</p>
 <p>A mobile phone or other mobile device</p>
 </li>
 <li>
-<p>An earpiece or headphones (if available)</p>
+<p>An earpiece (if available)</p>
 </li>
 </ul>
 <p>We look forward to welcoming you!</p>
