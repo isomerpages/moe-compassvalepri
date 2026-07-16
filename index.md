@@ -28,7 +28,6 @@ sections:
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
   - infopic:
-      title: Interactive Map
       subtitle: 2026 CVPS Open house
       id: infopic
       button: click here
@@ -36,6 +35,8 @@ sections:
       image: /images/Year 2026/Open
         House/2026OpenHouse_Discovery_Passport_Front__1_.png
       alt: Image alt text
+      description: Enjoy a Discovery Trail around the school. For the best experience,
+        we recommend bringing an earpiece, if available.
   - infopic:
       title: CVPS Open House
       subtitle: Year 2026
