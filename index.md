@@ -27,6 +27,12 @@ sections:
       description: •Thinkers of
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
+  - infobar:
+      title: 2026 CVPS Open House
+      id: infobar
+      description: Online Open House Sharing Slides
+      button: Please click here
+      url: openhouse2026/welcomepage/
   - infopic:
       subtitle: 2026 CVPS Open house
       id: infopic
