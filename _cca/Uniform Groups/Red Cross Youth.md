@@ -7,8 +7,7 @@ variant: markdown
 ---
 ### **Red Cross Youth**
 
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/T8RJsrlfKtI?si=SfHtB-oyFWaEQuL-" height="315" width="560"></iframe>
-<br>
+<center><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/T8RJsrlfKtI?si=SfHtB-oyFWaEQuL-" height="315" width="560"></iframe></center>
 
 <center><img src="/images/2024%20Open%20House/CCA/Red_Cross_2.jpg" style="width:65%"></center>
 
