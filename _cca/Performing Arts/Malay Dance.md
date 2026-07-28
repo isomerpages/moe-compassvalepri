@@ -7,6 +7,9 @@ variant: markdown
 ---
 ### **Malay Dance**
 
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/g4muxtklKsc?si=tOt_VZ5JphiYxHP9" height="315" width="560"></iframe>
+<br><br>
+
 <center><img src="/images/Year%202025/2025%20CCA/Malay_Dance_2_R.jpg" style="width:65%"></center>
 
 ##### **What We Do**<br>
@@ -36,5 +39,3 @@ Malay Dance introduces students to traditional and contemporary Malay dance form
 
 <center>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/uNnzjf_UnU0?si=k4lSiOTNokz0YmHH" height="315" width="560"></iframe></center>
-
-
