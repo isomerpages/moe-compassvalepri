@@ -7,6 +7,9 @@ variant: markdown
 ---
 ### **Chinese Dance**
 
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nz-ZCzo_Pc0?si=YhOh4zYrA1mRrkU7" height="315" width="560"></iframe>
+<br><br>
+
 <img src="/images/Year%202025/2025%20CCA/Chinese_Dance_1_R.jpg" style="width:49%" align="left">
 <img src="/images/Year%202025/2025%20CCA/Chinese_Dance_3_R.jpg" style="width:49%" align="right"><br>
 <br clear="left">
