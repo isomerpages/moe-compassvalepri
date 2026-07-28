@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Wushu**
 
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/du0EKwyQ64w?si=6XKGu5rtzKoRFsC5" height="315" width="560"></iframe>
+<center><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/du0EKwyQ64w?si=6XKGu5rtzKoRFsC5" height="315" width="560"></iframe></center>
 <br>
 
 <img src="/images/Year%202025/2025%20CCA/Wushu_3_R.jpg" style="width:30%" align="left"><img src="/images/Year%202025/2025%20CCA/Wushu_2_R.jpg" style="width:67%" align="right">
