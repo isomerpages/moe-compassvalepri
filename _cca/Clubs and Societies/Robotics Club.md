@@ -7,8 +7,7 @@ variant: markdown
 ---
 ### **Robotics Club**
 
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/bRwy332OlrM?si=iv1eBW9RDBqBPFWS" height="315" width="560"></iframe>
-<br>
+<center><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/bRwy332OlrM?si=iv1eBW9RDBqBPFWS" height="315" width="560"></iframe></center>
 
 <img src="/images/Year%202025/2025%20CCA/Robotics_4_R.jpg" style="width:49%" align="left"><img src="/images/Year%202025/2025%20CCA/Robotics_7_R.jpg" style="width:49%" align="right">
 <br clear="left">
