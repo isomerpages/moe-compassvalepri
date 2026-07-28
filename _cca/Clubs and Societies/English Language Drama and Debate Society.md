@@ -7,8 +7,7 @@ variant: markdown
 ---
 ### **ELDDS (English Language Drama and Debate Society)**
 
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/kt0ij3X6nzE?si=b0MrolIO2mUgKNks" height="315" width="560"></iframe>
-<br>
+<center><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/kt0ij3X6nzE?si=b0MrolIO2mUgKNks" height="315" width="560"></iframe></center>
 
 <center><img src="/images/Year%202025/2025%20CCA/ELDDS_2_R.jpg" style="width:65%"></center>
 
