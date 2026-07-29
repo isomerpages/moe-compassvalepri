@@ -7,6 +7,8 @@ variant: markdown
 ---
 ### **Physical Science**
 
+<center><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/-y3Kevv4y-U?si=wvIG6tO3u6PzDsnp" height="315" width="560"></iframe></center>
+
 <img src="/images/Year%202025/2025%20CCA/Physical_Science_2_R.jpg" style="width:49%" align="left"><img src="/images/Year%202025/2025%20CCA/Physical_Science_1_R.jpg" style="width:49%" align="right">
 <br clear="left">
 <br clear="right">

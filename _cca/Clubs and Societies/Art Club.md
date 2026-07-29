@@ -6,6 +6,9 @@ third_nav_title: Clubs and Societies
 variant: markdown
 ---
 ### **Art Club**
+
+<center><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/kO6yPQ5eaLk?si=LxFWD9CZsZgK9t11" height="315" width="560"></iframe></center>
+
 <center><img src="/images/Year%202025/2025%20CCA/Art_Club_2_R.jpg" style="width:65%"></center>
 
 ##### **What We Do**<br>

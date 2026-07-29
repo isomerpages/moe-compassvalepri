@@ -7,6 +7,8 @@ variant: markdown
 ---
 ### **Brass Band**
 
+<center><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/EZ6QRtpaIGA?si=bj-d4JByKKEfpRA6" height="315" width="560"></iframe></center>
+
 <center><img src="/images/Year%202025/2025%20CCA/Band_10_R.jpg" style="width:65%"></center>
 
 ##### **What We Do** <br>

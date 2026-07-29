@@ -6,6 +6,9 @@ third_nav_title: Sports & Games
 variant: markdown
 ---
 ### **Football**
+
+<center><iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/PdY3s1AKezc?si=9_tmKKv6GgfPtfmW" height="315" width="560"></iframe></center>
+
 <center>
 <img src="/images/Year%202025/2025%20CCA/Football_3_R.jpg" style="width:65%"></center>
 
