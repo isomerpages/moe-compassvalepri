@@ -27,6 +27,17 @@ sections:
       description: •Thinkers of
         Tomorrow                                                        •Leaders
         of Character     •Contributors of Community
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Website new platform
+          date: 22 September 2026
+          announcement: The school website is currently being migrated to a new platform.
+            During this period, you may experience slower page loading times. We
+            apologise for any inconvenience and thank you for your patience.
+          link_text: ""
+          link_url: ""
   - infobar:
       title: 2026 CVPS Open House
       id: infobar
